@@ -24,7 +24,7 @@ jobs:
       uses: zwaldowski/git-commit-action@v1
       with:
         # Directory to create commit in
-        working_directory: .# optional, default is .
+        working_directory: . # optional, default is .
         # Commit message
         commit_message: Data update
         # Name to use for commit author

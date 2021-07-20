@@ -22,4 +22,6 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Get Data
-      run: bin/Debug/net5.0/WAVaccine.exe
+      run: |
+      dir
+      WAVaccine/bin/Debug/net5.0/WAVaccine.exe

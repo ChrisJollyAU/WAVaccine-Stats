@@ -20,14 +20,10 @@ jobs:
       run: dotnet build --no-restore
     - name: Get Data
       run:  WAVaccine/bin/Debug/net5.0/WAVaccine.exe
-    - name: Simple commit
-      uses: zwaldowski/git-commit-action@v1
-      with:
-        # Directory to create commit in
-        working_directory: . # optional, default is .
-        # Commit message
-        commit_message: Data update
-        # Name to use for commit author
-        author_name: Chris
-        # Email to use for commit author
-        author_email: actions@github.com # optional, default is actions@github.com
+    - name: Push Data
+      run:  |
+          git config user.name ChrisJollyAU
+          git config user.email actions@github.com
+          git add . || exit 0
+          git commit -m "Update data" || exit 0
+          git push || exit 0

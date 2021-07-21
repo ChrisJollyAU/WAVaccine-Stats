@@ -270,7 +270,10 @@ namespace WAVaccine
             bb.First.Remove();
             var cc = bb.SelectMany(v => v.First);
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
-            File.WriteAllText("data/postcode-" + date + ".json", JsonConvert.SerializeObject(cc, Formatting.Indented));
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", cc);
+            File.WriteAllText("data/postcode-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 }

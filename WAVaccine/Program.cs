@@ -14,6 +14,7 @@ namespace WAVaccine
         {
             WAPostcode.DoPostcode();
             WASuburb.DoSuburb();
+            WATimeline.DoTimeline();
         }
     }
 }

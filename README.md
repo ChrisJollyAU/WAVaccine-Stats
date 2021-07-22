@@ -29,3 +29,11 @@ Each data record contains the following info
 - Number of people with 2 doses as of the date
 - Number of people with exactly 1 dose as of the date
 - Number of unique people vaccinated (aka number of people with at least 1 dose)
+
+### doses.json
+
+Each data record contains the following info
+- Date 
+- Total doses administered on that date
+- Numboer of dose 1's administered on that date
+- Numboer of dose 2's administered on that date

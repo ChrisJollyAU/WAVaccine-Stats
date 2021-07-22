@@ -269,11 +269,67 @@ namespace WAVaccine
 
             bb.First.First.Remove();
             var cc = bb.SelectMany(v => v.First);
+            List<SuburbObject> to = new List<SuburbObject>();
+            foreach (var it in cc)
+            {
+                SuburbObject so = new SuburbObject();
+                JProperty R = (JProperty)it.Parent.Next;
+                if (R?.Name == "R")
+                {
+                    var sRval = ((JValue)R.First()).Value.ToString();
+                    var rVal = Convert.ToInt32(sRval);
+                    so.suburb_name = it[0].ToString();
+                    var i = 1;
+                    if ((rVal & 2) == 2)
+                    {
+                        so.total_dose = to.Last().total_dose;
+                    }
+                    else
+                    {
+                        so.total_dose = Convert.ToInt32(it[i]);
+                        i++;
+                    }
+                    if ((rVal & 4) == 4)
+                    {
+                        so.dose_1 = to.Last().dose_1;
+                    }
+                    else
+                    {
+                        so.dose_1 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
+                    if ((rVal & 8) == 8)
+                    {
+                        so.dose_2 = to.Last().dose_2;
+                    }
+                    else
+                    {
+                        so.dose_2 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
+                }
+                else
+                {
+                    so.suburb_name = it[0].ToString();
+                    so.total_dose = Convert.ToInt32(it[1]);
+                    so.dose_1 = Convert.ToInt32(it[2]);
+                    so.dose_2 = Convert.ToInt32(it[3]);
+                }
+                to.Add(so);
+            }
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
             JsonObject item = new JsonObject();
             item.Add("date", date);
-            item.Add("data", cc);
+            item.Add("data", to);
             File.WriteAllText("data/suburb-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
+    }
+
+    class SuburbObject
+    {
+        public string suburb_name { get; set; }
+        public int total_dose { get; set; }
+        public int dose_1 { get; set; }
+        public int dose_2 { get; set; }
     }
 }

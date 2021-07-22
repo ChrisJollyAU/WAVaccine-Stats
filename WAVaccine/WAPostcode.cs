@@ -269,11 +269,67 @@ namespace WAVaccine
 
             bb.First.First.Remove();
             var cc = bb.SelectMany(v => v.First);
+            List<PostcodeObject> to = new List<PostcodeObject>();
+            foreach (var it in cc)
+            {
+                PostcodeObject po = new PostcodeObject();
+                JProperty R = (JProperty)it.Parent.Next;
+                if (R?.Name == "R")
+                {
+                    var sRval = ((JValue)R.First()).Value.ToString();
+                    var rVal = Convert.ToInt32(sRval);
+                    po.postcode = it[0].ToString();
+                    var i = 1;
+                    if ((rVal & 2) == 2)
+                    {
+                        po.total_dose = to.Last().total_dose;
+                    }
+                    else
+                    {
+                        po.total_dose = Convert.ToInt32(it[i]);
+                        i++;
+                    }
+                    if ((rVal & 4) == 4)
+                    {
+                        po.dose_1 = to.Last().dose_1;
+                    }
+                    else
+                    {
+                        po.dose_1 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
+                    if ((rVal & 8) == 8)
+                    {
+                        po.dose_2 = to.Last().dose_2;
+                    }
+                    else
+                    {
+                        po.dose_2 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
+                }
+                else
+                {
+                    po.postcode = it[0].ToString();
+                    po.total_dose = Convert.ToInt32(it[1]);
+                    po.dose_1 = Convert.ToInt32(it[2]);
+                    po.dose_2 = Convert.ToInt32(it[3]);
+                }
+                to.Add(po);
+            }
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
             JsonObject item = new JsonObject();
             item.Add("date", date);
-            item.Add("data", cc);
+            item.Add("data", to);
             File.WriteAllText("data/postcode-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
+    }
+
+    class PostcodeObject
+    {
+        public string postcode { get; set; }
+        public int total_dose { get; set; }
+        public int dose_1 { get; set; }
+        public int dose_2 { get; set; }
     }
 }

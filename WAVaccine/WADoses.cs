@@ -13,9 +13,9 @@ using System.Threading.Tasks;
 
 namespace WAVaccine
 {
-    class WATimeline
+    class WADoses
     {
-        public static void DoTimeline()
+        public static void DoDoses()
         {
             var client = new RestClient("https://wabi-australia-southeast-api.analysis.windows.net/public/reports/querydata?synchronous=true");
             client.Timeout = -1;
@@ -107,11 +107,11 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Cummulative Dose 2""
+@"                                            ""Property"": ""Doses administered""
 " + "\n" +
 @"                                        },
 " + "\n" +
-@"                                        ""Name"": ""AIR.Cummulative Dose 2""
+@"                                        ""Name"": ""AIR.Doses administered""
 " + "\n" +
 @"                                    },
 " + "\n" +
@@ -129,11 +129,11 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Cummulative Dose 1 less Dose 2""
+@"                                            ""Property"": ""Dose 1""
 " + "\n" +
 @"                                        },
 " + "\n" +
-@"                                        ""Name"": ""AIR.Cummulative Dose 1 less Dose 2""
+@"                                        ""Name"": ""AIR.Dose 1""
 " + "\n" +
 @"                                    },
 " + "\n" +
@@ -151,11 +151,11 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""People vaccinated""
+@"                                            ""Property"": ""Dose 2""
 " + "\n" +
 @"                                        },
 " + "\n" +
-@"                                        ""Name"": ""AIR.Cumulative total of people vaccinated""
+@"                                        ""Name"": ""AIR.Dose 2""
 " + "\n" +
 @"                                    }
 " + "\n" +
@@ -251,43 +251,70 @@ namespace WAVaccine
 
             bb.First.First.Remove();
             var cc = bb.SelectMany(v => v.First);
-            List<TimelineObject> to = new List<TimelineObject>();
+            List<DoseObject> to = new List<DoseObject>();
             DateTime latestdate = DateTime.UnixEpoch;
             foreach (var it in cc)
             {
+                DoseObject so = new DoseObject();
+                JProperty R = (JProperty)it.Parent.Next;
                 long unixmil = long.Parse(it[0].ToString());
                 var itdate = DateTimeOffset.FromUnixTimeMilliseconds(unixmil);
                 if (itdate.DateTime > latestdate) latestdate = itdate.DateTime;
-                TimelineObject nto = new TimelineObject();
-                if (it.Children().Count() == 4)
+                if (R?.Name == "R")
                 {
-                    nto.date = itdate.ToString("yyyy-MM-dd");
-                    nto.people_2_dose = Convert.ToInt32(it[1].ToString());
-                    nto.people_1_dose = Convert.ToInt32(it[2].ToString());
-                    nto.people_vaccinated = Convert.ToInt32(it[3].ToString());
+                    var sRval = ((JValue)R.First()).Value.ToString();
+                    var rVal = Convert.ToInt32(sRval);
+                    so.date = itdate.ToString("yyyy-MM-dd");
+                    var i = 1;
+                    if ((rVal & 2) == 2)
+                    {
+                        so.total_administered = to.Last().total_administered;
+                    }
+                    else
+                    {
+                        so.total_administered = Convert.ToInt32(it[i]);
+                        i++;
+                    }
+                    if ((rVal & 4) == 4)
+                    {
+                        so.dose_1 = to.Last().dose_1;
+                    }
+                    else
+                    {
+                        so.dose_1 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
+                    if ((rVal & 8) == 8)
+                    {
+                        so.dose_2 = to.Last().dose_2;
+                    }
+                    else
+                    {
+                        so.dose_2 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
                 }
-                else if (it.Children().Count() == 3)
+                else
                 {
-                    nto.date = itdate.ToString("yyyy-MM-dd");
-                    nto.people_1_dose = Convert.ToInt32(it[1].ToString());
-                    nto.people_vaccinated = Convert.ToInt32(it[2].ToString());
-                    nto.people_2_dose = nto.people_vaccinated - nto.people_1_dose;
+                    so.date = itdate.ToString("yyyy-MM-dd");
+                    so.total_administered = Convert.ToInt32(it[1]);
+                    so.dose_1 = Convert.ToInt32(it[2]);
+                    so.dose_2 = Convert.ToInt32(it[3]);
                 }
-
-                to.Add(nto);
+                to.Add(so);
             }
             JsonObject item = new JsonObject();
             item.Add("date_updated", latestdate.ToString("yyyy-MM-dd"));
             item.Add("data", to);
-            File.WriteAllText("data/timeline.json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/doses.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 
-    public class TimelineObject
+    public class DoseObject
     {
         public string date { get; set; }
-        public int people_2_dose { get; set; }
-        public int people_1_dose { get; set; }
-        public int people_vaccinated { get; set; }
+        public int total_administered { get; set; }
+        public int dose_1 { get; set; }
+        public int dose_2 { get; set; }
     }
 }

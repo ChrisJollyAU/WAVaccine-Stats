@@ -1,5 +1,7 @@
 ﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Linq;
+using Newtonsoft.Json.Serialization;
 using RestSharp;
 using RestSharp.Serializers.NewtonsoftJson;
 using System;
@@ -253,7 +255,7 @@ namespace WAVaccine
             JObject des = (JObject)Newtonsoft.Json.JsonConvert.DeserializeObject(response.Content);
             var bb = des["results"][0]["result"]["data"]["dsr"]["DS"][0]["PH"][0]["DM0"];
 
-            bb.First.Remove();
+            bb.First.First.Remove();
             var cc = bb.SelectMany(v => v.First);
             List<TimelineObject> to = new List<TimelineObject>();
             DateTime latestdate = DateTime.UnixEpoch;

@@ -267,7 +267,7 @@ namespace WAVaccine
             JObject des = (JObject)Newtonsoft.Json.JsonConvert.DeserializeObject(response.Content);
             var bb = des["results"][0]["result"]["data"]["dsr"]["DS"][0]["PH"][0]["DM0"];
 
-            bb.First.Remove();
+            bb.First.First.Remove();
             var cc = bb.SelectMany(v => v.First);
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
             JsonObject item = new JsonObject();

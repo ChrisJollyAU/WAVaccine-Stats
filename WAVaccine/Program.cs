@@ -16,6 +16,9 @@ namespace WAVaccine
             WASuburb.DoSuburb();
             WATimeline.DoTimeline();
             WADoses.DoDoses();
+            WARaw.DWARaw();
+            WAPostcodeTimeline.Execute();
+            WASuburbTimeline.Execute();
         }
     }
 }

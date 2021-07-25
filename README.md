@@ -37,3 +37,29 @@ Each data record contains the following info
 - Total doses administered on that date
 - Numboer of dose 1's administered on that date
 - Numboer of dose 2's administered on that date
+
+### daily.all.json
+
+Contains data for every date, suburb and postcode combination with the exact doses performed (dose 1, 2 and total)
+- Date
+- Suburb
+- Postcode
+- Dose 1
+- Dose 2
+- Total vaccines
+
+### daily/postcode/{postcode}.json
+File for every postcode in WA. Contains data for each day there were doses administered for that postcode
+- Date
+- Postcode
+- Dose 1
+- Dose 2
+- Total vaccines
+
+### daily/suburb/{suburb}.json
+File for every suburb in WA. Contains data for each day there were doses administered for that suburb
+- Date
+- Suburb
+- Dose 1
+- Dose 2
+- Total vaccines

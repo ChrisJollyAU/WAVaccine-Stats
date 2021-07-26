@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "OSBORNE PARK",
   "data": [
     {
@@ -89,9 +89,9 @@
     {
       "date": "2021-03-11",
       "locality": "OSBORNE PARK",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-12",
@@ -244,8 +244,8 @@
       "date": "2021-04-06",
       "locality": "OSBORNE PARK",
       "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-04-07",
@@ -600,9 +600,9 @@
     {
       "date": "2021-05-29",
       "locality": "OSBORNE PARK",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 1,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-05-30",
@@ -810,9 +810,9 @@
     {
       "date": "2021-06-28",
       "locality": "OSBORNE PARK",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 5,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-06-29",
@@ -957,9 +957,9 @@
     {
       "date": "2021-07-19",
       "locality": "OSBORNE PARK",
-      "dose1": 12,
+      "dose1": 14,
       "dose2": 17,
-      "vaccines": 29
+      "vaccines": 31
     },
     {
       "date": "2021-07-20",
@@ -978,9 +978,30 @@
     {
       "date": "2021-07-22",
       "locality": "OSBORNE PARK",
-      "dose1": 11,
-      "dose2": 6,
+      "dose1": 22,
+      "dose2": 11,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "OSBORNE PARK",
+      "dose1": 12,
+      "dose2": 5,
       "vaccines": 17
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "OSBORNE PARK",
+      "dose1": 14,
+      "dose2": 15,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "OSBORNE PARK",
+      "dose1": 10,
+      "dose2": 6,
+      "vaccines": 16
     }
   ]
 }

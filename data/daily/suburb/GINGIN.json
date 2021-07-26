@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "GINGIN",
   "data": [
     {
@@ -726,9 +726,30 @@
     {
       "date": "2021-07-22",
       "locality": "GINGIN",
-      "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose1": 8,
+      "dose2": 3,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "GINGIN",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "GINGIN",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "GINGIN",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

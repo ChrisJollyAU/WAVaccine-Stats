@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "SPALDING",
   "data": [
     {
@@ -747,9 +747,30 @@
     {
       "date": "2021-07-22",
       "locality": "SPALDING",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "SPALDING",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "SPALDING",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "SPALDING",
+      "dose1": 0,
+      "dose2": 8,
+      "vaccines": 8
     }
   ]
 }

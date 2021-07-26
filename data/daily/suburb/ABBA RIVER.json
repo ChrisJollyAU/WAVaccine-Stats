@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "ABBA RIVER",
   "data": [
     {
@@ -49,6 +49,13 @@
       "locality": "ABBA RIVER",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "ABBA RIVER",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

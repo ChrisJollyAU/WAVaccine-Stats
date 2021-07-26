@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "BENTLEY",
   "data": [
     {
@@ -341,9 +341,9 @@
     {
       "date": "2021-04-15",
       "locality": "BENTLEY",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 0,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-04-16",
@@ -481,9 +481,9 @@
     {
       "date": "2021-05-05",
       "locality": "BENTLEY",
-      "dose1": 18,
+      "dose1": 20,
       "dose2": 1,
-      "vaccines": 19
+      "vaccines": 21
     },
     {
       "date": "2021-05-06",
@@ -566,8 +566,8 @@
       "date": "2021-05-18",
       "locality": "BENTLEY",
       "dose1": 19,
-      "dose2": 12,
-      "vaccines": 31
+      "dose2": 13,
+      "vaccines": 32
     },
     {
       "date": "2021-05-19",
@@ -614,9 +614,9 @@
     {
       "date": "2021-05-25",
       "locality": "BENTLEY",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 8,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-05-26",
@@ -642,9 +642,9 @@
     {
       "date": "2021-05-29",
       "locality": "BENTLEY",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-05-30",
@@ -1006,23 +1006,44 @@
     {
       "date": "2021-07-20",
       "locality": "BENTLEY",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 21,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-07-21",
       "locality": "BENTLEY",
-      "dose1": 23,
+      "dose1": 25,
       "dose2": 21,
-      "vaccines": 44
+      "vaccines": 46
     },
     {
       "date": "2021-07-22",
       "locality": "BENTLEY",
-      "dose1": 22,
-      "dose2": 24,
+      "dose1": 28,
+      "dose2": 29,
+      "vaccines": 57
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "BENTLEY",
+      "dose1": 16,
+      "dose2": 15,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "BENTLEY",
+      "dose1": 28,
+      "dose2": 18,
       "vaccines": 46
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "BENTLEY",
+      "dose1": 16,
+      "dose2": 11,
+      "vaccines": 27
     }
   ]
 }

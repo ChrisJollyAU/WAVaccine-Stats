@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "HEATHRIDGE",
   "data": [
     {
@@ -355,9 +355,9 @@
     {
       "date": "2021-04-19",
       "locality": "HEATHRIDGE",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-04-20",
@@ -880,9 +880,9 @@
     {
       "date": "2021-07-06",
       "locality": "HEATHRIDGE",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 12,
-      "vaccines": 39
+      "vaccines": 40
     },
     {
       "date": "2021-07-07",
@@ -950,9 +950,9 @@
     {
       "date": "2021-07-16",
       "locality": "HEATHRIDGE",
-      "dose1": 15,
-      "dose2": 11,
-      "vaccines": 26
+      "dose1": 16,
+      "dose2": 12,
+      "vaccines": 28
     },
     {
       "date": "2021-07-17",
@@ -995,6 +995,27 @@
       "dose1": 20,
       "dose2": 12,
       "vaccines": 32
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "HEATHRIDGE",
+      "dose1": 11,
+      "dose2": 11,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "HEATHRIDGE",
+      "dose1": 24,
+      "dose2": 3,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "HEATHRIDGE",
+      "dose1": 9,
+      "dose2": 11,
+      "vaccines": 20
     }
   ]
 }

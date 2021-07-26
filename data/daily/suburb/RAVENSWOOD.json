@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "RAVENSWOOD",
   "data": [
     {
@@ -754,9 +754,23 @@
     {
       "date": "2021-07-22",
       "locality": "RAVENSWOOD",
-      "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose1": 6,
+      "dose2": 15,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "RAVENSWOOD",
+      "dose1": 9,
+      "dose2": 4,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "RAVENSWOOD",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

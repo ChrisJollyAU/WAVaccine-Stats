@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "SILVER SANDS",
   "data": [
     {
@@ -719,9 +719,30 @@
     {
       "date": "2021-07-22",
       "locality": "SILVER SANDS",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 9
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "SILVER SANDS",
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "SILVER SANDS",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "SILVER SANDS",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

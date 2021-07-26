@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "BULGARRA",
   "data": [
     {
@@ -607,9 +607,23 @@
     {
       "date": "2021-07-22",
       "locality": "BULGARRA",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "BULGARRA",
+      "dose1": 4,
+      "dose2": 3,
       "vaccines": 7
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "BULGARRA",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

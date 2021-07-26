@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "DONNYBROOK",
   "data": [
     {
@@ -880,9 +880,30 @@
     {
       "date": "2021-07-22",
       "locality": "DONNYBROOK",
-      "dose1": 28,
-      "dose2": 12,
-      "vaccines": 40
+      "dose1": 30,
+      "dose2": 15,
+      "vaccines": 45
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "DONNYBROOK",
+      "dose1": 9,
+      "dose2": 11,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "DONNYBROOK",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "DONNYBROOK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

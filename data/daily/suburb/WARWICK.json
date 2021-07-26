@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "WARWICK",
   "data": [
     {
@@ -992,9 +992,30 @@
     {
       "date": "2021-07-22",
       "locality": "WARWICK",
-      "dose1": 7,
-      "dose2": 18,
-      "vaccines": 25
+      "dose1": 9,
+      "dose2": 23,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "WARWICK",
+      "dose1": 5,
+      "dose2": 10,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "WARWICK",
+      "dose1": 12,
+      "dose2": 3,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "WARWICK",
+      "dose1": 12,
+      "dose2": 5,
+      "vaccines": 17
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "COTTESLOE",
   "data": [
     {
@@ -509,16 +509,16 @@
     {
       "date": "2021-05-07",
       "locality": "COTTESLOE",
-      "dose1": 39,
+      "dose1": 40,
       "dose2": 1,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-05-08",
       "locality": "COTTESLOE",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 0,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-05-09",
@@ -901,9 +901,9 @@
     {
       "date": "2021-07-02",
       "locality": "COTTESLOE",
-      "dose1": 45,
+      "dose1": 44,
       "dose2": 35,
-      "vaccines": 80
+      "vaccines": 79
     },
     {
       "date": "2021-07-03",
@@ -1034,16 +1034,37 @@
     {
       "date": "2021-07-21",
       "locality": "COTTESLOE",
-      "dose1": 19,
+      "dose1": 21,
       "dose2": 74,
-      "vaccines": 93
+      "vaccines": 95
     },
     {
       "date": "2021-07-22",
       "locality": "COTTESLOE",
-      "dose1": 19,
-      "dose2": 56,
-      "vaccines": 75
+      "dose1": 25,
+      "dose2": 59,
+      "vaccines": 84
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "COTTESLOE",
+      "dose1": 20,
+      "dose2": 49,
+      "vaccines": 69
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "COTTESLOE",
+      "dose1": 29,
+      "dose2": 17,
+      "vaccines": 46
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "COTTESLOE",
+      "dose1": 36,
+      "dose2": 13,
+      "vaccines": 49
     }
   ]
 }

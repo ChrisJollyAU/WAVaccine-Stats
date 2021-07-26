@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "BUTLER",
   "data": [
     {
@@ -992,23 +992,44 @@
     {
       "date": "2021-07-20",
       "locality": "BUTLER",
-      "dose1": 40,
+      "dose1": 42,
       "dose2": 52,
-      "vaccines": 92
+      "vaccines": 94
     },
     {
       "date": "2021-07-21",
       "locality": "BUTLER",
-      "dose1": 38,
+      "dose1": 39,
       "dose2": 23,
-      "vaccines": 61
+      "vaccines": 62
     },
     {
       "date": "2021-07-22",
       "locality": "BUTLER",
-      "dose1": 14,
-      "dose2": 8,
-      "vaccines": 22
+      "dose1": 19,
+      "dose2": 9,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "BUTLER",
+      "dose1": 20,
+      "dose2": 17,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "BUTLER",
+      "dose1": 32,
+      "dose2": 7,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "BUTLER",
+      "dose1": 19,
+      "dose2": 42,
+      "vaccines": 61
     }
   ]
 }

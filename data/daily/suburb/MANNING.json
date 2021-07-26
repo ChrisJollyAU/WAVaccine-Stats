@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "MANNING",
   "data": [
     {
@@ -1000,15 +1000,36 @@
       "date": "2021-07-21",
       "locality": "MANNING",
       "dose1": 13,
-      "dose2": 22,
-      "vaccines": 35
+      "dose2": 23,
+      "vaccines": 36
     },
     {
       "date": "2021-07-22",
       "locality": "MANNING",
-      "dose1": 10,
+      "dose1": 13,
+      "dose2": 12,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "MANNING",
+      "dose1": 21,
       "dose2": 11,
-      "vaccines": 21
+      "vaccines": 32
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "MANNING",
+      "dose1": 20,
+      "dose2": 27,
+      "vaccines": 47
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "MANNING",
+      "dose1": 12,
+      "dose2": 13,
+      "vaccines": 25
     }
   ]
 }

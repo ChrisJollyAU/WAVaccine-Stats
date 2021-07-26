@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-25T00:00:00",
   "locality": "RIVERTON",
   "data": [
     {
@@ -278,9 +278,9 @@
     {
       "date": "2021-04-06",
       "locality": "RIVERTON",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-04-07",
@@ -881,8 +881,8 @@
       "date": "2021-07-02",
       "locality": "RIVERTON",
       "dose1": 10,
-      "dose2": 16,
-      "vaccines": 26
+      "dose2": 15,
+      "vaccines": 25
     },
     {
       "date": "2021-07-03",
@@ -978,9 +978,9 @@
     {
       "date": "2021-07-16",
       "locality": "RIVERTON",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 10,
-      "vaccines": 40
+      "vaccines": 39
     },
     {
       "date": "2021-07-17",
@@ -1020,9 +1020,30 @@
     {
       "date": "2021-07-22",
       "locality": "RIVERTON",
-      "dose1": 9,
-      "dose2": 20,
-      "vaccines": 29
+      "dose1": 8,
+      "dose2": 23,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "RIVERTON",
+      "dose1": 16,
+      "dose2": 12,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "RIVERTON",
+      "dose1": 18,
+      "dose2": 16,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "RIVERTON",
+      "dose1": 16,
+      "dose2": 16,
+      "vaccines": 32
     }
   ]
 }

@@ -19,6 +19,7 @@ namespace WAVaccine
             WARaw.DWARaw();
             WAPostcodeTimeline.Execute();
             WASuburbTimeline.Execute();
+            WARollAvg.Execute();
         }
     }
 }

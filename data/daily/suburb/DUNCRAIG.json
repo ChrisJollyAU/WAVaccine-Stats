@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "DUNCRAIG",
   "data": [
     {
@@ -342,8 +342,8 @@
       "date": "2021-04-12",
       "locality": "DUNCRAIG",
       "dose1": 40,
-      "dose2": 5,
-      "vaccines": 45
+      "dose2": 6,
+      "vaccines": 46
     },
     {
       "date": "2021-04-13",
@@ -509,9 +509,9 @@
     {
       "date": "2021-05-07",
       "locality": "DUNCRAIG",
-      "dose1": 60,
+      "dose1": 62,
       "dose2": 5,
-      "vaccines": 65
+      "vaccines": 67
     },
     {
       "date": "2021-05-08",
@@ -1048,23 +1048,30 @@
     {
       "date": "2021-07-23",
       "locality": "DUNCRAIG",
-      "dose1": 43,
+      "dose1": 49,
       "dose2": 67,
-      "vaccines": 110
+      "vaccines": 116
     },
     {
       "date": "2021-07-24",
       "locality": "DUNCRAIG",
-      "dose1": 56,
-      "dose2": 17,
-      "vaccines": 73
+      "dose1": 57,
+      "dose2": 26,
+      "vaccines": 83
     },
     {
       "date": "2021-07-25",
       "locality": "DUNCRAIG",
-      "dose1": 30,
+      "dose1": 33,
       "dose2": 36,
-      "vaccines": 66
+      "vaccines": 69
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "DUNCRAIG",
+      "dose1": 38,
+      "dose2": 83,
+      "vaccines": 121
     }
   ]
 }

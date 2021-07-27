@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "SOUTH HEDLAND",
   "data": [
     {
@@ -740,16 +740,16 @@
     {
       "date": "2021-07-13",
       "locality": "SOUTH HEDLAND",
-      "dose1": 20,
+      "dose1": 25,
       "dose2": 2,
-      "vaccines": 22
+      "vaccines": 27
     },
     {
       "date": "2021-07-14",
       "locality": "SOUTH HEDLAND",
-      "dose1": 17,
+      "dose1": 19,
       "dose2": 11,
-      "vaccines": 28
+      "vaccines": 30
     },
     {
       "date": "2021-07-15",
@@ -783,8 +783,8 @@
       "date": "2021-07-20",
       "locality": "SOUTH HEDLAND",
       "dose1": 15,
-      "dose2": 10,
-      "vaccines": 25
+      "dose2": 11,
+      "vaccines": 26
     },
     {
       "date": "2021-07-21",
@@ -820,6 +820,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "SOUTH HEDLAND",
+      "dose1": 10,
+      "dose2": 24,
+      "vaccines": 34
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "RANFORD",
   "data": [
     {
@@ -123,6 +123,20 @@
     },
     {
       "date": "2021-07-14",
+      "locality": "RANFORD",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-07-21",
+      "locality": "RANFORD",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
       "locality": "RANFORD",
       "dose1": 1,
       "dose2": 2,

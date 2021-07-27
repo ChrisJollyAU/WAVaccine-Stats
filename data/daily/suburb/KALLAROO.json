@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "KALLAROO",
   "data": [
     {
@@ -950,9 +950,9 @@
     {
       "date": "2021-07-17",
       "locality": "KALLAROO",
-      "dose1": 11,
+      "dose1": 13,
       "dose2": 2,
-      "vaccines": 13
+      "vaccines": 15
     },
     {
       "date": "2021-07-18",
@@ -985,9 +985,9 @@
     {
       "date": "2021-07-22",
       "locality": "KALLAROO",
-      "dose1": 8,
-      "dose2": 23,
-      "vaccines": 31
+      "dose1": 9,
+      "dose2": 24,
+      "vaccines": 33
     },
     {
       "date": "2021-07-23",
@@ -1000,15 +1000,22 @@
       "date": "2021-07-24",
       "locality": "KALLAROO",
       "dose1": 20,
-      "dose2": 4,
-      "vaccines": 24
+      "dose2": 5,
+      "vaccines": 25
     },
     {
       "date": "2021-07-25",
       "locality": "KALLAROO",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 21,
-      "vaccines": 30
+      "vaccines": 31
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "KALLAROO",
+      "dose1": 10,
+      "dose2": 29,
+      "vaccines": 39
     }
   ]
 }

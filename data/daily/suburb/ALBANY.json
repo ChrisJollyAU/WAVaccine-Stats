@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "ALBANY",
   "data": [
     {
@@ -922,23 +922,37 @@
     {
       "date": "2021-07-22",
       "locality": "ALBANY",
-      "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
     },
     {
       "date": "2021-07-23",
       "locality": "ALBANY",
-      "dose1": 0,
-      "dose2": 8,
-      "vaccines": 8
+      "dose1": 3,
+      "dose2": 12,
+      "vaccines": 15
     },
     {
       "date": "2021-07-24",
       "locality": "ALBANY",
+      "dose1": 4,
+      "dose2": 12,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "ALBANY",
+      "dose1": 12,
+      "dose2": 9,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "ALBANY",
       "dose1": 1,
-      "dose2": 7,
-      "vaccines": 8
+      "dose2": 10,
+      "vaccines": 11
     }
   ]
 }

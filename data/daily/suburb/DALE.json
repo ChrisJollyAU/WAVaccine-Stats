@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "DALE",
   "data": [
     {
@@ -130,6 +130,20 @@
     },
     {
       "date": "2021-07-09",
+      "locality": "DALE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-22",
+      "locality": "DALE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-23",
       "locality": "DALE",
       "dose1": 1,
       "dose2": 0,

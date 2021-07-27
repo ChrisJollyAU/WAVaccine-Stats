@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "BOULDER",
   "data": [
     {
@@ -727,15 +727,15 @@
       "date": "2021-07-22",
       "locality": "BOULDER",
       "dose1": 16,
-      "dose2": 15,
-      "vaccines": 31
+      "dose2": 16,
+      "vaccines": 32
     },
     {
       "date": "2021-07-23",
       "locality": "BOULDER",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-07-24",
@@ -743,6 +743,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "BOULDER",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "BROOKTON",
   "data": [
     {
@@ -110,16 +110,16 @@
     {
       "date": "2021-04-22",
       "locality": "BROOKTON",
-      "dose1": 17,
+      "dose1": 19,
       "dose2": 1,
-      "vaccines": 18
+      "vaccines": 20
     },
     {
       "date": "2021-04-23",
       "locality": "BROOKTON",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-04-27",
@@ -544,8 +544,8 @@
     {
       "date": "2021-07-16",
       "locality": "BROOKTON",
-      "dose1": 4,
-      "dose2": 6,
+      "dose1": 3,
+      "dose2": 7,
       "vaccines": 10
     },
     {
@@ -558,8 +558,8 @@
     {
       "date": "2021-07-19",
       "locality": "BROOKTON",
-      "dose1": 3,
-      "dose2": 7,
+      "dose1": 2,
+      "dose2": 8,
       "vaccines": 10
     },
     {
@@ -579,8 +579,8 @@
     {
       "date": "2021-07-22",
       "locality": "BROOKTON",
-      "dose1": 1,
-      "dose2": 1,
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
@@ -603,6 +603,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "BROOKTON",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

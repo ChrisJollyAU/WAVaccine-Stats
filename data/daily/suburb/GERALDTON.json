@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "GERALDTON",
   "data": [
     {
@@ -894,16 +894,23 @@
     {
       "date": "2021-07-24",
       "locality": "GERALDTON",
-      "dose1": 25,
-      "dose2": 3,
-      "vaccines": 28
+      "dose1": 29,
+      "dose2": 22,
+      "vaccines": 51
     },
     {
       "date": "2021-07-25",
       "locality": "GERALDTON",
-      "dose1": 3,
-      "dose2": 34,
-      "vaccines": 37
+      "dose1": 4,
+      "dose2": 35,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "GERALDTON",
+      "dose1": 12,
+      "dose2": 15,
+      "vaccines": 27
     }
   ]
 }

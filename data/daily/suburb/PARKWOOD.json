@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "PARKWOOD",
   "data": [
     {
@@ -957,16 +957,16 @@
     {
       "date": "2021-07-22",
       "locality": "PARKWOOD",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 17,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-07-23",
       "locality": "PARKWOOD",
       "dose1": 17,
-      "dose2": 7,
-      "vaccines": 24
+      "dose2": 8,
+      "vaccines": 25
     },
     {
       "date": "2021-07-24",
@@ -978,9 +978,16 @@
     {
       "date": "2021-07-25",
       "locality": "PARKWOOD",
-      "dose1": 12,
+      "dose1": 48,
       "dose2": 16,
-      "vaccines": 28
+      "vaccines": 64
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "PARKWOOD",
+      "dose1": 10,
+      "dose2": 15,
+      "vaccines": 25
     }
   ]
 }

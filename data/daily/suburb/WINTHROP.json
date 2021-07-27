@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "WINTHROP",
   "data": [
     {
@@ -1048,9 +1048,16 @@
     {
       "date": "2021-07-25",
       "locality": "WINTHROP",
-      "dose1": 20,
+      "dose1": 22,
+      "dose2": 21,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "WINTHROP",
+      "dose1": 9,
       "dose2": 20,
-      "vaccines": 40
+      "vaccines": 29
     }
   ]
 }

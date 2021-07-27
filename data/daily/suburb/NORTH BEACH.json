@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "NORTH BEACH",
   "data": [
     {
@@ -999,23 +999,30 @@
     {
       "date": "2021-07-23",
       "locality": "NORTH BEACH",
-      "dose1": 11,
-      "dose2": 16,
-      "vaccines": 27
+      "dose1": 12,
+      "dose2": 17,
+      "vaccines": 29
     },
     {
       "date": "2021-07-24",
       "locality": "NORTH BEACH",
       "dose1": 8,
-      "dose2": 6,
-      "vaccines": 14
+      "dose2": 8,
+      "vaccines": 16
     },
     {
       "date": "2021-07-25",
       "locality": "NORTH BEACH",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 11
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "NORTH BEACH",
+      "dose1": 7,
+      "dose2": 16,
+      "vaccines": 23
     }
   ]
 }

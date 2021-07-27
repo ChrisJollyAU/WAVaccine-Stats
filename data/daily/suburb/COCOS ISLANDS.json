@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-25T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "COCOS ISLANDS",
   "data": [
     {
@@ -17,6 +17,13 @@
       "vaccines": 14
     },
     {
+      "date": "2021-06-25",
+      "locality": "COCOS ISLANDS",
+      "dose1": 22,
+      "dose2": 0,
+      "vaccines": 22
+    },
+    {
       "date": "2021-06-28",
       "locality": "COCOS ISLANDS",
       "dose1": 1,
@@ -26,9 +33,37 @@
     {
       "date": "2021-06-29",
       "locality": "COCOS ISLANDS",
-      "dose1": 1,
+      "dose1": 30,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 30
+    },
+    {
+      "date": "2021-06-30",
+      "locality": "COCOS ISLANDS",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-07-01",
+      "locality": "COCOS ISLANDS",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-07-02",
+      "locality": "COCOS ISLANDS",
+      "dose1": 23,
+      "dose2": 0,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-07-05",
+      "locality": "COCOS ISLANDS",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-07-06",
@@ -45,6 +80,34 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-09",
+      "locality": "COCOS ISLANDS",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-07-12",
+      "locality": "COCOS ISLANDS",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-15",
+      "locality": "COCOS ISLANDS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-19",
+      "locality": "COCOS ISLANDS",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
       "date": "2021-07-20",
       "locality": "COCOS ISLANDS",
       "dose1": 0,
@@ -54,16 +117,23 @@
     {
       "date": "2021-07-21",
       "locality": "COCOS ISLANDS",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
     },
     {
       "date": "2021-07-23",
       "locality": "COCOS ISLANDS",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "COCOS ISLANDS",
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
     }
   ]
 }

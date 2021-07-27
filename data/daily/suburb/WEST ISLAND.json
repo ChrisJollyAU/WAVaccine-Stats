@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "WEST ISLAND",
   "data": [
     {
@@ -31,7 +31,21 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-05",
+      "locality": "WEST ISLAND",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-07-13",
+      "locality": "WEST ISLAND",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-21",
       "locality": "WEST ISLAND",
       "dose1": 1,
       "dose2": 0,
@@ -43,6 +57,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "WEST ISLAND",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

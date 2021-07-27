@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "MUNDIJONG",
   "data": [
     {
@@ -201,9 +201,9 @@
     {
       "date": "2021-04-12",
       "locality": "MUNDIJONG",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-04-13",
@@ -544,9 +544,9 @@
     {
       "date": "2021-06-09",
       "locality": "MUNDIJONG",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-06-10",
@@ -713,8 +713,8 @@
       "date": "2021-07-05",
       "locality": "MUNDIJONG",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 6
     },
     {
       "date": "2021-07-06",
@@ -824,9 +824,37 @@
     {
       "date": "2021-07-22",
       "locality": "MUNDIJONG",
-      "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "MUNDIJONG",
+      "dose1": 8,
+      "dose2": 1,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "MUNDIJONG",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "MUNDIJONG",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "MUNDIJONG",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

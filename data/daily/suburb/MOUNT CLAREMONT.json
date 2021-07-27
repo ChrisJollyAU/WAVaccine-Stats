@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "MOUNT CLAREMONT",
   "data": [
     {
@@ -439,16 +439,16 @@
     {
       "date": "2021-04-29",
       "locality": "MOUNT CLAREMONT",
-      "dose1": 58,
+      "dose1": 60,
       "dose2": 0,
-      "vaccines": 58
+      "vaccines": 60
     },
     {
       "date": "2021-04-30",
       "locality": "MOUNT CLAREMONT",
       "dose1": 35,
-      "dose2": 6,
-      "vaccines": 41
+      "dose2": 7,
+      "vaccines": 42
     },
     {
       "date": "2021-05-01",
@@ -587,8 +587,8 @@
       "date": "2021-05-20",
       "locality": "MOUNT CLAREMONT",
       "dose1": 24,
-      "dose2": 22,
-      "vaccines": 46
+      "dose2": 24,
+      "vaccines": 48
     },
     {
       "date": "2021-05-21",
@@ -860,8 +860,8 @@
       "date": "2021-06-28",
       "locality": "MOUNT CLAREMONT",
       "dose1": 15,
-      "dose2": 20,
-      "vaccines": 35
+      "dose2": 19,
+      "vaccines": 34
     },
     {
       "date": "2021-06-29",
@@ -930,8 +930,8 @@
       "date": "2021-07-08",
       "locality": "MOUNT CLAREMONT",
       "dose1": 20,
-      "dose2": 20,
-      "vaccines": 40
+      "dose2": 21,
+      "vaccines": 41
     },
     {
       "date": "2021-07-09",
@@ -1027,9 +1027,37 @@
     {
       "date": "2021-07-22",
       "locality": "MOUNT CLAREMONT",
-      "dose1": 15,
-      "dose2": 25,
+      "dose1": 19,
+      "dose2": 29,
+      "vaccines": 48
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 11,
+      "dose2": 28,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 24,
+      "dose2": 16,
       "vaccines": 40
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 19,
+      "dose2": 15,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 6,
+      "dose2": 43,
+      "vaccines": 49
     }
   ]
 }

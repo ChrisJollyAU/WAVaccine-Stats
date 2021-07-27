@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "GNOWANGERUP",
   "data": [
     {
@@ -376,9 +376,9 @@
     {
       "date": "2021-07-21",
       "locality": "GNOWANGERUP",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-22",
@@ -386,6 +386,27 @@
       "dose1": 24,
       "dose2": 13,
       "vaccines": 37
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "GNOWANGERUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "GNOWANGERUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "GNOWANGERUP",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

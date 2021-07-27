@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "DWELLINGUP",
   "data": [
     {
@@ -495,9 +495,30 @@
     {
       "date": "2021-07-22",
       "locality": "DWELLINGUP",
+      "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "DWELLINGUP",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "DWELLINGUP",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "DWELLINGUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

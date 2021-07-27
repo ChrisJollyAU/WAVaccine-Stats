@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "PICCADILLY",
   "data": [
     {
@@ -481,9 +481,9 @@
     {
       "date": "2021-06-29",
       "locality": "PICCADILLY",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-06-30",
@@ -608,8 +608,36 @@
       "date": "2021-07-22",
       "locality": "PICCADILLY",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 8,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "PICCADILLY",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "PICCADILLY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "PICCADILLY",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "PICCADILLY",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "MANYPEAKS",
   "data": [
     {
@@ -276,6 +276,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-15",
+      "locality": "MANYPEAKS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-16",
       "locality": "MANYPEAKS",
       "dose1": 0,
@@ -302,6 +309,27 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "MANYPEAKS",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "MANYPEAKS",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "MANYPEAKS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

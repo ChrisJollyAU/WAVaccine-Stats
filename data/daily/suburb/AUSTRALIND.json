@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-22T00:00:00",
+  "date_updated": "2021-07-26T00:00:00",
   "locality": "AUSTRALIND",
   "data": [
     {
@@ -208,9 +208,9 @@
     {
       "date": "2021-04-01",
       "locality": "AUSTRALIND",
-      "dose1": 76,
+      "dose1": 75,
       "dose2": 12,
-      "vaccines": 88
+      "vaccines": 87
     },
     {
       "date": "2021-04-03",
@@ -306,9 +306,9 @@
     {
       "date": "2021-04-19",
       "locality": "AUSTRALIND",
-      "dose1": 36,
+      "dose1": 35,
       "dose2": 0,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-04-20",
@@ -692,8 +692,8 @@
       "date": "2021-06-16",
       "locality": "AUSTRALIND",
       "dose1": 38,
-      "dose2": 41,
-      "vaccines": 79
+      "dose2": 40,
+      "vaccines": 78
     },
     {
       "date": "2021-06-17",
@@ -733,9 +733,9 @@
     {
       "date": "2021-06-23",
       "locality": "AUSTRALIND",
-      "dose1": 42,
+      "dose1": 41,
       "dose2": 36,
-      "vaccines": 78
+      "vaccines": 77
     },
     {
       "date": "2021-06-24",
@@ -775,9 +775,9 @@
     {
       "date": "2021-06-29",
       "locality": "AUSTRALIND",
-      "dose1": 63,
+      "dose1": 62,
       "dose2": 32,
-      "vaccines": 95
+      "vaccines": 94
     },
     {
       "date": "2021-06-30",
@@ -790,8 +790,8 @@
       "date": "2021-07-01",
       "locality": "AUSTRALIND",
       "dose1": 42,
-      "dose2": 79,
-      "vaccines": 121
+      "dose2": 78,
+      "vaccines": 120
     },
     {
       "date": "2021-07-02",
@@ -859,9 +859,9 @@
     {
       "date": "2021-07-12",
       "locality": "AUSTRALIND",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 37,
-      "vaccines": 65
+      "vaccines": 64
     },
     {
       "date": "2021-07-13",
@@ -894,9 +894,9 @@
     {
       "date": "2021-07-17",
       "locality": "AUSTRALIND",
-      "dose1": 31,
+      "dose1": 30,
       "dose2": 19,
-      "vaccines": 50
+      "vaccines": 49
     },
     {
       "date": "2021-07-18",
@@ -922,16 +922,44 @@
     {
       "date": "2021-07-21",
       "locality": "AUSTRALIND",
-      "dose1": 57,
+      "dose1": 65,
       "dose2": 28,
-      "vaccines": 85
+      "vaccines": 93
     },
     {
       "date": "2021-07-22",
       "locality": "AUSTRALIND",
-      "dose1": 70,
+      "dose1": 80,
+      "dose2": 32,
+      "vaccines": 112
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "AUSTRALIND",
+      "dose1": 49,
+      "dose2": 38,
+      "vaccines": 87
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "AUSTRALIND",
+      "dose1": 46,
+      "dose2": 19,
+      "vaccines": 65
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "AUSTRALIND",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
+      "locality": "AUSTRALIND",
+      "dose1": 26,
       "dose2": 25,
-      "vaccines": 95
+      "vaccines": 51
     }
   ]
 }

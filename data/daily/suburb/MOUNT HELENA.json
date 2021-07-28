@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "MOUNT HELENA",
   "data": [
     {
@@ -376,9 +376,9 @@
     {
       "date": "2021-05-10",
       "locality": "MOUNT HELENA",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-05-11",
@@ -496,8 +496,8 @@
       "date": "2021-06-01",
       "locality": "MOUNT HELENA",
       "dose1": 16,
-      "dose2": 2,
-      "vaccines": 18
+      "dose2": 1,
+      "vaccines": 17
     },
     {
       "date": "2021-06-02",
@@ -874,8 +874,15 @@
       "date": "2021-07-26",
       "locality": "MOUNT HELENA",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 7,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "MOUNT HELENA",
+      "dose1": 10,
+      "dose2": 18,
+      "vaccines": 28
     }
   ]
 }

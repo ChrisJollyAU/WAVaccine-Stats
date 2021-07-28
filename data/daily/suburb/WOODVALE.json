@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "WOODVALE",
   "data": [
     {
@@ -215,9 +215,9 @@
     {
       "date": "2021-03-26",
       "locality": "WOODVALE",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 3,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-03-27",
@@ -796,8 +796,8 @@
     {
       "date": "2021-06-18",
       "locality": "WOODVALE",
-      "dose1": 32,
-      "dose2": 22,
+      "dose1": 31,
+      "dose2": 23,
       "vaccines": 54
     },
     {
@@ -1062,9 +1062,16 @@
     {
       "date": "2021-07-26",
       "locality": "WOODVALE",
-      "dose1": 24,
-      "dose2": 58,
-      "vaccines": 82
+      "dose1": 30,
+      "dose2": 60,
+      "vaccines": 90
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "WOODVALE",
+      "dose1": 30,
+      "dose2": 44,
+      "vaccines": 74
     }
   ]
 }

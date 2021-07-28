@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "MARMION",
   "data": [
     {
@@ -110,9 +110,9 @@
     {
       "date": "2021-03-16",
       "locality": "MARMION",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-17",
@@ -684,9 +684,9 @@
     {
       "date": "2021-06-08",
       "locality": "MARMION",
-      "dose1": 27,
+      "dose1": 26,
       "dose2": 3,
-      "vaccines": 30
+      "vaccines": 29
     },
     {
       "date": "2021-06-09",
@@ -1020,9 +1020,16 @@
     {
       "date": "2021-07-26",
       "locality": "MARMION",
-      "dose1": 9,
-      "dose2": 15,
-      "vaccines": 24
+      "dose1": 11,
+      "dose2": 19,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "MARMION",
+      "dose1": 7,
+      "dose2": 27,
+      "vaccines": 34
     }
   ]
 }

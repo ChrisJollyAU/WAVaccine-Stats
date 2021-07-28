@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "GNANGARA",
   "data": [
     {
@@ -867,8 +867,15 @@
       "date": "2021-07-26",
       "locality": "GNANGARA",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "GNANGARA",
+      "dose1": 4,
+      "dose2": 11,
+      "vaccines": 15
     }
   ]
 }

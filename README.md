@@ -38,7 +38,19 @@ Each data record contains the following info
 - Numboer of dose 1's administered on that date
 - Numboer of dose 2's administered on that date
 
-### daily.all.json
+### sa2summary-{date}.json
+
+Summarises details at the SA2 (Statistical Area 2) level
+Contains the following info
+- SA2 Name
+- Number aged 16 and over
+- Total number of dose 1's for the region
+- Total number of dose 2's for the region
+- Total number of doses for the region
+- Percent of region with at least 1 dose
+- Percent of region fully vaccinated
+
+### daily/all.json
 
 Contains data for every date, suburb and postcode combination with the exact doses performed (dose 1, 2 and total)
 - Date

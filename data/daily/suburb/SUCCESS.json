@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "SUCCESS",
   "data": [
     {
@@ -1035,8 +1035,8 @@
       "date": "2021-07-22",
       "locality": "SUCCESS",
       "dose1": 60,
-      "dose2": 44,
-      "vaccines": 104
+      "dose2": 45,
+      "vaccines": 105
     },
     {
       "date": "2021-07-23",
@@ -1062,9 +1062,16 @@
     {
       "date": "2021-07-26",
       "locality": "SUCCESS",
-      "dose1": 16,
-      "dose2": 28,
-      "vaccines": 44
+      "dose1": 17,
+      "dose2": 29,
+      "vaccines": 46
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "SUCCESS",
+      "dose1": 29,
+      "dose2": 55,
+      "vaccines": 84
     }
   ]
 }

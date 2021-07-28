@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "MIDLAND",
   "data": [
     {
@@ -502,16 +502,16 @@
     {
       "date": "2021-05-14",
       "locality": "MIDLAND",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 3,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-05-15",
       "locality": "MIDLAND",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-16",
@@ -1006,9 +1006,16 @@
     {
       "date": "2021-07-26",
       "locality": "MIDLAND",
-      "dose1": 8,
-      "dose2": 7,
-      "vaccines": 15
+      "dose1": 10,
+      "dose2": 9,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "MIDLAND",
+      "dose1": 14,
+      "dose2": 14,
+      "vaccines": 28
     }
   ]
 }

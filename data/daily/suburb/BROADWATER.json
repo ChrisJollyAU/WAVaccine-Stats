@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "BROADWATER",
   "data": [
     {
@@ -845,9 +845,16 @@
     {
       "date": "2021-07-26",
       "locality": "BROADWATER",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 11
+      "vaccines": 12
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "BROADWATER",
+      "dose1": 13,
+      "dose2": 5,
+      "vaccines": 18
     }
   ]
 }

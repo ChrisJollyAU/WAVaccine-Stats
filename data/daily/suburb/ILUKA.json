@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "ILUKA",
   "data": [
     {
@@ -257,9 +257,9 @@
     {
       "date": "2021-04-06",
       "locality": "ILUKA",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 3,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-04-07",
@@ -866,8 +866,8 @@
     {
       "date": "2021-07-05",
       "locality": "ILUKA",
-      "dose1": 28,
-      "dose2": 12,
+      "dose1": 27,
+      "dose2": 13,
       "vaccines": 40
     },
     {
@@ -1013,9 +1013,16 @@
     {
       "date": "2021-07-26",
       "locality": "ILUKA",
-      "dose1": 24,
-      "dose2": 26,
-      "vaccines": 50
+      "dose1": 28,
+      "dose2": 27,
+      "vaccines": 55
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "ILUKA",
+      "dose1": 11,
+      "dose2": 60,
+      "vaccines": 71
     }
   ]
 }

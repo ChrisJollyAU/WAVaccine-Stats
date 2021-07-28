@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "COWARAMUP",
   "data": [
     {
@@ -446,9 +446,9 @@
     {
       "date": "2021-06-08",
       "locality": "COWARAMUP",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-09",
@@ -734,8 +734,8 @@
       "date": "2021-07-24",
       "locality": "COWARAMUP",
       "dose1": 1,
-      "dose2": 16,
-      "vaccines": 17
+      "dose2": 20,
+      "vaccines": 21
     },
     {
       "date": "2021-07-25",
@@ -750,6 +750,13 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "COWARAMUP",
+      "dose1": 11,
+      "dose2": 2,
+      "vaccines": 13
     }
   ]
 }

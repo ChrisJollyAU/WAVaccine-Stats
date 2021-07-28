@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "OSBORNE PARK",
   "data": [
     {
@@ -1006,9 +1006,16 @@
     {
       "date": "2021-07-26",
       "locality": "OSBORNE PARK",
-      "dose1": 9,
+      "dose1": 17,
+      "dose2": 17,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "OSBORNE PARK",
+      "dose1": 7,
       "dose2": 12,
-      "vaccines": 21
+      "vaccines": 19
     }
   ]
 }

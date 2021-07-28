@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "LATHLAIN",
   "data": [
     {
@@ -1063,8 +1063,15 @@
       "date": "2021-07-26",
       "locality": "LATHLAIN",
       "dose1": 1,
-      "dose2": 8,
-      "vaccines": 9
+      "dose2": 10,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "LATHLAIN",
+      "dose1": 8,
+      "dose2": 18,
+      "vaccines": 26
     }
   ]
 }

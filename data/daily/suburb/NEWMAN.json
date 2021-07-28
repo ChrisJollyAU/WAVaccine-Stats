@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "NEWMAN",
   "data": [
     {
@@ -677,8 +677,15 @@
     {
       "date": "2021-07-26",
       "locality": "NEWMAN",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 21,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "NEWMAN",
+      "dose1": 21,
+      "dose2": 5,
       "vaccines": 26
     }
   ]

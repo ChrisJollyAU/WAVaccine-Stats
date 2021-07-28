@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-26T00:00:00",
+  "date_updated": "2021-07-27T00:00:00",
   "locality": "NICKOL",
   "data": [
     {
@@ -61,9 +61,9 @@
     {
       "date": "2021-03-22",
       "locality": "NICKOL",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-03-23",
@@ -292,16 +292,16 @@
     {
       "date": "2021-05-18",
       "locality": "NICKOL",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 0,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-05-19",
       "locality": "NICKOL",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 1,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-05-20",
@@ -412,8 +412,8 @@
       "date": "2021-06-10",
       "locality": "NICKOL",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 8,
+      "vaccines": 15
     },
     {
       "date": "2021-06-11",
@@ -461,8 +461,8 @@
       "date": "2021-06-18",
       "locality": "NICKOL",
       "dose1": 1,
-      "dose2": 8,
-      "vaccines": 9
+      "dose2": 7,
+      "vaccines": 8
     },
     {
       "date": "2021-06-19",
@@ -481,16 +481,16 @@
     {
       "date": "2021-06-22",
       "locality": "NICKOL",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-06-23",
       "locality": "NICKOL",
       "dose1": 13,
-      "dose2": 3,
-      "vaccines": 16
+      "dose2": 4,
+      "vaccines": 17
     },
     {
       "date": "2021-06-24",
@@ -678,8 +678,8 @@
       "date": "2021-07-24",
       "locality": "NICKOL",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-25",
@@ -694,6 +694,13 @@
       "dose1": 1,
       "dose2": 6,
       "vaccines": 7
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "NICKOL",
+      "dose1": 12,
+      "dose2": 8,
+      "vaccines": 20
     }
   ]
 }

@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace WAVaccine
 {
-    class WASuburb
+    class WASA2Suburb
     {
-        public static void DoSuburb()
+        public static void Execute()
         {
             var client = new RestClient("https://wabi-australia-southeast-api.analysis.windows.net/public/reports/querydata?synchronous=true");
             client.Timeout = -1;
@@ -49,7 +49,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                        ""Name"": ""a"",
 " + "\n" +
-@"                                        ""Entity"": ""AIR"",
+@"                                        ""Entity"": ""Suburb SA2"",
 " + "\n" +
 @"                                        ""Type"": 0
 " + "\n" +
@@ -61,7 +61,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -73,55 +73,11 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Doses administered""
+@"                                            ""Property"": ""NAME""
 " + "\n" +
 @"                                        },
 " + "\n" +
-@"                                        ""Name"": ""AIR.Doses administered""
-" + "\n" +
-@"                                    },
-" + "\n" +
-@"                                    {
-" + "\n" +
-@"                                        ""Measure"": {
-" + "\n" +
-@"                                            ""Expression"": {
-" + "\n" +
-@"                                                ""SourceRef"": {
-" + "\n" +
-@"                                                    ""Source"": ""a""
-" + "\n" +
-@"                                                }
-" + "\n" +
-@"                                            },
-" + "\n" +
-@"                                            ""Property"": ""Dose 1""
-" + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.Dose 1""
-" + "\n" +
-@"                                    },
-" + "\n" +
-@"                                    {
-" + "\n" +
-@"                                        ""Measure"": {
-" + "\n" +
-@"                                            ""Expression"": {
-" + "\n" +
-@"                                                ""SourceRef"": {
-" + "\n" +
-@"                                                    ""Source"": ""a""
-" + "\n" +
-@"                                                }
-" + "\n" +
-@"                                            },
-" + "\n" +
-@"                                            ""Property"": ""Dose 2""
-" + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.Dose 2""
+@"                                        ""Name"": ""Suburb SA2.NAME""
 " + "\n" +
 @"                                    },
 " + "\n" +
@@ -139,11 +95,33 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""locality""
+@"                                            ""Property"": ""POSTCODE""
 " + "\n" +
 @"                                        },
 " + "\n" +
-@"                                        ""Name"": ""AIR.locality""
+@"                                        ""Name"": ""Suburb SA2.POSTCODE""
+" + "\n" +
+@"                                    },
+" + "\n" +
+@"                                    {
+" + "\n" +
+@"                                        ""Column"": {
+" + "\n" +
+@"                                            ""Expression"": {
+" + "\n" +
+@"                                                ""SourceRef"": {
+" + "\n" +
+@"                                                    ""Source"": ""a""
+" + "\n" +
+@"                                                }
+" + "\n" +
+@"                                            },
+" + "\n" +
+@"                                            ""Property"": ""SA2_NAME16""
+" + "\n" +
+@"                                        },
+" + "\n" +
+@"                                        ""Name"": ""Suburb SA2.SA2_NAME16""
 " + "\n" +
 @"                                    }
 " + "\n" +
@@ -169,7 +147,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                                },
 " + "\n" +
-@"                                                ""Property"": ""locality""
+@"                                                ""Property"": ""NAME""
 " + "\n" +
 @"                                            }
 " + "\n" +
@@ -195,9 +173,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                                1,
 " + "\n" +
-@"                                                2,
-" + "\n" +
-@"                                                3,
+@"                                                2
 " + "\n" +
 @"                                            ]
 " + "\n" +
@@ -266,121 +242,83 @@ namespace WAVaccine
             IRestResponse response = client.Execute(request);
             JObject des = (JObject)Newtonsoft.Json.JsonConvert.DeserializeObject(response.Content);
             var bb = des["results"][0]["result"]["data"]["dsr"]["DS"][0]["PH"][0]["DM0"];
-
-            bb.First.First.Remove();
-            var cc = bb.SelectMany(v => v.First);
-            List<SuburbObject> to = new List<SuburbObject>();
+            var d0 = des["results"][0]["result"]["data"]["dsr"]["DS"][0]["ValueDicts"]["D0"];
+            var d1 = des["results"][0]["result"]["data"]["dsr"]["DS"][0]["ValueDicts"]["D1"];
+            var cc = bb.SelectTokens("$..C");
+            List<SA2SuburbOb> to = new List<SA2SuburbOb>();
+            DateTime latestdate = DateTime.UnixEpoch;
             foreach (var it in cc)
             {
-                SuburbObject so = new SuburbObject();
+                SA2SuburbOb po = new SA2SuburbOb();
                 JProperty R = (JProperty)it.Parent.Next;
                 if (R?.Name == "R")
                 {
                     var sRval = ((JValue)R.First()).Value.ToString();
                     var rVal = Convert.ToInt32(sRval);
-                    so.suburb_name = it[0].ToString();
-                    var i = 1;
-                    if ((rVal & 2) == 2)
+                    var i = 0;
+                    if ((rVal & 1) == 1)
                     {
-                        so.total_dose = to.Last().total_dose;
+                        po.name = to.Last().name;
                     }
                     else
                     {
-                        so.total_dose = Convert.ToInt32(it[i]);
+                        po.name = it[i].ToString();
+                        if (Int32.TryParse(po.name, out int result))
+                        {
+                            po.name = d0[result].ToString();
+                        }
+                        i++;
+                    }
+                    if ((rVal & 2) == 2)
+                    {
+                        po.postcode = to.Last().postcode;
+                    }
+                    else
+                    {
+                        po.postcode = Convert.ToString(it[i]);
                         i++;
                     }
                     if ((rVal & 4) == 4)
                     {
-                        so.dose_1 = to.Last().dose_1;
+                        po.SA2_Name = to.Last().SA2_Name;
                     }
                     else
                     {
-                        so.dose_1 = Convert.ToInt32(it[i]);
-                        i++;
-                    }
-                    if ((rVal & 8) == 8)
-                    {
-                        so.dose_2 = to.Last().dose_2;
-                    }
-                    else
-                    {
-                        so.dose_2 = Convert.ToInt32(it[i]);
+                        po.SA2_Name = Convert.ToString(it[i]);
+                        if (Int32.TryParse(po.SA2_Name, out int result2))
+                        {
+                            po.SA2_Name = d1[result2].ToString();
+                        }
                         i++;
                     }
                 }
                 else
                 {
-                    so.suburb_name = it[0].ToString();
-                    so.total_dose = Convert.ToInt32(it[1]);
-                    so.dose_1 = Convert.ToInt32(it[2]);
-                    so.dose_2 = Convert.ToInt32(it[3]);
-                }
-                to.Add(so);
-            }
-            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
-            JsonObject item = new JsonObject();
-            item.Add("date", date);
-            item.Add("data", to);
-            File.WriteAllText("data/suburb-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
-
-            DoSa2Stats(to);
-        }
-
-        private static void DoSa2Stats(List<SuburbObject> to)
-        {
-            var sa2poptext = File.ReadAllText("data/sa2pop.json");
-            var sa2suburbtext = File.ReadAllText("data/sa2suburb.json");
-            JObject sa2json = (JObject) JsonConvert.DeserializeObject(sa2poptext);
-            JObject sa2subjson = (JObject)JsonConvert.DeserializeObject(sa2suburbtext);
-            JArray ar1 = (JArray)sa2json["data"];
-            JArray ar2 = (JArray)sa2subjson["data"];
-            var sa2pop = JsonConvert.DeserializeObject<List<SA2PopOb>>(ar1.ToString());
-            var sa2sub = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2.ToString());
-            var grpsa2sub = sa2sub.GroupBy(ss => ss.SA2_Name);
-            List<SA2Detail> sa2det = new List<SA2Detail>();
-            foreach (var it in grpsa2sub)
-            {
-                SA2Detail sdet = new SA2Detail();
-                sdet.SA2Name = it.Key;
-                sdet.c16_plus = (int)sa2pop.Single(sp => sp.name == it.Key).c16_plus;
-                foreach (var it2 in it)
-                {
-                    SuburbObject ob = to.SingleOrDefault(tt => tt.suburb_name == it2.name);
-                    if (ob != null)
+                    po.name = it[0].ToString();
+                    if (Int32.TryParse(po.name, out int result))
                     {
-                        sdet.dose1 += ob.dose_1;
-                        sdet.dose2 += ob.dose_2;
-                        sdet.total_doses += ob.total_dose;
+                        po.name = d0[result].ToString();
+                    }
+                    po.postcode = Convert.ToString(it[1]);
+                    po.SA2_Name = Convert.ToString(it[2]);
+                    if (Int32.TryParse(po.SA2_Name, out int result2))
+                    {
+                        po.SA2_Name = d1[result2].ToString();
                     }
                 }
-                sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
-                sa2det.Add(sdet);
+                to.Add(po);
             }
-            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
             JsonObject item = new JsonObject();
-            item.Add("date", date);
-            item.Add("data", sa2det);
-            File.WriteAllText("data/sa2summary-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            item.Add("date_updated", latestdate);
+            item.Add("data", to);
+            File.WriteAllText("data/sa2suburb.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 
-    class SuburbObject
+    class SA2SuburbOb
     {
-        public string suburb_name { get; set; }
-        public int total_dose { get; set; }
-        public int dose_1 { get; set; }
-        public int dose_2 { get; set; }
-    }
-
-    class SA2Detail
-    {
-        public string SA2Name { get; set; }
-        public int c16_plus { get; set; }
-        public int dose1 { get; set; }
-        public int dose2 { get; set; }
-        public int total_doses { get; set; }
-        public decimal atleast_1dose_percent { get; set; }
-        public decimal full_vaccinated_percent { get; set; }
+        public string name { get; set; }
+        public string postcode { get; set; }
+        public string SA2_Name { get; set; }
     }
 }

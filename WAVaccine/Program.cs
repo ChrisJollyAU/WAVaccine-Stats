@@ -12,6 +12,8 @@ namespace WAVaccine
     {
         static void Main(string[] args)
         {
+            WASA2Pop.Execute();
+            WASA2Suburb.Execute();
             WAPostcode.DoPostcode();
             WASuburb.DoSuburb();
             WATimeline.DoTimeline();

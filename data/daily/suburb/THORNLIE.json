@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "THORNLIE",
   "data": [
     {
@@ -19,9 +19,9 @@
     {
       "date": "2021-02-24",
       "locality": "THORNLIE",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-02-25",
@@ -152,9 +152,9 @@
     {
       "date": "2021-03-18",
       "locality": "THORNLIE",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 2,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-03-19",
@@ -180,8 +180,8 @@
     {
       "date": "2021-03-22",
       "locality": "THORNLIE",
-      "dose1": 15,
-      "dose2": 1,
+      "dose1": 14,
+      "dose2": 2,
       "vaccines": 16
     },
     {
@@ -432,8 +432,8 @@
     {
       "date": "2021-04-28",
       "locality": "THORNLIE",
-      "dose1": 67,
-      "dose2": 11,
+      "dose1": 66,
+      "dose2": 12,
       "vaccines": 78
     },
     {
@@ -565,9 +565,9 @@
     {
       "date": "2021-05-17",
       "locality": "THORNLIE",
-      "dose1": 41,
+      "dose1": 40,
       "dose2": 6,
-      "vaccines": 47
+      "vaccines": 46
     },
     {
       "date": "2021-05-18",
@@ -790,8 +790,8 @@
       "date": "2021-06-18",
       "locality": "THORNLIE",
       "dose1": 72,
-      "dose2": 34,
-      "vaccines": 106
+      "dose2": 33,
+      "vaccines": 105
     },
     {
       "date": "2021-06-19",
@@ -1035,8 +1035,8 @@
       "date": "2021-07-23",
       "locality": "THORNLIE",
       "dose1": 63,
-      "dose2": 44,
-      "vaccines": 107
+      "dose2": 45,
+      "vaccines": 108
     },
     {
       "date": "2021-07-24",
@@ -1048,23 +1048,30 @@
     {
       "date": "2021-07-25",
       "locality": "THORNLIE",
-      "dose1": 55,
+      "dose1": 58,
       "dose2": 20,
-      "vaccines": 75
+      "vaccines": 78
     },
     {
       "date": "2021-07-26",
       "locality": "THORNLIE",
-      "dose1": 35,
-      "dose2": 51,
-      "vaccines": 86
+      "dose1": 39,
+      "dose2": 52,
+      "vaccines": 91
     },
     {
       "date": "2021-07-27",
       "locality": "THORNLIE",
-      "dose1": 61,
-      "dose2": 64,
-      "vaccines": 125
+      "dose1": 69,
+      "dose2": 88,
+      "vaccines": 157
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "THORNLIE",
+      "dose1": 47,
+      "dose2": 102,
+      "vaccines": 149
     }
   ]
 }

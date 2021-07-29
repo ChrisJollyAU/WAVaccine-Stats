@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "BOUVARD",
   "data": [
     {
@@ -649,9 +649,16 @@
     {
       "date": "2021-07-27",
       "locality": "BOUVARD",
-      "dose1": 4,
+      "dose1": 7,
+      "dose2": 5,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "BOUVARD",
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     }
   ]
 }

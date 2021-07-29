@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "NORTHAM",
   "data": [
     {
@@ -845,9 +845,9 @@
     {
       "date": "2021-07-23",
       "locality": "NORTHAM",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 14,
-      "vaccines": 50
+      "vaccines": 51
     },
     {
       "date": "2021-07-24",
@@ -866,16 +866,23 @@
     {
       "date": "2021-07-26",
       "locality": "NORTHAM",
-      "dose1": 8,
+      "dose1": 11,
       "dose2": 36,
-      "vaccines": 44
+      "vaccines": 47
     },
     {
       "date": "2021-07-27",
       "locality": "NORTHAM",
-      "dose1": 7,
+      "dose1": 18,
       "dose2": 63,
-      "vaccines": 70
+      "vaccines": 81
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "NORTHAM",
+      "dose1": 13,
+      "dose2": 47,
+      "vaccines": 60
     }
   ]
 }

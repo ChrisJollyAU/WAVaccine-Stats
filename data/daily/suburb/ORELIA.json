@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "ORELIA",
   "data": [
     {
@@ -871,6 +871,13 @@
       "vaccines": 23
     },
     {
+      "date": "2021-07-17",
+      "locality": "ORELIA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-18",
       "locality": "ORELIA",
       "dose1": 0,
@@ -937,8 +944,15 @@
       "date": "2021-07-27",
       "locality": "ORELIA",
       "dose1": 8,
-      "dose2": 21,
-      "vaccines": 29
+      "dose2": 22,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "ORELIA",
+      "dose1": 12,
+      "dose2": 25,
+      "vaccines": 37
     }
   ]
 }

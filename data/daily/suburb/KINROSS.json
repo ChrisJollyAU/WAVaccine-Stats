@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "KINROSS",
   "data": [
     {
@@ -621,23 +621,23 @@
     {
       "date": "2021-05-31",
       "locality": "KINROSS",
-      "dose1": 23,
-      "dose2": 8,
-      "vaccines": 31
-    },
-    {
-      "date": "2021-06-01",
-      "locality": "KINROSS",
       "dose1": 22,
       "dose2": 8,
       "vaccines": 30
     },
     {
+      "date": "2021-06-01",
+      "locality": "KINROSS",
+      "dose1": 23,
+      "dose2": 8,
+      "vaccines": 31
+    },
+    {
       "date": "2021-06-02",
       "locality": "KINROSS",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 4,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-06-03",
@@ -874,8 +874,8 @@
       "date": "2021-07-06",
       "locality": "KINROSS",
       "dose1": 29,
-      "dose2": 6,
-      "vaccines": 35
+      "dose2": 7,
+      "vaccines": 36
     },
     {
       "date": "2021-07-07",
@@ -1020,9 +1020,16 @@
     {
       "date": "2021-07-27",
       "locality": "KINROSS",
-      "dose1": 15,
+      "dose1": 17,
       "dose2": 32,
-      "vaccines": 47
+      "vaccines": 49
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "KINROSS",
+      "dose1": 19,
+      "dose2": 16,
+      "vaccines": 35
     }
   ]
 }

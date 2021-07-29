@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "BAYNTON",
   "data": [
     {
@@ -656,9 +656,9 @@
     {
       "date": "2021-07-13",
       "locality": "BAYNTON",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 5,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-07-14",
@@ -740,9 +740,16 @@
     {
       "date": "2021-07-27",
       "locality": "BAYNTON",
-      "dose1": 14,
+      "dose1": 16,
       "dose2": 14,
-      "vaccines": 28
+      "vaccines": 30
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "BAYNTON",
+      "dose1": 7,
+      "dose2": 10,
+      "vaccines": 17
     }
   ]
 }

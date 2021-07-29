@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "CARNARVON",
   "data": [
     {
@@ -635,9 +635,16 @@
     {
       "date": "2021-07-27",
       "locality": "CARNARVON",
-      "dose1": 3,
+      "dose1": 11,
       "dose2": 18,
-      "vaccines": 21
+      "vaccines": 29
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "CARNARVON",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

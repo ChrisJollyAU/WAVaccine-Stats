@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "DOUBLEVIEW",
   "data": [
     {
@@ -1021,8 +1021,8 @@
       "date": "2021-07-19",
       "locality": "DOUBLEVIEW",
       "dose1": 31,
-      "dose2": 30,
-      "vaccines": 61
+      "dose2": 31,
+      "vaccines": 62
     },
     {
       "date": "2021-07-20",
@@ -1049,8 +1049,8 @@
       "date": "2021-07-23",
       "locality": "DOUBLEVIEW",
       "dose1": 42,
-      "dose2": 38,
-      "vaccines": 80
+      "dose2": 39,
+      "vaccines": 81
     },
     {
       "date": "2021-07-24",
@@ -1069,16 +1069,23 @@
     {
       "date": "2021-07-26",
       "locality": "DOUBLEVIEW",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 35,
-      "vaccines": 47
+      "vaccines": 48
     },
     {
       "date": "2021-07-27",
       "locality": "DOUBLEVIEW",
-      "dose1": 12,
-      "dose2": 34,
-      "vaccines": 46
+      "dose1": 16,
+      "dose2": 38,
+      "vaccines": 54
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "DOUBLEVIEW",
+      "dose1": 23,
+      "dose2": 45,
+      "vaccines": 68
     }
   ]
 }

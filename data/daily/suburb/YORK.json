@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "YORK",
   "data": [
     {
@@ -831,9 +831,16 @@
     {
       "date": "2021-07-27",
       "locality": "YORK",
-      "dose1": 3,
-      "dose2": 16,
-      "vaccines": 19
+      "dose1": 7,
+      "dose2": 60,
+      "vaccines": 67
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "YORK",
+      "dose1": 1,
+      "dose2": 12,
+      "vaccines": 13
     }
   ]
 }

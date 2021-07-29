@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-07-28T00:00:00",
   "locality": "CABLE BEACH",
   "data": [
     {
@@ -691,16 +691,23 @@
     {
       "date": "2021-07-26",
       "locality": "CABLE BEACH",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 13,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-07-27",
       "locality": "CABLE BEACH",
-      "dose1": 7,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 14
+      "vaccines": 17
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "CABLE BEACH",
+      "dose1": 1,
+      "dose2": 12,
+      "vaccines": 13
     }
   ]
 }

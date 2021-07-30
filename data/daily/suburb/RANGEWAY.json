@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "RANGEWAY",
   "data": [
     {
@@ -747,9 +747,16 @@
     {
       "date": "2021-07-28",
       "locality": "RANGEWAY",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "RANGEWAY",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

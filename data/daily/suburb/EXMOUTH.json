@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "EXMOUTH",
   "data": [
     {
@@ -26,9 +26,9 @@
     {
       "date": "2021-03-23",
       "locality": "EXMOUTH",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-03-24",
@@ -370,8 +370,8 @@
       "date": "2021-06-15",
       "locality": "EXMOUTH",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-16",
@@ -586,9 +586,16 @@
     {
       "date": "2021-07-28",
       "locality": "EXMOUTH",
-      "dose1": 37,
+      "dose1": 39,
       "dose2": 65,
-      "vaccines": 102
+      "vaccines": 104
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "EXMOUTH",
+      "dose1": 25,
+      "dose2": 14,
+      "vaccines": 39
     }
   ]
 }

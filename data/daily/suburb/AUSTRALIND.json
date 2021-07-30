@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "AUSTRALIND",
   "data": [
     {
@@ -965,15 +965,22 @@
       "date": "2021-07-27",
       "locality": "AUSTRALIND",
       "dose1": 51,
-      "dose2": 35,
-      "vaccines": 86
+      "dose2": 37,
+      "vaccines": 88
     },
     {
       "date": "2021-07-28",
       "locality": "AUSTRALIND",
-      "dose1": 42,
-      "dose2": 37,
-      "vaccines": 79
+      "dose1": 45,
+      "dose2": 43,
+      "vaccines": 88
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "AUSTRALIND",
+      "dose1": 59,
+      "dose2": 61,
+      "vaccines": 120
     }
   ]
 }

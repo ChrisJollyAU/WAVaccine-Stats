@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "ST JAMES",
   "data": [
     {
@@ -1041,9 +1041,16 @@
     {
       "date": "2021-07-28",
       "locality": "ST JAMES",
+      "dose1": 10,
+      "dose2": 23,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "ST JAMES",
       "dose1": 8,
-      "dose2": 20,
-      "vaccines": 28
+      "dose2": 13,
+      "vaccines": 21
     }
   ]
 }

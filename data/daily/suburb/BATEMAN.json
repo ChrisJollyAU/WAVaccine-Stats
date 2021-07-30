@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "BATEMAN",
   "data": [
     {
@@ -1048,9 +1048,16 @@
     {
       "date": "2021-07-28",
       "locality": "BATEMAN",
-      "dose1": 2,
-      "dose2": 30,
-      "vaccines": 32
+      "dose1": 4,
+      "dose2": 39,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "BATEMAN",
+      "dose1": 20,
+      "dose2": 21,
+      "vaccines": 41
     }
   ]
 }

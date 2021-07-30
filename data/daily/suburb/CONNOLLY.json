@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "CONNOLLY",
   "data": [
     {
@@ -1006,9 +1006,16 @@
     {
       "date": "2021-07-28",
       "locality": "CONNOLLY",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 12,
-      "vaccines": 19
+      "vaccines": 21
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "CONNOLLY",
+      "dose1": 9,
+      "dose2": 16,
+      "vaccines": 25
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "PINJARRA",
   "data": [
     {
@@ -852,9 +852,16 @@
     {
       "date": "2021-07-28",
       "locality": "PINJARRA",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 9,
-      "vaccines": 20
+      "vaccines": 21
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "PINJARRA",
+      "dose1": 13,
+      "dose2": 15,
+      "vaccines": 28
     }
   ]
 }

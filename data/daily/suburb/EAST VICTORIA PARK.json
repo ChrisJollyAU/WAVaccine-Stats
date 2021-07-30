@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "EAST VICTORIA PARK",
   "data": [
     {
@@ -229,9 +229,9 @@
     {
       "date": "2021-04-01",
       "locality": "EAST VICTORIA PARK",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 4,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-04-02",
@@ -370,8 +370,8 @@
       "date": "2021-04-22",
       "locality": "EAST VICTORIA PARK",
       "dose1": 7,
-      "dose2": 1,
-      "vaccines": 8
+      "dose2": 2,
+      "vaccines": 9
     },
     {
       "date": "2021-04-23",
@@ -1041,9 +1041,16 @@
     {
       "date": "2021-07-28",
       "locality": "EAST VICTORIA PARK",
-      "dose1": 6,
+      "dose1": 10,
       "dose2": 17,
-      "vaccines": 23
+      "vaccines": 27
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "EAST VICTORIA PARK",
+      "dose1": 18,
+      "dose2": 11,
+      "vaccines": 29
     }
   ]
 }

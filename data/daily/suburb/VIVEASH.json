@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "VIVEASH",
   "data": [
     {
@@ -817,9 +817,16 @@
     {
       "date": "2021-07-28",
       "locality": "VIVEASH",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "VIVEASH",
+      "dose1": 1,
+      "dose2": 10,
+      "vaccines": 11
     }
   ]
 }

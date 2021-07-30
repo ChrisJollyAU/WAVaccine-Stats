@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "BEAUFORT RIVER",
   "data": [
     {
@@ -77,6 +77,13 @@
       "locality": "BEAUFORT RIVER",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "BEAUFORT RIVER",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

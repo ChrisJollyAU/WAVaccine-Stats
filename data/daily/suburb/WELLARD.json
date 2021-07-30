@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "WELLARD",
   "data": [
     {
@@ -1041,16 +1041,23 @@
     {
       "date": "2021-07-27",
       "locality": "WELLARD",
-      "dose1": 39,
+      "dose1": 40,
       "dose2": 37,
-      "vaccines": 76
+      "vaccines": 77
     },
     {
       "date": "2021-07-28",
       "locality": "WELLARD",
-      "dose1": 40,
-      "dose2": 55,
-      "vaccines": 95
+      "dose1": 45,
+      "dose2": 58,
+      "vaccines": 103
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "WELLARD",
+      "dose1": 47,
+      "dose2": 57,
+      "vaccines": 104
     }
   ]
 }

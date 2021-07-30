@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "QUINDALUP",
   "data": [
     {
@@ -486,6 +486,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-06-26",
+      "locality": "QUINDALUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-28",
       "locality": "QUINDALUP",
       "dose1": 2,
@@ -544,9 +551,9 @@
     {
       "date": "2021-07-06",
       "locality": "QUINDALUP",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 8,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-07-07",
@@ -687,6 +694,13 @@
       "dose1": 5,
       "dose2": 10,
       "vaccines": 15
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "QUINDALUP",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

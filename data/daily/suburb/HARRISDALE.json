@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "HARRISDALE",
   "data": [
     {
@@ -488,9 +488,9 @@
     {
       "date": "2021-05-06",
       "locality": "HARRISDALE",
-      "dose1": 11,
+      "dose1": 13,
       "dose2": 6,
-      "vaccines": 17
+      "vaccines": 19
     },
     {
       "date": "2021-05-07",
@@ -1055,16 +1055,23 @@
     {
       "date": "2021-07-27",
       "locality": "HARRISDALE",
-      "dose1": 30,
+      "dose1": 31,
       "dose2": 45,
-      "vaccines": 75
+      "vaccines": 76
     },
     {
       "date": "2021-07-28",
       "locality": "HARRISDALE",
-      "dose1": 38,
-      "dose2": 50,
-      "vaccines": 88
+      "dose1": 41,
+      "dose2": 55,
+      "vaccines": 96
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "HARRISDALE",
+      "dose1": 35,
+      "dose2": 40,
+      "vaccines": 75
     }
   ]
 }

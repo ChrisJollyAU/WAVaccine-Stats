@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "GREENFIELDS",
   "data": [
     {
@@ -957,16 +957,23 @@
     {
       "date": "2021-07-27",
       "locality": "GREENFIELDS",
-      "dose1": 31,
-      "dose2": 31,
-      "vaccines": 62
+      "dose1": 37,
+      "dose2": 35,
+      "vaccines": 72
     },
     {
       "date": "2021-07-28",
       "locality": "GREENFIELDS",
-      "dose1": 24,
-      "dose2": 48,
-      "vaccines": 72
+      "dose1": 26,
+      "dose2": 54,
+      "vaccines": 80
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "GREENFIELDS",
+      "dose1": 12,
+      "dose2": 50,
+      "vaccines": 62
     }
   ]
 }

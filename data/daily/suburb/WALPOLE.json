@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "WALPOLE",
   "data": [
     {
@@ -587,8 +587,15 @@
       "date": "2021-07-28",
       "locality": "WALPOLE",
       "dose1": 21,
-      "dose2": 0,
-      "vaccines": 21
+      "dose2": 5,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "WALPOLE",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

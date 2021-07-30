@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-28T00:00:00",
+  "date_updated": "2021-07-29T00:00:00",
   "locality": "COCKBURN CENTRAL",
   "data": [
     {
@@ -824,9 +824,16 @@
     {
       "date": "2021-07-28",
       "locality": "COCKBURN CENTRAL",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 11
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "COCKBURN CENTRAL",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

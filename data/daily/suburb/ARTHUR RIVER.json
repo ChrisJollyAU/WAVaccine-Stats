@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-29T00:00:00",
+  "date_updated": "2021-08-01T00:00:00",
   "locality": "ARTHUR RIVER",
   "data": [
     {
@@ -19,9 +19,9 @@
     {
       "date": "2021-04-22",
       "locality": "ARTHUR RIVER",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-02",
@@ -68,9 +68,9 @@
     {
       "date": "2021-05-31",
       "locality": "ARTHUR RIVER",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-08",
@@ -89,23 +89,23 @@
     {
       "date": "2021-06-16",
       "locality": "ARTHUR RIVER",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-21",
       "locality": "ARTHUR RIVER",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-06-22",
       "locality": "ARTHUR RIVER",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-29",
@@ -131,9 +131,16 @@
     {
       "date": "2021-07-29",
       "locality": "ARTHUR RIVER",
-      "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-30",
+      "locality": "ARTHUR RIVER",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

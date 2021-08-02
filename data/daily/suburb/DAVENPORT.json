@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-29T00:00:00",
+  "date_updated": "2021-08-01T00:00:00",
   "locality": "DAVENPORT",
   "data": [
     {
@@ -26,9 +26,9 @@
     {
       "date": "2021-05-31",
       "locality": "DAVENPORT",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-12",
@@ -68,15 +68,29 @@
     {
       "date": "2021-07-14",
       "locality": "DAVENPORT",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-22",
       "locality": "DAVENPORT",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-30",
+      "locality": "DAVENPORT",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-31",
+      "locality": "DAVENPORT",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

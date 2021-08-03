@@ -14,6 +14,15 @@ Each data record contains the following info
 - Number of Dose 1
 - Number of Dose 2
 
+### postcodeage-{date}.json
+
+Each data record contains the following info
+- Postcode
+- Total dose administered
+- Number of Dose 1
+- Number of Dose 2
+- Age group of people that received the doses
+
 ### suburb-{date}.json
 
 Each data record contains the following info
@@ -21,6 +30,15 @@ Each data record contains the following info
 - Total dose administered
 - Number of Dose 1
 - Number of Dose 2
+
+### suburbage-{date}.json
+
+Each data record contains the following info
+- Suburb name
+- Total dose administered
+- Number of Dose 1
+- Number of Dose 2
+- Age group of people that received the doses
 
 ### timeline.json
 
@@ -34,6 +52,15 @@ Each data record contains the following info
 
 Each data record contains the following info
 - Date 
+- Total doses administered on that date
+- Numboer of dose 1's administered on that date
+- Numboer of dose 2's administered on that date
+
+### dosesage.json
+
+Each data record contains the following info
+- Date 
+- Age group for the for the doses on that date
 - Total doses administered on that date
 - Numboer of dose 1's administered on that date
 - Numboer of dose 2's administered on that date
@@ -52,13 +79,14 @@ Contains the following info
 
 ### daily/all.json
 
-Contains data for every date, suburb and postcode combination with the exact doses performed (dose 1, 2 and total)
+Contains data for every date, suburb, postcode and group combination with the exact doses performed (dose 1, 2 and total)
 - Date
 - Suburb
 - Postcode
 - Dose 1
 - Dose 2
 - Total vaccines
+- Age group
 
 ### daily/postcode/{postcode}.json
 File for every postcode in WA. Contains data for each day there were doses administered for that postcode
@@ -75,3 +103,35 @@ File for every suburb in WA. Contains data for each day there were doses adminis
 - Dose 1
 - Dose 2
 - Total vaccines
+
+Note the files under the dailyage folder are the same as the daily folder, but with additional age group split data
+
+### rollavg.json
+
+The 7 day rolling average of the total doses per day
+ - Date
+ - 7 day total dose rolling average
+
+### rollavgage.json
+
+The 7 day rolling average of the total doses per day split by age group
+ - Date
+ - 7 day total dose rlling average
+ - age group
+
+### rollavgfirstsecond.json
+
+7 day rolling average for each of dose 1,dose 2 and total
+ - Date
+ - total dose rolling average
+ - Dose 1 rolling average
+ - Dose 2 rolling average
+
+### rollavgfirstsecondage.json
+
+7 day rolling average for each of dose 1,dose 2 and total split by age group
+ - Date
+ - Age Group
+ - total dose rolling average
+ - Dose 1 rolling average
+ - Dose 2 rolling average

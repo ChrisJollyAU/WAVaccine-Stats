@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace WAVaccine
 {
-    class WARaw
+    class WAPostcodeTimelineAge
     {
-        public static void DWARaw()
+        public static void Execute()
         {
             var client = new RestClient("https://wabi-australia-southeast-api.analysis.windows.net/public/reports/querydata?synchronous=true");
             client.Timeout = -1;
@@ -88,28 +88,6 @@ namespace WAVaccine
 @"                                        },
 " + "\n" +
 @"                                        ""Name"": ""Date.Date""
-" + "\n" +
-@"                                    },
-" + "\n" +
-@"                                    {
-" + "\n" +
-@"                                        ""Column"": {
-" + "\n" +
-@"                                            ""Expression"": {
-" + "\n" +
-@"                                                ""SourceRef"": {
-" + "\n" +
-@"                                                    ""Source"": ""a1""
-" + "\n" +
-@"                                                }
-" + "\n" +
-@"                                            },
-" + "\n" +
-@"                                            ""Property"": ""locality""
-" + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.locality""
 " + "\n" +
 @"                                    },
 " + "\n" +
@@ -271,32 +249,6 @@ namespace WAVaccine
 " + "\n" +
 @"                                                },
 " + "\n" +
-@"                                                ""Property"": ""locality""
-" + "\n" +
-@"                                            }
-" + "\n" +
-@"                                        }
-" + "\n" +
-@"                                    },
-" + "\n" +
-@"                                    {
-" + "\n" +
-@"                                        ""Direction"": 1,
-" + "\n" +
-@"                                        ""Expression"": {
-" + "\n" +
-@"                                            ""Column"": {
-" + "\n" +
-@"                                                ""Expression"": {
-" + "\n" +
-@"                                                    ""SourceRef"": {
-" + "\n" +
-@"                                                        ""Source"": ""a1""
-" + "\n" +
-@"                                                    }
-" + "\n" +
-@"                                                },
-" + "\n" +
 @"                                                ""Property"": ""postcode""
 " + "\n" +
 @"                                            }
@@ -329,9 +281,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                                4,
 " + "\n" +
-@"                                                5,
-" + "\n" +
-@"                                                6
+@"                                                5
 " + "\n" +
 @"                                            ]
 " + "\n" +
@@ -403,7 +353,7 @@ namespace WAVaccine
 " + "\n" +
 @"}";
             bool hasmore = true;
-            List<WARawOb> to = new List<WARawOb>();
+            List<WAPostTimeAgeOb> to = new List<WAPostTimeAgeOb>();
             DateTime latestdate = DateTime.UnixEpoch;
             do
             {
@@ -417,10 +367,9 @@ namespace WAVaccine
                 var cc = bb.SelectTokens("$..C");
                 var d0 = des["results"][0]["result"]["data"]["dsr"]["DS"][0]["ValueDicts"]["D0"];
                 var d1 = des["results"][0]["result"]["data"]["dsr"]["DS"][0]["ValueDicts"]["D1"];
-                var d2 = des["results"][0]["result"]["data"]["dsr"]["DS"][0]["ValueDicts"]["D2"];
                 foreach (var it in cc)
                 {
-                    WARawOb so = new WARawOb();
+                    WAPostTimeAgeOb so = new WAPostTimeAgeOb();
                     JProperty R = (JProperty)it.Parent.Next;
                     if (R?.Name == "R")
                     {
@@ -442,20 +391,6 @@ namespace WAVaccine
                         }
                         if ((rVal & 2) == 2)
                         {
-                            so.locality = to.Last().locality;
-                        }
-                        else
-                        {
-                            so.locality = Convert.ToString(it[i]);
-                            int localityint = 0;
-                            if (int.TryParse(so.locality, out localityint))
-                            {
-                                so.locality = d0[localityint].ToString();
-                            }
-                            i++;
-                        }
-                        if ((rVal & 4) == 4)
-                        {
                             so.postcode = to.Last().postcode;
                         }
                         else
@@ -466,12 +401,12 @@ namespace WAVaccine
                             {
                                 if (postint < 6000)
                                 {
-                                    so.postcode = d1[postint].ToString();
+                                    so.postcode = d0[postint].ToString();
                                 }
                             }
                             i++;
                         }
-                        if ((rVal & 8) == 8)
+                        if ((rVal & 4) == 4)
                         {
                             so.AgeGroup = to.Last().AgeGroup;
                         }
@@ -480,11 +415,11 @@ namespace WAVaccine
                             so.AgeGroup = Convert.ToString(it[i]);
                             if (int.TryParse(so.AgeGroup, out int agegrp))
                             {
-                                so.AgeGroup = d2[agegrp].ToString();
+                                so.AgeGroup = d1[agegrp].ToString();
                             }
                             i++;
                         }
-                        if ((rVal & 16) == 16)
+                        if ((rVal & 8) == 8)
                         {
                             so.dose1 = to.Last().dose1;
                         }
@@ -493,7 +428,7 @@ namespace WAVaccine
                             so.dose1 = Convert.ToInt32(it[i]);
                             i++;
                         }
-                        if ((rVal & 32) == 32)
+                        if ((rVal & 16) == 16)
                         {
                             so.dose2 = to.Last().dose2;
                         }
@@ -502,7 +437,7 @@ namespace WAVaccine
                             so.dose2 = Convert.ToInt32(it[i]);
                             i++;
                         }
-                        if ((rVal & 64) == 64)
+                        if ((rVal & 32) == 32)
                         {
                             so.vaccines = to.Last().vaccines;
                         }
@@ -519,29 +454,23 @@ namespace WAVaccine
                         var itdate = DateTimeOffset.FromUnixTimeMilliseconds(unixmil);
                         if (itdate.DateTime > latestdate) latestdate = itdate.DateTime;
                         so.date = itdate.ToString("yyyy-MM-dd");
-                        so.locality = Convert.ToString(it[1]);
-                        int localityint = 0;
-                        if (int.TryParse(so.locality, out localityint))
-                        {
-                            so.locality = d0[localityint].ToString();
-                        }
-                        so.postcode = Convert.ToString(it[2]);
+                        so.postcode = Convert.ToString(it[1]);
                         int postint = 0;
                         if (int.TryParse(so.postcode, out postint))
                         {
                             if (postint < 6000)
                             {
-                                so.postcode = d1[postint].ToString();
+                                so.postcode = d0[postint].ToString();
                             }
                         }
-                        so.AgeGroup = Convert.ToString(it[3]);
+                        so.AgeGroup = Convert.ToString(it[2]);
                         if (int.TryParse(so.AgeGroup, out int agegrp))
                         {
-                            so.AgeGroup = d2[agegrp].ToString();
+                            so.AgeGroup = d1[agegrp].ToString();
                         }
-                        so.dose1 = Convert.ToInt32(it[4]);
-                        so.dose2 = Convert.ToInt32(it[5]);
-                        so.vaccines = Convert.ToInt32(it[6]);
+                        so.dose1 = Convert.ToInt32(it[3]);
+                        so.dose2 = Convert.ToInt32(it[4]);
+                        so.vaccines = Convert.ToInt32(it[5]);
                     }
                     to.Add(so);
                 }
@@ -558,35 +487,34 @@ namespace WAVaccine
                 }
             }
             while (hasmore);
-            var grpitems = to.GroupBy(a => new { a.date, a.locality, a.postcode, a.AgeGroup }).ToList();
-            List<WARawOb> results = new List<WARawOb>();
-            foreach (var it in grpitems)
+            var hispost = to.GroupBy(d => new { d.postcode });
+            foreach (var post in hispost)
             {
-                WARawOb no = new WARawOb();
-                no.date = it.Key.date;
-                no.locality = it.Key.locality;
-                no.postcode = it.Key.postcode;
-                no.AgeGroup = it.Key.AgeGroup;
-                no.dose1 = it.Sum(v => v.dose1);
-                no.dose2 = it.Sum(v => v.dose2);
-                no.vaccines = it.Sum(v => v.vaccines);
-                results.Add(no);
+                var grp = post.ToList().GroupBy(ll => new { ll.date,ll.AgeGroup }).Select(hi => new WAPostTimeAgeOb
+                {
+                    date = hi.Key.date,
+                    postcode = post.Key.postcode,
+                    AgeGroup = hi.Key.AgeGroup,
+                    dose1 = hi.Sum(x => x.dose1),
+                    dose2 = hi.Sum(x => x.dose2),
+                    vaccines = hi.Sum(x => x.vaccines)
+                });
+                JsonObject litem = new JsonObject();
+                litem.Add("date_updated", latestdate);
+                litem.Add("postcode", post.Key.postcode);
+                litem.Add("data", grp.ToList());
+                File.WriteAllText("data/dailyage/postcode/" + post.Key.postcode + ".json", JsonConvert.SerializeObject(litem, Formatting.Indented));
             }
-            JsonObject item = new JsonObject();
-            item.Add("date_updated", latestdate);
-            item.Add("data", results);
-            File.WriteAllText("data/daily/all.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 
-    class WARawOb
+    class WAPostTimeAgeOb
     {
         public string date { get; set; }
-        public string locality { get; set; }
         public string postcode { get; set; }
+        public string AgeGroup { get; set; }
         public int dose1 { get; set; }
         public int dose2 { get; set; }
         public int vaccines { get; set; }
-        public string AgeGroup { get; set; }
     }
 }

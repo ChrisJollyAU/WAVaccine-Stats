@@ -15,13 +15,20 @@ namespace WAVaccine
             WASA2Pop.Execute();
             WASA2Suburb.Execute();
             WAPostcode.DoPostcode();
+            WAPostcodeAge.DoPostcodeAge();
             WASuburb.DoSuburb();
+            WASuburbAge.DoSuburbAge();
             WATimeline.DoTimeline();
+            //WATimelineAge.DoTimelineAge();
             WADoses.DoDoses();
+            WADosesAge.DoDosesAge();
             WARaw.DWARaw();
             WAPostcodeTimeline.Execute();
+            WAPostcodeTimelineAge.Execute();
             WASuburbTimeline.Execute();
+            WASuburbTimelineAge.Execute();
             WARollAvg.Execute();
+            WARollAvgAge.Execute();
         }
     }
 }

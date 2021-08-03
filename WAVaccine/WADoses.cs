@@ -307,14 +307,32 @@ namespace WAVaccine
             item.Add("date_updated", latestdate.ToString("yyyy-MM-dd"));
             item.Add("data", to);
             File.WriteAllText("data/doses.json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            Queue<DoseObject> queue = new Queue<DoseObject>();
+            List<DoseObject> rollavg = new List<DoseObject>();
+            var grpitems = to.GroupBy(tt => tt.date);
+            foreach (var it in grpitems)
+            {
+                queue.Enqueue(it.First());
+                if (queue.Count > 7) queue.Dequeue();
+                DoseObject doo = new DoseObject();
+                doo.date = it.Key;
+                doo.dose_1 = queue.Average(qq => qq.dose_1);
+                doo.dose_2 = queue.Average(qq => qq.dose_2);
+                doo.total_administered = queue.Average(qq => qq.total_administered);
+                rollavg.Add(doo);
+            }
+            JsonObject item2 = new JsonObject();
+            item2.Add("date_updated", latestdate.ToString("yyyy-MM-dd"));
+            item2.Add("data", rollavg);
+            File.WriteAllText("data/rollavgfirstsecond.json", JsonConvert.SerializeObject(item2, Formatting.Indented));
         }
     }
 
     public class DoseObject
     {
         public string date { get; set; }
-        public int total_administered { get; set; }
-        public int dose_1 { get; set; }
-        public int dose_2 { get; set; }
+        public decimal total_administered { get; set; }
+        public decimal dose_1 { get; set; }
+        public decimal dose_2 { get; set; }
     }
 }

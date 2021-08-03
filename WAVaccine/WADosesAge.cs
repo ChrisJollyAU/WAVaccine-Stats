@@ -362,6 +362,40 @@ namespace WAVaccine
             item.Add("date_updated", latestdate.ToString("yyyy-MM-dd"));
             item.Add("data", to);
             File.WriteAllText("data/dosesage.json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            Queue<DoseObjectAge> queue1649 = new Queue<DoseObjectAge>();
+            Queue<DoseObjectAge> queue5069 = new Queue<DoseObjectAge>();
+            Queue<DoseObjectAge> queue70over = new Queue<DoseObjectAge>();
+            List<DoseObjectAge> rollavg = new List<DoseObjectAge>();
+            var grpitems = to.GroupBy(tt => new { tt.date, tt.AgeGroup });
+            foreach (var it in grpitems)
+            {
+                Queue<DoseObjectAge> queue = null;
+                if (it.Key.AgeGroup == "16 to 49")
+                {
+                    queue = queue1649;
+                }
+                else if (it.Key.AgeGroup == "50 to 69")
+                {
+                    queue = queue5069;
+                }
+                else if (it.Key.AgeGroup == "70 and over")
+                {
+                    queue = queue70over;
+                }
+                queue.Enqueue(it.First());
+                if (queue.Count > 7) queue.Dequeue();
+                DoseObjectAge doo = new DoseObjectAge();
+                doo.date = it.Key.date;
+                doo.AgeGroup = it.Key.AgeGroup;
+                doo.dose_1 = queue.Average(qq => qq.dose_1);
+                doo.dose_2 = queue.Average(qq => qq.dose_2);
+                doo.total_administered = queue.Average(qq => qq.total_administered);
+                rollavg.Add(doo);
+            }
+            JsonObject item2 = new JsonObject();
+            item2.Add("date_updated", latestdate.ToString("yyyy-MM-dd"));
+            item2.Add("data", rollavg);
+            File.WriteAllText("data/rollavgfirstsecondage.json", JsonConvert.SerializeObject(item2, Formatting.Indented));
         }
     }
 
@@ -369,8 +403,8 @@ namespace WAVaccine
     {
         public string date { get; set; }
         public string AgeGroup { get; set; }
-        public int total_administered { get; set; }
-        public int dose_1 { get; set; }
-        public int dose_2 { get; set; }
+        public decimal total_administered { get; set; }
+        public decimal dose_1 { get; set; }
+        public decimal dose_2 { get; set; }
     }
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-01T00:00:00",
+  "date_updated": "2021-08-02T00:00:00",
   "locality": "EAST PERTH",
   "data": [
     {
@@ -1111,16 +1111,23 @@
     {
       "date": "2021-07-31",
       "locality": "EAST PERTH",
-      "dose1": 6,
-      "dose2": 10,
-      "vaccines": 16
+      "dose1": 9,
+      "dose2": 12,
+      "vaccines": 21
     },
     {
       "date": "2021-08-01",
       "locality": "EAST PERTH",
-      "dose1": 8,
-      "dose2": 7,
-      "vaccines": 15
+      "dose1": 12,
+      "dose2": 10,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "EAST PERTH",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

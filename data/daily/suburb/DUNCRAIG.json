@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-01T00:00:00",
+  "date_updated": "2021-08-02T00:00:00",
   "locality": "DUNCRAIG",
   "data": [
     {
@@ -559,8 +559,8 @@
       "date": "2021-05-14",
       "locality": "DUNCRAIG",
       "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose2": 1,
+      "vaccines": 7
     },
     {
       "date": "2021-05-15",
@@ -1114,6 +1114,13 @@
       "dose1": 9,
       "dose2": 14,
       "vaccines": 23
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "DUNCRAIG",
+      "dose1": 17,
+      "dose2": 24,
+      "vaccines": 41
     }
   ]
 }

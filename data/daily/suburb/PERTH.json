@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-01T00:00:00",
+  "date_updated": "2021-08-02T00:00:00",
   "locality": "PERTH",
   "data": [
     {
@@ -411,9 +411,9 @@
     {
       "date": "2021-04-22",
       "locality": "PERTH",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-04-23",
@@ -467,9 +467,9 @@
     {
       "date": "2021-04-30",
       "locality": "PERTH",
-      "dose1": 6,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 4
     },
     {
       "date": "2021-05-01",
@@ -1007,8 +1007,8 @@
       "date": "2021-07-16",
       "locality": "PERTH",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 4,
+      "vaccines": 11
     },
     {
       "date": "2021-07-17",
@@ -1104,23 +1104,30 @@
     {
       "date": "2021-07-30",
       "locality": "PERTH",
-      "dose1": 8,
-      "dose2": 7,
-      "vaccines": 15
+      "dose1": 10,
+      "dose2": 8,
+      "vaccines": 18
     },
     {
       "date": "2021-07-31",
       "locality": "PERTH",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 8,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-08-01",
       "locality": "PERTH",
-      "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose1": 7,
+      "dose2": 7,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "PERTH",
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
     }
   ]
 }

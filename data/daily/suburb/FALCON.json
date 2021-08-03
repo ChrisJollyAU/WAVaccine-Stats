@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-01T00:00:00",
+  "date_updated": "2021-08-02T00:00:00",
   "locality": "FALCON",
   "data": [
     {
@@ -922,9 +922,9 @@
     {
       "date": "2021-07-31",
       "locality": "FALCON",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose1": 6,
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-08-01",
@@ -932,6 +932,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "FALCON",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

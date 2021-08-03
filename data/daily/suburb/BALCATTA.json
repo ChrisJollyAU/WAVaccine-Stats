@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-01T00:00:00",
+  "date_updated": "2021-08-02T00:00:00",
   "locality": "BALCATTA",
   "data": [
     {
@@ -1084,8 +1084,8 @@
       "date": "2021-07-29",
       "locality": "BALCATTA",
       "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose2": 9,
+      "vaccines": 14
     },
     {
       "date": "2021-07-30",
@@ -1107,6 +1107,13 @@
       "dose1": 6,
       "dose2": 5,
       "vaccines": 11
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "BALCATTA",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

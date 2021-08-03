@@ -159,7 +159,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Measure"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -171,7 +171,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""dose_one""
+@"                                            ""Property"": ""Dose 1""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -181,7 +181,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Measure"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -193,7 +193,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""dose_two""
+@"                                            ""Property"": ""Dose 2""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -203,7 +203,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Measure"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -215,7 +215,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""vaccines""
+@"                                            ""Property"": ""Doses administered""
 " + "\n" +
 @"                                        },
 " + "\n" +

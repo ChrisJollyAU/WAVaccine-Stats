@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-08-02T00:00:00",
   "locality": "HAZELVALE",
   "data": [
     {
@@ -54,9 +54,9 @@
     {
       "date": "2021-05-26",
       "locality": "HAZELVALE",
-      "dose1": 5,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 1
     },
     {
       "date": "2021-05-29",
@@ -75,9 +75,9 @@
     {
       "date": "2021-06-02",
       "locality": "HAZELVALE",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-04",
@@ -89,9 +89,9 @@
     {
       "date": "2021-06-05",
       "locality": "HAZELVALE",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-06-11",
@@ -175,6 +175,13 @@
       "locality": "HAZELVALE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "HAZELVALE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

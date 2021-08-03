@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-08-02T00:00:00",
   "locality": "TAKALARUP",
   "data": [
     {
@@ -11,6 +11,13 @@
     },
     {
       "date": "2021-03-24",
+      "locality": "TAKALARUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-13",
       "locality": "TAKALARUP",
       "dose1": 1,
       "dose2": 0,
@@ -82,15 +89,22 @@
     {
       "date": "2021-06-28",
       "locality": "TAKALARUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-05",
       "locality": "TAKALARUP",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-07",
+      "locality": "TAKALARUP",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -138,9 +152,9 @@
     {
       "date": "2021-07-25",
       "locality": "TAKALARUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-26",
@@ -155,6 +169,20 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-01",
+      "locality": "TAKALARUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "TAKALARUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

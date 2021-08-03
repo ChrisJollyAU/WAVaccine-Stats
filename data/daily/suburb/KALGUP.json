@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-07-27T00:00:00",
+  "date_updated": "2021-08-02T00:00:00",
   "locality": "KALGUP",
   "data": [
     {
@@ -19,23 +19,23 @@
     {
       "date": "2021-05-22",
       "locality": "KALGUP",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-05-29",
       "locality": "KALGUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-02",
       "locality": "KALGUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-05",
@@ -68,16 +68,23 @@
     {
       "date": "2021-07-01",
       "locality": "KALGUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-22",
       "locality": "KALGUP",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "KALGUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "GERALDTON PO",
   "data": [
     {
@@ -845,9 +845,16 @@
     {
       "date": "2021-08-02",
       "locality": "GERALDTON PO",
-      "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "GERALDTON PO",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

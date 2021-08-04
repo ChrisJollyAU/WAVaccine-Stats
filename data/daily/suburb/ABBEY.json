@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "ABBEY",
   "data": [
     {
@@ -782,15 +782,22 @@
     {
       "date": "2021-07-31",
       "locality": "ABBEY",
-      "dose1": 1,
-      "dose2": 10,
-      "vaccines": 11
+      "dose1": 4,
+      "dose2": 11,
+      "vaccines": 15
     },
     {
       "date": "2021-08-02",
       "locality": "ABBEY",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "ABBEY",
+      "dose1": 3,
+      "dose2": 2,
       "vaccines": 5
     }
   ]

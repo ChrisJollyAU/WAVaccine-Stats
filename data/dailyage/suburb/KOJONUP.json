@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "postcode": "KOJONUP",
   "data": [
     {
@@ -681,14 +681,6 @@
       "dose1": 6,
       "dose2": 0,
       "vaccines": 6
-    },
-    {
-      "date": "2021-06-02",
-      "locality": "KOJONUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-06-03",
@@ -1374,9 +1366,9 @@
       "date": "2021-07-21",
       "locality": "KOJONUP",
       "AgeGroup": "16 to 49",
-      "dose1": 30,
+      "dose1": 28,
       "dose2": 2,
-      "vaccines": 32
+      "vaccines": 30
     },
     {
       "date": "2021-07-21",
@@ -1574,8 +1566,32 @@
       "date": "2021-08-02",
       "locality": "KOJONUP",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "KOJONUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "KOJONUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "KOJONUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

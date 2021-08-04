@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "SEVILLE GROVE",
   "data": [
     {
@@ -344,6 +344,13 @@
       "dose1": 3,
       "dose2": 4,
       "vaccines": 7
+    },
+    {
+      "date": "2021-04-25",
+      "locality": "SEVILLE GROVE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-26",
@@ -720,8 +727,8 @@
       "date": "2021-06-20",
       "locality": "SEVILLE GROVE",
       "dose1": 9,
-      "dose2": 1,
-      "vaccines": 10
+      "dose2": 2,
+      "vaccines": 11
     },
     {
       "date": "2021-06-21",
@@ -1020,9 +1027,16 @@
     {
       "date": "2021-08-02",
       "locality": "SEVILLE GROVE",
-      "dose1": 6,
-      "dose2": 6,
-      "vaccines": 12
+      "dose1": 18,
+      "dose2": 10,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "SEVILLE GROVE",
+      "dose1": 10,
+      "dose2": 21,
+      "vaccines": 31
     }
   ]
 }

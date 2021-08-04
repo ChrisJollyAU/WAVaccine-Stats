@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "WANNANUP",
   "data": [
     {
@@ -923,8 +923,15 @@
       "date": "2021-08-02",
       "locality": "WANNANUP",
       "dose1": 1,
-      "dose2": 20,
-      "vaccines": 21
+      "dose2": 22,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "WANNANUP",
+      "dose1": 8,
+      "dose2": 12,
+      "vaccines": 20
     }
   ]
 }

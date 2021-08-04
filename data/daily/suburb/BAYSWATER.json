@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "BAYSWATER",
   "data": [
     {
@@ -775,9 +775,9 @@
     {
       "date": "2021-06-13",
       "locality": "BAYSWATER",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 3,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-06-14",
@@ -936,16 +936,16 @@
     {
       "date": "2021-07-06",
       "locality": "BAYSWATER",
-      "dose1": 51,
+      "dose1": 52,
       "dose2": 16,
-      "vaccines": 67
+      "vaccines": 68
     },
     {
       "date": "2021-07-07",
       "locality": "BAYSWATER",
       "dose1": 59,
-      "dose2": 60,
-      "vaccines": 119
+      "dose2": 61,
+      "vaccines": 120
     },
     {
       "date": "2021-07-08",
@@ -1104,9 +1104,9 @@
     {
       "date": "2021-07-30",
       "locality": "BAYSWATER",
-      "dose1": 56,
-      "dose2": 51,
-      "vaccines": 107
+      "dose1": 57,
+      "dose2": 52,
+      "vaccines": 109
     },
     {
       "date": "2021-07-31",
@@ -1118,16 +1118,23 @@
     {
       "date": "2021-08-01",
       "locality": "BAYSWATER",
-      "dose1": 52,
+      "dose1": 54,
       "dose2": 34,
-      "vaccines": 86
+      "vaccines": 88
     },
     {
       "date": "2021-08-02",
       "locality": "BAYSWATER",
-      "dose1": 22,
-      "dose2": 35,
-      "vaccines": 57
+      "dose1": 26,
+      "dose2": 38,
+      "vaccines": 64
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BAYSWATER",
+      "dose1": 31,
+      "dose2": 69,
+      "vaccines": 100
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "ALKIMOS",
   "data": [
     {
@@ -1034,9 +1034,16 @@
     {
       "date": "2021-08-02",
       "locality": "ALKIMOS",
-      "dose1": 20,
-      "dose2": 36,
-      "vaccines": 56
+      "dose1": 23,
+      "dose2": 41,
+      "vaccines": 64
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "ALKIMOS",
+      "dose1": 37,
+      "dose2": 46,
+      "vaccines": 83
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "ASHBY",
   "data": [
     {
@@ -1014,8 +1014,15 @@
       "date": "2021-08-02",
       "locality": "ASHBY",
       "dose1": 10,
-      "dose2": 14,
-      "vaccines": 24
+      "dose2": 17,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "ASHBY",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "postcode": "BUSSELTON",
   "data": [
     {
@@ -2102,9 +2102,9 @@
       "date": "2021-07-02",
       "locality": "BUSSELTON",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 6,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-07-03",
@@ -2726,17 +2726,17 @@
       "date": "2021-07-31",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 21,
-      "vaccines": 22
+      "dose1": 5,
+      "dose2": 32,
+      "vaccines": 37
     },
     {
       "date": "2021-07-31",
       "locality": "BUSSELTON",
       "AgeGroup": "70 and over",
-      "dose1": 7,
-      "dose2": 26,
-      "vaccines": 33
+      "dose1": 8,
+      "dose2": 47,
+      "vaccines": 55
     },
     {
       "date": "2021-08-01",
@@ -2758,25 +2758,49 @@
       "date": "2021-08-02",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 6
     },
     {
       "date": "2021-08-02",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-02",
       "locality": "BUSSELTON",
       "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BUSSELTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 4,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BUSSELTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 18,
+      "dose2": 6,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BUSSELTON",
+      "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

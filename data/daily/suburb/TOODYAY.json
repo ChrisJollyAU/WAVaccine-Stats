@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "TOODYAY",
   "data": [
     {
@@ -901,9 +901,16 @@
     {
       "date": "2021-08-02",
       "locality": "TOODYAY",
-      "dose1": 2,
-      "dose2": 17,
-      "vaccines": 19
+      "dose1": 8,
+      "dose2": 19,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "TOODYAY",
+      "dose1": 7,
+      "dose2": 27,
+      "vaccines": 34
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "PRESTON BEACH",
   "data": [
     {
@@ -172,6 +172,13 @@
     },
     {
       "date": "2021-05-13",
+      "locality": "PRESTON BEACH",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-05-15",
       "locality": "PRESTON BEACH",
       "dose1": 2,
       "dose2": 0,
@@ -462,6 +469,13 @@
       "locality": "PRESTON BEACH",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "PRESTON BEACH",
+      "dose1": 2,
+      "dose2": 0,
       "vaccines": 2
     }
   ]

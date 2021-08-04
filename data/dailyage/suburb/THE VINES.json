@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "postcode": "THE VINES",
   "data": [
     {
@@ -3049,6 +3049,30 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "THE VINES",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 4,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "THE VINES",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 19,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "THE VINES",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

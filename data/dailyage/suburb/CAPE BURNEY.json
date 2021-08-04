@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "postcode": "CAPE BURNEY",
   "data": [
     {
@@ -1085,6 +1085,14 @@
     {
       "date": "2021-07-30",
       "locality": "CAPE BURNEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-30",
+      "locality": "CAPE BURNEY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 4,
@@ -1117,10 +1125,18 @@
     {
       "date": "2021-08-02",
       "locality": "CAPE BURNEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "CAPE BURNEY",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-08-02",
@@ -1129,6 +1145,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "CAPE BURNEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "CAPE BURNEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

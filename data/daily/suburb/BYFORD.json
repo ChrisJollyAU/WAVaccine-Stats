@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "BYFORD",
   "data": [
     {
@@ -271,9 +271,9 @@
     {
       "date": "2021-04-06",
       "locality": "BYFORD",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 4,
-      "vaccines": 29
+      "vaccines": 28
     },
     {
       "date": "2021-04-07",
@@ -1076,9 +1076,16 @@
     {
       "date": "2021-08-02",
       "locality": "BYFORD",
-      "dose1": 5,
-      "dose2": 13,
-      "vaccines": 18
+      "dose1": 12,
+      "dose2": 14,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BYFORD",
+      "dose1": 34,
+      "dose2": 48,
+      "vaccines": 82
     }
   ]
 }

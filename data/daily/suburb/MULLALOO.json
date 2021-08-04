@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "MULLALOO",
   "data": [
     {
@@ -173,9 +173,9 @@
     {
       "date": "2021-03-24",
       "locality": "MULLALOO",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 5,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-03-25",
@@ -446,9 +446,9 @@
     {
       "date": "2021-05-05",
       "locality": "MULLALOO",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 0,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-05-06",
@@ -734,8 +734,8 @@
       "date": "2021-06-15",
       "locality": "MULLALOO",
       "dose1": 29,
-      "dose2": 11,
-      "vaccines": 40
+      "dose2": 12,
+      "vaccines": 41
     },
     {
       "date": "2021-06-16",
@@ -957,9 +957,9 @@
     {
       "date": "2021-07-17",
       "locality": "MULLALOO",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 7,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-07-18",
@@ -1034,8 +1034,8 @@
     {
       "date": "2021-07-28",
       "locality": "MULLALOO",
-      "dose1": 26,
-      "dose2": 22,
+      "dose1": 25,
+      "dose2": 23,
       "vaccines": 48
     },
     {
@@ -1070,8 +1070,15 @@
       "date": "2021-08-02",
       "locality": "MULLALOO",
       "dose1": 14,
-      "dose2": 26,
-      "vaccines": 40
+      "dose2": 30,
+      "vaccines": 44
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "MULLALOO",
+      "dose1": 17,
+      "dose2": 46,
+      "vaccines": 63
     }
   ]
 }

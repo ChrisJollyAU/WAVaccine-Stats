@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "postcode": "BURNS BEACH",
   "data": [
     {
@@ -2839,8 +2839,8 @@
       "locality": "BURNS BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 17,
-      "vaccines": 29
+      "dose2": 21,
+      "vaccines": 33
     },
     {
       "date": "2021-08-02",
@@ -2857,6 +2857,22 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BURNS BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 7,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BURNS BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 8,
+      "dose2": 19,
+      "vaccines": 27
     }
   ]
 }

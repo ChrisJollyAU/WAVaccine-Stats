@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "EAST",
   "data": [
     {
@@ -77,6 +77,13 @@
       "locality": "EAST",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "EAST",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

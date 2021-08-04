@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "postcode": "AVELEY",
   "data": [
     {
@@ -1662,9 +1662,9 @@
       "date": "2021-05-23",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-05-24",
@@ -1870,9 +1870,9 @@
       "date": "2021-06-02",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 1,
-      "vaccines": 22
+      "vaccines": 21
     },
     {
       "date": "2021-06-02",
@@ -1998,9 +1998,9 @@
       "date": "2021-06-08",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 2,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-06-08",
@@ -2974,9 +2974,9 @@
       "date": "2021-07-22",
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 11,
-      "vaccines": 33
+      "vaccines": 34
     },
     {
       "date": "2021-07-22",
@@ -3223,16 +3223,16 @@
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 22,
-      "vaccines": 32
+      "dose2": 23,
+      "vaccines": 33
     },
     {
       "date": "2021-08-02",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 11,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-08-02",
@@ -3241,6 +3241,30 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "AVELEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 16,
+      "dose2": 12,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "AVELEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 14,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "AVELEY",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

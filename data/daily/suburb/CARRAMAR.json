@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "CARRAMAR",
   "data": [
     {
@@ -978,9 +978,9 @@
     {
       "date": "2021-07-16",
       "locality": "CARRAMAR",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 11,
-      "vaccines": 28
+      "vaccines": 27
     },
     {
       "date": "2021-07-17",
@@ -1076,9 +1076,9 @@
     {
       "date": "2021-07-30",
       "locality": "CARRAMAR",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 19,
-      "vaccines": 43
+      "vaccines": 44
     },
     {
       "date": "2021-07-31",
@@ -1098,8 +1098,15 @@
       "date": "2021-08-02",
       "locality": "CARRAMAR",
       "dose1": 17,
-      "dose2": 41,
-      "vaccines": 58
+      "dose2": 45,
+      "vaccines": 62
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "CARRAMAR",
+      "dose1": 24,
+      "dose2": 36,
+      "vaccines": 60
     }
   ]
 }

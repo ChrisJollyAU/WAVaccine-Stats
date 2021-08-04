@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "VASSE",
   "data": [
     {
@@ -334,9 +334,9 @@
     {
       "date": "2021-05-15",
       "locality": "VASSE",
-      "dose1": 24,
+      "dose1": 23,
       "dose2": 0,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2021-05-17",
@@ -761,9 +761,9 @@
     {
       "date": "2021-07-21",
       "locality": "VASSE",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-07-22",
@@ -831,16 +831,23 @@
     {
       "date": "2021-07-31",
       "locality": "VASSE",
-      "dose1": 0,
-      "dose2": 10,
-      "vaccines": 10
+      "dose1": 2,
+      "dose2": 12,
+      "vaccines": 14
     },
     {
       "date": "2021-08-02",
       "locality": "VASSE",
-      "dose1": 6,
+      "dose1": 10,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "VASSE",
+      "dose1": 9,
+      "dose2": 4,
+      "vaccines": 13
     }
   ]
 }

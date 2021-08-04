@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "KALAMUNDA",
   "data": [
     {
@@ -334,16 +334,16 @@
     {
       "date": "2021-04-15",
       "locality": "KALAMUNDA",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-04-16",
       "locality": "KALAMUNDA",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 4,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-04-17",
@@ -489,8 +489,8 @@
       "date": "2021-05-07",
       "locality": "KALAMUNDA",
       "dose1": 22,
-      "dose2": 1,
-      "vaccines": 23
+      "dose2": 2,
+      "vaccines": 24
     },
     {
       "date": "2021-05-08",
@@ -552,8 +552,8 @@
       "date": "2021-05-16",
       "locality": "KALAMUNDA",
       "dose1": 16,
-      "dose2": 0,
-      "vaccines": 16
+      "dose2": 1,
+      "vaccines": 17
     },
     {
       "date": "2021-05-17",
@@ -1077,15 +1077,15 @@
       "date": "2021-07-30",
       "locality": "KALAMUNDA",
       "dose1": 18,
-      "dose2": 20,
-      "vaccines": 38
+      "dose2": 21,
+      "vaccines": 39
     },
     {
       "date": "2021-07-31",
       "locality": "KALAMUNDA",
       "dose1": 14,
-      "dose2": 53,
-      "vaccines": 67
+      "dose2": 55,
+      "vaccines": 69
     },
     {
       "date": "2021-08-01",
@@ -1097,9 +1097,16 @@
     {
       "date": "2021-08-02",
       "locality": "KALAMUNDA",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 43,
-      "vaccines": 57
+      "vaccines": 58
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "KALAMUNDA",
+      "dose1": 13,
+      "dose2": 26,
+      "vaccines": 39
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "MIRA MAR",
   "data": [
     {
@@ -986,8 +986,15 @@
       "date": "2021-08-02",
       "locality": "MIRA MAR",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "MIRA MAR",
+      "dose1": 4,
+      "dose2": 8,
+      "vaccines": 12
     }
   ]
 }

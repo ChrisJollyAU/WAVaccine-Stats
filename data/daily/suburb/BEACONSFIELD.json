@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "BEACONSFIELD",
   "data": [
     {
@@ -1083,9 +1083,16 @@
     {
       "date": "2021-08-02",
       "locality": "BEACONSFIELD",
-      "dose1": 3,
-      "dose2": 19,
-      "vaccines": 22
+      "dose1": 5,
+      "dose2": 20,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BEACONSFIELD",
+      "dose1": 6,
+      "dose2": 23,
+      "vaccines": 29
     }
   ]
 }

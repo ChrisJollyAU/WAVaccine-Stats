@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "postcode": "EATON",
   "data": [
     {
@@ -2817,6 +2817,30 @@
       "dose1": 0,
       "dose2": 19,
       "vaccines": 19
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "EATON",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 7,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "EATON",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "EATON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

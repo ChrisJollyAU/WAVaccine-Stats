@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "BEELIAR",
   "data": [
     {
@@ -1062,9 +1062,9 @@
     {
       "date": "2021-08-01",
       "locality": "BEELIAR",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 10,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-08-02",
@@ -1072,6 +1072,13 @@
       "dose1": 10,
       "dose2": 15,
       "vaccines": 25
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BEELIAR",
+      "dose1": 29,
+      "dose2": 20,
+      "vaccines": 49
     }
   ]
 }

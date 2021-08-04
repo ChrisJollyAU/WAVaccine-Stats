@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-02T00:00:00",
+  "date_updated": "2021-08-03T00:00:00",
   "locality": "JOONDALUP DC",
   "data": [
     {
@@ -318,13 +318,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-17",
-      "locality": "JOONDALUP DC",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-18",
       "locality": "JOONDALUP DC",
       "dose1": 1,
@@ -482,8 +475,8 @@
       "date": "2021-07-19",
       "locality": "JOONDALUP DC",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-20",
@@ -561,6 +554,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "JOONDALUP DC",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
     }
   ]
 }

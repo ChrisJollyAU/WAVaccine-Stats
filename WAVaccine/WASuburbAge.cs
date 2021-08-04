@@ -3,6 +3,7 @@ using Newtonsoft.Json.Linq;
 using RestSharp;
 using RestSharp.Serializers.NewtonsoftJson;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
@@ -386,45 +387,91 @@ namespace WAVaccine
             item.Add("data", to);
             File.WriteAllText("data/suburbage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
 
-            //DoSa2Stats(to);
+            DoSa2Stats(to);
         }
 
-        private static void DoSa2Stats(List<SuburbObject> to)
+        private static void DoSa2Stats(List<SuburbObjectAge> to)
         {
             var sa2poptext = File.ReadAllText("data/sa2pop.json");
             var sa2suburbtext = File.ReadAllText("data/sa2suburb.json");
+            var sa2subagetext = File.ReadAllText("data/sa2agegrp.json");
             JObject sa2json = (JObject) JsonConvert.DeserializeObject(sa2poptext);
             JObject sa2subjson = (JObject)JsonConvert.DeserializeObject(sa2suburbtext);
+            JObject sa2subagejson = (JObject)JsonConvert.DeserializeObject(sa2subagetext);
             JArray ar1 = (JArray)sa2json["data"];
             JArray ar2 = (JArray)sa2subjson["data"];
             var sa2pop = JsonConvert.DeserializeObject<List<SA2PopOb>>(ar1.ToString());
             var sa2sub = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2.ToString());
             var grpsa2sub = sa2sub.GroupBy(ss => ss.SA2_Name);
-            List<SA2Detail> sa2det = new List<SA2Detail>();
+            List<SA2DetailAge> sa2det = new List<SA2DetailAge>();
             foreach (var it in grpsa2sub)
             {
-                SA2Detail sdet = new SA2Detail();
+                SA2DetailAge sdet = new SA2DetailAge();
                 sdet.SA2Name = it.Key;
                 sdet.c16_plus = (int)sa2pop.Single(sp => sp.name == it.Key).c16_plus;
+                var subage = sa2subagejson[it.Key];
+                int ct_50_69 = 0;
+                int ct_70p = 0;
+                int ct_16_49 = 0;
+                if (subage != null)
+                {
+                    ct_50_69 = Convert.ToInt32(subage["FIELD2"].ToString());
+                    ct_70p = Convert.ToInt32(subage["FIELD3"].ToString());
+                    ct_16_49 = sdet.c16_plus - ct_50_69 - ct_70p;
+                    sdet.c_16_49 = ct_16_49;
+                    sdet.c_50_69 = ct_50_69;
+                    sdet.c_70p = ct_70p;
+                }
+                
                 foreach (var it2 in it)
                 {
-                    SuburbObject ob = to.SingleOrDefault(tt => tt.suburb_name == it2.name);
-                    if (ob != null)
+                    List<SuburbObjectAge> obs = to.Where(tt => tt.suburb_name == it2.name).ToList();
+                    foreach (var ob in obs)
                     {
-                        sdet.dose1 += ob.dose_1;
-                        sdet.dose2 += ob.dose_2;
-                        sdet.total_doses += ob.total_dose;
+                        if (ob.AgeGroup == "16 to 49")
+{
+                            sdet.dose1_16_49 += ob.dose_1;
+                            sdet.dose2_16_49 += ob.dose_2;
+                            sdet.total_doses += ob.total_dose;
+                        }
+                        else if (ob.AgeGroup == "50 to 69")
+                        {
+                            sdet.dose1_50_69 += ob.dose_1;
+                            sdet.dose2_50_69 += ob.dose_2;
+                            sdet.total_doses += ob.total_dose;
+                        }
+                        else if (ob.AgeGroup == "70 and over")
+                        {
+                            sdet.dose1_70p += ob.dose_1;
+                            sdet.dose2_70p += ob.dose_2;
+                            sdet.total_doses += ob.total_dose;
+                        }
                     }
                 }
-                sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
+                sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                if (ct_16_49 > 0)
+                {
+                    sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)ct_16_49 * 100;
+                    sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)ct_16_49 * 100;
+                }
+                if (ct_50_69 > 0)
+                {
+                    sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)ct_50_69 * 100;
+                    sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)ct_50_69 * 100;
+                }
+                if (ct_70p > 0)
+                {
+                    sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)ct_70p * 100;
+                    sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)ct_70p * 100;
+                }
                 sa2det.Add(sdet);
             }
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
             JsonObject item = new JsonObject();
             item.Add("date", date);
             item.Add("data", sa2det);
-            File.WriteAllText("data/sa2summary-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/sa2summaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 
@@ -436,5 +483,28 @@ namespace WAVaccine
         public int dose_2 { get; set; }
 
         public string AgeGroup { get; set; }
+    }
+    class SA2DetailAge
+    {
+        public string SA2Name { get; set; }
+        public int c16_plus { get; set; }
+        public int c_16_49 { get; set; }
+        public int c_50_69 { get; set; }
+        public int c_70p { get; set; }
+        public int dose1_16_49 { get; set; }
+        public int dose2_16_49 { get; set; }
+        public int dose1_50_69 { get; set; }
+        public int dose2_50_69 { get; set; }
+        public int dose1_70p { get; set; }
+        public int dose2_70p { get; set; }
+        public int total_doses { get; set; }
+        public decimal atleast_1dose_percent { get; set; }
+        public decimal full_vaccinated_percent { get; set; }
+        public decimal min1d_16_49_pc {get;set;}
+        public decimal full_16_49_pc { get; set; }
+        public decimal min1d_50_69_pc { get; set; }
+        public decimal full_50_69_pc { get; set; }
+        public decimal min1d_70p_pc { get; set; }
+        public decimal full_70p_pc { get; set; }
     }
 }

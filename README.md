@@ -77,6 +77,22 @@ Contains the following info
 - Percent of region with at least 1 dose
 - Percent of region fully vaccinated
 
+### sa2summaryage-{date}.json
+
+Summarises details at the SA2 (Statistical Area 2) level with details for age groups
+Contains the following info
+- SA2 Name
+- Number aged 16 and over
+- Number aged between 16 and 49
+- Number aged between 50 and 69
+- Number aged 70+
+- Dose 1 and 2 for each of the above age groups
+- Total number of doses for the region
+- Percent of region with at least 1 dose
+- Percent of region fully vaccinated
+- Percent of population in each of the categories with at least 1 dose
+- Percent of population in each of the categories fully vaccinated
+- 
 ### daily/all.json
 
 Contains data for every date, suburb, postcode and group combination with the exact doses performed (dose 1, 2 and total)

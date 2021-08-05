@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "GREENWOOD",
   "data": [
     {
@@ -75,9 +75,9 @@
     {
       "date": "2021-03-05",
       "locality": "GREENWOOD",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-03-06",
@@ -223,8 +223,8 @@
       "date": "2021-03-26",
       "locality": "GREENWOOD",
       "dose1": 28,
-      "dose2": 5,
-      "vaccines": 33
+      "dose2": 4,
+      "vaccines": 32
     },
     {
       "date": "2021-03-27",
@@ -1083,16 +1083,16 @@
     {
       "date": "2021-07-30",
       "locality": "GREENWOOD",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 27,
-      "vaccines": 59
+      "vaccines": 60
     },
     {
       "date": "2021-07-31",
       "locality": "GREENWOOD",
       "dose1": 37,
-      "dose2": 19,
-      "vaccines": 56
+      "dose2": 21,
+      "vaccines": 58
     },
     {
       "date": "2021-08-01",
@@ -1111,9 +1111,16 @@
     {
       "date": "2021-08-03",
       "locality": "GREENWOOD",
-      "dose1": 25,
-      "dose2": 52,
-      "vaccines": 77
+      "dose1": 27,
+      "dose2": 59,
+      "vaccines": 86
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "GREENWOOD",
+      "dose1": 35,
+      "dose2": 41,
+      "vaccines": 76
     }
   ]
 }

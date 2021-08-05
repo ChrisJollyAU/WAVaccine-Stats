@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "CANNING BRG APPLE",
   "data": [
     {
@@ -621,9 +621,16 @@
     {
       "date": "2021-08-03",
       "locality": "CANNING BRG APPLE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "CANNING BRG APPLE",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

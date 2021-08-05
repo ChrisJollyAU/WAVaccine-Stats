@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "postcode": "ERSKINE",
   "data": [
     {
@@ -446,17 +446,17 @@
       "date": "2021-04-07",
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-04-07",
       "locality": "ERSKINE",
       "AgeGroup": "70 and over",
-      "dose1": 48,
+      "dose1": 49,
       "dose2": 1,
-      "vaccines": 49
+      "vaccines": 50
     },
     {
       "date": "2021-04-08",
@@ -1823,16 +1823,16 @@
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
       "dose1": 13,
-      "dose2": 4,
-      "vaccines": 17
+      "dose2": 3,
+      "vaccines": 16
     },
     {
       "date": "2021-06-30",
       "locality": "ERSKINE",
       "AgeGroup": "70 and over",
       "dose1": 8,
-      "dose2": 48,
-      "vaccines": 56
+      "dose2": 49,
+      "vaccines": 57
     },
     {
       "date": "2021-07-01",
@@ -2478,8 +2478,8 @@
       "date": "2021-07-31",
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
-      "dose2": 1,
+      "dose1": 2,
+      "dose2": 2,
       "vaccines": 4
     },
     {
@@ -2535,16 +2535,16 @@
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-03",
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-08-03",
@@ -2553,6 +2553,30 @@
       "dose1": 2,
       "dose2": 16,
       "vaccines": 18
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "ERSKINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "ERSKINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 8,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "ERSKINE",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
     }
   ]
 }

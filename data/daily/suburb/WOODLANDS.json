@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "WOODLANDS",
   "data": [
     {
@@ -768,9 +768,9 @@
     {
       "date": "2021-06-18",
       "locality": "WOODLANDS",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 11,
-      "vaccines": 22
+      "vaccines": 21
     },
     {
       "date": "2021-06-19",
@@ -1014,8 +1014,8 @@
       "date": "2021-07-23",
       "locality": "WOODLANDS",
       "dose1": 14,
-      "dose2": 27,
-      "vaccines": 41
+      "dose2": 26,
+      "vaccines": 40
     },
     {
       "date": "2021-07-24",
@@ -1091,8 +1091,15 @@
       "date": "2021-08-03",
       "locality": "WOODLANDS",
       "dose1": 8,
-      "dose2": 30,
-      "vaccines": 38
+      "dose2": 32,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "WOODLANDS",
+      "dose1": 15,
+      "dose2": 15,
+      "vaccines": 30
     }
   ]
 }

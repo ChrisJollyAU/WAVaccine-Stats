@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "MAIDA VALE",
   "data": [
     {
@@ -530,9 +530,9 @@
     {
       "date": "2021-05-19",
       "locality": "MAIDA VALE",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 1,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-05-20",
@@ -1062,9 +1062,16 @@
     {
       "date": "2021-08-03",
       "locality": "MAIDA VALE",
-      "dose1": 13,
+      "dose1": 18,
       "dose2": 7,
-      "vaccines": 20
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "MAIDA VALE",
+      "dose1": 9,
+      "dose2": 18,
+      "vaccines": 27
     }
   ]
 }

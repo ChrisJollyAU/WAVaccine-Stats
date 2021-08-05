@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "EAST CANNINGTON",
   "data": [
     {
@@ -1070,8 +1070,15 @@
       "date": "2021-08-03",
       "locality": "EAST CANNINGTON",
       "dose1": 6,
+      "dose2": 14,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "EAST CANNINGTON",
+      "dose1": 13,
       "dose2": 13,
-      "vaccines": 19
+      "vaccines": 26
     }
   ]
 }

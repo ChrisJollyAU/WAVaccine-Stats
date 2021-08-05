@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "postcode": "EDGEWATER",
   "data": [
     {
@@ -350,9 +350,9 @@
       "date": "2021-03-22",
       "locality": "EDGEWATER",
       "AgeGroup": "70 and over",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-03-23",
@@ -1782,17 +1782,17 @@
       "date": "2021-06-05",
       "locality": "EDGEWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-05",
       "locality": "EDGEWATER",
       "AgeGroup": "50 to 69",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 0,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-06-05",
@@ -2407,16 +2407,16 @@
       "locality": "EDGEWATER",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 6
     },
     {
       "date": "2021-07-03",
       "locality": "EDGEWATER",
       "AgeGroup": "50 to 69",
       "dose1": 10,
-      "dose2": 2,
-      "vaccines": 12
+      "dose2": 3,
+      "vaccines": 13
     },
     {
       "date": "2021-07-03",
@@ -3110,17 +3110,33 @@
       "date": "2021-08-03",
       "locality": "EDGEWATER",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
-      "dose2": 20,
-      "vaccines": 26
+      "dose1": 8,
+      "dose2": 21,
+      "vaccines": 29
     },
     {
       "date": "2021-08-03",
       "locality": "EDGEWATER",
       "AgeGroup": "70 and over",
-      "dose1": 3,
-      "dose2": 10,
-      "vaccines": 13
+      "dose1": 5,
+      "dose2": 11,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "EDGEWATER",
+      "AgeGroup": "16 to 49",
+      "dose1": 14,
+      "dose2": 11,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "EDGEWATER",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 4,
+      "vaccines": 9
     }
   ]
 }

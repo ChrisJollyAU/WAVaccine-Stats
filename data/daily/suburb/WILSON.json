@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "WILSON",
   "data": [
     {
@@ -82,9 +82,9 @@
     {
       "date": "2021-03-07",
       "locality": "WILSON",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-03-08",
@@ -390,9 +390,9 @@
     {
       "date": "2021-04-20",
       "locality": "WILSON",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 6,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-04-21",
@@ -699,8 +699,8 @@
       "date": "2021-06-03",
       "locality": "WILSON",
       "dose1": 30,
-      "dose2": 4,
-      "vaccines": 34
+      "dose2": 5,
+      "vaccines": 35
     },
     {
       "date": "2021-06-04",
@@ -804,8 +804,8 @@
       "date": "2021-06-18",
       "locality": "WILSON",
       "dose1": 22,
-      "dose2": 11,
-      "vaccines": 33
+      "dose2": 12,
+      "vaccines": 34
     },
     {
       "date": "2021-06-19",
@@ -846,8 +846,8 @@
       "date": "2021-06-24",
       "locality": "WILSON",
       "dose1": 7,
-      "dose2": 14,
-      "vaccines": 21
+      "dose2": 13,
+      "vaccines": 20
     },
     {
       "date": "2021-06-25",
@@ -978,8 +978,8 @@
     {
       "date": "2021-07-13",
       "locality": "WILSON",
-      "dose1": 17,
-      "dose2": 22,
+      "dose1": 16,
+      "dose2": 23,
       "vaccines": 39
     },
     {
@@ -1013,9 +1013,9 @@
     {
       "date": "2021-07-18",
       "locality": "WILSON",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 13,
-      "vaccines": 37
+      "vaccines": 38
     },
     {
       "date": "2021-07-19",
@@ -1090,9 +1090,9 @@
     {
       "date": "2021-07-29",
       "locality": "WILSON",
-      "dose1": 31,
+      "dose1": 32,
       "dose2": 38,
-      "vaccines": 69
+      "vaccines": 70
     },
     {
       "date": "2021-07-30",
@@ -1118,16 +1118,23 @@
     {
       "date": "2021-08-02",
       "locality": "WILSON",
-      "dose1": 9,
-      "dose2": 19,
-      "vaccines": 28
+      "dose1": 11,
+      "dose2": 20,
+      "vaccines": 31
     },
     {
       "date": "2021-08-03",
       "locality": "WILSON",
       "dose1": 9,
-      "dose2": 29,
-      "vaccines": 38
+      "dose2": 35,
+      "vaccines": 44
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "WILSON",
+      "dose1": 17,
+      "dose2": 24,
+      "vaccines": 41
     }
   ]
 }

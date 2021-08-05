@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "WONTHELLA",
   "data": [
     {
@@ -852,9 +852,16 @@
     {
       "date": "2021-08-03",
       "locality": "WONTHELLA",
-      "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose1": 5,
+      "dose2": 12,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "WONTHELLA",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

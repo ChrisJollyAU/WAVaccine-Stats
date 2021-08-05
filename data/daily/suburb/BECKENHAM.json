@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "BECKENHAM",
   "data": [
     {
@@ -1097,9 +1097,16 @@
     {
       "date": "2021-08-03",
       "locality": "BECKENHAM",
-      "dose1": 11,
-      "dose2": 22,
-      "vaccines": 33
+      "dose1": 13,
+      "dose2": 26,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "BECKENHAM",
+      "dose1": 19,
+      "dose2": 16,
+      "vaccines": 35
     }
   ]
 }

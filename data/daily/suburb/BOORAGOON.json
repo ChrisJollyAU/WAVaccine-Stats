@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "BOORAGOON",
   "data": [
     {
@@ -355,9 +355,9 @@
     {
       "date": "2021-04-16",
       "locality": "BOORAGOON",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 2,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-04-17",
@@ -943,9 +943,9 @@
     {
       "date": "2021-07-09",
       "locality": "BOORAGOON",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 8,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-07-10",
@@ -1098,8 +1098,8 @@
       "date": "2021-07-31",
       "locality": "BOORAGOON",
       "dose1": 18,
-      "dose2": 35,
-      "vaccines": 53
+      "dose2": 36,
+      "vaccines": 54
     },
     {
       "date": "2021-08-01",
@@ -1111,16 +1111,23 @@
     {
       "date": "2021-08-02",
       "locality": "BOORAGOON",
-      "dose1": 5,
+      "dose1": 7,
       "dose2": 31,
-      "vaccines": 36
+      "vaccines": 38
     },
     {
       "date": "2021-08-03",
       "locality": "BOORAGOON",
-      "dose1": 18,
-      "dose2": 40,
-      "vaccines": 58
+      "dose1": 19,
+      "dose2": 43,
+      "vaccines": 62
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "BOORAGOON",
+      "dose1": 22,
+      "dose2": 30,
+      "vaccines": 52
     }
   ]
 }

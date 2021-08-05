@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "MANJIMUP",
   "data": [
     {
@@ -866,9 +866,16 @@
     {
       "date": "2021-08-03",
       "locality": "MANJIMUP",
-      "dose1": 6,
-      "dose2": 8,
-      "vaccines": 14
+      "dose1": 12,
+      "dose2": 10,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "MANJIMUP",
+      "dose1": 10,
+      "dose2": 15,
+      "vaccines": 25
     }
   ]
 }

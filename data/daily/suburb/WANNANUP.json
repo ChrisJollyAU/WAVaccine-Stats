@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "WANNANUP",
   "data": [
     {
@@ -923,15 +923,22 @@
       "date": "2021-08-02",
       "locality": "WANNANUP",
       "dose1": 1,
-      "dose2": 22,
-      "vaccines": 23
+      "dose2": 23,
+      "vaccines": 24
     },
     {
       "date": "2021-08-03",
       "locality": "WANNANUP",
-      "dose1": 8,
-      "dose2": 12,
-      "vaccines": 20
+      "dose1": 10,
+      "dose2": 20,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "WANNANUP",
+      "dose1": 9,
+      "dose2": 20,
+      "vaccines": 29
     }
   ]
 }

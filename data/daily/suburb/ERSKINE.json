@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "ERSKINE",
   "data": [
     {
@@ -894,8 +894,8 @@
     {
       "date": "2021-07-31",
       "locality": "ERSKINE",
-      "dose1": 9,
-      "dose2": 7,
+      "dose1": 8,
+      "dose2": 8,
       "vaccines": 16
     },
     {
@@ -916,8 +916,15 @@
       "date": "2021-08-03",
       "locality": "ERSKINE",
       "dose1": 5,
-      "dose2": 24,
-      "vaccines": 29
+      "dose2": 27,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "ERSKINE",
+      "dose1": 14,
+      "dose2": 20,
+      "vaccines": 34
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "postcode": "MULLALOO",
   "data": [
     {
@@ -3199,8 +3199,8 @@
       "locality": "MULLALOO",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 13,
-      "vaccines": 15
+      "dose2": 14,
+      "vaccines": 16
     },
     {
       "date": "2021-08-02",
@@ -3215,8 +3215,8 @@
       "locality": "MULLALOO",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 19,
-      "vaccines": 27
+      "dose2": 20,
+      "vaccines": 28
     },
     {
       "date": "2021-08-03",
@@ -3230,9 +3230,33 @@
       "date": "2021-08-03",
       "locality": "MULLALOO",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "MULLALOO",
+      "AgeGroup": "16 to 49",
+      "dose1": 14,
+      "dose2": 11,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "MULLALOO",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "MULLALOO",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

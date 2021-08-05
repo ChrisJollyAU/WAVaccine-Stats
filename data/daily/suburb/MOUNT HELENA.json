@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "MOUNT HELENA",
   "data": [
     {
@@ -929,9 +929,16 @@
     {
       "date": "2021-08-03",
       "locality": "MOUNT HELENA",
-      "dose1": 10,
-      "dose2": 13,
-      "vaccines": 23
+      "dose1": 14,
+      "dose2": 14,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "MOUNT HELENA",
+      "dose1": 9,
+      "dose2": 7,
+      "vaccines": 16
     }
   ]
 }

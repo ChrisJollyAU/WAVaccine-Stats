@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "postcode": "BELDON",
   "data": [
     {
@@ -2846,17 +2846,17 @@
       "date": "2021-08-03",
       "locality": "BELDON",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
-      "dose2": 3,
-      "vaccines": 14
+      "dose1": 16,
+      "dose2": 4,
+      "vaccines": 20
     },
     {
       "date": "2021-08-03",
       "locality": "BELDON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 11,
-      "vaccines": 11
+      "dose2": 13,
+      "vaccines": 13
     },
     {
       "date": "2021-08-03",
@@ -2865,6 +2865,22 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "BELDON",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "BELDON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

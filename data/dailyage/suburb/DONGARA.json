@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "postcode": "DONGARA",
   "data": [
     {
@@ -1446,9 +1446,9 @@
       "date": "2021-06-30",
       "locality": "DONGARA",
       "AgeGroup": "50 to 69",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 1,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-06-30",
@@ -2150,9 +2150,9 @@
       "date": "2021-08-03",
       "locality": "DONGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 3
     },
     {
       "date": "2021-08-03",
@@ -2166,8 +2166,32 @@
       "date": "2021-08-03",
       "locality": "DONGARA",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "DONGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "DONGARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "DONGARA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
       "vaccines": 4
     }
   ]

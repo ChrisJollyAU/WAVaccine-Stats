@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "MEEKATHARRA",
   "data": [
     {
@@ -353,11 +353,25 @@
       "vaccines": 36
     },
     {
+      "date": "2021-07-30",
+      "locality": "MEEKATHARRA",
+      "dose1": 9,
+      "dose2": 0,
+      "vaccines": 9
+    },
+    {
       "date": "2021-08-03",
       "locality": "MEEKATHARRA",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "MEEKATHARRA",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

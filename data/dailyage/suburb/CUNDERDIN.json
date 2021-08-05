@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "postcode": "CUNDERDIN",
   "data": [
     {
@@ -78,9 +78,9 @@
       "date": "2021-04-12",
       "locality": "CUNDERDIN",
       "AgeGroup": "70 and over",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 0,
-      "vaccines": 32
+      "vaccines": 31
     },
     {
       "date": "2021-04-14",
@@ -1025,6 +1025,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "CUNDERDIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

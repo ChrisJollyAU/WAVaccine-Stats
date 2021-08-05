@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "CLOISTERS SQUARE",
   "data": [
     {
@@ -430,13 +430,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-11",
-      "locality": "CLOISTERS SQUARE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-13",
       "locality": "CLOISTERS SQUARE",
       "dose1": 1,
@@ -579,9 +572,16 @@
     {
       "date": "2021-08-03",
       "locality": "CLOISTERS SQUARE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "CLOISTERS SQUARE",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

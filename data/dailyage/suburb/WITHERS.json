@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "postcode": "WITHERS",
   "data": [
     {
@@ -438,9 +438,17 @@
       "date": "2021-04-13",
       "locality": "WITHERS",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 6
+    },
+    {
+      "date": "2021-04-13",
+      "locality": "WITHERS",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-14",
@@ -534,6 +542,14 @@
       "date": "2021-04-21",
       "locality": "WITHERS",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-21",
+      "locality": "WITHERS",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1703,16 +1719,16 @@
       "locality": "WITHERS",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-07-06",
       "locality": "WITHERS",
       "AgeGroup": "70 and over",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-07-07",
@@ -1895,8 +1911,8 @@
       "locality": "WITHERS",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-07-16",
@@ -2247,8 +2263,8 @@
       "locality": "WITHERS",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 9,
-      "vaccines": 9
+      "dose2": 11,
+      "vaccines": 11
     },
     {
       "date": "2021-08-03",
@@ -2257,6 +2273,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "WITHERS",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "WITHERS",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

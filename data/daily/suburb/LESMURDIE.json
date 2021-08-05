@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "LESMURDIE",
   "data": [
     {
@@ -1112,15 +1112,22 @@
       "date": "2021-08-02",
       "locality": "LESMURDIE",
       "dose1": 12,
-      "dose2": 25,
-      "vaccines": 37
+      "dose2": 27,
+      "vaccines": 39
     },
     {
       "date": "2021-08-03",
       "locality": "LESMURDIE",
-      "dose1": 9,
-      "dose2": 32,
-      "vaccines": 41
+      "dose1": 18,
+      "dose2": 34,
+      "vaccines": 52
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "LESMURDIE",
+      "dose1": 19,
+      "dose2": 20,
+      "vaccines": 39
     }
   ]
 }

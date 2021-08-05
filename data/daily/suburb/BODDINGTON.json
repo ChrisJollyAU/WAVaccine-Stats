@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "BODDINGTON",
   "data": [
     {
@@ -601,8 +601,8 @@
       "date": "2021-08-02",
       "locality": "BODDINGTON",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
     },
     {
       "date": "2021-08-03",
@@ -610,6 +610,13 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "BODDINGTON",
+      "dose1": 4,
+      "dose2": 8,
+      "vaccines": 12
     }
   ]
 }

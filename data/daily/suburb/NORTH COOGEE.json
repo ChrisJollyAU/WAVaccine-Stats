@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-03T00:00:00",
+  "date_updated": "2021-08-04T00:00:00",
   "locality": "NORTH COOGEE",
   "data": [
     {
@@ -54,9 +54,9 @@
     {
       "date": "2021-03-05",
       "locality": "NORTH COOGEE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-08",
@@ -68,9 +68,9 @@
     {
       "date": "2021-03-09",
       "locality": "NORTH COOGEE",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-03-10",
@@ -216,8 +216,8 @@
       "date": "2021-04-01",
       "locality": "NORTH COOGEE",
       "dose1": 8,
-      "dose2": 5,
-      "vaccines": 13
+      "dose2": 4,
+      "vaccines": 12
     },
     {
       "date": "2021-04-05",
@@ -286,8 +286,8 @@
       "date": "2021-04-15",
       "locality": "NORTH COOGEE",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-04-16",
@@ -607,9 +607,9 @@
     {
       "date": "2021-06-04",
       "locality": "NORTH COOGEE",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-06-05",
@@ -901,9 +901,9 @@
     {
       "date": "2021-07-16",
       "locality": "NORTH COOGEE",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 8,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-07-17",
@@ -1027,9 +1027,16 @@
     {
       "date": "2021-08-03",
       "locality": "NORTH COOGEE",
-      "dose1": 8,
-      "dose2": 24,
-      "vaccines": 32
+      "dose1": 11,
+      "dose2": 32,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "NORTH COOGEE",
+      "dose1": 12,
+      "dose2": 10,
+      "vaccines": 22
     }
   ]
 }

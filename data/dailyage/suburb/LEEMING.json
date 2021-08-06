@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "postcode": "LEEMING",
   "data": [
     {
@@ -94,9 +94,9 @@
       "date": "2021-03-02",
       "locality": "LEEMING",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-03-02",
@@ -462,8 +462,8 @@
       "date": "2021-03-24",
       "locality": "LEEMING",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
-      "dose2": 4,
+      "dose1": 11,
+      "dose2": 5,
       "vaccines": 16
     },
     {
@@ -2246,17 +2246,17 @@
       "date": "2021-06-14",
       "locality": "LEEMING",
       "AgeGroup": "50 to 69",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 3,
-      "vaccines": 31
+      "vaccines": 30
     },
     {
       "date": "2021-06-14",
       "locality": "LEEMING",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-06-15",
@@ -3406,9 +3406,9 @@
       "date": "2021-08-02",
       "locality": "LEEMING",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 16,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-08-02",
@@ -3438,41 +3438,65 @@
       "date": "2021-08-03",
       "locality": "LEEMING",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 27,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-08-03",
       "locality": "LEEMING",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 15,
-      "vaccines": 17
+      "dose2": 16,
+      "vaccines": 18
     },
     {
       "date": "2021-08-04",
       "locality": "LEEMING",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 14,
-      "vaccines": 22
+      "dose1": 10,
+      "dose2": 16,
+      "vaccines": 26
     },
     {
       "date": "2021-08-04",
       "locality": "LEEMING",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
-      "dose2": 59,
-      "vaccines": 67
+      "dose1": 11,
+      "dose2": 63,
+      "vaccines": 74
     },
     {
       "date": "2021-08-04",
       "locality": "LEEMING",
       "AgeGroup": "70 and over",
-      "dose1": 2,
-      "dose2": 17,
-      "vaccines": 19
+      "dose1": 4,
+      "dose2": 18,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "LEEMING",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 8,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "LEEMING",
+      "AgeGroup": "50 to 69",
+      "dose1": 8,
+      "dose2": 15,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "LEEMING",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

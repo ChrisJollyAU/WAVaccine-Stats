@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "ROLEYSTONE",
   "data": [
     {
@@ -1069,16 +1069,23 @@
     {
       "date": "2021-08-03",
       "locality": "ROLEYSTONE",
-      "dose1": 23,
+      "dose1": 27,
       "dose2": 27,
-      "vaccines": 50
+      "vaccines": 54
     },
     {
       "date": "2021-08-04",
       "locality": "ROLEYSTONE",
-      "dose1": 20,
-      "dose2": 33,
-      "vaccines": 53
+      "dose1": 23,
+      "dose2": 34,
+      "vaccines": 57
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "ROLEYSTONE",
+      "dose1": 26,
+      "dose2": 24,
+      "vaccines": 50
     }
   ]
 }

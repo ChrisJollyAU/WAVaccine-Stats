@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "KARRINYUP",
   "data": [
     {
@@ -474,9 +474,9 @@
     {
       "date": "2021-05-05",
       "locality": "KARRINYUP",
-      "dose1": 33,
+      "dose1": 34,
       "dose2": 28,
-      "vaccines": 61
+      "vaccines": 62
     },
     {
       "date": "2021-05-06",
@@ -999,9 +999,9 @@
     {
       "date": "2021-07-19",
       "locality": "KARRINYUP",
-      "dose1": 28,
+      "dose1": 29,
       "dose2": 33,
-      "vaccines": 61
+      "vaccines": 62
     },
     {
       "date": "2021-07-20",
@@ -1104,16 +1104,23 @@
     {
       "date": "2021-08-03",
       "locality": "KARRINYUP",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 74,
-      "vaccines": 94
+      "vaccines": 95
     },
     {
       "date": "2021-08-04",
       "locality": "KARRINYUP",
-      "dose1": 39,
-      "dose2": 48,
-      "vaccines": 87
+      "dose1": 44,
+      "dose2": 59,
+      "vaccines": 103
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "KARRINYUP",
+      "dose1": 33,
+      "dose2": 46,
+      "vaccines": 79
     }
   ]
 }

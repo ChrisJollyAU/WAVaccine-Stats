@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "PADBURY",
   "data": [
     {
@@ -1090,16 +1090,23 @@
     {
       "date": "2021-08-03",
       "locality": "PADBURY",
-      "dose1": 31,
+      "dose1": 32,
       "dose2": 40,
-      "vaccines": 71
+      "vaccines": 72
     },
     {
       "date": "2021-08-04",
       "locality": "PADBURY",
-      "dose1": 39,
-      "dose2": 42,
-      "vaccines": 81
+      "dose1": 46,
+      "dose2": 45,
+      "vaccines": 91
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "PADBURY",
+      "dose1": 37,
+      "dose2": 21,
+      "vaccines": 58
     }
   ]
 }

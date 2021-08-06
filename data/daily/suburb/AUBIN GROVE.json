@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "AUBIN GROVE",
   "data": [
     {
@@ -1048,9 +1048,16 @@
     {
       "date": "2021-08-04",
       "locality": "AUBIN GROVE",
-      "dose1": 16,
+      "dose1": 18,
+      "dose2": 43,
+      "vaccines": 61
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "AUBIN GROVE",
+      "dose1": 30,
       "dose2": 41,
-      "vaccines": 57
+      "vaccines": 71
     }
   ]
 }

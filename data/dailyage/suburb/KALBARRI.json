@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "postcode": "KALBARRI",
   "data": [
     {
@@ -1401,6 +1401,22 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "KALBARRI",
+      "AgeGroup": "50 to 69",
+      "dose1": 19,
+      "dose2": 6,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "KALBARRI",
+      "AgeGroup": "70 and over",
+      "dose1": 12,
+      "dose2": 6,
+      "vaccines": 18
     }
   ]
 }

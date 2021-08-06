@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "GIDGEGANNUP",
   "data": [
     {
@@ -748,8 +748,8 @@
       "date": "2021-07-05",
       "locality": "GIDGEGANNUP",
       "dose1": 11,
-      "dose2": 4,
-      "vaccines": 15
+      "dose2": 5,
+      "vaccines": 16
     },
     {
       "date": "2021-07-06",
@@ -957,9 +957,16 @@
     {
       "date": "2021-08-04",
       "locality": "GIDGEGANNUP",
+      "dose1": 9,
+      "dose2": 11,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "GIDGEGANNUP",
       "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose2": 16,
+      "vaccines": 24
     }
   ]
 }

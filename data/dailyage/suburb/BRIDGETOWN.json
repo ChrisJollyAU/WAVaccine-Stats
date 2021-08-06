@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "postcode": "BRIDGETOWN",
   "data": [
     {
@@ -134,6 +134,14 @@
       "date": "2021-03-25",
       "locality": "BRIDGETOWN",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-26",
+      "locality": "BRIDGETOWN",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -440,6 +448,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-23",
+      "locality": "BRIDGETOWN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -2206,25 +2222,49 @@
       "date": "2021-08-04",
       "locality": "BRIDGETOWN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-08-04",
       "locality": "BRIDGETOWN",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose1": 12,
+      "dose2": 14,
+      "vaccines": 26
     },
     {
       "date": "2021-08-04",
       "locality": "BRIDGETOWN",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 26,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "BRIDGETOWN",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 3,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "BRIDGETOWN",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 8,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "BRIDGETOWN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 20,
+      "vaccines": 20
     }
   ]
 }

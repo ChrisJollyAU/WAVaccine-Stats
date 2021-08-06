@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "ATWELL",
   "data": [
     {
@@ -803,9 +803,9 @@
     {
       "date": "2021-06-25",
       "locality": "ATWELL",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 13,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-06-26",
@@ -1042,8 +1042,8 @@
       "date": "2021-07-29",
       "locality": "ATWELL",
       "dose1": 47,
-      "dose2": 44,
-      "vaccines": 91
+      "dose2": 43,
+      "vaccines": 90
     },
     {
       "date": "2021-07-30",
@@ -1076,16 +1076,23 @@
     {
       "date": "2021-08-03",
       "locality": "ATWELL",
-      "dose1": 28,
+      "dose1": 29,
       "dose2": 69,
-      "vaccines": 97
+      "vaccines": 98
     },
     {
       "date": "2021-08-04",
       "locality": "ATWELL",
-      "dose1": 22,
-      "dose2": 44,
-      "vaccines": 66
+      "dose1": 26,
+      "dose2": 48,
+      "vaccines": 74
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "ATWELL",
+      "dose1": 33,
+      "dose2": 41,
+      "vaccines": 74
     }
   ]
 }

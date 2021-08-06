@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "SUBIACO",
   "data": [
     {
@@ -1000,8 +1000,8 @@
       "date": "2021-07-15",
       "locality": "SUBIACO",
       "dose1": 37,
-      "dose2": 32,
-      "vaccines": 69
+      "dose2": 33,
+      "vaccines": 70
     },
     {
       "date": "2021-07-16",
@@ -1126,8 +1126,8 @@
       "date": "2021-08-02",
       "locality": "SUBIACO",
       "dose1": 16,
-      "dose2": 86,
-      "vaccines": 102
+      "dose2": 87,
+      "vaccines": 103
     },
     {
       "date": "2021-08-03",
@@ -1139,9 +1139,16 @@
     {
       "date": "2021-08-04",
       "locality": "SUBIACO",
-      "dose1": 20,
-      "dose2": 42,
-      "vaccines": 62
+      "dose1": 23,
+      "dose2": 50,
+      "vaccines": 73
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "SUBIACO",
+      "dose1": 33,
+      "dose2": 31,
+      "vaccines": 64
     }
   ]
 }

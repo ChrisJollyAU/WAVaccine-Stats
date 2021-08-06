@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "TREEBY",
   "data": [
     {
@@ -236,9 +236,9 @@
     {
       "date": "2021-04-01",
       "locality": "TREEBY",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 1,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-04-02",
@@ -797,8 +797,8 @@
       "date": "2021-07-02",
       "locality": "TREEBY",
       "dose1": 14,
-      "dose2": 6,
-      "vaccines": 20
+      "dose2": 7,
+      "vaccines": 21
     },
     {
       "date": "2021-07-03",
@@ -950,9 +950,9 @@
     {
       "date": "2021-07-24",
       "locality": "TREEBY",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 6,
-      "vaccines": 13
+      "vaccines": 15
     },
     {
       "date": "2021-07-25",
@@ -1030,6 +1030,13 @@
       "dose1": 9,
       "dose2": 19,
       "vaccines": 28
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "TREEBY",
+      "dose1": 9,
+      "dose2": 16,
+      "vaccines": 25
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "SUCCESS",
   "data": [
     {
@@ -327,9 +327,9 @@
     {
       "date": "2021-04-11",
       "locality": "SUCCESS",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-04-12",
@@ -845,9 +845,9 @@
     {
       "date": "2021-06-25",
       "locality": "SUCCESS",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 13,
-      "vaccines": 45
+      "vaccines": 44
     },
     {
       "date": "2021-06-26",
@@ -909,14 +909,14 @@
       "date": "2021-07-04",
       "locality": "SUCCESS",
       "dose1": 17,
-      "dose2": 14,
-      "vaccines": 31
+      "dose2": 13,
+      "vaccines": 30
     },
     {
       "date": "2021-07-05",
       "locality": "SUCCESS",
-      "dose1": 27,
-      "dose2": 6,
+      "dose1": 26,
+      "dose2": 7,
       "vaccines": 33
     },
     {
@@ -1091,8 +1091,8 @@
       "date": "2021-07-30",
       "locality": "SUCCESS",
       "dose1": 29,
-      "dose2": 22,
-      "vaccines": 51
+      "dose2": 21,
+      "vaccines": 50
     },
     {
       "date": "2021-07-31",
@@ -1112,22 +1112,29 @@
       "date": "2021-08-02",
       "locality": "SUCCESS",
       "dose1": 36,
-      "dose2": 29,
-      "vaccines": 65
+      "dose2": 30,
+      "vaccines": 66
     },
     {
       "date": "2021-08-03",
       "locality": "SUCCESS",
-      "dose1": 28,
+      "dose1": 30,
       "dose2": 48,
-      "vaccines": 76
+      "vaccines": 78
     },
     {
       "date": "2021-08-04",
       "locality": "SUCCESS",
-      "dose1": 29,
-      "dose2": 46,
-      "vaccines": 75
+      "dose1": 37,
+      "dose2": 49,
+      "vaccines": 86
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "SUCCESS",
+      "dose1": 48,
+      "dose2": 63,
+      "vaccines": 111
     }
   ]
 }

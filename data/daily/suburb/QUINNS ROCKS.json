@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "QUINNS ROCKS",
   "data": [
     {
@@ -1062,16 +1062,23 @@
     {
       "date": "2021-08-03",
       "locality": "QUINNS ROCKS",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 58,
-      "vaccines": 83
+      "vaccines": 84
     },
     {
       "date": "2021-08-04",
       "locality": "QUINNS ROCKS",
-      "dose1": 25,
-      "dose2": 31,
-      "vaccines": 56
+      "dose1": 29,
+      "dose2": 33,
+      "vaccines": 62
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "QUINNS ROCKS",
+      "dose1": 39,
+      "dose2": 15,
+      "vaccines": 54
     }
   ]
 }

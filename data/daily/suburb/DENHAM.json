@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "DENHAM",
   "data": [
     {
@@ -348,9 +348,9 @@
     {
       "date": "2021-08-03",
       "locality": "DENHAM",
-      "dose1": 14,
+      "dose1": 18,
       "dose2": 12,
-      "vaccines": 26
+      "vaccines": 30
     },
     {
       "date": "2021-08-04",
@@ -358,6 +358,13 @@
       "dose1": 3,
       "dose2": 42,
       "vaccines": 45
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "DENHAM",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

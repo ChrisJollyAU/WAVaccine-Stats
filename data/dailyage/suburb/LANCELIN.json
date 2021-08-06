@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "postcode": "LANCELIN",
   "data": [
     {
@@ -1504,6 +1504,22 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 6,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "LANCELIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "LANCELIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 3,
       "vaccines": 6
     }
   ]

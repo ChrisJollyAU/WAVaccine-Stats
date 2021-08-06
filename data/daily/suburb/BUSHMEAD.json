@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "BUSHMEAD",
   "data": [
     {
@@ -11,6 +11,13 @@
     },
     {
       "date": "2021-03-05",
+      "locality": "BUSHMEAD",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-09",
       "locality": "BUSHMEAD",
       "dose1": 1,
       "dose2": 0,
@@ -76,8 +83,8 @@
       "date": "2021-03-30",
       "locality": "BUSHMEAD",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-04-01",
@@ -630,6 +637,13 @@
       "locality": "BUSHMEAD",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "BUSHMEAD",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "MARTIN",
   "data": [
     {
@@ -880,12 +880,19 @@
     {
       "date": "2021-08-03",
       "locality": "MARTIN",
-      "dose1": 5,
-      "dose2": 10,
-      "vaccines": 15
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     },
     {
       "date": "2021-08-04",
+      "locality": "MARTIN",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-05",
       "locality": "MARTIN",
       "dose1": 4,
       "dose2": 2,

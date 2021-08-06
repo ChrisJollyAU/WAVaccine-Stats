@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "ALBANY",
   "data": [
     {
@@ -1007,15 +1007,22 @@
       "date": "2021-08-03",
       "locality": "ALBANY",
       "dose1": 12,
-      "dose2": 15,
-      "vaccines": 27
+      "dose2": 16,
+      "vaccines": 28
     },
     {
       "date": "2021-08-04",
       "locality": "ALBANY",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "ALBANY",
+      "dose1": 11,
+      "dose2": 3,
+      "vaccines": 14
     }
   ]
 }

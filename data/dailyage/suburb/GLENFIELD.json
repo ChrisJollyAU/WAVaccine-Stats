@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "postcode": "GLENFIELD",
   "data": [
     {
@@ -1127,8 +1127,8 @@
       "locality": "GLENFIELD",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-03",
@@ -1158,9 +1158,17 @@
       "date": "2021-08-04",
       "locality": "GLENFIELD",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "GLENFIELD",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

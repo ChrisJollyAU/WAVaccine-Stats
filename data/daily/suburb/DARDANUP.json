@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "DARDANUP",
   "data": [
     {
@@ -39,6 +39,13 @@
     },
     {
       "date": "2021-03-10",
+      "locality": "DARDANUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-12",
       "locality": "DARDANUP",
       "dose1": 1,
       "dose2": 0,
@@ -138,8 +145,8 @@
     {
       "date": "2021-04-06",
       "locality": "DARDANUP",
-      "dose1": 8,
-      "dose2": 1,
+      "dose1": 7,
+      "dose2": 2,
       "vaccines": 9
     },
     {
@@ -824,9 +831,16 @@
     {
       "date": "2021-08-04",
       "locality": "DARDANUP",
-      "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose1": 7,
+      "dose2": 4,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "DARDANUP",
+      "dose1": 9,
+      "dose2": 6,
+      "vaccines": 15
     }
   ]
 }

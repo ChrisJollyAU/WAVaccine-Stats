@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "COOLBELLUP",
   "data": [
     {
@@ -1041,9 +1041,16 @@
     {
       "date": "2021-08-04",
       "locality": "COOLBELLUP",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 20,
-      "vaccines": 35
+      "vaccines": 36
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "COOLBELLUP",
+      "dose1": 11,
+      "dose2": 17,
+      "vaccines": 28
     }
   ]
 }

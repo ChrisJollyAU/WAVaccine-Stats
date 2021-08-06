@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "postcode": "CARNARVON",
   "data": [
     {
@@ -1003,14 +1003,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-20",
-      "locality": "CARNARVON",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-21",
       "locality": "CARNARVON",
       "AgeGroup": "16 to 49",
@@ -1305,14 +1297,6 @@
       "dose1": 4,
       "dose2": 1,
       "vaccines": 5
-    },
-    {
-      "date": "2021-07-17",
-      "locality": "CARNARVON",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-17",
@@ -1625,6 +1609,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "CARNARVON",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 11,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "CARNARVON",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 13,
+      "vaccines": 16
     }
   ]
 }

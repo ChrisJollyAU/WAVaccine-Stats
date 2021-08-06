@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "KELMSCOTT",
   "data": [
     {
@@ -509,9 +509,9 @@
     {
       "date": "2021-05-19",
       "locality": "KELMSCOTT",
-      "dose1": 62,
+      "dose1": 63,
       "dose2": 10,
-      "vaccines": 72
+      "vaccines": 73
     },
     {
       "date": "2021-05-20",
@@ -1041,16 +1041,23 @@
     {
       "date": "2021-08-03",
       "locality": "KELMSCOTT",
-      "dose1": 29,
+      "dose1": 31,
       "dose2": 49,
-      "vaccines": 78
+      "vaccines": 80
     },
     {
       "date": "2021-08-04",
       "locality": "KELMSCOTT",
+      "dose1": 26,
+      "dose2": 62,
+      "vaccines": 88
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "KELMSCOTT",
       "dose1": 21,
-      "dose2": 54,
-      "vaccines": 75
+      "dose2": 46,
+      "vaccines": 67
     }
   ]
 }

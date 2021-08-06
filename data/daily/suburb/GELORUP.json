@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-04T00:00:00",
+  "date_updated": "2021-08-05T00:00:00",
   "locality": "GELORUP",
   "data": [
     {
@@ -864,6 +864,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-07-25",
+      "locality": "GELORUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-26",
       "locality": "GELORUP",
       "dose1": 2,
@@ -915,16 +922,23 @@
     {
       "date": "2021-08-03",
       "locality": "GELORUP",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 16,
-      "vaccines": 23
+      "vaccines": 25
     },
     {
       "date": "2021-08-04",
       "locality": "GELORUP",
-      "dose1": 14,
-      "dose2": 10,
-      "vaccines": 24
+      "dose1": 15,
+      "dose2": 13,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "GELORUP",
+      "dose1": 16,
+      "dose2": 15,
+      "vaccines": 31
     }
   ]
 }

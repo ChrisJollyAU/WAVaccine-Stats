@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-05T00:00:00",
+  "date_updated": "2021-08-08T00:00:00",
   "locality": "BELDON",
   "data": [
     {
@@ -1049,8 +1049,29 @@
       "date": "2021-08-05",
       "locality": "BELDON",
       "dose1": 17,
-      "dose2": 2,
+      "dose2": 3,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-06",
+      "locality": "BELDON",
+      "dose1": 10,
+      "dose2": 15,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-07",
+      "locality": "BELDON",
+      "dose1": 16,
+      "dose2": 3,
       "vaccines": 19
+    },
+    {
+      "date": "2021-08-08",
+      "locality": "BELDON",
+      "dose1": 3,
+      "dose2": 15,
+      "vaccines": 18
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-05T00:00:00",
+  "date_updated": "2021-08-08T00:00:00",
   "locality": "NAPIER",
   "data": [
     {
@@ -339,7 +339,21 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-04",
+      "locality": "NAPIER",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-05",
+      "locality": "NAPIER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-08",
       "locality": "NAPIER",
       "dose1": 1,
       "dose2": 0,

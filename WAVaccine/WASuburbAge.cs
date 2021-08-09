@@ -387,28 +387,41 @@ namespace WAVaccine
             item.Add("data", to);
             File.WriteAllText("data/suburbage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
 
-            DoSa2Stats(to);
+            var sa2 = DoSa2Stats(to);
+            DoSa3Stats(sa2);
+            DoSa4Stats(sa2);
+            DoGCCSAStats(sa2);
+            DoWAStats(sa2);
         }
 
-        private static void DoSa2Stats(List<SuburbObjectAge> to)
+        private static List<SA2DetailAge> DoSa2Stats(List<SuburbObjectAge> to)
         {
             var sa2poptext = File.ReadAllText("data/sa2pop.json");
             var sa2suburbtext = File.ReadAllText("data/sa2suburb.json");
             var sa2subagetext = File.ReadAllText("data/sa2agegrp.json");
+            var sa2suburbextratext = File.ReadAllText("data/sa2suburbextra.json");
             JObject sa2json = (JObject) JsonConvert.DeserializeObject(sa2poptext);
             JObject sa2subjson = (JObject)JsonConvert.DeserializeObject(sa2suburbtext);
             JObject sa2subagejson = (JObject)JsonConvert.DeserializeObject(sa2subagetext);
+            JObject sa2subextrajson = (JObject)JsonConvert.DeserializeObject(sa2suburbextratext);
             JArray ar1 = (JArray)sa2json["data"];
             JArray ar2 = (JArray)sa2subjson["data"];
+            JArray ar2extra = (JArray)sa2subextrajson["data"];
             var sa2pop = JsonConvert.DeserializeObject<List<SA2PopOb>>(ar1.ToString());
             var sa2sub = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2.ToString());
+            var sa2subextra = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2extra.ToString());
+            sa2sub.AddRange(sa2subextra);
             var grpsa2sub = sa2sub.GroupBy(ss => ss.SA2_Name);
             List<SA2DetailAge> sa2det = new List<SA2DetailAge>();
             foreach (var it in grpsa2sub)
             {
                 SA2DetailAge sdet = new SA2DetailAge();
                 sdet.SA2Name = it.Key;
-                sdet.c16_plus = (int)sa2pop.Single(sp => sp.name == it.Key).c16_plus;
+                var s2pop = sa2pop.SingleOrDefault(sp => sp.name == it.Key);
+                if (s2pop != null)
+                {
+                    sdet.c16_plus = (int)s2pop.c16_plus;
+                }
                 var subage = sa2subagejson[it.Key];
                 int ct_50_69 = 0;
                 int ct_70p = 0;
@@ -448,8 +461,11 @@ namespace WAVaccine
                         }
                     }
                 }
-                sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
-                sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                }
                 if (ct_16_49 > 0)
                 {
                     sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)ct_16_49 * 100;
@@ -472,6 +488,264 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", sa2det);
             File.WriteAllText("data/sa2summaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            return sa2det;
+        }
+        private static void DoSa3Stats(List<SA2DetailAge> to)
+        {
+            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            List<SA2Map> sa2mapping = new();
+            foreach (var line in sa2list)
+            {
+                var cols = line.Split(',');
+                SA2Map it = new SA2Map
+                {
+                    SA2_Name = cols[1],
+                    SA3_Name = cols[5],
+                    SA4_Name = cols[7],
+                    GCCSA = cols[9]
+                };
+                sa2mapping.Add(it);
+            }
+            sa2mapping.RemoveAt(0);
+            var sa3 = sa2mapping.GroupBy(ss => ss.SA3_Name);
+            List<SA3DetailAge> sa3det = new List<SA3DetailAge>();
+            foreach (var it1 in sa3)
+            {
+                SA3DetailAge sdet = new SA3DetailAge();
+                sdet.SA3Name = it1.Key;
+                foreach (var it in it1)
+                {
+                    SA2DetailAge s2det = to.SingleOrDefault(tt => tt.SA2Name == it.SA2_Name);
+                    if (s2det != null)
+                    {
+                        sdet.total_doses += s2det.total_doses;
+                        sdet.c16_plus += s2det.c16_plus;
+                        sdet.c_16_49 += s2det.c_16_49;
+                        sdet.c_50_69 += s2det.c_50_69;
+                        sdet.c_70p += s2det.c_70p;
+                        sdet.dose1_16_49 += s2det.dose1_16_49;
+                        sdet.dose1_50_69 += s2det.dose1_50_69;
+                        sdet.dose1_70p += s2det.dose1_70p;
+                        sdet.dose2_16_49 += s2det.dose2_16_49;
+                        sdet.dose2_50_69 += s2det.dose2_50_69;
+                        sdet.dose2_70p += s2det.dose2_70p;
+                    }
+                }
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                    if (sdet.c_16_49 > 0)
+                    {
+                        sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)sdet.c_16_49 * 100;
+                        sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)sdet.c_16_49 * 100;
+                    }
+                    if (sdet.c_50_69 > 0)
+                    {
+                        sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)sdet.c_50_69 * 100;
+                        sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)sdet.c_50_69 * 100;
+                    }
+                    if (sdet.c_70p > 0)
+                    {
+                        sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)sdet.c_70p * 100;
+                        sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
+                    }
+                }
+                sa3det.Add(sdet);
+            }
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", sa3det);
+            File.WriteAllText("data/sa3summaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+        }
+        private static void DoSa4Stats(List<SA2DetailAge> to)
+        {
+            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            List<SA2Map> sa2mapping = new();
+            foreach (var line in sa2list)
+            {
+                var cols = line.Split(',');
+                SA2Map it = new SA2Map
+                {
+                    SA2_Name = cols[1],
+                    SA3_Name = cols[5],
+                    SA4_Name = cols[7],
+                    GCCSA = cols[9]
+                };
+                sa2mapping.Add(it);
+            }
+            sa2mapping.RemoveAt(0);
+            var sa4 = sa2mapping.GroupBy(ss => ss.SA4_Name);
+            List<SA4DetailAge> sa4det = new List<SA4DetailAge>();
+            foreach (var it1 in sa4)
+            {
+                SA4DetailAge sdet = new SA4DetailAge();
+                sdet.SA4Name = it1.Key;
+                foreach (var it in it1)
+                {
+                    SA2DetailAge s2det = to.SingleOrDefault(tt => tt.SA2Name == it.SA2_Name);
+                    if (s2det != null)
+                    {
+                        sdet.total_doses += s2det.total_doses;
+                        sdet.c16_plus += s2det.c16_plus;
+                        sdet.c_16_49 += s2det.c_16_49;
+                        sdet.c_50_69 += s2det.c_50_69;
+                        sdet.c_70p += s2det.c_70p;
+                        sdet.dose1_16_49 += s2det.dose1_16_49;
+                        sdet.dose1_50_69 += s2det.dose1_50_69;
+                        sdet.dose1_70p += s2det.dose1_70p;
+                        sdet.dose2_16_49 += s2det.dose2_16_49;
+                        sdet.dose2_50_69 += s2det.dose2_50_69;
+                        sdet.dose2_70p += s2det.dose2_70p;
+                    }
+                }
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                    if (sdet.c_16_49 > 0)
+                    {
+                        sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)sdet.c_16_49 * 100;
+                        sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)sdet.c_16_49 * 100;
+                    }
+                    if (sdet.c_50_69 > 0)
+                    {
+                        sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)sdet.c_50_69 * 100;
+                        sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)sdet.c_50_69 * 100;
+                    }
+                    if (sdet.c_70p > 0)
+                    {
+                        sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)sdet.c_70p * 100;
+                        sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
+                    }
+                }
+                sa4det.Add(sdet);
+            }
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", sa4det);
+            File.WriteAllText("data/sa4summaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+        }
+        private static void DoGCCSAStats(List<SA2DetailAge> to)
+        {
+            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            List<SA2Map> sa2mapping = new();
+            foreach (var line in sa2list)
+            {
+                var cols = line.Split(',');
+                SA2Map it = new SA2Map
+                {
+                    SA2_Name = cols[1],
+                    SA3_Name = cols[5],
+                    SA4_Name = cols[7],
+                    GCCSA = cols[9]
+                };
+                sa2mapping.Add(it);
+            }
+            sa2mapping.RemoveAt(0);
+            var gccsa = sa2mapping.GroupBy(ss => ss.GCCSA);
+            List<GCCSADetailAge> gccsadet = new List<GCCSADetailAge>();
+            foreach (var it1 in gccsa)
+            {
+                GCCSADetailAge sdet = new GCCSADetailAge();
+                sdet.Name = it1.Key;
+                foreach (var it in it1)
+                {
+                    SA2DetailAge s2det = to.SingleOrDefault(tt => tt.SA2Name == it.SA2_Name);
+                    if (s2det != null)
+                    {
+                        sdet.total_doses += s2det.total_doses;
+                        sdet.c16_plus += s2det.c16_plus;
+                        sdet.c_16_49 += s2det.c_16_49;
+                        sdet.c_50_69 += s2det.c_50_69;
+                        sdet.c_70p += s2det.c_70p;
+                        sdet.dose1_16_49 += s2det.dose1_16_49;
+                        sdet.dose1_50_69 += s2det.dose1_50_69;
+                        sdet.dose1_70p += s2det.dose1_70p;
+                        sdet.dose2_16_49 += s2det.dose2_16_49;
+                        sdet.dose2_50_69 += s2det.dose2_50_69;
+                        sdet.dose2_70p += s2det.dose2_70p;
+                    }
+                }
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                    if (sdet.c_16_49 > 0)
+                    {
+                        sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)sdet.c_16_49 * 100;
+                        sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)sdet.c_16_49 * 100;
+                    }
+                    if (sdet.c_50_69 > 0)
+                    {
+                        sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)sdet.c_50_69 * 100;
+                        sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)sdet.c_50_69 * 100;
+                    }
+                    if (sdet.c_70p > 0)
+                    {
+                        sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)sdet.c_70p * 100;
+                        sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
+                    }
+                }
+                gccsadet.Add(sdet);
+            }
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", gccsadet);
+            File.WriteAllText("data/gccsasummaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+        }
+        private static void DoWAStats(List<SA2DetailAge> to)
+        {
+            List<GCCSADetailAge> gccsadet = new List<GCCSADetailAge>();
+            GCCSADetailAge sdet = new GCCSADetailAge();
+            sdet.Name = "Western Australia";
+            foreach (var it in to)
+            {
+                SA2DetailAge s2det = it;
+                if (s2det != null)
+                {
+                    sdet.total_doses += s2det.total_doses;
+                    sdet.c16_plus += s2det.c16_plus;
+                    sdet.c_16_49 += s2det.c_16_49;
+                    sdet.c_50_69 += s2det.c_50_69;
+                    sdet.c_70p += s2det.c_70p;
+                    sdet.dose1_16_49 += s2det.dose1_16_49;
+                    sdet.dose1_50_69 += s2det.dose1_50_69;
+                    sdet.dose1_70p += s2det.dose1_70p;
+                    sdet.dose2_16_49 += s2det.dose2_16_49;
+                    sdet.dose2_50_69 += s2det.dose2_50_69;
+                    sdet.dose2_70p += s2det.dose2_70p;
+                }
+            }
+            if (sdet.c16_plus > 0)
+            {
+                sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
+                sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                if (sdet.c_16_49 > 0)
+                {
+                    sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)sdet.c_16_49 * 100;
+                    sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)sdet.c_16_49 * 100;
+                }
+                if (sdet.c_50_69 > 0)
+                {
+                    sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)sdet.c_50_69 * 100;
+                    sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)sdet.c_50_69 * 100;
+                }
+                if (sdet.c_70p > 0)
+                {
+                    sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)sdet.c_70p * 100;
+                    sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
+                }
+            }
+            gccsadet.Add(sdet);
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", gccsadet);
+            File.WriteAllText("data/wasummaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 
@@ -501,6 +775,75 @@ namespace WAVaccine
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
         public decimal min1d_16_49_pc {get;set;}
+        public decimal full_16_49_pc { get; set; }
+        public decimal min1d_50_69_pc { get; set; }
+        public decimal full_50_69_pc { get; set; }
+        public decimal min1d_70p_pc { get; set; }
+        public decimal full_70p_pc { get; set; }
+    }
+    class SA3DetailAge
+    {
+        public string SA3Name { get; set; }
+        public int c16_plus { get; set; }
+        public int c_16_49 { get; set; }
+        public int c_50_69 { get; set; }
+        public int c_70p { get; set; }
+        public int dose1_16_49 { get; set; }
+        public int dose2_16_49 { get; set; }
+        public int dose1_50_69 { get; set; }
+        public int dose2_50_69 { get; set; }
+        public int dose1_70p { get; set; }
+        public int dose2_70p { get; set; }
+        public int total_doses { get; set; }
+        public decimal atleast_1dose_percent { get; set; }
+        public decimal full_vaccinated_percent { get; set; }
+        public decimal min1d_16_49_pc { get; set; }
+        public decimal full_16_49_pc { get; set; }
+        public decimal min1d_50_69_pc { get; set; }
+        public decimal full_50_69_pc { get; set; }
+        public decimal min1d_70p_pc { get; set; }
+        public decimal full_70p_pc { get; set; }
+    }
+    class SA4DetailAge
+    {
+        public string SA4Name { get; set; }
+        public int c16_plus { get; set; }
+        public int c_16_49 { get; set; }
+        public int c_50_69 { get; set; }
+        public int c_70p { get; set; }
+        public int dose1_16_49 { get; set; }
+        public int dose2_16_49 { get; set; }
+        public int dose1_50_69 { get; set; }
+        public int dose2_50_69 { get; set; }
+        public int dose1_70p { get; set; }
+        public int dose2_70p { get; set; }
+        public int total_doses { get; set; }
+        public decimal atleast_1dose_percent { get; set; }
+        public decimal full_vaccinated_percent { get; set; }
+        public decimal min1d_16_49_pc { get; set; }
+        public decimal full_16_49_pc { get; set; }
+        public decimal min1d_50_69_pc { get; set; }
+        public decimal full_50_69_pc { get; set; }
+        public decimal min1d_70p_pc { get; set; }
+        public decimal full_70p_pc { get; set; }
+    }
+    class GCCSADetailAge
+    {
+        public string Name { get; set; }
+        public int c16_plus { get; set; }
+        public int c_16_49 { get; set; }
+        public int c_50_69 { get; set; }
+        public int c_70p { get; set; }
+        public int dose1_16_49 { get; set; }
+        public int dose2_16_49 { get; set; }
+        public int dose1_50_69 { get; set; }
+        public int dose2_50_69 { get; set; }
+        public int dose1_70p { get; set; }
+        public int dose2_70p { get; set; }
+        public int total_doses { get; set; }
+        public decimal atleast_1dose_percent { get; set; }
+        public decimal full_vaccinated_percent { get; set; }
+        public decimal min1d_16_49_pc { get; set; }
         public decimal full_16_49_pc { get; set; }
         public decimal min1d_50_69_pc { get; set; }
         public decimal full_50_69_pc { get; set; }

@@ -323,26 +323,39 @@ namespace WAVaccine
             item.Add("data", to);
             File.WriteAllText("data/suburb-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
 
-            DoSa2Stats(to);
+            var sa2 = DoSa2Stats(to);
+            DoSa3Stats(sa2);
+            DoSa4Stats(sa2);
+            DoGCCSAStats(sa2);
+            DoWAStats(sa2);
         }
 
-        private static void DoSa2Stats(List<SuburbObject> to)
+        private static List<SA2Detail> DoSa2Stats(List<SuburbObject> to)
         {
             var sa2poptext = File.ReadAllText("data/sa2pop.json");
             var sa2suburbtext = File.ReadAllText("data/sa2suburb.json");
+            var sa2suburbextratext = File.ReadAllText("data/sa2suburbextra.json");
             JObject sa2json = (JObject) JsonConvert.DeserializeObject(sa2poptext);
             JObject sa2subjson = (JObject)JsonConvert.DeserializeObject(sa2suburbtext);
+            JObject sa2subextrajson = (JObject)JsonConvert.DeserializeObject(sa2suburbextratext);
             JArray ar1 = (JArray)sa2json["data"];
             JArray ar2 = (JArray)sa2subjson["data"];
+            JArray ar2extra = (JArray)sa2subextrajson["data"];
             var sa2pop = JsonConvert.DeserializeObject<List<SA2PopOb>>(ar1.ToString());
             var sa2sub = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2.ToString());
+            var sa2subextra = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2extra.ToString());
+            sa2sub.AddRange(sa2subextra);
             var grpsa2sub = sa2sub.GroupBy(ss => ss.SA2_Name);
+            List<SuburbObject> used = new List<SuburbObject>();
             List<SA2Detail> sa2det = new List<SA2Detail>();
             foreach (var it in grpsa2sub)
             {
                 SA2Detail sdet = new SA2Detail();
                 sdet.SA2Name = it.Key;
-                sdet.c16_plus = (int)sa2pop.Single(sp => sp.name == it.Key).c16_plus;
+                var s2pop = sa2pop.SingleOrDefault(sp => sp.name == it.Key);
+                if (s2pop != null) {
+                    sdet.c16_plus = (int)s2pop.c16_plus;
+                }
                 foreach (var it2 in it)
                 {
                     SuburbObject ob = to.SingleOrDefault(tt => tt.suburb_name == it2.name);
@@ -351,10 +364,14 @@ namespace WAVaccine
                         sdet.dose1 += ob.dose_1;
                         sdet.dose2 += ob.dose_2;
                         sdet.total_doses += ob.total_dose;
+                        used.Add(ob);
                     }
                 }
-                sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                }
                 sa2det.Add(sdet);
             }
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
@@ -362,7 +379,186 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", sa2det);
             File.WriteAllText("data/sa2summary-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            return sa2det;
         }
+
+        private static void DoSa3Stats(List<SA2Detail> to)
+        {
+            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            List<SA2Map> sa2mapping = new();
+            foreach (var line in sa2list)
+            {
+                var cols = line.Split(',');
+                SA2Map it = new SA2Map
+                {
+                    SA2_Name = cols[1],
+                    SA3_Name = cols[5],
+                    SA4_Name = cols[7],
+                    GCCSA = cols[9]
+                };
+                sa2mapping.Add(it);
+            }
+            sa2mapping.RemoveAt(0);
+            var sa3 = sa2mapping.GroupBy(ss => ss.SA3_Name);
+            List<SA3Detail> sa3det = new List<SA3Detail>();
+            foreach (var it1 in sa3)
+            {
+                SA3Detail sdet = new SA3Detail();
+                sdet.SA3Name = it1.Key;
+                foreach (var it in it1)
+                {
+                    SA2Detail s2det = to.SingleOrDefault(tt => tt.SA2Name == it.SA2_Name);
+                    if (s2det != null)
+                    {
+                        sdet.total_doses += s2det.total_doses;
+                        sdet.dose1 += s2det.dose1;
+                        sdet.dose2 += s2det.dose2;
+                        sdet.c16_plus += s2det.c16_plus;
+                    }
+                }
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                }
+                sa3det.Add(sdet);
+            }
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", sa3det);
+            File.WriteAllText("data/sa3summary-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+        }
+        private static void DoSa4Stats(List<SA2Detail> to)
+        {
+            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            List<SA2Map> sa2mapping = new();
+            foreach (var line in sa2list)
+            {
+                var cols = line.Split(',');
+                SA2Map it = new SA2Map
+                {
+                    SA2_Name = cols[1],
+                    SA3_Name = cols[5],
+                    SA4_Name = cols[7],
+                    GCCSA = cols[9]
+                };
+                sa2mapping.Add(it);
+            }
+            sa2mapping.RemoveAt(0);
+            var sa4 = sa2mapping.GroupBy(ss => ss.SA4_Name);
+            List<SA4Detail> sa4det = new List<SA4Detail>();
+            foreach (var it1 in sa4)
+            {
+                SA4Detail sdet = new SA4Detail();
+                sdet.SA4Name = it1.Key;
+                foreach (var it in it1)
+                {
+                    SA2Detail s2det = to.SingleOrDefault(tt => tt.SA2Name == it.SA2_Name);
+                    if (s2det != null)
+                    {
+                        sdet.total_doses += s2det.total_doses;
+                        sdet.dose1 += s2det.dose1;
+                        sdet.dose2 += s2det.dose2;
+                        sdet.c16_plus += s2det.c16_plus;
+                    }
+                }
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                }
+                sa4det.Add(sdet);
+            }
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", sa4det);
+            File.WriteAllText("data/sa4summary-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+        }
+        private static void DoGCCSAStats(List<SA2Detail> to)
+        {
+            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            List<SA2Map> sa2mapping = new();
+            foreach (var line in sa2list)
+            {
+                var cols = line.Split(',');
+                SA2Map it = new SA2Map
+                {
+                    SA2_Name = cols[1],
+                    SA3_Name = cols[5],
+                    SA4_Name = cols[7],
+                    GCCSA = cols[9]
+                };
+                sa2mapping.Add(it);
+            }
+            sa2mapping.RemoveAt(0);
+            var gccsa = sa2mapping.GroupBy(ss => ss.GCCSA);
+            List<GCCSADetail> gccsadet = new List<GCCSADetail>();
+            foreach (var it1 in gccsa)
+            {
+                GCCSADetail sdet = new GCCSADetail();
+                sdet.Name = it1.Key;
+                foreach (var it in it1)
+                {
+                    SA2Detail s2det = to.SingleOrDefault(tt => tt.SA2Name == it.SA2_Name);
+                    if (s2det != null)
+                    {
+                        sdet.total_doses += s2det.total_doses;
+                        sdet.dose1 += s2det.dose1;
+                        sdet.dose2 += s2det.dose2;
+                        sdet.c16_plus += s2det.c16_plus;
+                    }
+                }
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                }
+                gccsadet.Add(sdet);
+            }
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", gccsadet);
+            File.WriteAllText("data/gccsasummary-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+        }
+        private static void DoWAStats(List<SA2Detail> to)
+        {
+            List<GCCSADetail> gccsadet = new List<GCCSADetail>();
+            GCCSADetail sdet = new GCCSADetail();
+            sdet.Name = "Western Australia";
+            foreach (var it in to)
+            {
+                SA2Detail s2det = it;
+                if (s2det != null)
+                {
+                    sdet.total_doses += s2det.total_doses;
+                    sdet.dose1 += s2det.dose1;
+                    sdet.dose2 += s2det.dose2;
+                    sdet.c16_plus += s2det.c16_plus;
+                }
+            }
+            if (sdet.c16_plus > 0)
+            {
+                sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
+                sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+            }
+            gccsadet.Add(sdet);
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", gccsadet);
+            File.WriteAllText("data/wasummary-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+        }
+    }
+
+    class SA2Map
+    {
+        public string SA2_Name { get; set; }
+        public string SA3_Name { get; set; }
+        public string SA4_Name { get; set; }
+        public string GCCSA { get; set; }
     }
 
     class SuburbObject
@@ -376,6 +572,36 @@ namespace WAVaccine
     class SA2Detail
     {
         public string SA2Name { get; set; }
+        public int c16_plus { get; set; }
+        public int dose1 { get; set; }
+        public int dose2 { get; set; }
+        public int total_doses { get; set; }
+        public decimal atleast_1dose_percent { get; set; }
+        public decimal full_vaccinated_percent { get; set; }
+    }
+    class SA3Detail
+    {
+        public string SA3Name { get; set; }
+        public int c16_plus { get; set; }
+        public int dose1 { get; set; }
+        public int dose2 { get; set; }
+        public int total_doses { get; set; }
+        public decimal atleast_1dose_percent { get; set; }
+        public decimal full_vaccinated_percent { get; set; }
+    }
+    class SA4Detail
+    {
+        public string SA4Name { get; set; }
+        public int c16_plus { get; set; }
+        public int dose1 { get; set; }
+        public int dose2 { get; set; }
+        public int total_doses { get; set; }
+        public decimal atleast_1dose_percent { get; set; }
+        public decimal full_vaccinated_percent { get; set; }
+    }
+    class GCCSADetail
+    {
+        public string Name { get; set; }
         public int c16_plus { get; set; }
         public int dose1 { get; set; }
         public int dose2 { get; set; }

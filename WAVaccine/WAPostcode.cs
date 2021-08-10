@@ -322,6 +322,7 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", to);
             File.WriteAllText("data/postcode-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/postcode-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 

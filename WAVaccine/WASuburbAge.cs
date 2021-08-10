@@ -386,6 +386,7 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", to);
             File.WriteAllText("data/suburbage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/suburbage-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
 
             var sa2 = DoSa2Stats(to);
             DoSa3Stats(sa2);
@@ -488,6 +489,7 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", sa2det);
             File.WriteAllText("data/sa2summaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/sa2summaryage-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
             return sa2det;
         }
         private static void DoSa3Stats(List<SA2DetailAge> to)
@@ -559,6 +561,7 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", sa3det);
             File.WriteAllText("data/sa3summaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/sa3summaryage-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
         private static void DoSa4Stats(List<SA2DetailAge> to)
         {
@@ -629,6 +632,7 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", sa4det);
             File.WriteAllText("data/sa4summaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/sa4summaryage-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
         private static void DoGCCSAStats(List<SA2DetailAge> to)
         {
@@ -699,6 +703,7 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", gccsadet);
             File.WriteAllText("data/gccsasummaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/gccsasummaryage-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
         private static void DoWAStats(List<SA2DetailAge> to)
         {
@@ -769,6 +774,7 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", gccsadet);
             File.WriteAllText("data/wasummaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/wasummaryage-.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 

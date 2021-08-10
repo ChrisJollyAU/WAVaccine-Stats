@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-08T00:00:00",
+  "date_updated": "2021-08-09T00:00:00",
   "locality": "MENORA",
   "data": [
     {
@@ -1076,9 +1076,16 @@
     {
       "date": "2021-08-08",
       "locality": "MENORA",
+      "dose1": 4,
+      "dose2": 16,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-09",
+      "locality": "MENORA",
       "dose1": 3,
-      "dose2": 12,
-      "vaccines": 15
+      "dose2": 15,
+      "vaccines": 18
     }
   ]
 }

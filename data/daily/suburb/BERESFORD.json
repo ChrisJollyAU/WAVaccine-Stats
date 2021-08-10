@@ -1,9 +1,16 @@
 {
-  "date_updated": "2021-08-08T00:00:00",
+  "date_updated": "2021-08-09T00:00:00",
   "locality": "BERESFORD",
   "data": [
     {
       "date": "2021-03-10",
+      "locality": "BERESFORD",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-11",
       "locality": "BERESFORD",
       "dose1": 1,
       "dose2": 0,
@@ -216,8 +223,8 @@
       "date": "2021-04-23",
       "locality": "BERESFORD",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-04-24",
@@ -572,9 +579,9 @@
     {
       "date": "2021-06-22",
       "locality": "BERESFORD",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-23",
@@ -783,8 +790,8 @@
       "date": "2021-07-23",
       "locality": "BERESFORD",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-07-24",
@@ -897,6 +904,13 @@
       "dose1": 6,
       "dose2": 0,
       "vaccines": 6
+    },
+    {
+      "date": "2021-08-09",
+      "locality": "BERESFORD",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-08T00:00:00",
+  "date_updated": "2021-08-09T00:00:00",
   "locality": "BURSWOOD",
   "data": [
     {
@@ -1091,15 +1091,22 @@
       "date": "2021-08-07",
       "locality": "BURSWOOD",
       "dose1": 7,
-      "dose2": 16,
-      "vaccines": 23
+      "dose2": 18,
+      "vaccines": 25
     },
     {
       "date": "2021-08-08",
       "locality": "BURSWOOD",
-      "dose1": 6,
+      "dose1": 8,
       "dose2": 11,
-      "vaccines": 17
+      "vaccines": 19
+    },
+    {
+      "date": "2021-08-09",
+      "locality": "BURSWOOD",
+      "dose1": 5,
+      "dose2": 17,
+      "vaccines": 22
     }
   ]
 }

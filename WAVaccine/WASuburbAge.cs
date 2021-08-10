@@ -774,7 +774,7 @@ namespace WAVaccine
             item.Add("date", date);
             item.Add("data", gccsadet);
             File.WriteAllText("data/wasummaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
-            File.WriteAllText("data/wasummaryage-.json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/wasummaryage-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 

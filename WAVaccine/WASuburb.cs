@@ -384,22 +384,24 @@ namespace WAVaccine
 
         private static void DoSa3Stats(List<SA2Detail> to)
         {
-            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            var sa2list = File.ReadAllLines("data/SA2_2016_AUST.csv");
             List<SA2Map> sa2mapping = new();
             foreach (var line in sa2list)
             {
                 var cols = line.Split(',');
                 SA2Map it = new SA2Map
                 {
-                    SA2_Name = cols[1],
-                    SA3_Name = cols[5],
-                    SA4_Name = cols[7],
-                    GCCSA = cols[9]
+                    SA2_Name = cols[2],
+                    SA3_Name = cols[4],
+                    SA4_Name = cols[6],
+                    GCCSA = cols[8],
+                    State = cols[10]
                 };
                 sa2mapping.Add(it);
             }
             sa2mapping.RemoveAt(0);
             var sa3 = sa2mapping.GroupBy(ss => ss.SA3_Name);
+            List<SA2Detail> used = new List<SA2Detail>();
             List<SA3Detail> sa3det = new List<SA3Detail>();
             foreach (var it1 in sa3)
             {
@@ -414,6 +416,7 @@ namespace WAVaccine
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
                         sdet.c16_plus += s2det.c16_plus;
+                        used.Add(s2det);
                     }
                 }
                 if (sdet.c16_plus > 0)
@@ -431,17 +434,18 @@ namespace WAVaccine
         }
         private static void DoSa4Stats(List<SA2Detail> to)
         {
-            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            var sa2list = File.ReadAllLines("data/SA2_2016_AUST.csv");
             List<SA2Map> sa2mapping = new();
             foreach (var line in sa2list)
             {
                 var cols = line.Split(',');
                 SA2Map it = new SA2Map
                 {
-                    SA2_Name = cols[1],
-                    SA3_Name = cols[5],
-                    SA4_Name = cols[7],
-                    GCCSA = cols[9]
+                    SA2_Name = cols[2],
+                    SA3_Name = cols[4],
+                    SA4_Name = cols[6],
+                    GCCSA = cols[8],
+                    State = cols[10]
                 };
                 sa2mapping.Add(it);
             }
@@ -478,17 +482,18 @@ namespace WAVaccine
         }
         private static void DoGCCSAStats(List<SA2Detail> to)
         {
-            var sa2list = File.ReadAllLines("data/SA2_2021_AUST.csv");
+            var sa2list = File.ReadAllLines("data/SA2_2016_AUST.csv");
             List<SA2Map> sa2mapping = new();
             foreach (var line in sa2list)
             {
                 var cols = line.Split(',');
                 SA2Map it = new SA2Map
                 {
-                    SA2_Name = cols[1],
-                    SA3_Name = cols[5],
-                    SA4_Name = cols[7],
-                    GCCSA = cols[9]
+                    SA2_Name = cols[2],
+                    SA3_Name = cols[4],
+                    SA4_Name = cols[6],
+                    GCCSA = cols[8],
+                    State = cols[10]
                 };
                 sa2mapping.Add(it);
             }
@@ -525,26 +530,46 @@ namespace WAVaccine
         }
         private static void DoWAStats(List<SA2Detail> to)
         {
-            List<GCCSADetail> gccsadet = new List<GCCSADetail>();
-            GCCSADetail sdet = new GCCSADetail();
-            sdet.Name = "Western Australia";
-            foreach (var it in to)
+            var sa2list = File.ReadAllLines("data/SA2_2016_AUST.csv");
+            List<SA2Map> sa2mapping = new();
+            foreach (var line in sa2list)
             {
-                SA2Detail s2det = it;
-                if (s2det != null)
+                var cols = line.Split(',');
+                SA2Map it = new SA2Map
                 {
-                    sdet.total_doses += s2det.total_doses;
-                    sdet.dose1 += s2det.dose1;
-                    sdet.dose2 += s2det.dose2;
-                    sdet.c16_plus += s2det.c16_plus;
-                }
+                    SA2_Name = cols[2],
+                    SA3_Name = cols[4],
+                    SA4_Name = cols[6],
+                    GCCSA = cols[8],
+                    State = cols[10]
+                };
+                sa2mapping.Add(it);
             }
-            if (sdet.c16_plus > 0)
+            sa2mapping.RemoveAt(0);
+            var gccsa = sa2mapping.GroupBy(ss => ss.State);
+            List<GCCSADetail> gccsadet = new List<GCCSADetail>();
+            foreach (var it1 in gccsa)
             {
-                sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                GCCSADetail sdet = new GCCSADetail();
+                sdet.Name = it1.Key;
+                foreach (var it in it1)
+                {
+                    SA2Detail s2det = to.SingleOrDefault(tt => tt.SA2Name == it.SA2_Name);
+                    if (s2det != null)
+                    {
+                        sdet.total_doses += s2det.total_doses;
+                        sdet.dose1 += s2det.dose1;
+                        sdet.dose2 += s2det.dose2;
+                        sdet.c16_plus += s2det.c16_plus;
+                    }
+                }
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                }
+                gccsadet.Add(sdet);
             }
-            gccsadet.Add(sdet);
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
             JsonObject item = new JsonObject();
             item.Add("date", date);
@@ -559,6 +584,7 @@ namespace WAVaccine
         public string SA3_Name { get; set; }
         public string SA4_Name { get; set; }
         public string GCCSA { get; set; }
+        public string State { get; set; }
     }
 
     class SuburbObject

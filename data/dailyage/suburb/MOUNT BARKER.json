@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-09T00:00:00",
+  "date_updated": "2021-08-10T00:00:00",
   "postcode": "MOUNT BARKER",
   "data": [
     {
@@ -2254,17 +2254,17 @@
       "date": "2021-08-05",
       "locality": "MOUNT BARKER",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
-      "dose2": 1,
-      "vaccines": 10
+      "dose1": 16,
+      "dose2": 8,
+      "vaccines": 24
     },
     {
       "date": "2021-08-05",
       "locality": "MOUNT BARKER",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 7,
+      "dose2": 22,
+      "vaccines": 29
     },
     {
       "date": "2021-08-06",
@@ -2278,17 +2278,25 @@
       "date": "2021-08-06",
       "locality": "MOUNT BARKER",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-07",
       "locality": "MOUNT BARKER",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-07",
+      "locality": "MOUNT BARKER",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-08-07",
@@ -2302,20 +2310,44 @@
       "date": "2021-08-08",
       "locality": "MOUNT BARKER",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 36,
+      "dose2": 2,
+      "vaccines": 38
     },
     {
       "date": "2021-08-08",
       "locality": "MOUNT BARKER",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 29,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 31
+    },
+    {
+      "date": "2021-08-08",
+      "locality": "MOUNT BARKER",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-08-09",
+      "locality": "MOUNT BARKER",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 14,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-08-09",
+      "locality": "MOUNT BARKER",
+      "AgeGroup": "50 to 69",
+      "dose1": 16,
+      "dose2": 17,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-08-10",
       "locality": "MOUNT BARKER",
       "AgeGroup": "16 to 49",
       "dose1": 0,
@@ -2323,12 +2355,20 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-09",
+      "date": "2021-08-10",
       "locality": "MOUNT BARKER",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 1,
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "MOUNT BARKER",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

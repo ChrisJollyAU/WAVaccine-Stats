@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-09T00:00:00",
+  "date_updated": "2021-08-10T00:00:00",
   "locality": "YANGEBUP",
   "data": [
     {
@@ -1104,9 +1104,16 @@
     {
       "date": "2021-08-09",
       "locality": "YANGEBUP",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 20,
-      "vaccines": 35
+      "vaccines": 36
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "YANGEBUP",
+      "dose1": 12,
+      "dose2": 24,
+      "vaccines": 36
     }
   ]
 }

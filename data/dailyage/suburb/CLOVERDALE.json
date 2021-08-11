@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-09T00:00:00",
+  "date_updated": "2021-08-10T00:00:00",
   "postcode": "CLOVERDALE",
   "data": [
     {
@@ -630,9 +630,9 @@
       "date": "2021-04-01",
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 8,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-04-01",
@@ -1358,9 +1358,9 @@
       "date": "2021-05-05",
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-05-05",
@@ -1871,8 +1871,8 @@
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-05-28",
@@ -2511,8 +2511,8 @@
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-06-24",
@@ -2598,17 +2598,17 @@
       "date": "2021-06-28",
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 5,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-06-28",
       "locality": "CLOVERDALE",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-06-28",
@@ -3094,9 +3094,9 @@
       "date": "2021-07-19",
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 11,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-07-19",
@@ -3119,16 +3119,16 @@
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
       "dose1": 22,
-      "dose2": 17,
-      "vaccines": 39
+      "dose2": 16,
+      "vaccines": 38
     },
     {
       "date": "2021-07-20",
       "locality": "CLOVERDALE",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 10,
-      "vaccines": 14
+      "dose2": 11,
+      "vaccines": 15
     },
     {
       "date": "2021-07-20",
@@ -3214,9 +3214,9 @@
       "date": "2021-07-24",
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 4,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-07-24",
@@ -3286,9 +3286,9 @@
       "date": "2021-07-27",
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 13,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-07-27",
@@ -3526,9 +3526,9 @@
       "date": "2021-08-06",
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 16,
       "dose2": 25,
-      "vaccines": 39
+      "vaccines": 41
     },
     {
       "date": "2021-08-06",
@@ -3598,17 +3598,17 @@
       "date": "2021-08-09",
       "locality": "CLOVERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose1": 12,
+      "dose2": 8,
+      "vaccines": 20
     },
     {
       "date": "2021-08-09",
       "locality": "CLOVERDALE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2021-08-09",
@@ -3617,6 +3617,30 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "CLOVERDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 6,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "CLOVERDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 13,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "CLOVERDALE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

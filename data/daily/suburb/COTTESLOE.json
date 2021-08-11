@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-09T00:00:00",
+  "date_updated": "2021-08-10T00:00:00",
   "locality": "COTTESLOE",
   "data": [
     {
@@ -1167,9 +1167,16 @@
     {
       "date": "2021-08-09",
       "locality": "COTTESLOE",
-      "dose1": 16,
-      "dose2": 76,
-      "vaccines": 92
+      "dose1": 19,
+      "dose2": 80,
+      "vaccines": 99
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "COTTESLOE",
+      "dose1": 40,
+      "dose2": 60,
+      "vaccines": 100
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-09T00:00:00",
+  "date_updated": "2021-08-10T00:00:00",
   "locality": "MOUNT PLEASANT",
   "data": [
     {
@@ -159,9 +159,9 @@
     {
       "date": "2021-03-21",
       "locality": "MOUNT PLEASANT",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-22",
@@ -404,9 +404,9 @@
     {
       "date": "2021-04-26",
       "locality": "MOUNT PLEASANT",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 1,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-04-27",
@@ -607,9 +607,9 @@
     {
       "date": "2021-05-25",
       "locality": "MOUNT PLEASANT",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 12,
-      "vaccines": 44
+      "vaccines": 43
     },
     {
       "date": "2021-05-26",
@@ -866,9 +866,9 @@
     {
       "date": "2021-07-01",
       "locality": "MOUNT PLEASANT",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 28,
-      "vaccines": 47
+      "vaccines": 46
     },
     {
       "date": "2021-07-02",
@@ -950,9 +950,9 @@
     {
       "date": "2021-07-13",
       "locality": "MOUNT PLEASANT",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 10,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-07-14",
@@ -1049,8 +1049,8 @@
       "date": "2021-07-27",
       "locality": "MOUNT PLEASANT",
       "dose1": 15,
-      "dose2": 43,
-      "vaccines": 58
+      "dose2": 42,
+      "vaccines": 57
     },
     {
       "date": "2021-07-28",
@@ -1098,8 +1098,8 @@
       "date": "2021-08-03",
       "locality": "MOUNT PLEASANT",
       "dose1": 11,
-      "dose2": 39,
-      "vaccines": 50
+      "dose2": 40,
+      "vaccines": 51
     },
     {
       "date": "2021-08-04",
@@ -1139,9 +1139,16 @@
     {
       "date": "2021-08-09",
       "locality": "MOUNT PLEASANT",
-      "dose1": 7,
-      "dose2": 32,
-      "vaccines": 39
+      "dose1": 11,
+      "dose2": 34,
+      "vaccines": 45
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "MOUNT PLEASANT",
+      "dose1": 14,
+      "dose2": 36,
+      "vaccines": 50
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "DUDLEY PARK",
   "data": [
     {
@@ -950,16 +950,16 @@
     {
       "date": "2021-08-05",
       "locality": "DUDLEY PARK",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 38,
-      "vaccines": 53
+      "vaccines": 54
     },
     {
       "date": "2021-08-06",
       "locality": "DUDLEY PARK",
       "dose1": 12,
-      "dose2": 28,
-      "vaccines": 40
+      "dose2": 29,
+      "vaccines": 41
     },
     {
       "date": "2021-08-07",
@@ -985,9 +985,16 @@
     {
       "date": "2021-08-10",
       "locality": "DUDLEY PARK",
+      "dose1": 18,
+      "dose2": 43,
+      "vaccines": 61
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "DUDLEY PARK",
       "dose1": 13,
-      "dose2": 37,
-      "vaccines": 50
+      "dose2": 35,
+      "vaccines": 48
     }
   ]
 }

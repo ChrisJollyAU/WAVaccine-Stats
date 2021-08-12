@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "postcode": "KEWDALE",
   "data": [
     {
@@ -3391,8 +3391,8 @@
       "locality": "KEWDALE",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 12,
-      "vaccines": 24
+      "dose2": 13,
+      "vaccines": 25
     },
     {
       "date": "2021-08-04",
@@ -3518,25 +3518,25 @@
       "date": "2021-08-09",
       "locality": "KEWDALE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 8,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-08-10",
       "locality": "KEWDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose1": 10,
+      "dose2": 5,
+      "vaccines": 15
     },
     {
       "date": "2021-08-10",
       "locality": "KEWDALE",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 8,
-      "vaccines": 9
+      "dose1": 2,
+      "dose2": 10,
+      "vaccines": 12
     },
     {
       "date": "2021-08-10",
@@ -3544,6 +3544,30 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "KEWDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 9,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "KEWDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 9,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "KEWDALE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

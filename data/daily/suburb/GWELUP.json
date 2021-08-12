@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "GWELUP",
   "data": [
     {
@@ -1146,9 +1146,16 @@
     {
       "date": "2021-08-10",
       "locality": "GWELUP",
-      "dose1": 10,
-      "dose2": 23,
-      "vaccines": 33
+      "dose1": 12,
+      "dose2": 30,
+      "vaccines": 42
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "GWELUP",
+      "dose1": 24,
+      "dose2": 31,
+      "vaccines": 55
     }
   ]
 }

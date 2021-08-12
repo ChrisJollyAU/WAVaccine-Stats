@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "HANNANS",
   "data": [
     {
@@ -314,8 +314,8 @@
       "date": "2021-05-21",
       "locality": "HANNANS",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-05-25",
@@ -771,6 +771,13 @@
       "dose1": 10,
       "dose2": 2,
       "vaccines": 12
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "HANNANS",
+      "dose1": 19,
+      "dose2": 3,
+      "vaccines": 22
     }
   ]
 }

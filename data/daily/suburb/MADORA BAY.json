@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "MADORA BAY",
   "data": [
     {
@@ -971,9 +971,16 @@
     {
       "date": "2021-08-10",
       "locality": "MADORA BAY",
-      "dose1": 8,
-      "dose2": 14,
-      "vaccines": 22
+      "dose1": 9,
+      "dose2": 15,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "MADORA BAY",
+      "dose1": 11,
+      "dose2": 21,
+      "vaccines": 32
     }
   ]
 }

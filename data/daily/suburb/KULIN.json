@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "KULIN",
   "data": [
     {
@@ -607,9 +607,16 @@
     {
       "date": "2021-08-10",
       "locality": "KULIN",
-      "dose1": 4,
+      "dose1": 14,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "KULIN",
+      "dose1": 6,
+      "dose2": 1,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "BIBRA LAKE",
   "data": [
     {
@@ -1111,16 +1111,23 @@
     {
       "date": "2021-08-09",
       "locality": "BIBRA LAKE",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 20,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-08-10",
       "locality": "BIBRA LAKE",
-      "dose1": 14,
-      "dose2": 22,
-      "vaccines": 36
+      "dose1": 16,
+      "dose2": 23,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "BIBRA LAKE",
+      "dose1": 27,
+      "dose2": 27,
+      "vaccines": 54
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "MOUNT RICHON",
   "data": [
     {
@@ -978,9 +978,16 @@
     {
       "date": "2021-08-10",
       "locality": "MOUNT RICHON",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "MOUNT RICHON",
+      "dose1": 1,
+      "dose2": 11,
+      "vaccines": 12
     }
   ]
 }

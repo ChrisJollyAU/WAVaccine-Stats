@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "CAVERSHAM",
   "data": [
     {
@@ -1132,9 +1132,16 @@
     {
       "date": "2021-08-10",
       "locality": "CAVERSHAM",
-      "dose1": 10,
-      "dose2": 11,
-      "vaccines": 21
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "CAVERSHAM",
+      "dose1": 23,
+      "dose2": 29,
+      "vaccines": 52
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "postcode": "FURNISSDALE",
   "data": [
     {
@@ -1607,8 +1607,16 @@
       "locality": "FURNISSDALE",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "FURNISSDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

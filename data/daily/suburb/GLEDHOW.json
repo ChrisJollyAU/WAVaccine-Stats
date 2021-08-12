@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "GLEDHOW",
   "data": [
     {
@@ -563,6 +563,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-10",
+      "locality": "GLEDHOW",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-11",
       "locality": "GLEDHOW",
       "dose1": 4,
@@ -706,8 +713,8 @@
       "date": "2021-07-31",
       "locality": "GLEDHOW",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-01",

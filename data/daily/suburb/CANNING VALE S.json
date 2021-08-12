@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "CANNING VALE S",
   "data": [
     {
@@ -706,8 +706,15 @@
       "date": "2021-08-10",
       "locality": "CANNING VALE S",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "CANNING VALE S",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

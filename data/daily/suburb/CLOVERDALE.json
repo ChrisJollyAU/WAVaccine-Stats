@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "CLOVERDALE",
   "data": [
     {
@@ -1167,16 +1167,23 @@
     {
       "date": "2021-08-09",
       "locality": "CLOVERDALE",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 12,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-08-10",
       "locality": "CLOVERDALE",
-      "dose1": 13,
-      "dose2": 22,
-      "vaccines": 35
+      "dose1": 14,
+      "dose2": 26,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "CLOVERDALE",
+      "dose1": 9,
+      "dose2": 18,
+      "vaccines": 27
     }
   ]
 }

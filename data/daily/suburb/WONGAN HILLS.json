@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "WONGAN HILLS",
   "data": [
     {
@@ -339,13 +339,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-20",
-      "locality": "WONGAN HILLS",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-23",
       "locality": "WONGAN HILLS",
       "dose1": 5,
@@ -503,8 +496,8 @@
       "date": "2021-07-30",
       "locality": "WONGAN HILLS",
       "dose1": 12,
-      "dose2": 2,
-      "vaccines": 14
+      "dose2": 1,
+      "vaccines": 13
     },
     {
       "date": "2021-07-31",
@@ -561,6 +554,13 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "WONGAN HILLS",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

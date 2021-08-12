@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "postcode": "GOOMALLING",
   "data": [
     {
@@ -22,14 +22,6 @@
       "date": "2021-03-26",
       "locality": "GOOMALLING",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-29",
-      "locality": "GOOMALLING",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -229,14 +221,6 @@
     {
       "date": "2021-04-22",
       "locality": "GOOMALLING",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-22",
-      "locality": "GOOMALLING",
       "AgeGroup": "50 to 69",
       "dose1": 6,
       "dose2": 0,
@@ -312,14 +296,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-13",
-      "locality": "GOOMALLING",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -488,14 +464,6 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-14",
-      "locality": "GOOMALLING",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1097,6 +1065,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "GOOMALLING",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 2,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "GOOMALLING",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     }
   ]
 }

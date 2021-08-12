@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "WHITE GUM VALLEY",
   "data": [
     {
@@ -1090,9 +1090,16 @@
     {
       "date": "2021-08-10",
       "locality": "WHITE GUM VALLEY",
-      "dose1": 11,
-      "dose2": 12,
-      "vaccines": 23
+      "dose1": 12,
+      "dose2": 21,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "WHITE GUM VALLEY",
+      "dose1": 14,
+      "dose2": 11,
+      "vaccines": 25
     }
   ]
 }

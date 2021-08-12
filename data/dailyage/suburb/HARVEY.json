@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "postcode": "HARVEY",
   "data": [
     {
@@ -2494,17 +2494,41 @@
       "date": "2021-08-10",
       "locality": "HARVEY",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
-      "dose2": 5,
-      "vaccines": 13
+      "dose1": 10,
+      "dose2": 13,
+      "vaccines": 23
     },
     {
       "date": "2021-08-10",
       "locality": "HARVEY",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 8,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "HARVEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "HARVEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 12,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "HARVEY",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
     }
   ]
 }

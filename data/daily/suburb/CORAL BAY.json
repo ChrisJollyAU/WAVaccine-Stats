@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "CORAL BAY",
   "data": [
     {
@@ -152,9 +152,16 @@
     {
       "date": "2021-08-10",
       "locality": "CORAL BAY",
-      "dose1": 9,
+      "dose1": 15,
       "dose2": 14,
-      "vaccines": 23
+      "vaccines": 29
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "CORAL BAY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

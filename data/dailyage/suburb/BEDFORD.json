@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "postcode": "BEDFORD",
   "data": [
     {
@@ -547,6 +547,14 @@
       "vaccines": 5
     },
     {
+      "date": "2021-03-29",
+      "locality": "BEDFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-03-30",
       "locality": "BEDFORD",
       "AgeGroup": "16 to 49",
@@ -985,6 +993,14 @@
       "dose1": 1,
       "dose2": 4,
       "vaccines": 5
+    },
+    {
+      "date": "2021-04-20",
+      "locality": "BEDFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-04-20",
@@ -3486,17 +3502,17 @@
       "date": "2021-08-10",
       "locality": "BEDFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 12,
       "dose2": 7,
-      "vaccines": 16
+      "vaccines": 19
     },
     {
       "date": "2021-08-10",
       "locality": "BEDFORD",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 7,
-      "vaccines": 13
+      "dose2": 10,
+      "vaccines": 16
     },
     {
       "date": "2021-08-10",
@@ -3505,6 +3521,30 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "BEDFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 12,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "BEDFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 12,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "BEDFORD",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

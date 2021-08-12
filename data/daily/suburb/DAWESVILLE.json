@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "DAWESVILLE",
   "data": [
     {
@@ -1048,9 +1048,16 @@
     {
       "date": "2021-08-10",
       "locality": "DAWESVILLE",
+      "dose1": 20,
+      "dose2": 43,
+      "vaccines": 63
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "DAWESVILLE",
       "dose1": 18,
-      "dose2": 41,
-      "vaccines": 59
+      "dose2": 17,
+      "vaccines": 35
     }
   ]
 }

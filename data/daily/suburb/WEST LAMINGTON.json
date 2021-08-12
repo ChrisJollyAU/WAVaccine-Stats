@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "WEST LAMINGTON",
   "data": [
     {
@@ -677,8 +677,15 @@
     {
       "date": "2021-08-10",
       "locality": "WEST LAMINGTON",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 0,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "WEST LAMINGTON",
+      "dose1": 4,
+      "dose2": 4,
       "vaccines": 8
     }
   ]

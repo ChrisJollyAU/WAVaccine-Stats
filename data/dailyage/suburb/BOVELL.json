@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "postcode": "BOVELL",
   "data": [
     {
@@ -947,12 +947,36 @@
       "vaccines": 7
     },
     {
+      "date": "2021-08-09",
+      "locality": "BOVELL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-10",
       "locality": "BOVELL",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "BOVELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "BOVELL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

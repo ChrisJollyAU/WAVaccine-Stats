@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "MYAREE BC",
   "data": [
     {
@@ -640,6 +640,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-04",
+      "locality": "MYAREE BC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-05",
       "locality": "MYAREE BC",
       "dose1": 0,
@@ -673,6 +680,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "MYAREE BC",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

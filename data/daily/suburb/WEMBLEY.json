@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "WEMBLEY",
   "data": [
     {
@@ -54,9 +54,9 @@
     {
       "date": "2021-03-03",
       "locality": "WEMBLEY",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 0,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-03-04",
@@ -237,8 +237,8 @@
       "date": "2021-03-29",
       "locality": "WEMBLEY",
       "dose1": 23,
-      "dose2": 12,
-      "vaccines": 35
+      "dose2": 13,
+      "vaccines": 36
     },
     {
       "date": "2021-03-30",
@@ -383,9 +383,9 @@
     {
       "date": "2021-04-19",
       "locality": "WEMBLEY",
-      "dose1": 33,
+      "dose1": 34,
       "dose2": 18,
-      "vaccines": 51
+      "vaccines": 52
     },
     {
       "date": "2021-04-20",
@@ -649,9 +649,9 @@
     {
       "date": "2021-05-27",
       "locality": "WEMBLEY",
-      "dose1": 34,
+      "dose1": 33,
       "dose2": 15,
-      "vaccines": 49
+      "vaccines": 48
     },
     {
       "date": "2021-05-28",
@@ -684,9 +684,9 @@
     {
       "date": "2021-06-01",
       "locality": "WEMBLEY",
-      "dose1": 33,
+      "dose1": 34,
       "dose2": 18,
-      "vaccines": 51
+      "vaccines": 52
     },
     {
       "date": "2021-06-02",
@@ -797,8 +797,8 @@
       "date": "2021-06-17",
       "locality": "WEMBLEY",
       "dose1": 52,
-      "dose2": 20,
-      "vaccines": 72
+      "dose2": 19,
+      "vaccines": 71
     },
     {
       "date": "2021-06-18",
@@ -971,8 +971,8 @@
     {
       "date": "2021-07-12",
       "locality": "WEMBLEY",
-      "dose1": 35,
-      "dose2": 54,
+      "dose1": 34,
+      "dose2": 55,
       "vaccines": 89
     },
     {
@@ -1104,9 +1104,9 @@
     {
       "date": "2021-07-31",
       "locality": "WEMBLEY",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 58,
-      "vaccines": 98
+      "vaccines": 99
     },
     {
       "date": "2021-08-01",
@@ -1119,8 +1119,8 @@
       "date": "2021-08-02",
       "locality": "WEMBLEY",
       "dose1": 19,
-      "dose2": 82,
-      "vaccines": 101
+      "dose2": 83,
+      "vaccines": 102
     },
     {
       "date": "2021-08-03",
@@ -1146,9 +1146,9 @@
     {
       "date": "2021-08-06",
       "locality": "WEMBLEY",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 43,
-      "vaccines": 83
+      "vaccines": 84
     },
     {
       "date": "2021-08-07",
@@ -1174,9 +1174,16 @@
     {
       "date": "2021-08-10",
       "locality": "WEMBLEY",
-      "dose1": 26,
-      "dose2": 66,
-      "vaccines": 92
+      "dose1": 35,
+      "dose2": 80,
+      "vaccines": 115
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "WEMBLEY",
+      "dose1": 32,
+      "dose2": 39,
+      "vaccines": 71
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "HENLEY BROOK",
   "data": [
     {
@@ -572,9 +572,9 @@
     {
       "date": "2021-06-08",
       "locality": "HENLEY BROOK",
-      "dose1": 6,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 5
     },
     {
       "date": "2021-06-09",
@@ -972,8 +972,8 @@
       "date": "2021-08-04",
       "locality": "HENLEY BROOK",
       "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose2": 5,
+      "vaccines": 13
     },
     {
       "date": "2021-08-05",
@@ -1014,8 +1014,15 @@
       "date": "2021-08-10",
       "locality": "HENLEY BROOK",
       "dose1": 3,
-      "dose2": 12,
-      "vaccines": 15
+      "dose2": 14,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "HENLEY BROOK",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
     }
   ]
 }

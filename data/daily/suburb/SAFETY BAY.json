@@ -1,13 +1,13 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "SAFETY BAY",
   "data": [
     {
       "date": "2021-02-23",
       "locality": "SAFETY BAY",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-02-24",
@@ -124,8 +124,8 @@
     {
       "date": "2021-03-16",
       "locality": "SAFETY BAY",
-      "dose1": 7,
-      "dose2": 3,
+      "dose1": 6,
+      "dose2": 4,
       "vaccines": 10
     },
     {
@@ -1083,9 +1083,16 @@
     {
       "date": "2021-08-10",
       "locality": "SAFETY BAY",
-      "dose1": 23,
-      "dose2": 30,
-      "vaccines": 53
+      "dose1": 25,
+      "dose2": 33,
+      "vaccines": 58
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "SAFETY BAY",
+      "dose1": 20,
+      "dose2": 34,
+      "vaccines": 54
     }
   ]
 }

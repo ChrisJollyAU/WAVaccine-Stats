@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-10T00:00:00",
+  "date_updated": "2021-08-11T00:00:00",
   "locality": "MIDDLE SWAN",
   "data": [
     {
@@ -972,8 +972,8 @@
       "date": "2021-08-04",
       "locality": "MIDDLE SWAN",
       "dose1": 8,
-      "dose2": 8,
-      "vaccines": 16
+      "dose2": 9,
+      "vaccines": 17
     },
     {
       "date": "2021-08-05",
@@ -1014,8 +1014,15 @@
       "date": "2021-08-10",
       "locality": "MIDDLE SWAN",
       "dose1": 6,
+      "dose2": 9,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "MIDDLE SWAN",
+      "dose1": 11,
       "dose2": 7,
-      "vaccines": 13
+      "vaccines": 18
     }
   ]
 }

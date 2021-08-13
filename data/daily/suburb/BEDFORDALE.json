@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "BEDFORDALE",
   "data": [
     {
@@ -1013,16 +1013,23 @@
     {
       "date": "2021-08-10",
       "locality": "BEDFORDALE",
-      "dose1": 4,
-      "dose2": 10,
-      "vaccines": 14
+      "dose1": 7,
+      "dose2": 13,
+      "vaccines": 20
     },
     {
       "date": "2021-08-11",
       "locality": "BEDFORDALE",
-      "dose1": 9,
-      "dose2": 12,
-      "vaccines": 21
+      "dose1": 14,
+      "dose2": 18,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "BEDFORDALE",
+      "dose1": 8,
+      "dose2": 16,
+      "vaccines": 24
     }
   ]
 }

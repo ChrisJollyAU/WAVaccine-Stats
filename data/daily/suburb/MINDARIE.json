@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "MINDARIE",
   "data": [
     {
@@ -1153,9 +1153,16 @@
     {
       "date": "2021-08-11",
       "locality": "MINDARIE",
-      "dose1": 29,
+      "dose1": 30,
       "dose2": 53,
-      "vaccines": 82
+      "vaccines": 83
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "MINDARIE",
+      "dose1": 29,
+      "dose2": 29,
+      "vaccines": 58
     }
   ]
 }

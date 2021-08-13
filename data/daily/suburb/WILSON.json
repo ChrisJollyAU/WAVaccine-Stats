@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "WILSON",
   "data": [
     {
@@ -1175,15 +1175,22 @@
       "date": "2021-08-10",
       "locality": "WILSON",
       "dose1": 9,
-      "dose2": 22,
-      "vaccines": 31
+      "dose2": 23,
+      "vaccines": 32
     },
     {
       "date": "2021-08-11",
       "locality": "WILSON",
-      "dose1": 9,
-      "dose2": 29,
-      "vaccines": 38
+      "dose1": 11,
+      "dose2": 30,
+      "vaccines": 41
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "WILSON",
+      "dose1": 21,
+      "dose2": 27,
+      "vaccines": 48
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "MORGANTOWN",
   "data": [
     {
@@ -362,9 +362,16 @@
     {
       "date": "2021-08-11",
       "locality": "MORGANTOWN",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "MORGANTOWN",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

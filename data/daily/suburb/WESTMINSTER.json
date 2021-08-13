@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "WESTMINSTER",
   "data": [
     {
@@ -838,9 +838,9 @@
     {
       "date": "2021-06-29",
       "locality": "WESTMINSTER",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 4,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-06-30",
@@ -1139,9 +1139,16 @@
     {
       "date": "2021-08-11",
       "locality": "WESTMINSTER",
-      "dose1": 17,
-      "dose2": 21,
-      "vaccines": 38
+      "dose1": 19,
+      "dose2": 26,
+      "vaccines": 45
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "WESTMINSTER",
+      "dose1": 14,
+      "dose2": 12,
+      "vaccines": 26
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "WOORREE",
   "data": [
     {
@@ -839,8 +839,15 @@
       "date": "2021-08-11",
       "locality": "WOORREE",
       "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "WOORREE",
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 10
     }
   ]
 }

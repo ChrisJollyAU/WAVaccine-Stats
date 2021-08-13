@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "postcode": "NARROGIN",
   "data": [
     {
@@ -2071,8 +2071,8 @@
       "locality": "NARROGIN",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-08-08",
@@ -2119,8 +2119,8 @@
       "locality": "NARROGIN",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 3,
-      "vaccines": 12
+      "dose2": 4,
+      "vaccines": 13
     },
     {
       "date": "2021-08-10",
@@ -2143,8 +2143,8 @@
       "locality": "NARROGIN",
       "AgeGroup": "16 to 49",
       "dose1": 27,
-      "dose2": 0,
-      "vaccines": 27
+      "dose2": 1,
+      "vaccines": 28
     },
     {
       "date": "2021-08-11",
@@ -2153,6 +2153,30 @@
       "dose1": 10,
       "dose2": 1,
       "vaccines": 11
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "NARROGIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 17,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "NARROGIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 12,
+      "dose2": 26,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "NARROGIN",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

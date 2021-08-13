@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "NAREMBEEN",
   "data": [
     {
@@ -54,9 +54,9 @@
     {
       "date": "2021-04-23",
       "locality": "NAREMBEEN",
-      "dose1": 18,
+      "dose1": 17,
       "dose2": 0,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-04-28",
@@ -342,8 +342,8 @@
       "date": "2021-07-02",
       "locality": "NAREMBEEN",
       "dose1": 13,
-      "dose2": 14,
-      "vaccines": 27
+      "dose2": 13,
+      "vaccines": 26
     },
     {
       "date": "2021-07-03",
@@ -544,12 +544,19 @@
     {
       "date": "2021-08-10",
       "locality": "NAREMBEEN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-11",
+      "locality": "NAREMBEEN",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-12",
       "locality": "NAREMBEEN",
       "dose1": 0,
       "dose2": 2,

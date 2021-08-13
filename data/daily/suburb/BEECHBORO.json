@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "BEECHBORO",
   "data": [
     {
@@ -1126,22 +1126,29 @@
       "date": "2021-08-09",
       "locality": "BEECHBORO",
       "dose1": 19,
-      "dose2": 12,
-      "vaccines": 31
+      "dose2": 13,
+      "vaccines": 32
     },
     {
       "date": "2021-08-10",
       "locality": "BEECHBORO",
-      "dose1": 22,
-      "dose2": 30,
-      "vaccines": 52
+      "dose1": 23,
+      "dose2": 32,
+      "vaccines": 55
     },
     {
       "date": "2021-08-11",
       "locality": "BEECHBORO",
-      "dose1": 26,
-      "dose2": 31,
-      "vaccines": 57
+      "dose1": 30,
+      "dose2": 37,
+      "vaccines": 67
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "BEECHBORO",
+      "dose1": 12,
+      "dose2": 26,
+      "vaccines": 38
     }
   ]
 }

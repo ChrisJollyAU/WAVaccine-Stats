@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "PARMELIA",
   "data": [
     {
@@ -1070,15 +1070,22 @@
       "date": "2021-08-10",
       "locality": "PARMELIA",
       "dose1": 10,
-      "dose2": 29,
-      "vaccines": 39
+      "dose2": 30,
+      "vaccines": 40
     },
     {
       "date": "2021-08-11",
       "locality": "PARMELIA",
+      "dose1": 17,
+      "dose2": 42,
+      "vaccines": 59
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "PARMELIA",
       "dose1": 16,
-      "dose2": 41,
-      "vaccines": 57
+      "dose2": 19,
+      "vaccines": 35
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "NARROGIN",
   "data": [
     {
@@ -825,8 +825,8 @@
       "date": "2021-08-07",
       "locality": "NARROGIN",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-08-08",
@@ -846,15 +846,22 @@
       "date": "2021-08-10",
       "locality": "NARROGIN",
       "dose1": 19,
-      "dose2": 18,
-      "vaccines": 37
+      "dose2": 19,
+      "vaccines": 38
     },
     {
       "date": "2021-08-11",
       "locality": "NARROGIN",
       "dose1": 37,
-      "dose2": 1,
-      "vaccines": 38
+      "dose2": 2,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "NARROGIN",
+      "dose1": 21,
+      "dose2": 44,
+      "vaccines": 65
     }
   ]
 }

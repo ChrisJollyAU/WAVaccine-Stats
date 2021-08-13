@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "postcode": "WONNERUP",
   "data": [
     {
@@ -53,18 +53,10 @@
     {
       "date": "2021-04-05",
       "locality": "WONNERUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-05",
-      "locality": "WONNERUP",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-10",
@@ -255,16 +247,16 @@
       "locality": "WONNERUP",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-27",
       "locality": "WONNERUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-06-28",
@@ -404,6 +396,14 @@
     },
     {
       "date": "2021-08-10",
+      "locality": "WONNERUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-12",
       "locality": "WONNERUP",
       "AgeGroup": "70 and over",
       "dose1": 0,

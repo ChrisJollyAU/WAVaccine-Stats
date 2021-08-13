@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "BALINGUP",
   "data": [
     {
@@ -253,6 +253,13 @@
       "dose1": 6,
       "dose2": 0,
       "vaccines": 6
+    },
+    {
+      "date": "2021-05-20",
+      "locality": "BALINGUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-21",
@@ -678,8 +685,15 @@
       "date": "2021-08-11",
       "locality": "BALINGUP",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "BALINGUP",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

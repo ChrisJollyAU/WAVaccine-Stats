@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "WEST END",
   "data": [
     {
@@ -241,6 +241,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-05-12",
+      "locality": "WEST END",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-13",
       "locality": "WEST END",
       "dose1": 1,
@@ -320,9 +327,9 @@
     {
       "date": "2021-05-29",
       "locality": "WEST END",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-05-31",
@@ -467,9 +474,9 @@
     {
       "date": "2021-06-29",
       "locality": "WEST END",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-06-30",
@@ -586,9 +593,9 @@
     {
       "date": "2021-07-20",
       "locality": "WEST END",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-07-21",
@@ -692,8 +699,8 @@
       "date": "2021-08-04",
       "locality": "WEST END",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-08-05",
@@ -735,6 +742,13 @@
       "locality": "WEST END",
       "dose1": 2,
       "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "WEST END",
+      "dose1": 1,
+      "dose2": 2,
       "vaccines": 3
     }
   ]

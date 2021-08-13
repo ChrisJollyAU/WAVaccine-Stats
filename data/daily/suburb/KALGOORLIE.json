@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "KALGOORLIE",
   "data": [
     {
@@ -881,15 +881,22 @@
       "date": "2021-08-10",
       "locality": "KALGOORLIE",
       "dose1": 27,
-      "dose2": 11,
-      "vaccines": 38
+      "dose2": 15,
+      "vaccines": 42
     },
     {
       "date": "2021-08-11",
       "locality": "KALGOORLIE",
-      "dose1": 13,
-      "dose2": 13,
-      "vaccines": 26
+      "dose1": 14,
+      "dose2": 16,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "KALGOORLIE",
+      "dose1": 21,
+      "dose2": 16,
+      "vaccines": 37
     }
   ]
 }

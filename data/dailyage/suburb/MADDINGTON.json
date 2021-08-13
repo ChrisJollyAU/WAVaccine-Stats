@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "postcode": "MADDINGTON",
   "data": [
     {
@@ -166,9 +166,9 @@
       "date": "2021-03-10",
       "locality": "MADDINGTON",
       "AgeGroup": "70 and over",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-03-11",
@@ -567,8 +567,8 @@
       "locality": "MADDINGTON",
       "AgeGroup": "70 and over",
       "dose1": 10,
-      "dose2": 8,
-      "vaccines": 18
+      "dose2": 7,
+      "vaccines": 17
     },
     {
       "date": "2021-04-01",
@@ -3462,25 +3462,49 @@
       "date": "2021-08-11",
       "locality": "MADDINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 17,
       "dose2": 12,
-      "vaccines": 26
+      "vaccines": 29
     },
     {
       "date": "2021-08-11",
       "locality": "MADDINGTON",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
+      "dose1": 11,
       "dose2": 13,
-      "vaccines": 22
+      "vaccines": 24
     },
     {
       "date": "2021-08-11",
       "locality": "MADDINGTON",
       "AgeGroup": "70 and over",
-      "dose1": 5,
-      "dose2": 13,
+      "dose1": 7,
+      "dose2": 14,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "MADDINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 6,
       "vaccines": 18
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "MADDINGTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 12,
+      "dose2": 19,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "MADDINGTON",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

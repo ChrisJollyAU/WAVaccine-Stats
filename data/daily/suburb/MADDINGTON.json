@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "MADDINGTON",
   "data": [
     {
@@ -68,9 +68,9 @@
     {
       "date": "2021-03-10",
       "locality": "MADDINGTON",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 0,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-03-11",
@@ -202,8 +202,8 @@
       "date": "2021-03-31",
       "locality": "MADDINGTON",
       "dose1": 19,
-      "dose2": 11,
-      "vaccines": 30
+      "dose2": 10,
+      "vaccines": 29
     },
     {
       "date": "2021-04-01",
@@ -1118,9 +1118,16 @@
     {
       "date": "2021-08-11",
       "locality": "MADDINGTON",
-      "dose1": 28,
-      "dose2": 38,
-      "vaccines": 66
+      "dose1": 35,
+      "dose2": 39,
+      "vaccines": 74
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "MADDINGTON",
+      "dose1": 26,
+      "dose2": 29,
+      "vaccines": 55
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "NANNUP",
   "data": [
     {
@@ -818,8 +818,15 @@
       "date": "2021-08-11",
       "locality": "NANNUP",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "NANNUP",
+      "dose1": 17,
+      "dose2": 38,
+      "vaccines": 55
     }
   ]
 }

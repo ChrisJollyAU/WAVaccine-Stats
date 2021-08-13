@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "postcode": "CARLISLE",
   "data": [
     {
@@ -2310,9 +2310,9 @@
       "date": "2021-06-23",
       "locality": "CARLISLE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-06-23",
@@ -2799,8 +2799,8 @@
       "locality": "CARLISLE",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-07-14",
@@ -2862,9 +2862,9 @@
       "date": "2021-07-17",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 7,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-07-17",
@@ -3438,25 +3438,49 @@
       "date": "2021-08-11",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 8,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-08-11",
       "locality": "CARLISLE",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 8,
       "dose2": 8,
-      "vaccines": 13
+      "vaccines": 16
     },
     {
       "date": "2021-08-11",
       "locality": "CARLISLE",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "CARLISLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "CARLISLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 10,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "CARLISLE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "HARVEY",
   "data": [
     {
@@ -804,8 +804,8 @@
       "date": "2021-07-30",
       "locality": "HARVEY",
       "dose1": 10,
-      "dose2": 15,
-      "vaccines": 25
+      "dose2": 16,
+      "vaccines": 26
     },
     {
       "date": "2021-07-31",
@@ -881,8 +881,15 @@
       "date": "2021-08-11",
       "locality": "HARVEY",
       "dose1": 15,
-      "dose2": 22,
-      "vaccines": 37
+      "dose2": 23,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "HARVEY",
+      "dose1": 14,
+      "dose2": 14,
+      "vaccines": 28
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "postcode": "CADOUX",
   "data": [
     {
@@ -25,14 +25,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-04-29",
-      "locality": "CADOUX",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-05-18",
@@ -167,8 +159,8 @@
       "locality": "CADOUX",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-07-21",
@@ -243,6 +235,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-08-05",
+      "locality": "CADOUX",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
       "date": "2021-08-06",
       "locality": "CADOUX",
       "AgeGroup": "50 to 69",
@@ -264,6 +264,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "CADOUX",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

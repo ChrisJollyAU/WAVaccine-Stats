@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "postcode": "GNOWANGERUP",
   "data": [
     {
@@ -910,9 +910,25 @@
       "date": "2021-08-11",
       "locality": "GNOWANGERUP",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "GNOWANGERUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 33,
+      "dose2": 18,
+      "vaccines": 51
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "GNOWANGERUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

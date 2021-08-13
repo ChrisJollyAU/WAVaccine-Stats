@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-11T00:00:00",
+  "date_updated": "2021-08-12T00:00:00",
   "locality": "ATWELL",
   "data": [
     {
@@ -1132,9 +1132,16 @@
     {
       "date": "2021-08-11",
       "locality": "ATWELL",
-      "dose1": 29,
+      "dose1": 31,
       "dose2": 44,
-      "vaccines": 73
+      "vaccines": 75
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "ATWELL",
+      "dose1": 44,
+      "dose2": 44,
+      "vaccines": 88
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "GINGIN",
   "data": [
     {
@@ -309,13 +309,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-05-19",
-      "locality": "GINGIN",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-05-20",
@@ -859,9 +852,9 @@
     {
       "date": "2021-08-10",
       "locality": "GINGIN",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-08-11",
@@ -873,9 +866,30 @@
     {
       "date": "2021-08-12",
       "locality": "GINGIN",
-      "dose1": 7,
+      "dose1": 10,
+      "dose2": 4,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "GINGIN",
+      "dose1": 11,
       "dose2": 5,
-      "vaccines": 12
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "GINGIN",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "GINGIN",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

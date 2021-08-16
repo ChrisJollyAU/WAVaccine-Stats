@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "postcode": "NICKOL",
   "data": [
     {
@@ -478,17 +478,17 @@
       "date": "2021-05-10",
       "locality": "NICKOL",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-05-10",
       "locality": "NICKOL",
       "AgeGroup": "70 and over",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-11",
@@ -1607,16 +1607,24 @@
       "locality": "NICKOL",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "NICKOL",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-03",
       "locality": "NICKOL",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-08-03",
@@ -1678,9 +1686,9 @@
       "date": "2021-08-06",
       "locality": "NICKOL",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-08-07",
@@ -1743,8 +1751,8 @@
       "locality": "NICKOL",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-08-11",
@@ -1759,24 +1767,56 @@
       "locality": "NICKOL",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-08-12",
       "locality": "NICKOL",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
-      "dose2": 2,
-      "vaccines": 12
+      "dose1": 11,
+      "dose2": 3,
+      "vaccines": 14
     },
     {
       "date": "2021-08-12",
       "locality": "NICKOL",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "NICKOL",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 9,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "NICKOL",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "NICKOL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "NICKOL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

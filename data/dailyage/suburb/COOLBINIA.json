@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "postcode": "COOLBINIA",
   "data": [
     {
@@ -2921,6 +2921,62 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "COOLBINIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "COOLBINIA",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "COOLBINIA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "COOLBINIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "COOLBINIA",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "COOLBINIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "COOLBINIA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "EAST PERTH",
   "data": [
     {
@@ -530,9 +530,9 @@
     {
       "date": "2021-05-09",
       "locality": "EAST PERTH",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-05-10",
@@ -691,9 +691,9 @@
     {
       "date": "2021-06-01",
       "locality": "EAST PERTH",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 9,
-      "vaccines": 41
+      "vaccines": 40
     },
     {
       "date": "2021-06-02",
@@ -761,9 +761,9 @@
     {
       "date": "2021-06-11",
       "locality": "EAST PERTH",
-      "dose1": 45,
+      "dose1": 44,
       "dose2": 7,
-      "vaccines": 52
+      "vaccines": 51
     },
     {
       "date": "2021-06-12",
@@ -824,9 +824,9 @@
     {
       "date": "2021-06-20",
       "locality": "EAST PERTH",
-      "dose1": 47,
+      "dose1": 46,
       "dose2": 2,
-      "vaccines": 49
+      "vaccines": 48
     },
     {
       "date": "2021-06-21",
@@ -880,9 +880,9 @@
     {
       "date": "2021-06-28",
       "locality": "EAST PERTH",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 18,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-06-29",
@@ -909,8 +909,8 @@
       "date": "2021-07-02",
       "locality": "EAST PERTH",
       "dose1": 22,
-      "dose2": 33,
-      "vaccines": 55
+      "dose2": 32,
+      "vaccines": 54
     },
     {
       "date": "2021-07-03",
@@ -936,9 +936,9 @@
     {
       "date": "2021-07-06",
       "locality": "EAST PERTH",
-      "dose1": 39,
+      "dose1": 38,
       "dose2": 22,
-      "vaccines": 61
+      "vaccines": 60
     },
     {
       "date": "2021-07-07",
@@ -985,9 +985,9 @@
     {
       "date": "2021-07-13",
       "locality": "EAST PERTH",
-      "dose1": 39,
+      "dose1": 40,
       "dose2": 39,
-      "vaccines": 78
+      "vaccines": 79
     },
     {
       "date": "2021-07-14",
@@ -1027,9 +1027,9 @@
     {
       "date": "2021-07-19",
       "locality": "EAST PERTH",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 33,
-      "vaccines": 65
+      "vaccines": 64
     },
     {
       "date": "2021-07-20",
@@ -1042,15 +1042,15 @@
       "date": "2021-07-21",
       "locality": "EAST PERTH",
       "dose1": 33,
-      "dose2": 69,
-      "vaccines": 102
+      "dose2": 68,
+      "vaccines": 101
     },
     {
       "date": "2021-07-22",
       "locality": "EAST PERTH",
-      "dose1": 28,
-      "dose2": 66,
-      "vaccines": 94
+      "dose1": 31,
+      "dose2": 65,
+      "vaccines": 96
     },
     {
       "date": "2021-07-23",
@@ -1098,15 +1098,15 @@
       "date": "2021-07-29",
       "locality": "EAST PERTH",
       "dose1": 45,
-      "dose2": 43,
-      "vaccines": 88
+      "dose2": 42,
+      "vaccines": 87
     },
     {
       "date": "2021-07-30",
       "locality": "EAST PERTH",
-      "dose1": 29,
+      "dose1": 28,
       "dose2": 43,
-      "vaccines": 72
+      "vaccines": 71
     },
     {
       "date": "2021-07-31",
@@ -1126,8 +1126,8 @@
       "date": "2021-08-02",
       "locality": "EAST PERTH",
       "dose1": 14,
-      "dose2": 57,
-      "vaccines": 71
+      "dose2": 58,
+      "vaccines": 72
     },
     {
       "date": "2021-08-03",
@@ -1140,8 +1140,8 @@
       "date": "2021-08-04",
       "locality": "EAST PERTH",
       "dose1": 37,
-      "dose2": 68,
-      "vaccines": 105
+      "dose2": 69,
+      "vaccines": 106
     },
     {
       "date": "2021-08-05",
@@ -1174,30 +1174,51 @@
     {
       "date": "2021-08-09",
       "locality": "EAST PERTH",
-      "dose1": 22,
-      "dose2": 41,
+      "dose1": 23,
+      "dose2": 40,
       "vaccines": 63
     },
     {
       "date": "2021-08-10",
       "locality": "EAST PERTH",
       "dose1": 42,
-      "dose2": 48,
-      "vaccines": 90
+      "dose2": 49,
+      "vaccines": 91
     },
     {
       "date": "2021-08-11",
       "locality": "EAST PERTH",
-      "dose1": 28,
-      "dose2": 78,
-      "vaccines": 106
+      "dose1": 37,
+      "dose2": 79,
+      "vaccines": 116
     },
     {
       "date": "2021-08-12",
       "locality": "EAST PERTH",
-      "dose1": 39,
-      "dose2": 39,
+      "dose1": 45,
+      "dose2": 50,
+      "vaccines": 95
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "EAST PERTH",
+      "dose1": 25,
+      "dose2": 53,
       "vaccines": 78
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "EAST PERTH",
+      "dose1": 30,
+      "dose2": 41,
+      "vaccines": 71
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "EAST PERTH",
+      "dose1": 29,
+      "dose2": 55,
+      "vaccines": 84
     }
   ]
 }

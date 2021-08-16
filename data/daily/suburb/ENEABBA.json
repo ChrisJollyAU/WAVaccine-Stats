@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "ENEABBA",
   "data": [
     {
@@ -297,6 +297,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-07-31",
+      "locality": "ENEABBA",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
       "date": "2021-08-02",
       "locality": "ENEABBA",
       "dose1": 1,
@@ -330,6 +337,13 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "ENEABBA",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

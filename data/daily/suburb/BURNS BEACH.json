@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "BURNS BEACH",
   "data": [
     {
@@ -1097,9 +1097,30 @@
     {
       "date": "2021-08-12",
       "locality": "BURNS BEACH",
-      "dose1": 10,
+      "dose1": 11,
+      "dose2": 21,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "BURNS BEACH",
+      "dose1": 16,
       "dose2": 18,
-      "vaccines": 28
+      "vaccines": 34
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "BURNS BEACH",
+      "dose1": 19,
+      "dose2": 8,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "BURNS BEACH",
+      "dose1": 11,
+      "dose2": 19,
+      "vaccines": 30
     }
   ]
 }

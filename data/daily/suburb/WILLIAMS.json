@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "WILLIAMS",
   "data": [
     {
@@ -516,9 +516,9 @@
     {
       "date": "2021-06-29",
       "locality": "WILLIAMS",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-06-30",
@@ -713,8 +713,8 @@
       "date": "2021-08-04",
       "locality": "WILLIAMS",
       "dose1": 2,
-      "dose2": 15,
-      "vaccines": 17
+      "dose2": 16,
+      "vaccines": 18
     },
     {
       "date": "2021-08-05",
@@ -740,9 +740,9 @@
     {
       "date": "2021-08-11",
       "locality": "WILLIAMS",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-12",
@@ -750,6 +750,13 @@
       "dose1": 3,
       "dose2": 6,
       "vaccines": 9
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "WILLIAMS",
+      "dose1": 0,
+      "dose2": 7,
+      "vaccines": 7
     }
   ]
 }

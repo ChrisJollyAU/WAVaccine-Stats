@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "BICKLEY",
   "data": [
     {
@@ -901,9 +901,30 @@
     {
       "date": "2021-08-12",
       "locality": "BICKLEY",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "BICKLEY",
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "BICKLEY",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "BICKLEY",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "DJUGUN",
   "data": [
     {
@@ -446,9 +446,16 @@
     {
       "date": "2021-08-11",
       "locality": "DJUGUN",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "DJUGUN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

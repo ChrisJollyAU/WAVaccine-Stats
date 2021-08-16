@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "BURNSIDE",
   "data": [
     {
@@ -25,13 +25,6 @@
     },
     {
       "date": "2021-04-22",
-      "locality": "BURNSIDE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-23",
       "locality": "BURNSIDE",
       "dose1": 1,
       "dose2": 0,
@@ -125,8 +118,8 @@
       "date": "2021-07-17",
       "locality": "BURNSIDE",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-22",
@@ -164,13 +157,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-30",
-      "locality": "BURNSIDE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-03",
       "locality": "BURNSIDE",
       "dose1": 1,
@@ -185,10 +171,10 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-11",
+      "date": "2021-08-14",
       "locality": "BURNSIDE",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

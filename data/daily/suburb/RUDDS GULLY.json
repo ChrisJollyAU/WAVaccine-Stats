@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "RUDDS GULLY",
   "data": [
     {
@@ -192,6 +192,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-31",
+      "locality": "RUDDS GULLY",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-01",
       "locality": "RUDDS GULLY",
       "dose1": 2,
@@ -253,6 +260,20 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "RUDDS GULLY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "RUDDS GULLY",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

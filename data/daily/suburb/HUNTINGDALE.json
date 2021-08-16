@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "HUNTINGDALE",
   "data": [
     {
@@ -1084,8 +1084,8 @@
       "date": "2021-08-05",
       "locality": "HUNTINGDALE",
       "dose1": 28,
-      "dose2": 25,
-      "vaccines": 53
+      "dose2": 26,
+      "vaccines": 54
     },
     {
       "date": "2021-08-06",
@@ -1125,16 +1125,37 @@
     {
       "date": "2021-08-11",
       "locality": "HUNTINGDALE",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 33,
-      "vaccines": 60
+      "vaccines": 61
     },
     {
       "date": "2021-08-12",
       "locality": "HUNTINGDALE",
-      "dose1": 21,
-      "dose2": 25,
-      "vaccines": 46
+      "dose1": 24,
+      "dose2": 32,
+      "vaccines": 56
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "HUNTINGDALE",
+      "dose1": 18,
+      "dose2": 26,
+      "vaccines": 44
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "HUNTINGDALE",
+      "dose1": 16,
+      "dose2": 26,
+      "vaccines": 42
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "HUNTINGDALE",
+      "dose1": 15,
+      "dose2": 17,
+      "vaccines": 32
     }
   ]
 }

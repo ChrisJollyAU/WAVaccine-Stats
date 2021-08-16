@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-12T00:00:00",
+  "date_updated": "2021-08-15T00:00:00",
   "locality": "NORTHAMPTON",
   "data": [
     {
@@ -834,6 +834,20 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "NORTHAMPTON",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "NORTHAMPTON",
+      "dose1": 5,
+      "dose2": 8,
+      "vaccines": 13
     }
   ]
 }

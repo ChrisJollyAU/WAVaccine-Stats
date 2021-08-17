@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "locality": "SINCLAIR",
   "data": [
     {
@@ -374,6 +374,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-07-02",
+      "locality": "SINCLAIR",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-06",
       "locality": "SINCLAIR",
       "dose1": 1,
@@ -558,9 +565,9 @@
     {
       "date": "2021-08-14",
       "locality": "SINCLAIR",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "VASSE",
   "data": [
     {
@@ -302,9 +302,9 @@
       "date": "2021-04-06",
       "locality": "VASSE",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-04-07",
@@ -1479,8 +1479,8 @@
       "locality": "VASSE",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-06-30",
@@ -2343,8 +2343,8 @@
       "locality": "VASSE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-08-11",
@@ -2390,25 +2390,25 @@
       "date": "2021-08-13",
       "locality": "VASSE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose1": 8,
+      "dose2": 7,
+      "vaccines": 15
     },
     {
       "date": "2021-08-13",
       "locality": "VASSE",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
-      "dose2": 1,
-      "vaccines": 9
+      "dose1": 9,
+      "dose2": 2,
+      "vaccines": 11
     },
     {
       "date": "2021-08-14",
       "locality": "VASSE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-08-14",
@@ -2425,6 +2425,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "VASSE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "VASSE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

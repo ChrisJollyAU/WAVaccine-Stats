@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "locality": "DAGLISH",
   "data": [
     {
@@ -1132,16 +1132,16 @@
     {
       "date": "2021-08-13",
       "locality": "DAGLISH",
-      "dose1": 5,
+      "dose1": 8,
       "dose2": 7,
-      "vaccines": 12
+      "vaccines": 15
     },
     {
       "date": "2021-08-14",
       "locality": "DAGLISH",
-      "dose1": 9,
+      "dose1": 12,
       "dose2": 6,
-      "vaccines": 15
+      "vaccines": 18
     },
     {
       "date": "2021-08-15",
@@ -1149,6 +1149,13 @@
       "dose1": 7,
       "dose2": 1,
       "vaccines": 8
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "DAGLISH",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

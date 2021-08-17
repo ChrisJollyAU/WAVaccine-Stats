@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "locality": "BERTRAM",
   "data": [
     {
@@ -1042,8 +1042,8 @@
       "date": "2021-08-10",
       "locality": "BERTRAM",
       "dose1": 12,
-      "dose2": 20,
-      "vaccines": 32
+      "dose2": 21,
+      "vaccines": 33
     },
     {
       "date": "2021-08-11",
@@ -1079,6 +1079,13 @@
       "dose1": 10,
       "dose2": 3,
       "vaccines": 13
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "BERTRAM",
+      "dose1": 29,
+      "dose2": 19,
+      "vaccines": 48
     }
   ]
 }

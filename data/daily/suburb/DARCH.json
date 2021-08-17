@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "locality": "DARCH",
   "data": [
     {
@@ -404,9 +404,9 @@
     {
       "date": "2021-04-29",
       "locality": "DARCH",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 1,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-04-30",
@@ -873,9 +873,9 @@
     {
       "date": "2021-07-07",
       "locality": "DARCH",
-      "dose1": 34,
+      "dose1": 33,
       "dose2": 7,
-      "vaccines": 41
+      "vaccines": 40
     },
     {
       "date": "2021-07-08",
@@ -1084,8 +1084,8 @@
       "date": "2021-08-06",
       "locality": "DARCH",
       "dose1": 19,
-      "dose2": 29,
-      "vaccines": 48
+      "dose2": 28,
+      "vaccines": 47
     },
     {
       "date": "2021-08-07",
@@ -1111,16 +1111,16 @@
     {
       "date": "2021-08-10",
       "locality": "DARCH",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 29,
-      "vaccines": 51
+      "vaccines": 50
     },
     {
       "date": "2021-08-11",
       "locality": "DARCH",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 43,
-      "vaccines": 65
+      "vaccines": 64
     },
     {
       "date": "2021-08-12",
@@ -1139,16 +1139,23 @@
     {
       "date": "2021-08-14",
       "locality": "DARCH",
-      "dose1": 27,
-      "dose2": 8,
-      "vaccines": 35
+      "dose1": 36,
+      "dose2": 14,
+      "vaccines": 50
     },
     {
       "date": "2021-08-15",
       "locality": "DARCH",
-      "dose1": 31,
-      "dose2": 59,
-      "vaccines": 90
+      "dose1": 34,
+      "dose2": 61,
+      "vaccines": 95
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "DARCH",
+      "dose1": 25,
+      "dose2": 33,
+      "vaccines": 58
     }
   ]
 }

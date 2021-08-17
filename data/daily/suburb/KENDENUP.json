@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "locality": "KENDENUP",
   "data": [
     {
@@ -754,23 +754,37 @@
     {
       "date": "2021-08-12",
       "locality": "KENDENUP",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose1": 5,
+      "dose2": 13,
+      "vaccines": 18
     },
     {
       "date": "2021-08-13",
       "locality": "KENDENUP",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-14",
       "locality": "KENDENUP",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "KENDENUP",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "KENDENUP",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

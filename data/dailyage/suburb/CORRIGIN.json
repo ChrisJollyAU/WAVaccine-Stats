@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "CORRIGIN",
   "data": [
     {
@@ -70,9 +70,9 @@
       "date": "2021-04-01",
       "locality": "CORRIGIN",
       "AgeGroup": "70 and over",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-04-06",
@@ -455,8 +455,8 @@
       "locality": "CORRIGIN",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 13,
-      "vaccines": 13
+      "dose2": 12,
+      "vaccines": 12
     },
     {
       "date": "2021-06-20",
@@ -1047,8 +1047,8 @@
       "locality": "CORRIGIN",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-15",
@@ -1057,6 +1057,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "CORRIGIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "CORRIGIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 12,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "CORRIGIN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

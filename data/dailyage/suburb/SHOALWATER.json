@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "SHOALWATER",
   "data": [
     {
@@ -2903,8 +2903,8 @@
       "locality": "SHOALWATER",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-08-11",
@@ -2927,8 +2927,8 @@
       "locality": "SHOALWATER",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-08-12",
@@ -2990,17 +2990,41 @@
       "date": "2021-08-15",
       "locality": "SHOALWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-15",
       "locality": "SHOALWATER",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "SHOALWATER",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 3,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "SHOALWATER",
+      "AgeGroup": "50 to 69",
+      "dose1": 10,
+      "dose2": 10,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "SHOALWATER",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
     }
   ]
 }

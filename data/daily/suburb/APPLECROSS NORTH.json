@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "locality": "APPLECROSS NORTH",
   "data": [
     {
@@ -689,11 +689,25 @@
       "vaccines": 3
     },
     {
+      "date": "2021-08-14",
+      "locality": "APPLECROSS NORTH",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-15",
       "locality": "APPLECROSS NORTH",
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "APPLECROSS NORTH",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

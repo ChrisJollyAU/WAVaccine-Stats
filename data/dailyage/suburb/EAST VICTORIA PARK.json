@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "EAST VICTORIA PARK",
   "data": [
     {
@@ -30,6 +30,14 @@
       "date": "2021-02-26",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-02-26",
+      "locality": "EAST VICTORIA PARK",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -255,8 +263,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-03-20",
@@ -318,9 +326,9 @@
       "date": "2021-03-23",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-03-24",
@@ -395,6 +403,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-03-28",
+      "locality": "EAST VICTORIA PARK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-03-29",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
@@ -422,17 +438,17 @@
       "date": "2021-03-30",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-30",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-30",
@@ -446,9 +462,9 @@
       "date": "2021-03-31",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-03-31",
@@ -470,9 +486,9 @@
       "date": "2021-04-01",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-04-01",
@@ -799,8 +815,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-04-20",
@@ -934,9 +950,9 @@
       "date": "2021-04-28",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-04-28",
@@ -974,9 +990,9 @@
       "date": "2021-04-29",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-30",
@@ -1383,8 +1399,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-05-19",
@@ -1406,9 +1422,9 @@
       "date": "2021-05-20",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-20",
@@ -1526,9 +1542,9 @@
       "date": "2021-05-26",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-05-27",
@@ -1670,9 +1686,9 @@
       "date": "2021-06-03",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-06-03",
@@ -1694,9 +1710,9 @@
       "date": "2021-06-04",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-04",
@@ -1718,9 +1734,9 @@
       "date": "2021-06-05",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 9
     },
     {
       "date": "2021-06-05",
@@ -1758,9 +1774,9 @@
       "date": "2021-06-08",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-06-08",
@@ -1846,9 +1862,9 @@
       "date": "2021-06-12",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-06-12",
@@ -1867,12 +1883,20 @@
       "vaccines": 15
     },
     {
+      "date": "2021-06-13",
+      "locality": "EAST VICTORIA PARK",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-14",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-06-14",
@@ -1886,9 +1910,9 @@
       "date": "2021-06-15",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-15",
@@ -1903,8 +1927,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-06-16",
@@ -1926,9 +1950,9 @@
       "date": "2021-06-16",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-17",
@@ -2022,9 +2046,9 @@
       "date": "2021-06-21",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 7,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-06-21",
@@ -2039,16 +2063,16 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 1,
-      "vaccines": 8
+      "dose2": 2,
+      "vaccines": 9
     },
     {
       "date": "2021-06-22",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-06-22",
@@ -2086,9 +2110,9 @@
       "date": "2021-06-24",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-06-24",
@@ -2118,9 +2142,9 @@
       "date": "2021-06-25",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-06-25",
@@ -2158,9 +2182,9 @@
       "date": "2021-06-27",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-28",
@@ -2198,9 +2222,9 @@
       "date": "2021-06-29",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 6
     },
     {
       "date": "2021-06-29",
@@ -2238,9 +2262,9 @@
       "date": "2021-07-01",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 7,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-07-01",
@@ -2319,8 +2343,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-07-05",
@@ -2382,9 +2406,9 @@
       "date": "2021-07-07",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-07",
@@ -2398,8 +2422,8 @@
       "date": "2021-07-08",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
-      "dose2": 3,
+      "dose1": 12,
+      "dose2": 4,
       "vaccines": 16
     },
     {
@@ -2438,9 +2462,9 @@
       "date": "2021-07-10",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 1,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-07-10",
@@ -2471,8 +2495,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 7,
+      "vaccines": 11
     },
     {
       "date": "2021-07-12",
@@ -2494,9 +2518,9 @@
       "date": "2021-07-13",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 4,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-07-13",
@@ -2542,9 +2566,9 @@
       "date": "2021-07-15",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 7,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-07-15",
@@ -2566,17 +2590,17 @@
       "date": "2021-07-16",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 16,
       "dose2": 5,
-      "vaccines": 19
+      "vaccines": 21
     },
     {
       "date": "2021-07-16",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 10
     },
     {
       "date": "2021-07-16",
@@ -2590,9 +2614,9 @@
       "date": "2021-07-17",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 5,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-07-17",
@@ -2655,8 +2679,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 5,
-      "vaccines": 14
+      "dose2": 6,
+      "vaccines": 15
     },
     {
       "date": "2021-07-20",
@@ -2671,16 +2695,16 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-07-21",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 13,
       "dose2": 9,
-      "vaccines": 20
+      "vaccines": 22
     },
     {
       "date": "2021-07-21",
@@ -2711,8 +2735,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-07-22",
@@ -2782,9 +2806,9 @@
       "date": "2021-07-25",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-25",
@@ -2799,8 +2823,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 7,
-      "vaccines": 13
+      "dose2": 8,
+      "vaccines": 14
     },
     {
       "date": "2021-07-26",
@@ -2822,9 +2846,9 @@
       "date": "2021-07-27",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 11,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-07-27",
@@ -2854,9 +2878,9 @@
       "date": "2021-07-28",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 8,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-07-28",
@@ -2870,9 +2894,9 @@
       "date": "2021-07-29",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
-      "dose2": 8,
-      "vaccines": 27
+      "dose1": 21,
+      "dose2": 9,
+      "vaccines": 30
     },
     {
       "date": "2021-07-29",
@@ -2886,9 +2910,9 @@
       "date": "2021-07-29",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-30",
@@ -2903,8 +2927,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-07-30",
@@ -2942,9 +2966,9 @@
       "date": "2021-08-01",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 5,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-08-01",
@@ -2959,8 +2983,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-08-02",
@@ -2991,8 +3015,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-08-03",
@@ -3047,8 +3071,8 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 14,
-      "vaccines": 29
+      "dose2": 16,
+      "vaccines": 31
     },
     {
       "date": "2021-08-06",
@@ -3134,9 +3158,9 @@
       "date": "2021-08-10",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 9,
-      "vaccines": 9
+      "dose1": 1,
+      "dose2": 10,
+      "vaccines": 11
     },
     {
       "date": "2021-08-10",
@@ -3175,16 +3199,16 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 6,
-      "vaccines": 18
+      "dose2": 7,
+      "vaccines": 19
     },
     {
       "date": "2021-08-12",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 11,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-08-12",
@@ -3198,17 +3222,17 @@
       "date": "2021-08-13",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 17,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-08-13",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-08-13",
@@ -3222,9 +3246,9 @@
       "date": "2021-08-14",
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
-      "dose2": 14,
-      "vaccines": 23
+      "dose1": 10,
+      "dose2": 15,
+      "vaccines": 25
     },
     {
       "date": "2021-08-14",
@@ -3247,8 +3271,40 @@
       "locality": "EAST VICTORIA PARK",
       "AgeGroup": "50 to 69",
       "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "EAST VICTORIA PARK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "EAST VICTORIA PARK",
+      "AgeGroup": "16 to 49",
+      "dose1": 21,
+      "dose2": 5,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "EAST VICTORIA PARK",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "EAST VICTORIA PARK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 3
     }
   ]
 }

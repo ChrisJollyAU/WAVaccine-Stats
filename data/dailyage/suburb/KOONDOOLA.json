@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "KOONDOOLA",
   "data": [
     {
@@ -917,18 +917,10 @@
     {
       "date": "2021-05-12",
       "locality": "KOONDOOLA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-12",
-      "locality": "KOONDOOLA",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-05-12",
@@ -1349,18 +1341,10 @@
     {
       "date": "2021-06-05",
       "locality": "KOONDOOLA",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-05",
-      "locality": "KOONDOOLA",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-06-07",
@@ -2711,8 +2695,8 @@
       "locality": "KOONDOOLA",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-08-09",
@@ -2790,9 +2774,9 @@
       "date": "2021-08-12",
       "locality": "KOONDOOLA",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-08-12",
@@ -2806,17 +2790,17 @@
       "date": "2021-08-13",
       "locality": "KOONDOOLA",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 10
+      "vaccines": 12
     },
     {
       "date": "2021-08-13",
       "locality": "KOONDOOLA",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-08-13",
@@ -2830,25 +2814,25 @@
       "date": "2021-08-14",
       "locality": "KOONDOOLA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 14,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 14
     },
     {
       "date": "2021-08-14",
       "locality": "KOONDOOLA",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-08-15",
       "locality": "KOONDOOLA",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 13
+      "vaccines": 17
     },
     {
       "date": "2021-08-15",
@@ -2857,6 +2841,30 @@
       "dose1": 1,
       "dose2": 5,
       "vaccines": 6
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "KOONDOOLA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "KOONDOOLA",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 0,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "KOONDOOLA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

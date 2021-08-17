@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "WALPOLE",
   "data": [
     {
@@ -1277,6 +1277,14 @@
     {
       "date": "2021-08-14",
       "locality": "WALPOLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "WALPOLE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 3,
@@ -1289,6 +1297,22 @@
       "dose1": 2,
       "dose2": 4,
       "vaccines": 6
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "WALPOLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "WALPOLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

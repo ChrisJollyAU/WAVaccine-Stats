@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "CONNOLLY",
   "data": [
     {
@@ -486,9 +486,9 @@
       "date": "2021-03-31",
       "locality": "CONNOLLY",
       "AgeGroup": "70 and over",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 0,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-04-01",
@@ -823,8 +823,8 @@
       "locality": "CONNOLLY",
       "AgeGroup": "70 and over",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-04-22",
@@ -3166,9 +3166,9 @@
       "date": "2021-08-11",
       "locality": "CONNOLLY",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-08-12",
@@ -3199,40 +3199,48 @@
       "locality": "CONNOLLY",
       "AgeGroup": "16 to 49",
       "dose1": 14,
-      "dose2": 2,
-      "vaccines": 16
+      "dose2": 3,
+      "vaccines": 17
     },
     {
       "date": "2021-08-13",
       "locality": "CONNOLLY",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 26,
-      "vaccines": 32
+      "dose2": 27,
+      "vaccines": 33
     },
     {
       "date": "2021-08-13",
       "locality": "CONNOLLY",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
-    },
-    {
-      "date": "2021-08-14",
-      "locality": "CONNOLLY",
-      "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 2,
+      "dose2": 7,
       "vaccines": 8
     },
     {
       "date": "2021-08-14",
       "locality": "CONNOLLY",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 2,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "CONNOLLY",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "CONNOLLY",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-15",
@@ -3247,8 +3255,8 @@
       "locality": "CONNOLLY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 6,
-      "vaccines": 6
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2021-08-15",
@@ -3257,6 +3265,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "CONNOLLY",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "CONNOLLY",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 10,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "CONNOLLY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
     }
   ]
 }

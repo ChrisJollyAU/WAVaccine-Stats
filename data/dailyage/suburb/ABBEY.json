@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "ABBEY",
   "data": [
     {
@@ -1061,6 +1061,14 @@
     {
       "date": "2021-06-20",
       "locality": "ABBEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-20",
+      "locality": "ABBEY",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 5,
@@ -1659,6 +1667,14 @@
       "vaccines": 4
     },
     {
+      "date": "2021-08-01",
+      "locality": "ABBEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-02",
       "locality": "ABBEY",
       "AgeGroup": "16 to 49",
@@ -1862,17 +1878,25 @@
       "date": "2021-08-13",
       "locality": "ABBEY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 7
     },
     {
       "date": "2021-08-13",
       "locality": "ABBEY",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "ABBEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-08-14",
@@ -1889,6 +1913,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "ABBEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "ABBEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "ABBEY",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

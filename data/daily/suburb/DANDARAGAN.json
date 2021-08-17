@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "locality": "DANDARAGAN",
   "data": [
     {
@@ -404,16 +404,16 @@
     {
       "date": "2021-08-10",
       "locality": "DANDARAGAN",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-08-11",
       "locality": "DANDARAGAN",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 11,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-08-12",
@@ -428,6 +428,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "DANDARAGAN",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-15T00:00:00",
+  "date_updated": "2021-08-16T00:00:00",
   "postcode": "GWELUP",
   "data": [
     {
@@ -3334,9 +3334,9 @@
       "date": "2021-08-03",
       "locality": "GWELUP",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 18,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-08-03",
@@ -3558,9 +3558,9 @@
       "date": "2021-08-13",
       "locality": "GWELUP",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 17,
       "dose2": 1,
-      "vaccines": 16
+      "vaccines": 18
     },
     {
       "date": "2021-08-13",
@@ -3575,32 +3575,40 @@
       "locality": "GWELUP",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-08-14",
       "locality": "GWELUP",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 4,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-08-14",
       "locality": "GWELUP",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "GWELUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-15",
       "locality": "GWELUP",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
-      "dose2": 20,
-      "vaccines": 33
+      "dose1": 14,
+      "dose2": 22,
+      "vaccines": 36
     },
     {
       "date": "2021-08-15",
@@ -3609,6 +3617,22 @@
       "dose1": 1,
       "dose2": 4,
       "vaccines": 5
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "GWELUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 16,
+      "dose2": 8,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "GWELUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "NOLLAMARA",
   "data": [
     {
@@ -369,9 +369,9 @@
     {
       "date": "2021-04-17",
       "locality": "NOLLAMARA",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-04-18",
@@ -1069,9 +1069,9 @@
     {
       "date": "2021-07-27",
       "locality": "NOLLAMARA",
-      "dose1": 38,
+      "dose1": 37,
       "dose2": 36,
-      "vaccines": 74
+      "vaccines": 73
     },
     {
       "date": "2021-07-28",
@@ -1175,8 +1175,8 @@
       "date": "2021-08-11",
       "locality": "NOLLAMARA",
       "dose1": 34,
-      "dose2": 49,
-      "vaccines": 83
+      "dose2": 48,
+      "vaccines": 82
     },
     {
       "date": "2021-08-12",
@@ -1209,9 +1209,16 @@
     {
       "date": "2021-08-16",
       "locality": "NOLLAMARA",
-      "dose1": 40,
-      "dose2": 38,
-      "vaccines": 78
+      "dose1": 44,
+      "dose2": 49,
+      "vaccines": 93
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "NOLLAMARA",
+      "dose1": 54,
+      "dose2": 40,
+      "vaccines": 94
     }
   ]
 }

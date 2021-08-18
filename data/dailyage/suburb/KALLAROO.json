@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "postcode": "KALLAROO",
   "data": [
     {
@@ -1513,6 +1513,14 @@
       "dose1": 8,
       "dose2": 0,
       "vaccines": 8
+    },
+    {
+      "date": "2021-05-22",
+      "locality": "KALLAROO",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-05-23",
@@ -3422,8 +3430,8 @@
       "date": "2021-08-14",
       "locality": "KALLAROO",
       "AgeGroup": "70 and over",
-      "dose1": 2,
-      "dose2": 2,
+      "dose1": 0,
+      "dose2": 4,
       "vaccines": 4
     },
     {
@@ -3446,25 +3454,49 @@
       "date": "2021-08-16",
       "locality": "KALLAROO",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 17,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-08-16",
       "locality": "KALLAROO",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 20,
-      "vaccines": 22
+      "dose2": 22,
+      "vaccines": 24
     },
     {
       "date": "2021-08-16",
       "locality": "KALLAROO",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "KALLAROO",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 11,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "KALLAROO",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 13,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "KALLAROO",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
     }
   ]
 }

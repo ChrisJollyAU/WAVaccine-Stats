@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "THE VINES",
   "data": [
     {
@@ -1153,9 +1153,16 @@
     {
       "date": "2021-08-16",
       "locality": "THE VINES",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 16,
-      "vaccines": 30
+      "vaccines": 31
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "THE VINES",
+      "dose1": 14,
+      "dose2": 33,
+      "vaccines": 47
     }
   ]
 }

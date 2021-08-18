@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "ATTADALE",
   "data": [
     {
@@ -985,9 +985,9 @@
     {
       "date": "2021-07-16",
       "locality": "ATTADALE",
-      "dose1": 27,
+      "dose1": 26,
       "dose2": 32,
-      "vaccines": 59
+      "vaccines": 58
     },
     {
       "date": "2021-07-17",
@@ -1182,8 +1182,8 @@
       "date": "2021-08-13",
       "locality": "ATTADALE",
       "dose1": 7,
-      "dose2": 58,
-      "vaccines": 65
+      "dose2": 57,
+      "vaccines": 64
     },
     {
       "date": "2021-08-14",
@@ -1202,9 +1202,16 @@
     {
       "date": "2021-08-16",
       "locality": "ATTADALE",
-      "dose1": 16,
-      "dose2": 24,
-      "vaccines": 40
+      "dose1": 19,
+      "dose2": 28,
+      "vaccines": 47
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "ATTADALE",
+      "dose1": 26,
+      "dose2": 38,
+      "vaccines": 64
     }
   ]
 }

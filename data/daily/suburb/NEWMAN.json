@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "NEWMAN",
   "data": [
     {
@@ -797,8 +797,8 @@
       "date": "2021-08-13",
       "locality": "NEWMAN",
       "dose1": 13,
-      "dose2": 30,
-      "vaccines": 43
+      "dose2": 31,
+      "vaccines": 44
     },
     {
       "date": "2021-08-14",
@@ -810,8 +810,15 @@
     {
       "date": "2021-08-16",
       "locality": "NEWMAN",
-      "dose1": 6,
+      "dose1": 12,
       "dose2": 1,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "NEWMAN",
+      "dose1": 3,
+      "dose2": 4,
       "vaccines": 7
     }
   ]

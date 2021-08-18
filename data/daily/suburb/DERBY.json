@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "DERBY",
   "data": [
     {
@@ -824,9 +824,16 @@
     {
       "date": "2021-08-16",
       "locality": "DERBY",
-      "dose1": 6,
+      "dose1": 8,
       "dose2": 8,
-      "vaccines": 14
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "DERBY",
+      "dose1": 2,
+      "dose2": 11,
+      "vaccines": 13
     }
   ]
 }

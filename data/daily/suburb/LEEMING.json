@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "LEEMING",
   "data": [
     {
@@ -1195,16 +1195,23 @@
     {
       "date": "2021-08-15",
       "locality": "LEEMING",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 45,
-      "vaccines": 66
+      "vaccines": 67
     },
     {
       "date": "2021-08-16",
       "locality": "LEEMING",
-      "dose1": 41,
-      "dose2": 43,
-      "vaccines": 84
+      "dose1": 44,
+      "dose2": 49,
+      "vaccines": 93
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "LEEMING",
+      "dose1": 54,
+      "dose2": 46,
+      "vaccines": 100
     }
   ]
 }

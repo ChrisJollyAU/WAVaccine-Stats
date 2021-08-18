@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "BROADWATER",
   "data": [
     {
@@ -421,6 +421,13 @@
       "dose1": 19,
       "dose2": 0,
       "vaccines": 19
+    },
+    {
+      "date": "2021-05-24",
+      "locality": "BROADWATER",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-05-25",
@@ -937,8 +944,8 @@
       "date": "2021-08-11",
       "locality": "BROADWATER",
       "dose1": 11,
-      "dose2": 6,
-      "vaccines": 17
+      "dose2": 7,
+      "vaccines": 18
     },
     {
       "date": "2021-08-12",
@@ -972,8 +979,15 @@
       "date": "2021-08-16",
       "locality": "BROADWATER",
       "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose2": 11,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "BROADWATER",
+      "dose1": 8,
+      "dose2": 25,
+      "vaccines": 33
     }
   ]
 }

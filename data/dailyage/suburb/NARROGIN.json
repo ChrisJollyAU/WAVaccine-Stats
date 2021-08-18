@@ -1,19 +1,11 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "postcode": "NARROGIN",
   "data": [
     {
       "date": "2021-02-22",
       "locality": "NARROGIN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-02-25",
-      "locality": "NARROGIN",
-      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -2167,8 +2159,8 @@
       "locality": "NARROGIN",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 18,
-      "vaccines": 26
+      "dose2": 19,
+      "vaccines": 27
     },
     {
       "date": "2021-08-12",
@@ -2190,17 +2182,17 @@
       "date": "2021-08-13",
       "locality": "NARROGIN",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 10,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-08-13",
       "locality": "NARROGIN",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
+      "dose1": 13,
       "dose2": 19,
-      "vaccines": 28
+      "vaccines": 32
     },
     {
       "date": "2021-08-13",
@@ -2238,25 +2230,41 @@
       "date": "2021-08-16",
       "locality": "NARROGIN",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
-      "dose2": 1,
-      "vaccines": 13
+      "dose1": 21,
+      "dose2": 2,
+      "vaccines": 23
     },
     {
       "date": "2021-08-16",
       "locality": "NARROGIN",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 18,
-      "vaccines": 20
+      "dose1": 5,
+      "dose2": 29,
+      "vaccines": 34
     },
     {
       "date": "2021-08-16",
       "locality": "NARROGIN",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "NARROGIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 10,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "NARROGIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 6
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "PERTH BC",
   "data": [
     {
@@ -103,9 +103,9 @@
     {
       "date": "2021-04-28",
       "locality": "PERTH BC",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-05-04",
@@ -419,8 +419,8 @@
       "date": "2021-07-21",
       "locality": "PERTH BC",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-07-22",
@@ -543,6 +543,13 @@
     },
     {
       "date": "2021-08-16",
+      "locality": "PERTH BC",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-17",
       "locality": "PERTH BC",
       "dose1": 1,
       "dose2": 0,

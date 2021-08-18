@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "postcode": "GLEN IRIS",
   "data": [
     {
@@ -2526,17 +2526,17 @@
       "date": "2021-08-16",
       "locality": "GLEN IRIS",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 9
     },
     {
       "date": "2021-08-16",
       "locality": "GLEN IRIS",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-08-16",
@@ -2545,6 +2545,22 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "GLEN IRIS",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "GLEN IRIS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
     }
   ]
 }

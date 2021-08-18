@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "ESPERANCE",
   "data": [
     {
@@ -1013,9 +1013,16 @@
     {
       "date": "2021-08-16",
       "locality": "ESPERANCE",
-      "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose1": 7,
+      "dose2": 13,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "ESPERANCE",
+      "dose1": 13,
+      "dose2": 11,
+      "vaccines": 24
     }
   ]
 }

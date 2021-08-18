@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "WARNBRO",
   "data": [
     {
@@ -89,9 +89,9 @@
     {
       "date": "2021-03-10",
       "locality": "WARNBRO",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-11",
@@ -580,8 +580,8 @@
       "date": "2021-05-31",
       "locality": "WARNBRO",
       "dose1": 42,
-      "dose2": 5,
-      "vaccines": 47
+      "dose2": 6,
+      "vaccines": 48
     },
     {
       "date": "2021-06-01",
@@ -684,9 +684,9 @@
     {
       "date": "2021-06-15",
       "locality": "WARNBRO",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 21,
-      "vaccines": 36
+      "vaccines": 37
     },
     {
       "date": "2021-06-16",
@@ -733,9 +733,9 @@
     {
       "date": "2021-06-22",
       "locality": "WARNBRO",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 21,
-      "vaccines": 42
+      "vaccines": 43
     },
     {
       "date": "2021-06-23",
@@ -747,9 +747,9 @@
     {
       "date": "2021-06-24",
       "locality": "WARNBRO",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 29,
-      "vaccines": 61
+      "vaccines": 60
     },
     {
       "date": "2021-06-25",
@@ -881,8 +881,8 @@
       "date": "2021-07-13",
       "locality": "WARNBRO",
       "dose1": 12,
-      "dose2": 26,
-      "vaccines": 38
+      "dose2": 27,
+      "vaccines": 39
     },
     {
       "date": "2021-07-14",
@@ -1118,9 +1118,16 @@
     {
       "date": "2021-08-16",
       "locality": "WARNBRO",
+      "dose1": 34,
+      "dose2": 46,
+      "vaccines": 80
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "WARNBRO",
       "dose1": 33,
-      "dose2": 40,
-      "vaccines": 73
+      "dose2": 38,
+      "vaccines": 71
     }
   ]
 }

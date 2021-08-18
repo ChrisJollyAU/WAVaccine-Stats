@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "MEADOW SPRINGS",
   "data": [
     {
@@ -1062,9 +1062,16 @@
     {
       "date": "2021-08-16",
       "locality": "MEADOW SPRINGS",
+      "dose1": 29,
+      "dose2": 26,
+      "vaccines": 55
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "MEADOW SPRINGS",
       "dose1": 28,
-      "dose2": 24,
-      "vaccines": 52
+      "dose2": 35,
+      "vaccines": 63
     }
   ]
 }

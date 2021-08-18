@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "postcode": "HILBERT",
   "data": [
     {
@@ -2575,8 +2575,8 @@
       "locality": "HILBERT",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-16",
@@ -2585,6 +2585,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "HILBERT",
+      "AgeGroup": "16 to 49",
+      "dose1": 14,
+      "dose2": 8,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "HILBERT",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

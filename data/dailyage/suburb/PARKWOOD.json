@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "postcode": "PARKWOOD",
   "data": [
     {
@@ -854,9 +854,9 @@
       "date": "2021-04-21",
       "locality": "PARKWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-04-21",
@@ -2679,8 +2679,8 @@
       "locality": "PARKWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 2,
-      "vaccines": 12
+      "dose2": 3,
+      "vaccines": 13
     },
     {
       "date": "2021-07-14",
@@ -3470,17 +3470,17 @@
       "date": "2021-08-16",
       "locality": "PARKWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
-      "dose2": 8,
-      "vaccines": 23
+      "dose1": 17,
+      "dose2": 10,
+      "vaccines": 27
     },
     {
       "date": "2021-08-16",
       "locality": "PARKWOOD",
       "AgeGroup": "50 to 69",
-      "dose1": 12,
+      "dose1": 14,
       "dose2": 8,
-      "vaccines": 20
+      "vaccines": 22
     },
     {
       "date": "2021-08-16",
@@ -3489,6 +3489,30 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "PARKWOOD",
+      "AgeGroup": "16 to 49",
+      "dose1": 25,
+      "dose2": 10,
+      "vaccines": 35
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "PARKWOOD",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 8,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "PARKWOOD",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 17,
+      "vaccines": 20
     }
   ]
 }

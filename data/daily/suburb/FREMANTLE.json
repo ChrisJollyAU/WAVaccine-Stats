@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "FREMANTLE",
   "data": [
     {
@@ -1216,9 +1216,16 @@
     {
       "date": "2021-08-16",
       "locality": "FREMANTLE",
-      "dose1": 31,
+      "dose1": 33,
       "dose2": 54,
-      "vaccines": 85
+      "vaccines": 87
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "FREMANTLE",
+      "dose1": 59,
+      "dose2": 61,
+      "vaccines": 120
     }
   ]
 }

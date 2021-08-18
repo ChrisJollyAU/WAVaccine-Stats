@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "postcode": "SOMERVILLE",
   "data": [
     {
@@ -1262,9 +1262,9 @@
       "date": "2021-07-06",
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 3,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-07-06",
@@ -1607,8 +1607,8 @@
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-07-26",
@@ -1974,9 +1974,9 @@
       "date": "2021-08-16",
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 0,
-      "vaccines": 6
+      "dose1": 7,
+      "dose2": 1,
+      "vaccines": 8
     },
     {
       "date": "2021-08-16",
@@ -1993,6 +1993,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 3,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "postcode": "MEADOW SPRINGS",
   "data": [
     {
@@ -3087,16 +3087,16 @@
       "locality": "MEADOW SPRINGS",
       "AgeGroup": "16 to 49",
       "dose1": 19,
-      "dose2": 1,
-      "vaccines": 20
+      "dose2": 2,
+      "vaccines": 21
     },
     {
       "date": "2021-08-16",
       "locality": "MEADOW SPRINGS",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
-      "dose2": 16,
-      "vaccines": 24
+      "dose1": 9,
+      "dose2": 17,
+      "vaccines": 26
     },
     {
       "date": "2021-08-16",
@@ -3105,6 +3105,30 @@
       "dose1": 1,
       "dose2": 7,
       "vaccines": 8
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "MEADOW SPRINGS",
+      "AgeGroup": "16 to 49",
+      "dose1": 23,
+      "dose2": 8,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "MEADOW SPRINGS",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 21,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "MEADOW SPRINGS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 6,
+      "vaccines": 6
     }
   ]
 }

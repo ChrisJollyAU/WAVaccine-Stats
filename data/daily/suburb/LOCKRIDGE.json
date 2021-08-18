@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "LOCKRIDGE",
   "data": [
     {
@@ -1083,9 +1083,16 @@
     {
       "date": "2021-08-16",
       "locality": "LOCKRIDGE",
-      "dose1": 9,
-      "dose2": 10,
-      "vaccines": 19
+      "dose1": 10,
+      "dose2": 13,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "LOCKRIDGE",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
     }
   ]
 }

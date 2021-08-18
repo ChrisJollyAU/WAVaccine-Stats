@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "postcode": "KARRIDALE",
   "data": [
     {
@@ -651,6 +651,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-02",
+      "locality": "KARRIDALE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-03",
       "locality": "KARRIDALE",
       "AgeGroup": "50 to 69",
@@ -817,6 +825,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "KARRIDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

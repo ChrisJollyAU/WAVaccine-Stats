@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-16T00:00:00",
+  "date_updated": "2021-08-17T00:00:00",
   "locality": "TRIGG",
   "data": [
     {
@@ -1070,8 +1070,8 @@
       "date": "2021-08-03",
       "locality": "TRIGG",
       "dose1": 12,
-      "dose2": 21,
-      "vaccines": 33
+      "dose2": 22,
+      "vaccines": 34
     },
     {
       "date": "2021-08-04",
@@ -1160,9 +1160,16 @@
     {
       "date": "2021-08-16",
       "locality": "TRIGG",
-      "dose1": 9,
-      "dose2": 30,
-      "vaccines": 39
+      "dose1": 12,
+      "dose2": 31,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "TRIGG",
+      "dose1": 22,
+      "dose2": 15,
+      "vaccines": 37
     }
   ]
 }

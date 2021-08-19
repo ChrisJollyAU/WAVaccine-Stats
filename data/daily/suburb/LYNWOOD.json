@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "LYNWOOD",
   "data": [
     {
@@ -803,9 +803,9 @@
     {
       "date": "2021-07-06",
       "locality": "LYNWOOD",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 5,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-07-07",
@@ -951,8 +951,8 @@
       "date": "2021-07-27",
       "locality": "LYNWOOD",
       "dose1": 16,
-      "dose2": 12,
-      "vaccines": 28
+      "dose2": 11,
+      "vaccines": 27
     },
     {
       "date": "2021-07-28",
@@ -1090,16 +1090,23 @@
     {
       "date": "2021-08-16",
       "locality": "LYNWOOD",
-      "dose1": 12,
+      "dose1": 15,
       "dose2": 8,
-      "vaccines": 20
+      "vaccines": 23
     },
     {
       "date": "2021-08-17",
       "locality": "LYNWOOD",
       "dose1": 14,
-      "dose2": 32,
-      "vaccines": 46
+      "dose2": 33,
+      "vaccines": 47
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "LYNWOOD",
+      "dose1": 22,
+      "dose2": 21,
+      "vaccines": 43
     }
   ]
 }

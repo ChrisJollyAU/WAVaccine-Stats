@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "postcode": "BUSSELTON",
   "data": [
     {
@@ -3078,25 +3078,49 @@
       "date": "2021-08-17",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 6,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-08-17",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
-      "dose2": 6,
-      "vaccines": 15
+      "dose1": 11,
+      "dose2": 9,
+      "vaccines": 20
     },
     {
       "date": "2021-08-17",
       "locality": "BUSSELTON",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 6,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "BUSSELTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "BUSSELTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 10,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "BUSSELTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 8,
+      "vaccines": 8
     }
   ]
 }

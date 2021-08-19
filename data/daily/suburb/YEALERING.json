@@ -1,9 +1,16 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "YEALERING",
   "data": [
     {
       "date": "2021-03-10",
+      "locality": "YEALERING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-15",
       "locality": "YEALERING",
       "dose1": 1,
       "dose2": 0,
@@ -70,6 +77,13 @@
       "locality": "YEALERING",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-26",
+      "locality": "YEALERING",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -344,6 +358,13 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "YEALERING",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

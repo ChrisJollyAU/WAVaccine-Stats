@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "postcode": "BROOKTON",
   "data": [
     {
@@ -1606,17 +1606,17 @@
       "date": "2021-08-16",
       "locality": "BROOKTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 7
     },
     {
       "date": "2021-08-16",
       "locality": "BROOKTON",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 5
     },
     {
       "date": "2021-08-17",
@@ -1641,6 +1641,14 @@
       "dose1": 2,
       "dose2": 15,
       "vaccines": 17
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "BROOKTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

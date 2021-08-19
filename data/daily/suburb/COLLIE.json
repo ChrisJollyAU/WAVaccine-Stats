@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "COLLIE",
   "data": [
     {
@@ -930,8 +930,8 @@
       "date": "2021-08-12",
       "locality": "COLLIE",
       "dose1": 27,
-      "dose2": 49,
-      "vaccines": 76
+      "dose2": 50,
+      "vaccines": 77
     },
     {
       "date": "2021-08-13",
@@ -957,16 +957,23 @@
     {
       "date": "2021-08-16",
       "locality": "COLLIE",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 29,
-      "vaccines": 53
+      "vaccines": 54
     },
     {
       "date": "2021-08-17",
       "locality": "COLLIE",
-      "dose1": 64,
-      "dose2": 19,
-      "vaccines": 83
+      "dose1": 73,
+      "dose2": 50,
+      "vaccines": 123
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "COLLIE",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
     }
   ]
 }

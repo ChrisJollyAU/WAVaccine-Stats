@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "EAST PINGELLY",
   "data": [
     {
@@ -150,11 +150,25 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-16",
+      "locality": "EAST PINGELLY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-17",
       "locality": "EAST PINGELLY",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "EAST PINGELLY",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     }
   ]
 }

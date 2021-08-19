@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "CAREY PARK",
   "data": [
     {
@@ -1013,16 +1013,23 @@
     {
       "date": "2021-08-16",
       "locality": "CAREY PARK",
-      "dose1": 20,
-      "dose2": 7,
-      "vaccines": 27
+      "dose1": 22,
+      "dose2": 8,
+      "vaccines": 30
     },
     {
       "date": "2021-08-17",
       "locality": "CAREY PARK",
-      "dose1": 10,
+      "dose1": 14,
+      "dose2": 26,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "CAREY PARK",
+      "dose1": 12,
       "dose2": 21,
-      "vaccines": 31
+      "vaccines": 33
     }
   ]
 }

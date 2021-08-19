@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "postcode": "LEONORA",
   "data": [
     {
@@ -567,8 +567,8 @@
       "locality": "LEONORA",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 8,
-      "vaccines": 14
+      "dose2": 10,
+      "vaccines": 16
     },
     {
       "date": "2021-08-17",
@@ -577,6 +577,22 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "LEONORA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "LEONORA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

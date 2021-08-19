@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "USHER",
   "data": [
     {
@@ -937,8 +937,8 @@
       "date": "2021-08-12",
       "locality": "USHER",
       "dose1": 6,
-      "dose2": 16,
-      "vaccines": 22
+      "dose2": 17,
+      "vaccines": 23
     },
     {
       "date": "2021-08-13",
@@ -964,16 +964,23 @@
     {
       "date": "2021-08-16",
       "locality": "USHER",
-      "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose1": 10,
+      "dose2": 4,
+      "vaccines": 14
     },
     {
       "date": "2021-08-17",
       "locality": "USHER",
       "dose1": 3,
-      "dose2": 10,
-      "vaccines": 13
+      "dose2": 12,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "USHER",
+      "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "BELMONT",
   "data": [
     {
@@ -1188,23 +1188,30 @@
     {
       "date": "2021-08-15",
       "locality": "BELMONT",
-      "dose1": 15,
+      "dose1": 13,
       "dose2": 28,
-      "vaccines": 43
+      "vaccines": 41
     },
     {
       "date": "2021-08-16",
       "locality": "BELMONT",
-      "dose1": 38,
-      "dose2": 42,
-      "vaccines": 80
+      "dose1": 40,
+      "dose2": 43,
+      "vaccines": 83
     },
     {
       "date": "2021-08-17",
       "locality": "BELMONT",
-      "dose1": 25,
+      "dose1": 27,
       "dose2": 23,
-      "vaccines": 48
+      "vaccines": 50
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "BELMONT",
+      "dose1": 29,
+      "dose2": 32,
+      "vaccines": 61
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "postcode": "DALKEITH",
   "data": [
     {
@@ -326,9 +326,9 @@
       "date": "2021-03-15",
       "locality": "DALKEITH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-15",
@@ -1870,9 +1870,9 @@
       "date": "2021-05-25",
       "locality": "DALKEITH",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-05-25",
@@ -2054,9 +2054,9 @@
       "date": "2021-06-02",
       "locality": "DALKEITH",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-06-02",
@@ -2247,8 +2247,8 @@
       "locality": "DALKEITH",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-06-11",
@@ -3782,9 +3782,9 @@
       "date": "2021-08-16",
       "locality": "DALKEITH",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 10,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-08-16",
@@ -3806,25 +3806,49 @@
       "date": "2021-08-17",
       "locality": "DALKEITH",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 23,
       "dose2": 6,
-      "vaccines": 27
+      "vaccines": 29
     },
     {
       "date": "2021-08-17",
       "locality": "DALKEITH",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 21,
-      "vaccines": 26
+      "dose2": 23,
+      "vaccines": 28
     },
     {
       "date": "2021-08-17",
       "locality": "DALKEITH",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 18,
-      "vaccines": 18
+      "dose2": 22,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "DALKEITH",
+      "AgeGroup": "16 to 49",
+      "dose1": 47,
+      "dose2": 8,
+      "vaccines": 55
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "DALKEITH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 9,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "DALKEITH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 9,
+      "vaccines": 10
     }
   ]
 }

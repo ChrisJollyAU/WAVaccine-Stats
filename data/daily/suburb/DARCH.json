@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "DARCH",
   "data": [
     {
@@ -1153,16 +1153,23 @@
     {
       "date": "2021-08-16",
       "locality": "DARCH",
-      "dose1": 30,
-      "dose2": 38,
-      "vaccines": 68
+      "dose1": 31,
+      "dose2": 40,
+      "vaccines": 71
     },
     {
       "date": "2021-08-17",
       "locality": "DARCH",
-      "dose1": 34,
-      "dose2": 38,
-      "vaccines": 72
+      "dose1": 39,
+      "dose2": 41,
+      "vaccines": 80
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "DARCH",
+      "dose1": 26,
+      "dose2": 31,
+      "vaccines": 57
     }
   ]
 }

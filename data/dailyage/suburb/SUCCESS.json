@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "postcode": "SUCCESS",
   "data": [
     {
@@ -246,9 +246,9 @@
       "date": "2021-03-11",
       "locality": "SUCCESS",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-03-11",
@@ -735,8 +735,8 @@
       "locality": "SUCCESS",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-04-07",
@@ -1126,9 +1126,9 @@
       "date": "2021-04-26",
       "locality": "SUCCESS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-04-27",
@@ -1559,16 +1559,16 @@
       "locality": "SUCCESS",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 7,
-      "vaccines": 22
+      "dose2": 8,
+      "vaccines": 23
     },
     {
       "date": "2021-05-17",
       "locality": "SUCCESS",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-05-17",
@@ -1878,9 +1878,9 @@
       "date": "2021-05-31",
       "locality": "SUCCESS",
       "AgeGroup": "50 to 69",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 5,
-      "vaccines": 35
+      "vaccines": 34
     },
     {
       "date": "2021-05-31",
@@ -2326,9 +2326,9 @@
       "date": "2021-06-20",
       "locality": "SUCCESS",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-06-20",
@@ -3039,8 +3039,8 @@
       "locality": "SUCCESS",
       "AgeGroup": "16 to 49",
       "dose1": 37,
-      "dose2": 23,
-      "vaccines": 60
+      "dose2": 24,
+      "vaccines": 61
     },
     {
       "date": "2021-07-22",
@@ -3487,16 +3487,16 @@
       "locality": "SUCCESS",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 18,
-      "vaccines": 24
+      "dose2": 19,
+      "vaccines": 25
     },
     {
       "date": "2021-08-10",
       "locality": "SUCCESS",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-08-11",
@@ -3526,9 +3526,9 @@
       "date": "2021-08-12",
       "locality": "SUCCESS",
       "AgeGroup": "16 to 49",
-      "dose1": 27,
-      "dose2": 42,
-      "vaccines": 69
+      "dose1": 28,
+      "dose2": 43,
+      "vaccines": 71
     },
     {
       "date": "2021-08-12",
@@ -3622,8 +3622,8 @@
       "date": "2021-08-16",
       "locality": "SUCCESS",
       "AgeGroup": "50 to 69",
-      "dose1": 10,
-      "dose2": 23,
+      "dose1": 9,
+      "dose2": 24,
       "vaccines": 33
     },
     {
@@ -3638,9 +3638,9 @@
       "date": "2021-08-17",
       "locality": "SUCCESS",
       "AgeGroup": "16 to 49",
-      "dose1": 57,
-      "dose2": 22,
-      "vaccines": 79
+      "dose1": 58,
+      "dose2": 24,
+      "vaccines": 82
     },
     {
       "date": "2021-08-17",
@@ -3657,6 +3657,30 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "SUCCESS",
+      "AgeGroup": "16 to 49",
+      "dose1": 68,
+      "dose2": 23,
+      "vaccines": 91
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "SUCCESS",
+      "AgeGroup": "50 to 69",
+      "dose1": 12,
+      "dose2": 13,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "SUCCESS",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "BERESFORD",
   "data": [
     {
@@ -964,9 +964,16 @@
     {
       "date": "2021-08-17",
       "locality": "BERESFORD",
-      "dose1": 7,
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "BERESFORD",
+      "dose1": 11,
       "dose2": 4,
-      "vaccines": 11
+      "vaccines": 15
     }
   ]
 }

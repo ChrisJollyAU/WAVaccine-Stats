@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "ST JAMES",
   "data": [
     {
@@ -908,9 +908,9 @@
     {
       "date": "2021-07-09",
       "locality": "ST JAMES",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 11,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-07-10",
@@ -1147,8 +1147,8 @@
       "date": "2021-08-12",
       "locality": "ST JAMES",
       "dose1": 12,
-      "dose2": 19,
-      "vaccines": 31
+      "dose2": 20,
+      "vaccines": 32
     },
     {
       "date": "2021-08-13",
@@ -1174,16 +1174,23 @@
     {
       "date": "2021-08-16",
       "locality": "ST JAMES",
-      "dose1": 22,
+      "dose1": 25,
       "dose2": 20,
-      "vaccines": 42
+      "vaccines": 45
     },
     {
       "date": "2021-08-17",
       "locality": "ST JAMES",
-      "dose1": 26,
-      "dose2": 14,
-      "vaccines": 40
+      "dose1": 28,
+      "dose2": 15,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "ST JAMES",
+      "dose1": 25,
+      "dose2": 16,
+      "vaccines": 41
     }
   ]
 }

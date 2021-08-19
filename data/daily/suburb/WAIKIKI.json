@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "WAIKIKI",
   "data": [
     {
@@ -1146,16 +1146,23 @@
     {
       "date": "2021-08-16",
       "locality": "WAIKIKI",
-      "dose1": 40,
+      "dose1": 42,
       "dose2": 83,
-      "vaccines": 123
+      "vaccines": 125
     },
     {
       "date": "2021-08-17",
       "locality": "WAIKIKI",
-      "dose1": 40,
-      "dose2": 44,
-      "vaccines": 84
+      "dose1": 42,
+      "dose2": 46,
+      "vaccines": 88
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "WAIKIKI",
+      "dose1": 65,
+      "dose2": 39,
+      "vaccines": 104
     }
   ]
 }

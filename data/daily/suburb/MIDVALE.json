@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "MIDVALE",
   "data": [
     {
@@ -972,8 +972,8 @@
       "date": "2021-08-12",
       "locality": "MIDVALE",
       "dose1": 4,
-      "dose2": 7,
-      "vaccines": 11
+      "dose2": 8,
+      "vaccines": 12
     },
     {
       "date": "2021-08-13",
@@ -1007,8 +1007,15 @@
       "date": "2021-08-17",
       "locality": "MIDVALE",
       "dose1": 4,
-      "dose2": 8,
-      "vaccines": 12
+      "dose2": 10,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "MIDVALE",
+      "dose1": 10,
+      "dose2": 0,
+      "vaccines": 10
     }
   ]
 }

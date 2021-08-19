@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "HOCKING",
   "data": [
     {
@@ -1146,16 +1146,23 @@
     {
       "date": "2021-08-16",
       "locality": "HOCKING",
-      "dose1": 37,
+      "dose1": 38,
       "dose2": 34,
-      "vaccines": 71
+      "vaccines": 72
     },
     {
       "date": "2021-08-17",
       "locality": "HOCKING",
-      "dose1": 16,
-      "dose2": 32,
-      "vaccines": 48
+      "dose1": 17,
+      "dose2": 38,
+      "vaccines": 55
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "HOCKING",
+      "dose1": 23,
+      "dose2": 34,
+      "vaccines": 57
     }
   ]
 }

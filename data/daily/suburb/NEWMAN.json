@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "NEWMAN",
   "data": [
     {
@@ -96,9 +96,9 @@
     {
       "date": "2021-04-08",
       "locality": "NEWMAN",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-04-12",
@@ -482,8 +482,8 @@
       "date": "2021-06-25",
       "locality": "NEWMAN",
       "dose1": 13,
-      "dose2": 1,
-      "vaccines": 14
+      "dose2": 2,
+      "vaccines": 15
     },
     {
       "date": "2021-06-26",
@@ -803,9 +803,9 @@
     {
       "date": "2021-08-14",
       "locality": "NEWMAN",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 3,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-08-16",
@@ -817,9 +817,16 @@
     {
       "date": "2021-08-17",
       "locality": "NEWMAN",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "NEWMAN",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
     }
   ]
 }

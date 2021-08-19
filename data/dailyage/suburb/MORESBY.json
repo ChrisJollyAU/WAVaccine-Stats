@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "postcode": "MORESBY",
   "data": [
     {
@@ -1504,6 +1504,22 @@
       "AgeGroup": "50 to 69",
       "dose1": 4,
       "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "MORESBY",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "MORESBY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
       "vaccines": 4
     }
   ]

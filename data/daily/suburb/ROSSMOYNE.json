@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "ROSSMOYNE",
   "data": [
     {
@@ -1181,16 +1181,23 @@
     {
       "date": "2021-08-16",
       "locality": "ROSSMOYNE",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 16,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-08-17",
       "locality": "ROSSMOYNE",
       "dose1": 20,
-      "dose2": 17,
-      "vaccines": 37
+      "dose2": 20,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "ROSSMOYNE",
+      "dose1": 23,
+      "dose2": 21,
+      "vaccines": 44
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "postcode": "ASCOT",
   "data": [
     {
@@ -2622,9 +2622,9 @@
       "date": "2021-07-25",
       "locality": "ASCOT",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 2
     },
     {
       "date": "2021-07-25",
@@ -3142,9 +3142,9 @@
       "date": "2021-08-16",
       "locality": "ASCOT",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 14,
       "dose2": 2,
-      "vaccines": 14
+      "vaccines": 16
     },
     {
       "date": "2021-08-16",
@@ -3166,17 +3166,17 @@
       "date": "2021-08-17",
       "locality": "ASCOT",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-08-17",
       "locality": "ASCOT",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 7,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-08-17",
@@ -3185,6 +3185,30 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "ASCOT",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 6,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "ASCOT",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "ASCOT",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

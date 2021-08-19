@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "KALAMUNDA",
   "data": [
     {
@@ -131,9 +131,9 @@
     {
       "date": "2021-03-15",
       "locality": "KALAMUNDA",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 0,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-03-16",
@@ -363,8 +363,8 @@
       "date": "2021-04-19",
       "locality": "KALAMUNDA",
       "dose1": 29,
-      "dose2": 3,
-      "vaccines": 32
+      "dose2": 4,
+      "vaccines": 33
     },
     {
       "date": "2021-04-20",
@@ -852,9 +852,9 @@
     {
       "date": "2021-06-28",
       "locality": "KALAMUNDA",
-      "dose1": 37,
+      "dose1": 36,
       "dose2": 6,
-      "vaccines": 43
+      "vaccines": 42
     },
     {
       "date": "2021-06-29",
@@ -873,9 +873,9 @@
     {
       "date": "2021-07-01",
       "locality": "KALAMUNDA",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 5,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-07-02",
@@ -1014,8 +1014,8 @@
       "date": "2021-07-21",
       "locality": "KALAMUNDA",
       "dose1": 32,
-      "dose2": 52,
-      "vaccines": 84
+      "dose2": 51,
+      "vaccines": 83
     },
     {
       "date": "2021-07-22",
@@ -1063,8 +1063,8 @@
       "date": "2021-07-28",
       "locality": "KALAMUNDA",
       "dose1": 13,
-      "dose2": 57,
-      "vaccines": 70
+      "dose2": 56,
+      "vaccines": 69
     },
     {
       "date": "2021-07-29",
@@ -1195,16 +1195,23 @@
     {
       "date": "2021-08-16",
       "locality": "KALAMUNDA",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 68,
-      "vaccines": 104
+      "vaccines": 105
     },
     {
       "date": "2021-08-17",
       "locality": "KALAMUNDA",
       "dose1": 34,
+      "dose2": 62,
+      "vaccines": 96
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "KALAMUNDA",
+      "dose1": 44,
       "dose2": 52,
-      "vaccines": 86
+      "vaccines": 96
     }
   ]
 }

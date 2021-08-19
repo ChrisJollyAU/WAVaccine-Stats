@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "postcode": "PARKERVILLE",
   "data": [
     {
@@ -486,9 +486,9 @@
       "date": "2021-04-19",
       "locality": "PARKERVILLE",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-20",
@@ -510,9 +510,9 @@
       "date": "2021-04-20",
       "locality": "PARKERVILLE",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-21",
@@ -1295,8 +1295,8 @@
       "locality": "PARKERVILLE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-15",
@@ -1559,8 +1559,8 @@
       "locality": "PARKERVILLE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-30",
@@ -2422,9 +2422,9 @@
       "date": "2021-08-12",
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-12",
@@ -2535,8 +2535,8 @@
       "locality": "PARKERVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 9,
-      "vaccines": 9
+      "dose2": 11,
+      "vaccines": 11
     },
     {
       "date": "2021-08-17",
@@ -2545,6 +2545,30 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "PARKERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "PARKERVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "PARKERVILLE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

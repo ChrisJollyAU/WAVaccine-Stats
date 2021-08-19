@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-17T00:00:00",
+  "date_updated": "2021-08-18T00:00:00",
   "locality": "BEACHLANDS",
   "data": [
     {
@@ -915,8 +915,15 @@
     {
       "date": "2021-08-17",
       "locality": "BEACHLANDS",
-      "dose1": 7,
-      "dose2": 2,
+      "dose1": 10,
+      "dose2": 6,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "BEACHLANDS",
+      "dose1": 5,
+      "dose2": 4,
       "vaccines": 9
     }
   ]

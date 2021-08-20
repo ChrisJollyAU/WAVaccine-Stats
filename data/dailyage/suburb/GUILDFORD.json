@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "postcode": "GUILDFORD",
   "data": [
     {
@@ -3063,8 +3063,40 @@
       "locality": "GUILDFORD",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 8,
-      "vaccines": 9
+      "dose2": 11,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "GUILDFORD",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "GUILDFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 4,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "GUILDFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 12,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "GUILDFORD",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "DONGARA",
   "data": [
     {
@@ -916,8 +916,8 @@
       "date": "2021-08-16",
       "locality": "DONGARA",
       "dose1": 10,
-      "dose2": 12,
-      "vaccines": 22
+      "dose2": 13,
+      "vaccines": 23
     },
     {
       "date": "2021-08-17",
@@ -929,9 +929,16 @@
     {
       "date": "2021-08-18",
       "locality": "DONGARA",
-      "dose1": 6,
-      "dose2": 16,
-      "vaccines": 22
+      "dose1": 10,
+      "dose2": 22,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "DONGARA",
+      "dose1": 35,
+      "dose2": 23,
+      "vaccines": 58
     }
   ]
 }

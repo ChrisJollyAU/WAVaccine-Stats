@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "GUILDFORD",
   "data": [
     {
@@ -1098,8 +1098,15 @@
       "date": "2021-08-18",
       "locality": "GUILDFORD",
       "dose1": 6,
-      "dose2": 12,
-      "vaccines": 18
+      "dose2": 16,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "GUILDFORD",
+      "dose1": 12,
+      "dose2": 20,
+      "vaccines": 32
     }
   ]
 }

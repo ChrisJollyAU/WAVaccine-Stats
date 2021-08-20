@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "ONSLOW",
   "data": [
     {
@@ -383,9 +383,9 @@
     {
       "date": "2021-08-11",
       "locality": "ONSLOW",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-12",
@@ -418,9 +418,16 @@
     {
       "date": "2021-08-17",
       "locality": "ONSLOW",
-      "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose1": 9,
+      "dose2": 11,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "ONSLOW",
+      "dose1": 1,
+      "dose2": 21,
+      "vaccines": 22
     }
   ]
 }

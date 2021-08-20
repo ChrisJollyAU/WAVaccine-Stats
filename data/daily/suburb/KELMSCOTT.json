@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "KELMSCOTT",
   "data": [
     {
@@ -250,9 +250,9 @@
     {
       "date": "2021-04-08",
       "locality": "KELMSCOTT",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 3,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-04-09",
@@ -867,8 +867,8 @@
       "date": "2021-07-09",
       "locality": "KELMSCOTT",
       "dose1": 15,
-      "dose2": 11,
-      "vaccines": 26
+      "dose2": 12,
+      "vaccines": 27
     },
     {
       "date": "2021-07-10",
@@ -1133,8 +1133,8 @@
       "date": "2021-08-16",
       "locality": "KELMSCOTT",
       "dose1": 36,
-      "dose2": 36,
-      "vaccines": 72
+      "dose2": 37,
+      "vaccines": 73
     },
     {
       "date": "2021-08-17",
@@ -1146,9 +1146,16 @@
     {
       "date": "2021-08-18",
       "locality": "KELMSCOTT",
-      "dose1": 46,
-      "dose2": 43,
-      "vaccines": 89
+      "dose1": 57,
+      "dose2": 50,
+      "vaccines": 107
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "KELMSCOTT",
+      "dose1": 45,
+      "dose2": 34,
+      "vaccines": 79
     }
   ]
 }

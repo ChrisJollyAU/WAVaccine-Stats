@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "WUBIN",
   "data": [
     {
@@ -264,9 +264,16 @@
     {
       "date": "2021-08-18",
       "locality": "WUBIN",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "WUBIN",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

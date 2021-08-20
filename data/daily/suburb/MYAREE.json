@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "MYAREE",
   "data": [
     {
@@ -1090,16 +1090,23 @@
     {
       "date": "2021-08-17",
       "locality": "MYAREE",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 10,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-08-18",
       "locality": "MYAREE",
       "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose2": 11,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "MYAREE",
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     }
   ]
 }

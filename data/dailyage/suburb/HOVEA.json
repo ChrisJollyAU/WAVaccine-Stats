@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "postcode": "HOVEA",
   "data": [
     {
@@ -1447,8 +1447,8 @@
       "locality": "HOVEA",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-28",
@@ -1729,6 +1729,30 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "HOVEA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "HOVEA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "HOVEA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

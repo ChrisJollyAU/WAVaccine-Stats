@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "CHRISTMAS ISLAND",
   "data": [
     {
@@ -250,16 +250,16 @@
     {
       "date": "2021-07-01",
       "locality": "CHRISTMAS ISLAND",
-      "dose1": 38,
+      "dose1": 45,
       "dose2": 1,
-      "vaccines": 39
+      "vaccines": 46
     },
     {
       "date": "2021-07-02",
       "locality": "CHRISTMAS ISLAND",
-      "dose1": 43,
+      "dose1": 49,
       "dose2": 1,
-      "vaccines": 44
+      "vaccines": 50
     },
     {
       "date": "2021-07-05",
@@ -369,16 +369,16 @@
     {
       "date": "2021-07-22",
       "locality": "CHRISTMAS ISLAND",
-      "dose1": 25,
-      "dose2": 38,
+      "dose1": 19,
+      "dose2": 44,
       "vaccines": 63
     },
     {
       "date": "2021-07-23",
       "locality": "CHRISTMAS ISLAND",
-      "dose1": 28,
-      "dose2": 37,
-      "vaccines": 65
+      "dose1": 24,
+      "dose2": 42,
+      "vaccines": 66
     },
     {
       "date": "2021-07-24",
@@ -397,8 +397,8 @@
     {
       "date": "2021-07-27",
       "locality": "CHRISTMAS ISLAND",
-      "dose1": 12,
-      "dose2": 59,
+      "dose1": 11,
+      "dose2": 60,
       "vaccines": 71
     },
     {
@@ -544,9 +544,16 @@
     {
       "date": "2021-08-18",
       "locality": "CHRISTMAS ISLAND",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "CHRISTMAS ISLAND",
+      "dose1": 4,
+      "dose2": 12,
+      "vaccines": 16
     }
   ]
 }

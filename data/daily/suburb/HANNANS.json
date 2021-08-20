@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "HANNANS",
   "data": [
     {
@@ -234,6 +234,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-05-05",
+      "locality": "HANNANS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-06",
       "locality": "HANNANS",
       "dose1": 10,
@@ -342,8 +349,8 @@
       "date": "2021-05-28",
       "locality": "HANNANS",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-05-31",
@@ -817,16 +824,23 @@
     {
       "date": "2021-08-17",
       "locality": "HANNANS",
-      "dose1": 13,
-      "dose2": 2,
-      "vaccines": 15
+      "dose1": 15,
+      "dose2": 3,
+      "vaccines": 18
     },
     {
       "date": "2021-08-18",
       "locality": "HANNANS",
-      "dose1": 13,
-      "dose2": 5,
-      "vaccines": 18
+      "dose1": 14,
+      "dose2": 8,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "HANNANS",
+      "dose1": 6,
+      "dose2": 8,
+      "vaccines": 14
     }
   ]
 }

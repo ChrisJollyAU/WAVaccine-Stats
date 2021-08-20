@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "HAMERSLEY",
   "data": [
     {
@@ -1189,15 +1189,22 @@
       "date": "2021-08-17",
       "locality": "HAMERSLEY",
       "dose1": 20,
-      "dose2": 29,
-      "vaccines": 49
+      "dose2": 31,
+      "vaccines": 51
     },
     {
       "date": "2021-08-18",
       "locality": "HAMERSLEY",
-      "dose1": 22,
-      "dose2": 32,
-      "vaccines": 54
+      "dose1": 23,
+      "dose2": 34,
+      "vaccines": 57
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "HAMERSLEY",
+      "dose1": 24,
+      "dose2": 22,
+      "vaccines": 46
     }
   ]
 }

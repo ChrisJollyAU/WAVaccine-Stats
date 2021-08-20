@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "LAKELANDS",
   "data": [
     {
@@ -376,16 +376,16 @@
     {
       "date": "2021-05-06",
       "locality": "LAKELANDS",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 1,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-05-07",
       "locality": "LAKELANDS",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 1,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-05-09",
@@ -712,9 +712,9 @@
     {
       "date": "2021-06-28",
       "locality": "LAKELANDS",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 5,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-06-29",
@@ -740,9 +740,9 @@
     {
       "date": "2021-07-02",
       "locality": "LAKELANDS",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 11,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-07-03",
@@ -754,9 +754,9 @@
     {
       "date": "2021-07-04",
       "locality": "LAKELANDS",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-07-05",
@@ -902,8 +902,8 @@
       "date": "2021-07-25",
       "locality": "LAKELANDS",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-07-26",
@@ -937,8 +937,8 @@
       "date": "2021-07-30",
       "locality": "LAKELANDS",
       "dose1": 11,
-      "dose2": 33,
-      "vaccines": 44
+      "dose2": 35,
+      "vaccines": 46
     },
     {
       "date": "2021-07-31",
@@ -972,8 +972,8 @@
       "date": "2021-08-04",
       "locality": "LAKELANDS",
       "dose1": 11,
-      "dose2": 16,
-      "vaccines": 27
+      "dose2": 17,
+      "vaccines": 28
     },
     {
       "date": "2021-08-05",
@@ -1063,15 +1063,22 @@
       "date": "2021-08-17",
       "locality": "LAKELANDS",
       "dose1": 21,
-      "dose2": 14,
-      "vaccines": 35
+      "dose2": 16,
+      "vaccines": 37
     },
     {
       "date": "2021-08-18",
       "locality": "LAKELANDS",
-      "dose1": 28,
+      "dose1": 32,
+      "dose2": 21,
+      "vaccines": 53
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "LAKELANDS",
+      "dose1": 30,
       "dose2": 17,
-      "vaccines": 45
+      "vaccines": 47
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "HIGHGATE",
   "data": [
     {
@@ -1160,16 +1160,23 @@
     {
       "date": "2021-08-17",
       "locality": "HIGHGATE",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 7,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-08-18",
       "locality": "HIGHGATE",
-      "dose1": 13,
-      "dose2": 8,
-      "vaccines": 21
+      "dose1": 16,
+      "dose2": 13,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "HIGHGATE",
+      "dose1": 16,
+      "dose2": 6,
+      "vaccines": 22
     }
   ]
 }

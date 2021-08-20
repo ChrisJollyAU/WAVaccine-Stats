@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "SEPPINGS",
   "data": [
     {
@@ -269,6 +269,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-10",
+      "locality": "SEPPINGS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-11",
       "locality": "SEPPINGS",
       "dose1": 2,
@@ -306,9 +313,9 @@
     {
       "date": "2021-08-18",
       "locality": "SEPPINGS",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     }
   ]
 }

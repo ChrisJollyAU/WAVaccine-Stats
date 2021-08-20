@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "AVELEY",
   "data": [
     {
@@ -1196,22 +1196,29 @@
       "date": "2021-08-16",
       "locality": "AVELEY",
       "dose1": 42,
-      "dose2": 32,
-      "vaccines": 74
+      "dose2": 33,
+      "vaccines": 75
     },
     {
       "date": "2021-08-17",
       "locality": "AVELEY",
-      "dose1": 43,
+      "dose1": 45,
       "dose2": 39,
-      "vaccines": 82
+      "vaccines": 84
     },
     {
       "date": "2021-08-18",
       "locality": "AVELEY",
-      "dose1": 35,
+      "dose1": 38,
+      "dose2": 52,
+      "vaccines": 90
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "AVELEY",
+      "dose1": 31,
       "dose2": 47,
-      "vaccines": 82
+      "vaccines": 78
     }
   ]
 }

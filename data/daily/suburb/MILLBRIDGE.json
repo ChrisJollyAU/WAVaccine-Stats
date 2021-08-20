@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "MILLBRIDGE",
   "data": [
     {
@@ -957,9 +957,16 @@
     {
       "date": "2021-08-18",
       "locality": "MILLBRIDGE",
-      "dose1": 6,
+      "dose1": 8,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "MILLBRIDGE",
+      "dose1": 10,
+      "dose2": 11,
+      "vaccines": 21
     }
   ]
 }

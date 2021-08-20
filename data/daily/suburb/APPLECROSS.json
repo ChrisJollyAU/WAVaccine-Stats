@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "APPLECROSS",
   "data": [
     {
@@ -775,9 +775,9 @@
     {
       "date": "2021-06-13",
       "locality": "APPLECROSS",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 2,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-06-14",
@@ -923,8 +923,8 @@
       "date": "2021-07-04",
       "locality": "APPLECROSS",
       "dose1": 21,
-      "dose2": 17,
-      "vaccines": 38
+      "dose2": 16,
+      "vaccines": 37
     },
     {
       "date": "2021-07-05",
@@ -1237,9 +1237,16 @@
     {
       "date": "2021-08-18",
       "locality": "APPLECROSS",
-      "dose1": 56,
-      "dose2": 34,
-      "vaccines": 90
+      "dose1": 62,
+      "dose2": 37,
+      "vaccines": 99
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "APPLECROSS",
+      "dose1": 38,
+      "dose2": 22,
+      "vaccines": 60
     }
   ]
 }

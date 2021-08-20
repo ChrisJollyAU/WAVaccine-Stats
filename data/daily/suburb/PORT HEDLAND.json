@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "PORT HEDLAND",
   "data": [
     {
@@ -957,9 +957,16 @@
     {
       "date": "2021-08-18",
       "locality": "PORT HEDLAND",
-      "dose1": 10,
-      "dose2": 14,
-      "vaccines": 24
+      "dose1": 17,
+      "dose2": 15,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "PORT HEDLAND",
+      "dose1": 8,
+      "dose2": 15,
+      "vaccines": 23
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "TOM PRICE",
   "data": [
     {
@@ -593,16 +593,23 @@
     {
       "date": "2021-08-17",
       "locality": "TOM PRICE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 7,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-08-18",
       "locality": "TOM PRICE",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 16,
-      "vaccines": 32
+      "vaccines": 33
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "TOM PRICE",
+      "dose1": 27,
+      "dose2": 16,
+      "vaccines": 43
     }
   ]
 }

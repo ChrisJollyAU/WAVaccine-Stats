@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "postcode": "SINGLETON",
   "data": [
     {
@@ -2855,8 +2855,8 @@
       "locality": "SINGLETON",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 9,
+      "vaccines": 13
     },
     {
       "date": "2021-08-18",
@@ -2864,6 +2864,30 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "SINGLETON",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 4,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "SINGLETON",
+      "AgeGroup": "50 to 69",
+      "dose1": 8,
+      "dose2": 9,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "SINGLETON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

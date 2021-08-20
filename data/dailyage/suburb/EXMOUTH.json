@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "postcode": "EXMOUTH",
   "data": [
     {
@@ -1366,17 +1366,17 @@
       "date": "2021-08-17",
       "locality": "EXMOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 4,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-08-18",
       "locality": "EXMOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 45,
+      "dose1": 50,
       "dose2": 32,
-      "vaccines": 77
+      "vaccines": 82
     },
     {
       "date": "2021-08-18",
@@ -1385,6 +1385,30 @@
       "dose1": 34,
       "dose2": 13,
       "vaccines": 47
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "EXMOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "EXMOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 12,
+      "dose2": 25,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "EXMOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 17,
+      "vaccines": 20
     }
   ]
 }

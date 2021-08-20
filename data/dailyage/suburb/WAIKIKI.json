@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "postcode": "WAIKIKI",
   "data": [
     {
@@ -3463,8 +3463,8 @@
       "locality": "WAIKIKI",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 50,
-      "vaccines": 55
+      "dose2": 51,
+      "vaccines": 56
     },
     {
       "date": "2021-08-16",
@@ -3478,9 +3478,9 @@
       "date": "2021-08-17",
       "locality": "WAIKIKI",
       "AgeGroup": "16 to 49",
-      "dose1": 33,
+      "dose1": 37,
       "dose2": 17,
-      "vaccines": 50
+      "vaccines": 54
     },
     {
       "date": "2021-08-17",
@@ -3503,24 +3503,48 @@
       "locality": "WAIKIKI",
       "AgeGroup": "16 to 49",
       "dose1": 37,
-      "dose2": 16,
-      "vaccines": 53
+      "dose2": 17,
+      "vaccines": 54
     },
     {
       "date": "2021-08-18",
       "locality": "WAIKIKI",
       "AgeGroup": "50 to 69",
       "dose1": 26,
-      "dose2": 17,
-      "vaccines": 43
+      "dose2": 20,
+      "vaccines": 46
     },
     {
       "date": "2021-08-18",
       "locality": "WAIKIKI",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 10,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "WAIKIKI",
+      "AgeGroup": "16 to 49",
+      "dose1": 49,
+      "dose2": 16,
+      "vaccines": 65
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "WAIKIKI",
+      "AgeGroup": "50 to 69",
+      "dose1": 23,
+      "dose2": 35,
+      "vaccines": 58
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "WAIKIKI",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 15,
+      "vaccines": 18
     }
   ]
 }

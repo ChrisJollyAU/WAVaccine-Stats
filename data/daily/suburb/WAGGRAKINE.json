@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "WAGGRAKINE",
   "data": [
     {
@@ -922,9 +922,16 @@
     {
       "date": "2021-08-18",
       "locality": "WAGGRAKINE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 9,
-      "vaccines": 14
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "WAGGRAKINE",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

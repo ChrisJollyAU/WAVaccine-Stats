@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "postcode": "ROLEYSTONE",
   "data": [
     {
@@ -3447,8 +3447,8 @@
       "locality": "ROLEYSTONE",
       "AgeGroup": "16 to 49",
       "dose1": 29,
-      "dose2": 9,
-      "vaccines": 38
+      "dose2": 10,
+      "vaccines": 39
     },
     {
       "date": "2021-08-16",
@@ -3471,16 +3471,16 @@
       "locality": "ROLEYSTONE",
       "AgeGroup": "16 to 49",
       "dose1": 25,
-      "dose2": 3,
-      "vaccines": 28
+      "dose2": 4,
+      "vaccines": 29
     },
     {
       "date": "2021-08-17",
       "locality": "ROLEYSTONE",
       "AgeGroup": "50 to 69",
       "dose1": 11,
-      "dose2": 19,
-      "vaccines": 30
+      "dose2": 20,
+      "vaccines": 31
     },
     {
       "date": "2021-08-17",
@@ -3494,25 +3494,49 @@
       "date": "2021-08-18",
       "locality": "ROLEYSTONE",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 17,
       "dose2": 9,
-      "vaccines": 23
-    },
-    {
-      "date": "2021-08-18",
-      "locality": "ROLEYSTONE",
-      "AgeGroup": "50 to 69",
-      "dose1": 7,
-      "dose2": 19,
       "vaccines": 26
     },
     {
       "date": "2021-08-18",
       "locality": "ROLEYSTONE",
+      "AgeGroup": "50 to 69",
+      "dose1": 10,
+      "dose2": 19,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "ROLEYSTONE",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "ROLEYSTONE",
+      "AgeGroup": "16 to 49",
+      "dose1": 22,
+      "dose2": 9,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "ROLEYSTONE",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 14,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "ROLEYSTONE",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 8,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

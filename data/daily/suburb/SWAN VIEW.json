@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "locality": "SWAN VIEW",
   "data": [
     {
@@ -1146,16 +1146,23 @@
     {
       "date": "2021-08-17",
       "locality": "SWAN VIEW",
-      "dose1": 6,
-      "dose2": 31,
-      "vaccines": 37
+      "dose1": 10,
+      "dose2": 32,
+      "vaccines": 42
     },
     {
       "date": "2021-08-18",
       "locality": "SWAN VIEW",
-      "dose1": 28,
-      "dose2": 24,
-      "vaccines": 52
+      "dose1": 32,
+      "dose2": 34,
+      "vaccines": 66
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "SWAN VIEW",
+      "dose1": 21,
+      "dose2": 38,
+      "vaccines": 59
     }
   ]
 }

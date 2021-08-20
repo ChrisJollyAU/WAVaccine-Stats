@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-18T00:00:00",
+  "date_updated": "2021-08-19T00:00:00",
   "postcode": "STONEVILLE",
   "data": [
     {
@@ -2871,8 +2871,32 @@
       "locality": "STONEVILLE",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "STONEVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "STONEVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 13,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "STONEVILLE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

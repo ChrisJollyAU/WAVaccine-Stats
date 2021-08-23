@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "MINGENEW",
   "data": [
     {
@@ -465,6 +465,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-26",
+      "locality": "MINGENEW",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-28",
       "locality": "MINGENEW",
       "dose1": 0,
@@ -594,8 +601,8 @@
       "date": "2021-08-16",
       "locality": "MINGENEW",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-08-17",
@@ -614,9 +621,16 @@
     {
       "date": "2021-08-19",
       "locality": "MINGENEW",
-      "dose1": 4,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "MINGENEW",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

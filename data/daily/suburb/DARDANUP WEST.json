@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "DARDANUP WEST",
   "data": [
     {
@@ -699,8 +699,22 @@
       "date": "2021-08-19",
       "locality": "DARDANUP WEST",
       "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "DARDANUP WEST",
+      "dose1": 1,
       "dose2": 6,
       "vaccines": 7
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "DARDANUP WEST",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

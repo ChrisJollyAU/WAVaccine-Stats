@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "CASTLETOWN",
   "data": [
     {
@@ -880,9 +880,30 @@
     {
       "date": "2021-08-19",
       "locality": "CASTLETOWN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 12,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "CASTLETOWN",
+      "dose1": 8,
+      "dose2": 24,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "CASTLETOWN",
+      "dose1": 3,
+      "dose2": 10,
       "vaccines": 13
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "CASTLETOWN",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

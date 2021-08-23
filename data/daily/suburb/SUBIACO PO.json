@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "SUBIACO PO",
   "data": [
     {
@@ -1167,9 +1167,30 @@
     {
       "date": "2021-08-19",
       "locality": "SUBIACO PO",
-      "dose1": 6,
-      "dose2": 10,
-      "vaccines": 16
+      "dose1": 8,
+      "dose2": 12,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "SUBIACO PO",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "SUBIACO PO",
+      "dose1": 11,
+      "dose2": 21,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "SUBIACO PO",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
     }
   ]
 }

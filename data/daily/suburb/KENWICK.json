@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "KENWICK",
   "data": [
     {
@@ -1056,8 +1056,8 @@
       "date": "2021-08-10",
       "locality": "KENWICK",
       "dose1": 12,
-      "dose2": 12,
-      "vaccines": 24
+      "dose2": 13,
+      "vaccines": 25
     },
     {
       "date": "2021-08-11",
@@ -1112,14 +1112,35 @@
       "date": "2021-08-18",
       "locality": "KENWICK",
       "dose1": 29,
-      "dose2": 29,
-      "vaccines": 58
+      "dose2": 30,
+      "vaccines": 59
     },
     {
       "date": "2021-08-19",
       "locality": "KENWICK",
-      "dose1": 20,
-      "dose2": 11,
+      "dose1": 23,
+      "dose2": 15,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "KENWICK",
+      "dose1": 22,
+      "dose2": 13,
+      "vaccines": 35
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "KENWICK",
+      "dose1": 24,
+      "dose2": 28,
+      "vaccines": 52
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "KENWICK",
+      "dose1": 18,
+      "dose2": 13,
       "vaccines": 31
     }
   ]

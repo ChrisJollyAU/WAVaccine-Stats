@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "WEST SWAN",
   "data": [
     {
@@ -734,8 +734,8 @@
       "date": "2021-08-10",
       "locality": "WEST SWAN",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-08-11",
@@ -796,9 +796,30 @@
     {
       "date": "2021-08-19",
       "locality": "WEST SWAN",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "WEST SWAN",
       "dose1": 2,
-      "dose2": 8,
-      "vaccines": 10
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "WEST SWAN",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "WEST SWAN",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

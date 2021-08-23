@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "WILLYUNG",
   "data": [
     {
@@ -320,9 +320,9 @@
     {
       "date": "2021-06-06",
       "locality": "WILLYUNG",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 2
     },
     {
       "date": "2021-06-07",
@@ -735,6 +735,27 @@
       "locality": "WILLYUNG",
       "dose1": 3,
       "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "WILLYUNG",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "WILLYUNG",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "WILLYUNG",
+      "dose1": 0,
+      "dose2": 5,
       "vaccines": 5
     }
   ]

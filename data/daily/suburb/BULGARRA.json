@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "BULGARRA",
   "data": [
     {
@@ -213,13 +213,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-05-08",
-      "locality": "BULGARRA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-05-10",
       "locality": "BULGARRA",
       "dose1": 1,
@@ -411,9 +404,9 @@
     {
       "date": "2021-06-16",
       "locality": "BULGARRA",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-06-17",
@@ -538,8 +531,8 @@
       "date": "2021-07-08",
       "locality": "BULGARRA",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2021-07-12",
@@ -551,9 +544,9 @@
     {
       "date": "2021-07-13",
       "locality": "BULGARRA",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 4,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-07-14",
@@ -654,13 +647,6 @@
       "vaccines": 13
     },
     {
-      "date": "2021-07-31",
-      "locality": "BULGARRA",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-02",
       "locality": "BULGARRA",
       "dose1": 2,
@@ -671,8 +657,8 @@
       "date": "2021-08-03",
       "locality": "BULGARRA",
       "dose1": 5,
-      "dose2": 16,
-      "vaccines": 21
+      "dose2": 15,
+      "vaccines": 20
     },
     {
       "date": "2021-08-04",
@@ -761,9 +747,23 @@
     {
       "date": "2021-08-19",
       "locality": "BULGARRA",
-      "dose1": 5,
+      "dose1": 7,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "BULGARRA",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "BULGARRA",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

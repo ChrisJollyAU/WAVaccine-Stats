@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "postcode": "QUINDALUP",
   "data": [
     {
@@ -155,6 +155,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-10",
+      "locality": "QUINDALUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-12",
       "locality": "QUINDALUP",
       "AgeGroup": "50 to 69",
@@ -182,9 +190,9 @@
       "date": "2021-04-13",
       "locality": "QUINDALUP",
       "AgeGroup": "70 and over",
-      "dose1": 9,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 7
     },
     {
       "date": "2021-04-14",
@@ -502,9 +510,9 @@
       "date": "2021-05-25",
       "locality": "QUINDALUP",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-05-26",
@@ -1031,8 +1039,8 @@
       "locality": "QUINDALUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-07-09",
@@ -1105,14 +1113,6 @@
       "dose1": 4,
       "dose2": 3,
       "vaccines": 7
-    },
-    {
-      "date": "2021-07-13",
-      "locality": "QUINDALUP",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
     },
     {
       "date": "2021-07-14",
@@ -1587,6 +1587,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-11",
+      "locality": "QUINDALUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-12",
       "locality": "QUINDALUP",
       "AgeGroup": "16 to 49",
@@ -1693,6 +1701,14 @@
     {
       "date": "2021-08-19",
       "locality": "QUINDALUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "QUINDALUP",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 4,
@@ -1704,6 +1720,38 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "QUINDALUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "QUINDALUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "QUINDALUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "QUINDALUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

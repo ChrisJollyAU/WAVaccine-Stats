@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "locality": "COCKBURN CENTRAL",
   "data": [
     {
@@ -726,16 +726,16 @@
     {
       "date": "2021-07-13",
       "locality": "COCKBURN CENTRAL",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-07-14",
       "locality": "COCKBURN CENTRAL",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-07-15",
@@ -895,8 +895,8 @@
       "date": "2021-08-06",
       "locality": "COCKBURN CENTRAL",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-08-07",
@@ -909,8 +909,8 @@
       "date": "2021-08-08",
       "locality": "COCKBURN CENTRAL",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-08-09",
@@ -972,22 +972,43 @@
       "date": "2021-08-17",
       "locality": "COCKBURN CENTRAL",
       "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose2": 5,
+      "vaccines": 12
     },
     {
       "date": "2021-08-18",
       "locality": "COCKBURN CENTRAL",
       "dose1": 4,
-      "dose2": 8,
-      "vaccines": 12
+      "dose2": 9,
+      "vaccines": 13
     },
     {
       "date": "2021-08-19",
       "locality": "COCKBURN CENTRAL",
-      "dose1": 16,
+      "dose1": 19,
       "dose2": 1,
-      "vaccines": 17
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "COCKBURN CENTRAL",
+      "dose1": 7,
+      "dose2": 4,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "COCKBURN CENTRAL",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "COCKBURN CENTRAL",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-19T00:00:00",
+  "date_updated": "2021-08-22T00:00:00",
   "postcode": "SWANBOURNE",
   "data": [
     {
@@ -950,9 +950,9 @@
       "date": "2021-04-19",
       "locality": "SWANBOURNE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 12,
       "dose2": 4,
-      "vaccines": 14
+      "vaccines": 16
     },
     {
       "date": "2021-04-19",
@@ -1214,9 +1214,9 @@
       "date": "2021-04-30",
       "locality": "SWANBOURNE",
       "AgeGroup": "70 and over",
-      "dose1": 13,
+      "dose1": 15,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 15
     },
     {
       "date": "2021-05-01",
@@ -1590,9 +1590,9 @@
       "date": "2021-05-19",
       "locality": "SWANBOURNE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-05-19",
@@ -1919,8 +1919,8 @@
       "locality": "SWANBOURNE",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 8,
-      "vaccines": 11
+      "dose2": 9,
+      "vaccines": 12
     },
     {
       "date": "2021-06-02",
@@ -2127,8 +2127,8 @@
       "locality": "SWANBOURNE",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 2,
-      "vaccines": 13
+      "dose2": 3,
+      "vaccines": 14
     },
     {
       "date": "2021-06-11",
@@ -2710,9 +2710,9 @@
       "date": "2021-07-06",
       "locality": "SWANBOURNE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 4,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-07-06",
@@ -3231,8 +3231,8 @@
       "locality": "SWANBOURNE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-07-29",
@@ -3263,8 +3263,8 @@
       "locality": "SWANBOURNE",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-07-30",
@@ -3590,9 +3590,9 @@
       "date": "2021-08-13",
       "locality": "SWANBOURNE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 13,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-08-13",
@@ -3726,25 +3726,97 @@
       "date": "2021-08-19",
       "locality": "SWANBOURNE",
       "AgeGroup": "16 to 49",
-      "dose1": 29,
-      "dose2": 11,
-      "vaccines": 40
+      "dose1": 31,
+      "dose2": 12,
+      "vaccines": 43
     },
     {
       "date": "2021-08-19",
       "locality": "SWANBOURNE",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
     },
     {
       "date": "2021-08-19",
       "locality": "SWANBOURNE",
       "AgeGroup": "70 and over",
       "dose1": 0,
+      "dose2": 7,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 12,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 9,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 10,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "16 to 49",
+      "dose1": 17,
+      "dose2": 14,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "SWANBOURNE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

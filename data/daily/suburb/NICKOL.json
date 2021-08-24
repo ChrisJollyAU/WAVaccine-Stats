@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "locality": "NICKOL",
   "data": [
     {
@@ -733,9 +733,9 @@
     {
       "date": "2021-07-31",
       "locality": "NICKOL",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-08-01",
@@ -860,8 +860,8 @@
       "date": "2021-08-18",
       "locality": "NICKOL",
       "dose1": 12,
-      "dose2": 21,
-      "vaccines": 33
+      "dose2": 22,
+      "vaccines": 34
     },
     {
       "date": "2021-08-19",
@@ -887,9 +887,16 @@
     {
       "date": "2021-08-22",
       "locality": "NICKOL",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "NICKOL",
+      "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
     }
   ]
 }

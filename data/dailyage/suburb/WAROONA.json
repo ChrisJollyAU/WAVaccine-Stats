@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "WAROONA",
   "data": [
     {
@@ -1933,6 +1933,14 @@
     {
       "date": "2021-08-02",
       "locality": "WAROONA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "WAROONA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 6,
@@ -2287,37 +2295,37 @@
       "locality": "WAROONA",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose2": 15,
+      "vaccines": 23
     },
     {
       "date": "2021-08-19",
       "locality": "WAROONA",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-08-20",
       "locality": "WAROONA",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 14,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 19
     },
     {
       "date": "2021-08-20",
       "locality": "WAROONA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 7,
-      "vaccines": 8
+      "dose1": 9,
+      "dose2": 16,
+      "vaccines": 25
     },
     {
-      "date": "2021-08-21",
+      "date": "2021-08-20",
       "locality": "WAROONA",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
@@ -2325,10 +2333,18 @@
     {
       "date": "2021-08-21",
       "locality": "WAROONA",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 3,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "WAROONA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-08-22",
@@ -2337,6 +2353,30 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "WAROONA",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 2,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "WAROONA",
+      "AgeGroup": "50 to 69",
+      "dose1": 9,
+      "dose2": 7,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "WAROONA",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "locality": "GOSNELLS",
   "data": [
     {
@@ -68,9 +68,9 @@
     {
       "date": "2021-03-04",
       "locality": "GOSNELLS",
-      "dose1": 51,
+      "dose1": 50,
       "dose2": 0,
-      "vaccines": 51
+      "vaccines": 50
     },
     {
       "date": "2021-03-05",
@@ -202,8 +202,8 @@
       "date": "2021-03-25",
       "locality": "GOSNELLS",
       "dose1": 34,
-      "dose2": 48,
-      "vaccines": 82
+      "dose2": 47,
+      "vaccines": 81
     },
     {
       "date": "2021-03-26",
@@ -278,9 +278,9 @@
     {
       "date": "2021-04-06",
       "locality": "GOSNELLS",
-      "dose1": 72,
+      "dose1": 73,
       "dose2": 7,
-      "vaccines": 79
+      "vaccines": 80
     },
     {
       "date": "2021-04-07",
@@ -958,8 +958,8 @@
       "date": "2021-07-13",
       "locality": "GOSNELLS",
       "dose1": 40,
-      "dose2": 46,
-      "vaccines": 86
+      "dose2": 47,
+      "vaccines": 87
     },
     {
       "date": "2021-07-14",
@@ -1217,29 +1217,36 @@
       "date": "2021-08-19",
       "locality": "GOSNELLS",
       "dose1": 77,
-      "dose2": 86,
-      "vaccines": 163
+      "dose2": 87,
+      "vaccines": 164
     },
     {
       "date": "2021-08-20",
       "locality": "GOSNELLS",
-      "dose1": 95,
-      "dose2": 86,
-      "vaccines": 181
+      "dose1": 106,
+      "dose2": 87,
+      "vaccines": 193
     },
     {
       "date": "2021-08-21",
       "locality": "GOSNELLS",
-      "dose1": 93,
+      "dose1": 95,
       "dose2": 48,
-      "vaccines": 141
+      "vaccines": 143
     },
     {
       "date": "2021-08-22",
       "locality": "GOSNELLS",
       "dose1": 53,
-      "dose2": 24,
-      "vaccines": 77
+      "dose2": 29,
+      "vaccines": 82
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "GOSNELLS",
+      "dose1": 66,
+      "dose2": 59,
+      "vaccines": 125
     }
   ]
 }

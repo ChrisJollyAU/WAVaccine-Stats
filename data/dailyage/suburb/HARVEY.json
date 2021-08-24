@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "HARVEY",
   "data": [
     {
@@ -574,9 +574,17 @@
       "date": "2021-04-23",
       "locality": "HARVEY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-23",
+      "locality": "HARVEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-23",
@@ -1023,16 +1031,16 @@
       "locality": "HARVEY",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 3,
-      "vaccines": 12
+      "dose2": 2,
+      "vaccines": 11
     },
     {
       "date": "2021-05-25",
       "locality": "HARVEY",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose2": 4,
+      "vaccines": 12
     },
     {
       "date": "2021-05-25",
@@ -2702,33 +2710,49 @@
       "date": "2021-08-20",
       "locality": "HARVEY",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 9,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 11
     },
     {
       "date": "2021-08-20",
       "locality": "HARVEY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose1": 11,
+      "dose2": 8,
+      "vaccines": 19
     },
     {
       "date": "2021-08-20",
       "locality": "HARVEY",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-08-21",
       "locality": "HARVEY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 15,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "HARVEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "HARVEY",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-22",
@@ -2737,6 +2761,30 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "HARVEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 2,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "HARVEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 10,
+      "dose2": 19,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "HARVEY",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     }
   ]
 }

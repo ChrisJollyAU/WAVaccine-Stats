@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "locality": "GLEN IRIS",
   "data": [
     {
@@ -1007,15 +1007,15 @@
       "date": "2021-08-20",
       "locality": "GLEN IRIS",
       "dose1": 11,
-      "dose2": 12,
-      "vaccines": 23
+      "dose2": 13,
+      "vaccines": 24
     },
     {
       "date": "2021-08-21",
       "locality": "GLEN IRIS",
-      "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
     },
     {
       "date": "2021-08-22",
@@ -1023,6 +1023,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "GLEN IRIS",
+      "dose1": 12,
+      "dose2": 8,
+      "vaccines": 20
     }
   ]
 }

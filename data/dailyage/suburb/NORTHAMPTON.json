@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "NORTHAMPTON",
   "data": [
     {
@@ -1977,6 +1977,38 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 19,
+      "dose2": 1,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 6,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "KALAMUNDA",
   "data": [
     {
@@ -30,9 +30,9 @@
       "date": "2021-02-24",
       "locality": "KALAMUNDA",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-02-25",
@@ -270,17 +270,17 @@
       "date": "2021-03-15",
       "locality": "KALAMUNDA",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-03-15",
       "locality": "KALAMUNDA",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-15",
@@ -614,9 +614,9 @@
       "date": "2021-03-31",
       "locality": "KALAMUNDA",
       "AgeGroup": "70 and over",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 2,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-04-01",
@@ -1647,8 +1647,8 @@
       "locality": "KALAMUNDA",
       "AgeGroup": "70 and over",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-05-21",
@@ -1823,16 +1823,16 @@
       "locality": "KALAMUNDA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-05-28",
       "locality": "KALAMUNDA",
       "AgeGroup": "50 to 69",
       "dose1": 19,
-      "dose2": 2,
-      "vaccines": 21
+      "dose2": 3,
+      "vaccines": 22
     },
     {
       "date": "2021-05-28",
@@ -2014,9 +2014,9 @@
       "date": "2021-06-05",
       "locality": "KALAMUNDA",
       "AgeGroup": "50 to 69",
-      "dose1": 18,
+      "dose1": 17,
       "dose2": 1,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-06-05",
@@ -3671,8 +3671,8 @@
       "locality": "KALAMUNDA",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 21,
-      "vaccines": 27
+      "dose2": 20,
+      "vaccines": 26
     },
     {
       "date": "2021-08-14",
@@ -3783,8 +3783,8 @@
       "locality": "KALAMUNDA",
       "AgeGroup": "16 to 49",
       "dose1": 18,
-      "dose2": 28,
-      "vaccines": 46
+      "dose2": 29,
+      "vaccines": 47
     },
     {
       "date": "2021-08-19",
@@ -3806,9 +3806,9 @@
       "date": "2021-08-20",
       "locality": "KALAMUNDA",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 13,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-08-20",
@@ -3839,16 +3839,16 @@
       "locality": "KALAMUNDA",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 13,
-      "vaccines": 16
+      "dose2": 19,
+      "vaccines": 22
     },
     {
       "date": "2021-08-21",
       "locality": "KALAMUNDA",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 24,
-      "vaccines": 24
+      "dose2": 28,
+      "vaccines": 28
     },
     {
       "date": "2021-08-22",
@@ -3862,9 +3862,33 @@
       "date": "2021-08-22",
       "locality": "KALAMUNDA",
       "AgeGroup": "50 to 69",
+      "dose1": 8,
+      "dose2": 20,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "KALAMUNDA",
+      "AgeGroup": "16 to 49",
+      "dose1": 21,
+      "dose2": 5,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "KALAMUNDA",
+      "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 18,
-      "vaccines": 25
+      "dose2": 31,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "KALAMUNDA",
+      "AgeGroup": "70 and over",
+      "dose1": 4,
+      "dose2": 14,
+      "vaccines": 18
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "ILUKA",
   "data": [
     {
@@ -94,14 +94,6 @@
       "date": "2021-03-03",
       "locality": "ILUKA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-03",
-      "locality": "ILUKA",
-      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -254,9 +246,9 @@
       "date": "2021-03-13",
       "locality": "ILUKA",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-03-14",
@@ -599,8 +591,8 @@
       "locality": "ILUKA",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-04-04",
@@ -791,8 +783,8 @@
       "locality": "ILUKA",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-04-14",
@@ -3062,9 +3054,9 @@
       "date": "2021-07-29",
       "locality": "ILUKA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-07-29",
@@ -3542,8 +3534,8 @@
       "date": "2021-08-19",
       "locality": "ILUKA",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
-      "dose2": 5,
+      "dose1": 22,
+      "dose2": 6,
       "vaccines": 28
     },
     {
@@ -3567,16 +3559,16 @@
       "locality": "ILUKA",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 14,
-      "vaccines": 21
+      "dose2": 15,
+      "vaccines": 22
     },
     {
       "date": "2021-08-20",
       "locality": "ILUKA",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 11,
       "dose2": 38,
-      "vaccines": 46
+      "vaccines": 49
     },
     {
       "date": "2021-08-20",
@@ -3590,9 +3582,9 @@
       "date": "2021-08-21",
       "locality": "ILUKA",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 20,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-08-21",
@@ -3625,6 +3617,30 @@
       "dose1": 1,
       "dose2": 15,
       "vaccines": 16
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "ILUKA",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 8,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "ILUKA",
+      "AgeGroup": "50 to 69",
+      "dose1": 9,
+      "dose2": 21,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "ILUKA",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

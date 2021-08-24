@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "locality": "FALCON",
   "data": [
     {
@@ -537,9 +537,9 @@
     {
       "date": "2021-06-04",
       "locality": "FALCON",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 2,
-      "vaccines": 32
+      "vaccines": 31
     },
     {
       "date": "2021-06-05",
@@ -1049,8 +1049,8 @@
       "date": "2021-08-17",
       "locality": "FALCON",
       "dose1": 23,
-      "dose2": 51,
-      "vaccines": 74
+      "dose2": 52,
+      "vaccines": 75
     },
     {
       "date": "2021-08-18",
@@ -1069,23 +1069,30 @@
     {
       "date": "2021-08-20",
       "locality": "FALCON",
-      "dose1": 16,
-      "dose2": 39,
-      "vaccines": 55
+      "dose1": 20,
+      "dose2": 44,
+      "vaccines": 64
     },
     {
       "date": "2021-08-21",
       "locality": "FALCON",
-      "dose1": 9,
-      "dose2": 4,
-      "vaccines": 13
+      "dose1": 24,
+      "dose2": 10,
+      "vaccines": 34
     },
     {
       "date": "2021-08-22",
       "locality": "FALCON",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 1,
-      "vaccines": 10
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "FALCON",
+      "dose1": 20,
+      "dose2": 33,
+      "vaccines": 53
     }
   ]
 }

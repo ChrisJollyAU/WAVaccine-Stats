@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "BEVERLEY",
   "data": [
     {
@@ -2047,8 +2047,8 @@
       "locality": "BEVERLEY",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-08-19",
@@ -2097,6 +2097,30 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "BEVERLEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 0,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "BEVERLEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 10,
+      "dose2": 1,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "BEVERLEY",
+      "AgeGroup": "70 and over",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

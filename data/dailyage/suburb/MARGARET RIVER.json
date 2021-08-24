@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "MARGARET RIVER",
   "data": [
     {
@@ -12,14 +12,6 @@
     },
     {
       "date": "2021-03-02",
-      "locality": "MARGARET RIVER",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-03",
       "locality": "MARGARET RIVER",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -232,14 +224,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-24",
-      "locality": "MARGARET RIVER",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1678,17 +1662,17 @@
       "date": "2021-06-14",
       "locality": "MARGARET RIVER",
       "AgeGroup": "50 to 69",
-      "dose1": 40,
+      "dose1": 42,
       "dose2": 2,
-      "vaccines": 42
+      "vaccines": 44
     },
     {
       "date": "2021-06-14",
       "locality": "MARGARET RIVER",
       "AgeGroup": "70 and over",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-06-15",
@@ -2534,8 +2518,8 @@
       "date": "2021-07-22",
       "locality": "MARGARET RIVER",
       "AgeGroup": "50 to 69",
-      "dose1": 19,
-      "dose2": 17,
+      "dose1": 18,
+      "dose2": 18,
       "vaccines": 36
     },
     {
@@ -3175,8 +3159,8 @@
       "locality": "MARGARET RIVER",
       "AgeGroup": "50 to 69",
       "dose1": 17,
-      "dose2": 11,
-      "vaccines": 28
+      "dose2": 12,
+      "vaccines": 29
     },
     {
       "date": "2021-08-19",
@@ -3190,17 +3174,17 @@
       "date": "2021-08-20",
       "locality": "MARGARET RIVER",
       "AgeGroup": "16 to 49",
-      "dose1": 44,
+      "dose1": 47,
       "dose2": 17,
-      "vaccines": 61
+      "vaccines": 64
     },
     {
       "date": "2021-08-20",
       "locality": "MARGARET RIVER",
       "AgeGroup": "50 to 69",
       "dose1": 32,
-      "dose2": 21,
-      "vaccines": 53
+      "dose2": 22,
+      "vaccines": 54
     },
     {
       "date": "2021-08-20",
@@ -3223,16 +3207,16 @@
       "locality": "MARGARET RIVER",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-08-21",
       "locality": "MARGARET RIVER",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-22",
@@ -3241,6 +3225,30 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "MARGARET RIVER",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 4,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "MARGARET RIVER",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "MARGARET RIVER",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
     }
   ]
 }

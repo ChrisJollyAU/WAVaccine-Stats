@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "locality": "BECKENHAM",
   "data": [
     {
@@ -1216,23 +1216,30 @@
     {
       "date": "2021-08-20",
       "locality": "BECKENHAM",
-      "dose1": 50,
-      "dose2": 26,
-      "vaccines": 76
+      "dose1": 54,
+      "dose2": 28,
+      "vaccines": 82
     },
     {
       "date": "2021-08-21",
       "locality": "BECKENHAM",
-      "dose1": 50,
+      "dose1": 51,
       "dose2": 30,
-      "vaccines": 80
+      "vaccines": 81
     },
     {
       "date": "2021-08-22",
       "locality": "BECKENHAM",
-      "dose1": 47,
-      "dose2": 20,
-      "vaccines": 67
+      "dose1": 48,
+      "dose2": 23,
+      "vaccines": 71
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "BECKENHAM",
+      "dose1": 39,
+      "dose2": 18,
+      "vaccines": 57
     }
   ]
 }

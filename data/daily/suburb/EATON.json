@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "locality": "EATON",
   "data": [
     {
@@ -1062,16 +1062,16 @@
     {
       "date": "2021-08-20",
       "locality": "EATON",
-      "dose1": 20,
-      "dose2": 48,
-      "vaccines": 68
+      "dose1": 26,
+      "dose2": 54,
+      "vaccines": 80
     },
     {
       "date": "2021-08-21",
       "locality": "EATON",
-      "dose1": 20,
-      "dose2": 30,
-      "vaccines": 50
+      "dose1": 23,
+      "dose2": 32,
+      "vaccines": 55
     },
     {
       "date": "2021-08-22",
@@ -1079,6 +1079,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "EATON",
+      "dose1": 47,
+      "dose2": 30,
+      "vaccines": 77
     }
   ]
 }

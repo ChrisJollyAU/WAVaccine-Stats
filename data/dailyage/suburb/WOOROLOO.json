@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "WOOROLOO",
   "data": [
     {
@@ -998,9 +998,9 @@
       "date": "2021-07-07",
       "locality": "WOOROLOO",
       "AgeGroup": "16 to 49",
-      "dose1": 90,
+      "dose1": 91,
       "dose2": 0,
-      "vaccines": 90
+      "vaccines": 91
     },
     {
       "date": "2021-07-07",
@@ -1054,6 +1054,14 @@
       "date": "2021-07-09",
       "locality": "WOOROLOO",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-09",
+      "locality": "WOOROLOO",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1582,9 +1590,9 @@
       "date": "2021-08-12",
       "locality": "WOOROLOO",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
-      "dose2": 23,
-      "vaccines": 35
+      "dose1": 13,
+      "dose2": 24,
+      "vaccines": 37
     },
     {
       "date": "2021-08-12",
@@ -1663,8 +1671,8 @@
       "locality": "WOOROLOO",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-08-17",
@@ -1694,17 +1702,17 @@
       "date": "2021-08-18",
       "locality": "WOOROLOO",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose1": 5,
+      "dose2": 14,
+      "vaccines": 19
     },
     {
       "date": "2021-08-18",
       "locality": "WOOROLOO",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-08-18",
@@ -1772,6 +1780,14 @@
     },
     {
       "date": "2021-08-22",
+      "locality": "WOOROLOO",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-23",
       "locality": "WOOROLOO",
       "AgeGroup": "50 to 69",
       "dose1": 0,

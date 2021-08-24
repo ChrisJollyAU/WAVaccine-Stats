@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "postcode": "O'CONNOR",
   "data": [
     {
@@ -1045,14 +1045,6 @@
     {
       "date": "2021-07-22",
       "locality": "O'CONNOR",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-22",
-      "locality": "O'CONNOR",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -1447,8 +1439,8 @@
       "locality": "O'CONNOR",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-20",
@@ -1488,6 +1480,22 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "O'CONNOR",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "O'CONNOR",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

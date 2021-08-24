@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "locality": "FOREST GROVE",
   "data": [
     {
@@ -343,6 +343,13 @@
       "locality": "FOREST GROVE",
       "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "FOREST GROVE",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

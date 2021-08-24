@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-22T00:00:00",
+  "date_updated": "2021-08-23T00:00:00",
   "locality": "WELLSTEAD",
   "data": [
     {
@@ -25,6 +25,13 @@
     },
     {
       "date": "2021-04-17",
+      "locality": "WELLSTEAD",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-09",
       "locality": "WELLSTEAD",
       "dose1": 1,
       "dose2": 0,
@@ -152,8 +159,8 @@
     {
       "date": "2021-08-01",
       "locality": "WELLSTEAD",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -196,6 +203,13 @@
       "locality": "WELLSTEAD",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "WELLSTEAD",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {

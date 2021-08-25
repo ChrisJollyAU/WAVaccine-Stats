@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "locality": "HALLS CREEK",
   "data": [
     {
@@ -684,9 +684,16 @@
     {
       "date": "2021-08-23",
       "locality": "HALLS CREEK",
-      "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose1": 10,
+      "dose2": 10,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "HALLS CREEK",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "locality": "KATANNING",
   "data": [
     {
@@ -894,16 +894,16 @@
     {
       "date": "2021-08-19",
       "locality": "KATANNING",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 17,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-08-20",
       "locality": "KATANNING",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 10,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-08-21",
@@ -925,6 +925,13 @@
       "dose1": 6,
       "dose2": 0,
       "vaccines": 6
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "KATANNING",
+      "dose1": 15,
+      "dose2": 16,
+      "vaccines": 31
     }
   ]
 }

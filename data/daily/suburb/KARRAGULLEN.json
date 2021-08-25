@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "locality": "KARRAGULLEN",
   "data": [
     {
@@ -180,9 +180,9 @@
     {
       "date": "2021-05-20",
       "locality": "KARRAGULLEN",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-05-21",
@@ -636,8 +636,8 @@
       "date": "2021-08-12",
       "locality": "KARRAGULLEN",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-13",
@@ -712,9 +712,16 @@
     {
       "date": "2021-08-23",
       "locality": "KARRAGULLEN",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "KARRAGULLEN",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "locality": "COOLUP",
   "data": [
     {
@@ -234,6 +234,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-09",
+      "locality": "COOLUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-10",
       "locality": "COOLUP",
       "dose1": 1,
@@ -356,8 +363,8 @@
       "date": "2021-08-05",
       "locality": "COOLUP",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-06",
@@ -456,6 +463,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "COOLUP",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "postcode": "BROADWATER",
   "data": [
     {
@@ -1533,18 +1533,10 @@
     {
       "date": "2021-06-22",
       "locality": "BROADWATER",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-22",
-      "locality": "BROADWATER",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-06-22",
@@ -2301,14 +2293,6 @@
     {
       "date": "2021-07-28",
       "locality": "BROADWATER",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-28",
-      "locality": "BROADWATER",
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 1,
@@ -2767,8 +2751,8 @@
       "locality": "BROADWATER",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 12,
-      "vaccines": 19
+      "dose2": 13,
+      "vaccines": 20
     },
     {
       "date": "2021-08-19",
@@ -2849,6 +2833,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "BROADWATER",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 3,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "BROADWATER",
+      "AgeGroup": "50 to 69",
+      "dose1": 8,
+      "dose2": 23,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "BROADWATER",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 9,
+      "vaccines": 9
     }
   ]
 }

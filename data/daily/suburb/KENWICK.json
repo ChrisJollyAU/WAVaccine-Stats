@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "locality": "KENWICK",
   "data": [
     {
@@ -1146,9 +1146,16 @@
     {
       "date": "2021-08-23",
       "locality": "KENWICK",
-      "dose1": 18,
-      "dose2": 11,
-      "vaccines": 29
+      "dose1": 20,
+      "dose2": 13,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "KENWICK",
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
     }
   ]
 }

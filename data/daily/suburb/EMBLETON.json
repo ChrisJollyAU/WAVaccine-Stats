@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "locality": "EMBLETON",
   "data": [
     {
@@ -1209,16 +1209,16 @@
     {
       "date": "2021-08-20",
       "locality": "EMBLETON",
-      "dose1": 16,
+      "dose1": 18,
       "dose2": 7,
-      "vaccines": 23
+      "vaccines": 25
     },
     {
       "date": "2021-08-21",
       "locality": "EMBLETON",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 11,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-08-22",
@@ -1231,8 +1231,15 @@
       "date": "2021-08-23",
       "locality": "EMBLETON",
       "dose1": 12,
-      "dose2": 11,
-      "vaccines": 23
+      "dose2": 13,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "EMBLETON",
+      "dose1": 11,
+      "dose2": 15,
+      "vaccines": 26
     }
   ]
 }

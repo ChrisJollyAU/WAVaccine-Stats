@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "postcode": "COCKBURN CENTRAL",
   "data": [
     {
@@ -2145,6 +2145,22 @@
       "dose1": 8,
       "dose2": 2,
       "vaccines": 10
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

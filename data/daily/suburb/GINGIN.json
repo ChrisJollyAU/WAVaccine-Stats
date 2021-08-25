@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "locality": "GINGIN",
   "data": [
     {
@@ -943,9 +943,16 @@
     {
       "date": "2021-08-23",
       "locality": "GINGIN",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 13,
-      "vaccines": 24
+      "vaccines": 25
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "GINGIN",
+      "dose1": 14,
+      "dose2": 7,
+      "vaccines": 21
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-23T00:00:00",
+  "date_updated": "2021-08-24T00:00:00",
   "locality": "SOUTH FREMANTLE",
   "data": [
     {
@@ -649,9 +649,9 @@
     {
       "date": "2021-06-02",
       "locality": "SOUTH FREMANTLE",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 7,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-06-03",
@@ -1223,9 +1223,16 @@
     {
       "date": "2021-08-23",
       "locality": "SOUTH FREMANTLE",
-      "dose1": 13,
-      "dose2": 20,
-      "vaccines": 33
+      "dose1": 14,
+      "dose2": 21,
+      "vaccines": 35
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "SOUTH FREMANTLE",
+      "dose1": 29,
+      "dose2": 41,
+      "vaccines": 70
     }
   ]
 }

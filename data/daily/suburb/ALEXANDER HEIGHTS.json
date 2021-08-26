@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "ALEXANDER HEIGHTS",
   "data": [
     {
@@ -1216,16 +1216,23 @@
     {
       "date": "2021-08-23",
       "locality": "ALEXANDER HEIGHTS",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 41,
-      "vaccines": 81
+      "vaccines": 82
     },
     {
       "date": "2021-08-24",
       "locality": "ALEXANDER HEIGHTS",
-      "dose1": 16,
-      "dose2": 29,
-      "vaccines": 45
+      "dose1": 17,
+      "dose2": 30,
+      "vaccines": 47
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "ALEXANDER HEIGHTS",
+      "dose1": 33,
+      "dose2": 48,
+      "vaccines": 81
     }
   ]
 }

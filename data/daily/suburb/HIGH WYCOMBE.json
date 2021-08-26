@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "HIGH WYCOMBE",
   "data": [
     {
@@ -1244,23 +1244,30 @@
     {
       "date": "2021-08-22",
       "locality": "HIGH WYCOMBE",
-      "dose1": 45,
+      "dose1": 47,
       "dose2": 40,
-      "vaccines": 85
+      "vaccines": 87
     },
     {
       "date": "2021-08-23",
       "locality": "HIGH WYCOMBE",
-      "dose1": 54,
+      "dose1": 56,
       "dose2": 35,
-      "vaccines": 89
+      "vaccines": 91
     },
     {
       "date": "2021-08-24",
       "locality": "HIGH WYCOMBE",
-      "dose1": 21,
-      "dose2": 55,
-      "vaccines": 76
+      "dose1": 50,
+      "dose2": 62,
+      "vaccines": 112
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "HIGH WYCOMBE",
+      "dose1": 37,
+      "dose2": 78,
+      "vaccines": 115
     }
   ]
 }

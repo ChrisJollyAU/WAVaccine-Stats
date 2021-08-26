@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "postcode": "LAKE COOGEE",
   "data": [
     {
@@ -3271,8 +3271,32 @@
       "locality": "LAKE COOGEE",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "LAKE COOGEE",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "LAKE COOGEE",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 14,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "LAKE COOGEE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 7,
+      "vaccines": 7
     }
   ]
 }

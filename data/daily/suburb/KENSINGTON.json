@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "KENSINGTON",
   "data": [
     {
@@ -1230,9 +1230,16 @@
     {
       "date": "2021-08-24",
       "locality": "KENSINGTON",
-      "dose1": 23,
+      "dose1": 26,
+      "dose2": 21,
+      "vaccines": 47
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "KENSINGTON",
+      "dose1": 41,
       "dose2": 20,
-      "vaccines": 43
+      "vaccines": 61
     }
   ]
 }

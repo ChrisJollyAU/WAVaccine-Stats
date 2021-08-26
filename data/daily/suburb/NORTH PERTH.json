@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "NORTH PERTH",
   "data": [
     {
@@ -1272,16 +1272,23 @@
     {
       "date": "2021-08-23",
       "locality": "NORTH PERTH",
-      "dose1": 60,
-      "dose2": 42,
-      "vaccines": 102
+      "dose1": 62,
+      "dose2": 43,
+      "vaccines": 105
     },
     {
       "date": "2021-08-24",
       "locality": "NORTH PERTH",
-      "dose1": 53,
-      "dose2": 54,
-      "vaccines": 107
+      "dose1": 58,
+      "dose2": 56,
+      "vaccines": 114
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "NORTH PERTH",
+      "dose1": 90,
+      "dose2": 48,
+      "vaccines": 138
     }
   ]
 }

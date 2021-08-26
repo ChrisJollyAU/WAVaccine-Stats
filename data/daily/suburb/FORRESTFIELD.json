@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "FORRESTFIELD",
   "data": [
     {
@@ -1231,8 +1231,8 @@
       "date": "2021-08-18",
       "locality": "FORRESTFIELD",
       "dose1": 58,
-      "dose2": 98,
-      "vaccines": 156
+      "dose2": 99,
+      "vaccines": 157
     },
     {
       "date": "2021-08-19",
@@ -1272,9 +1272,16 @@
     {
       "date": "2021-08-24",
       "locality": "FORRESTFIELD",
-      "dose1": 23,
-      "dose2": 61,
-      "vaccines": 84
+      "dose1": 31,
+      "dose2": 62,
+      "vaccines": 93
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "FORRESTFIELD",
+      "dose1": 29,
+      "dose2": 90,
+      "vaccines": 119
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "postcode": "SOUTH KALGOORLIE",
   "data": [
     {
@@ -2318,17 +2318,17 @@
       "date": "2021-08-24",
       "locality": "SOUTH KALGOORLIE",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 14,
       "dose2": 0,
-      "vaccines": 11
+      "vaccines": 14
     },
     {
       "date": "2021-08-24",
       "locality": "SOUTH KALGOORLIE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 8,
-      "vaccines": 10
+      "dose2": 9,
+      "vaccines": 11
     },
     {
       "date": "2021-08-24",
@@ -2337,6 +2337,22 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "SOUTH KALGOORLIE",
+      "AgeGroup": "16 to 49",
+      "dose1": 21,
+      "dose2": 5,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "SOUTH KALGOORLIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
     }
   ]
 }

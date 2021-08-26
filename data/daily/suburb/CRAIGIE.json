@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "CRAIGIE",
   "data": [
     {
@@ -1167,16 +1167,23 @@
     {
       "date": "2021-08-23",
       "locality": "CRAIGIE",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 21,
-      "vaccines": 42
+      "vaccines": 43
     },
     {
       "date": "2021-08-24",
       "locality": "CRAIGIE",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 46,
-      "vaccines": 67
+      "vaccines": 68
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "CRAIGIE",
+      "dose1": 20,
+      "dose2": 32,
+      "vaccines": 52
     }
   ]
 }

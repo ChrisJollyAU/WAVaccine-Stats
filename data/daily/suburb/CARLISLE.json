@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "CARLISLE",
   "data": [
     {
@@ -1118,9 +1118,9 @@
     {
       "date": "2021-08-05",
       "locality": "CARLISLE",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 26,
-      "vaccines": 51
+      "vaccines": 50
     },
     {
       "date": "2021-08-06",
@@ -1202,9 +1202,9 @@
     {
       "date": "2021-08-17",
       "locality": "CARLISLE",
-      "dose1": 36,
+      "dose1": 35,
       "dose2": 26,
-      "vaccines": 62
+      "vaccines": 61
     },
     {
       "date": "2021-08-18",
@@ -1237,23 +1237,30 @@
     {
       "date": "2021-08-22",
       "locality": "CARLISLE",
-      "dose1": 35,
+      "dose1": 36,
       "dose2": 17,
-      "vaccines": 52
+      "vaccines": 53
     },
     {
       "date": "2021-08-23",
       "locality": "CARLISLE",
-      "dose1": 50,
-      "dose2": 29,
-      "vaccines": 79
+      "dose1": 52,
+      "dose2": 30,
+      "vaccines": 82
     },
     {
       "date": "2021-08-24",
       "locality": "CARLISLE",
-      "dose1": 35,
-      "dose2": 29,
-      "vaccines": 64
+      "dose1": 38,
+      "dose2": 32,
+      "vaccines": 70
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "CARLISLE",
+      "dose1": 42,
+      "dose2": 33,
+      "vaccines": 75
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "SCOTSDALE",
   "data": [
     {
@@ -395,6 +395,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-07-27",
+      "locality": "SCOTSDALE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-28",
       "locality": "SCOTSDALE",
       "dose1": 1,
@@ -530,9 +537,16 @@
     {
       "date": "2021-08-24",
       "locality": "SCOTSDALE",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "SCOTSDALE",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

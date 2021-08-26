@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "postcode": "CRAWLEY",
   "data": [
     {
@@ -3326,9 +3326,9 @@
       "date": "2021-08-22",
       "locality": "CRAWLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 18,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-08-22",
@@ -3374,9 +3374,9 @@
       "date": "2021-08-24",
       "locality": "CRAWLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-08-24",
@@ -3385,6 +3385,22 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "CRAWLEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 14,
+      "dose2": 3,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "CRAWLEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

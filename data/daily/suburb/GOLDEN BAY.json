@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "GOLDEN BAY",
   "data": [
     {
@@ -1118,22 +1118,29 @@
     {
       "date": "2021-08-22",
       "locality": "GOLDEN BAY",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 3,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-08-23",
       "locality": "GOLDEN BAY",
-      "dose1": 19,
-      "dose2": 20,
-      "vaccines": 39
+      "dose1": 21,
+      "dose2": 21,
+      "vaccines": 42
     },
     {
       "date": "2021-08-24",
       "locality": "GOLDEN BAY",
       "dose1": 15,
-      "dose2": 14,
+      "dose2": 15,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "GOLDEN BAY",
+      "dose1": 14,
+      "dose2": 15,
       "vaccines": 29
     }
   ]

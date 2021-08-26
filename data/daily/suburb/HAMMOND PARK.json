@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "HAMMOND PARK",
   "data": [
     {
@@ -1216,16 +1216,23 @@
     {
       "date": "2021-08-23",
       "locality": "HAMMOND PARK",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 21,
-      "vaccines": 55
+      "vaccines": 56
     },
     {
       "date": "2021-08-24",
       "locality": "HAMMOND PARK",
-      "dose1": 42,
+      "dose1": 47,
       "dose2": 28,
-      "vaccines": 70
+      "vaccines": 75
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "HAMMOND PARK",
+      "dose1": 38,
+      "dose2": 19,
+      "vaccines": 57
     }
   ]
 }

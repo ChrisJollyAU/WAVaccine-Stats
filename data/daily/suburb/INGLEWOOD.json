@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "INGLEWOOD",
   "data": [
     {
@@ -1265,16 +1265,23 @@
     {
       "date": "2021-08-23",
       "locality": "INGLEWOOD",
-      "dose1": 42,
-      "dose2": 37,
-      "vaccines": 79
+      "dose1": 43,
+      "dose2": 38,
+      "vaccines": 81
     },
     {
       "date": "2021-08-24",
       "locality": "INGLEWOOD",
-      "dose1": 50,
+      "dose1": 53,
       "dose2": 33,
-      "vaccines": 83
+      "vaccines": 86
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "INGLEWOOD",
+      "dose1": 39,
+      "dose2": 51,
+      "vaccines": 90
     }
   ]
 }

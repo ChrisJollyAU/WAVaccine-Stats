@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "FERNDALE",
   "data": [
     {
@@ -1188,8 +1188,15 @@
     {
       "date": "2021-08-24",
       "locality": "FERNDALE",
-      "dose1": 12,
-      "dose2": 31,
+      "dose1": 14,
+      "dose2": 37,
+      "vaccines": 51
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "FERNDALE",
+      "dose1": 23,
+      "dose2": 20,
       "vaccines": 43
     }
   ]

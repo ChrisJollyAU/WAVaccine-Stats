@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "CLARKSON",
   "data": [
     {
@@ -1210,8 +1210,8 @@
       "date": "2021-08-17",
       "locality": "CLARKSON",
       "dose1": 47,
-      "dose2": 79,
-      "vaccines": 126
+      "dose2": 80,
+      "vaccines": 127
     },
     {
       "date": "2021-08-18",
@@ -1251,16 +1251,23 @@
     {
       "date": "2021-08-23",
       "locality": "CLARKSON",
-      "dose1": 51,
+      "dose1": 52,
       "dose2": 75,
-      "vaccines": 126
+      "vaccines": 127
     },
     {
       "date": "2021-08-24",
       "locality": "CLARKSON",
-      "dose1": 52,
-      "dose2": 77,
-      "vaccines": 129
+      "dose1": 55,
+      "dose2": 79,
+      "vaccines": 134
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "CLARKSON",
+      "dose1": 47,
+      "dose2": 56,
+      "vaccines": 103
     }
   ]
 }

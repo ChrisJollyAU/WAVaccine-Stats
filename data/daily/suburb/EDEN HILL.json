@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-24T00:00:00",
+  "date_updated": "2021-08-25T00:00:00",
   "locality": "EDEN HILL",
   "data": [
     {
@@ -1210,15 +1210,22 @@
       "date": "2021-08-23",
       "locality": "EDEN HILL",
       "dose1": 15,
-      "dose2": 13,
-      "vaccines": 28
+      "dose2": 14,
+      "vaccines": 29
     },
     {
       "date": "2021-08-24",
       "locality": "EDEN HILL",
-      "dose1": 14,
-      "dose2": 13,
-      "vaccines": 27
+      "dose1": 16,
+      "dose2": 14,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "EDEN HILL",
+      "dose1": 17,
+      "dose2": 26,
+      "vaccines": 43
     }
   ]
 }

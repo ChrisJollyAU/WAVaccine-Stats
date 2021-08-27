@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "COCOS ISLANDS",
   "data": [
     {
@@ -174,8 +174,8 @@
       "date": "2021-07-27",
       "locality": "COCOS ISLANDS",
       "dose1": 1,
-      "dose2": 26,
-      "vaccines": 27
+      "dose2": 27,
+      "vaccines": 28
     },
     {
       "date": "2021-07-28",
@@ -295,6 +295,20 @@
       "dose1": 5,
       "dose2": 6,
       "vaccines": 11
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "COCOS ISLANDS",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "COCOS ISLANDS",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

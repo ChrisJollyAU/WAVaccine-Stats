@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "SINAGRA",
   "data": [
     {
@@ -740,9 +740,9 @@
     {
       "date": "2021-06-30",
       "locality": "SINAGRA",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 2,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-07-01",
@@ -979,8 +979,8 @@
       "date": "2021-08-03",
       "locality": "SINAGRA",
       "dose1": 5,
-      "dose2": 12,
-      "vaccines": 17
+      "dose2": 11,
+      "vaccines": 16
     },
     {
       "date": "2021-08-04",
@@ -1133,8 +1133,15 @@
       "date": "2021-08-25",
       "locality": "SINAGRA",
       "dose1": 11,
-      "dose2": 14,
-      "vaccines": 25
+      "dose2": 15,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "SINAGRA",
+      "dose1": 9,
+      "dose2": 17,
+      "vaccines": 26
     }
   ]
 }

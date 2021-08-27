@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "MIDLAND DC",
   "data": [
     {
@@ -922,23 +922,30 @@
     {
       "date": "2021-08-23",
       "locality": "MIDLAND DC",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-08-24",
       "locality": "MIDLAND DC",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-08-25",
       "locality": "MIDLAND DC",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "MIDLAND DC",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
     }
   ]
 }

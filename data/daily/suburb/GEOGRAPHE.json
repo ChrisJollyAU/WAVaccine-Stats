@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "GEOGRAPHE",
   "data": [
     {
@@ -1034,16 +1034,23 @@
     {
       "date": "2021-08-24",
       "locality": "GEOGRAPHE",
-      "dose1": 19,
-      "dose2": 19,
-      "vaccines": 38
+      "dose1": 20,
+      "dose2": 23,
+      "vaccines": 43
     },
     {
       "date": "2021-08-25",
       "locality": "GEOGRAPHE",
-      "dose1": 9,
-      "dose2": 5,
-      "vaccines": 14
+      "dose1": 11,
+      "dose2": 6,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "GEOGRAPHE",
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     }
   ]
 }

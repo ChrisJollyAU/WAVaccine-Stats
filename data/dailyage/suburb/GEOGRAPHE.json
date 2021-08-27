@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "postcode": "GEOGRAPHE",
   "data": [
     {
@@ -1238,17 +1238,17 @@
       "date": "2021-06-05",
       "locality": "GEOGRAPHE",
       "AgeGroup": "50 to 69",
-      "dose1": 23,
+      "dose1": 22,
       "dose2": 0,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-06-05",
       "locality": "GEOGRAPHE",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-06-08",
@@ -2822,17 +2822,17 @@
       "date": "2021-08-24",
       "locality": "GEOGRAPHE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
-      "dose2": 10,
-      "vaccines": 17
+      "dose1": 8,
+      "dose2": 12,
+      "vaccines": 20
     },
     {
       "date": "2021-08-24",
       "locality": "GEOGRAPHE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-08-25",
@@ -2846,9 +2846,41 @@
       "date": "2021-08-25",
       "locality": "GEOGRAPHE",
       "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "GEOGRAPHE",
+      "AgeGroup": "70 and over",
       "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "GEOGRAPHE",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "GEOGRAPHE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 8,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "GEOGRAPHE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

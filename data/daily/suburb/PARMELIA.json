@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "PARMELIA",
   "data": [
     {
@@ -46,13 +46,6 @@
     },
     {
       "date": "2021-03-04",
-      "locality": "PARMELIA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-05",
       "locality": "PARMELIA",
       "dose1": 1,
       "dose2": 0,
@@ -195,8 +188,8 @@
       "date": "2021-03-29",
       "locality": "PARMELIA",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-03-30",
@@ -1161,22 +1154,29 @@
       "date": "2021-08-23",
       "locality": "PARMELIA",
       "dose1": 12,
-      "dose2": 28,
-      "vaccines": 40
+      "dose2": 29,
+      "vaccines": 41
     },
     {
       "date": "2021-08-24",
       "locality": "PARMELIA",
-      "dose1": 35,
+      "dose1": 36,
       "dose2": 22,
-      "vaccines": 57
+      "vaccines": 58
     },
     {
       "date": "2021-08-25",
       "locality": "PARMELIA",
-      "dose1": 23,
-      "dose2": 43,
-      "vaccines": 66
+      "dose1": 25,
+      "dose2": 45,
+      "vaccines": 70
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "PARMELIA",
+      "dose1": 21,
+      "dose2": 21,
+      "vaccines": 42
     }
   ]
 }

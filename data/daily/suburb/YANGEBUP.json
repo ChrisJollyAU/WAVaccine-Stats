@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "YANGEBUP",
   "data": [
     {
@@ -1203,8 +1203,8 @@
       "date": "2021-08-23",
       "locality": "YANGEBUP",
       "dose1": 26,
-      "dose2": 29,
-      "vaccines": 55
+      "dose2": 30,
+      "vaccines": 56
     },
     {
       "date": "2021-08-24",
@@ -1216,9 +1216,16 @@
     {
       "date": "2021-08-25",
       "locality": "YANGEBUP",
-      "dose1": 47,
-      "dose2": 30,
-      "vaccines": 77
+      "dose1": 49,
+      "dose2": 35,
+      "vaccines": 84
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "YANGEBUP",
+      "dose1": 36,
+      "dose2": 31,
+      "vaccines": 67
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "CUE",
   "data": [
     {
@@ -236,9 +236,16 @@
     {
       "date": "2021-08-24",
       "locality": "CUE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "CUE",
+      "dose1": 11,
+      "dose2": 4,
+      "vaccines": 15
     }
   ]
 }

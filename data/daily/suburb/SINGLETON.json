@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "SINGLETON",
   "data": [
     {
@@ -1083,23 +1083,30 @@
     {
       "date": "2021-08-23",
       "locality": "SINGLETON",
-      "dose1": 21,
+      "dose1": 23,
       "dose2": 16,
-      "vaccines": 37
+      "vaccines": 39
     },
     {
       "date": "2021-08-24",
       "locality": "SINGLETON",
-      "dose1": 23,
+      "dose1": 25,
       "dose2": 14,
-      "vaccines": 37
+      "vaccines": 39
     },
     {
       "date": "2021-08-25",
       "locality": "SINGLETON",
-      "dose1": 15,
-      "dose2": 11,
-      "vaccines": 26
+      "dose1": 17,
+      "dose2": 13,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "SINGLETON",
+      "dose1": 10,
+      "dose2": 20,
+      "vaccines": 30
     }
   ]
 }

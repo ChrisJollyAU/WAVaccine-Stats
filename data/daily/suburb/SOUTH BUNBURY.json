@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "SOUTH BUNBURY",
   "data": [
     {
@@ -180,9 +180,9 @@
     {
       "date": "2021-03-30",
       "locality": "SOUTH BUNBURY",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 10,
-      "vaccines": 38
+      "vaccines": 37
     },
     {
       "date": "2021-03-31",
@@ -671,8 +671,8 @@
       "date": "2021-06-22",
       "locality": "SOUTH BUNBURY",
       "dose1": 26,
-      "dose2": 23,
-      "vaccines": 49
+      "dose2": 22,
+      "vaccines": 48
     },
     {
       "date": "2021-06-23",
@@ -1104,9 +1104,16 @@
     {
       "date": "2021-08-25",
       "locality": "SOUTH BUNBURY",
-      "dose1": 38,
-      "dose2": 40,
-      "vaccines": 78
+      "dose1": 40,
+      "dose2": 49,
+      "vaccines": 89
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "SOUTH BUNBURY",
+      "dose1": 34,
+      "dose2": 61,
+      "vaccines": 95
     }
   ]
 }

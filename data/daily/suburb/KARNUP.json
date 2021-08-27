@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "KARNUP",
   "data": [
     {
@@ -999,16 +999,23 @@
     {
       "date": "2021-08-24",
       "locality": "KARNUP",
+      "dose1": 7,
+      "dose2": 6,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "KARNUP",
       "dose1": 6,
       "dose2": 6,
       "vaccines": 12
     },
     {
-      "date": "2021-08-25",
+      "date": "2021-08-26",
       "locality": "KARNUP",
       "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

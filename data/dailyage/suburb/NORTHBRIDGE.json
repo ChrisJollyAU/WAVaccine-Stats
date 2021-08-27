@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "postcode": "NORTHBRIDGE",
   "data": [
     {
@@ -669,14 +669,6 @@
     {
       "date": "2021-05-04",
       "locality": "NORTHBRIDGE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-04",
-      "locality": "NORTHBRIDGE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 0,
@@ -935,8 +927,8 @@
       "locality": "NORTHBRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-25",
@@ -2454,17 +2446,17 @@
       "date": "2021-08-20",
       "locality": "NORTHBRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 10,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-08-20",
       "locality": "NORTHBRIDGE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-08-21",
@@ -2502,9 +2494,9 @@
       "date": "2021-08-24",
       "locality": "NORTHBRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 13,
       "dose2": 7,
-      "vaccines": 16
+      "vaccines": 20
     },
     {
       "date": "2021-08-24",
@@ -2515,20 +2507,52 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-24",
+      "locality": "NORTHBRIDGE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-25",
       "locality": "NORTHBRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
-      "dose2": 10,
-      "vaccines": 20
+      "dose1": 11,
+      "dose2": 11,
+      "vaccines": 22
     },
     {
       "date": "2021-08-25",
       "locality": "NORTHBRIDGE",
       "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "NORTHBRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "NORTHBRIDGE",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "NORTHBRIDGE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

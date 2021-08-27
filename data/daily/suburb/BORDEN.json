@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "BORDEN",
   "data": [
     {
@@ -262,6 +262,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-08",
+      "locality": "BORDEN",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
       "date": "2021-08-11",
       "locality": "BORDEN",
       "dose1": 2,
@@ -335,8 +342,15 @@
       "date": "2021-08-25",
       "locality": "BORDEN",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 6,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "BORDEN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

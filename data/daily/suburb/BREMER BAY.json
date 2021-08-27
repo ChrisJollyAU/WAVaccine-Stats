@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "BREMER BAY",
   "data": [
     {
@@ -517,8 +517,15 @@
       "date": "2021-08-25",
       "locality": "BREMER BAY",
       "dose1": 6,
-      "dose2": 23,
-      "vaccines": 29
+      "dose2": 25,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "BREMER BAY",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "ATWELL",
   "data": [
     {
@@ -439,9 +439,9 @@
     {
       "date": "2021-05-04",
       "locality": "ATWELL",
-      "dose1": 31,
+      "dose1": 33,
       "dose2": 0,
-      "vaccines": 31
+      "vaccines": 33
     },
     {
       "date": "2021-05-05",
@@ -467,9 +467,9 @@
     {
       "date": "2021-05-08",
       "locality": "ATWELL",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-09",
@@ -733,9 +733,9 @@
     {
       "date": "2021-06-15",
       "locality": "ATWELL",
-      "dose1": 27,
+      "dose1": 26,
       "dose2": 7,
-      "vaccines": 34
+      "vaccines": 33
     },
     {
       "date": "2021-06-16",
@@ -979,8 +979,8 @@
       "date": "2021-07-20",
       "locality": "ATWELL",
       "dose1": 17,
-      "dose2": 32,
-      "vaccines": 49
+      "dose2": 33,
+      "vaccines": 50
     },
     {
       "date": "2021-07-21",
@@ -1035,15 +1035,15 @@
       "date": "2021-07-28",
       "locality": "ATWELL",
       "dose1": 24,
-      "dose2": 36,
-      "vaccines": 60
+      "dose2": 37,
+      "vaccines": 61
     },
     {
       "date": "2021-07-29",
       "locality": "ATWELL",
       "dose1": 47,
-      "dose2": 42,
-      "vaccines": 89
+      "dose2": 43,
+      "vaccines": 90
     },
     {
       "date": "2021-07-30",
@@ -1146,9 +1146,9 @@
     {
       "date": "2021-08-13",
       "locality": "ATWELL",
-      "dose1": 26,
+      "dose1": 25,
       "dose2": 18,
-      "vaccines": 44
+      "vaccines": 43
     },
     {
       "date": "2021-08-14",
@@ -1223,16 +1223,23 @@
     {
       "date": "2021-08-24",
       "locality": "ATWELL",
-      "dose1": 46,
-      "dose2": 50,
-      "vaccines": 96
+      "dose1": 48,
+      "dose2": 53,
+      "vaccines": 101
     },
     {
       "date": "2021-08-25",
       "locality": "ATWELL",
-      "dose1": 46,
-      "dose2": 48,
-      "vaccines": 94
+      "dose1": 52,
+      "dose2": 49,
+      "vaccines": 101
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "ATWELL",
+      "dose1": 58,
+      "dose2": 39,
+      "vaccines": 97
     }
   ]
 }

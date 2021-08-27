@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "WOODBRIDGE",
   "data": [
     {
@@ -1020,9 +1020,16 @@
     {
       "date": "2021-08-25",
       "locality": "WOODBRIDGE",
-      "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "WOODBRIDGE",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

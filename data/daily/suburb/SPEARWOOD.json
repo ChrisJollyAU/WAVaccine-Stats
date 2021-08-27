@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-25T00:00:00",
+  "date_updated": "2021-08-26T00:00:00",
   "locality": "SPEARWOOD",
   "data": [
     {
@@ -1195,23 +1195,30 @@
     {
       "date": "2021-08-23",
       "locality": "SPEARWOOD",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 27,
-      "vaccines": 67
+      "vaccines": 68
     },
     {
       "date": "2021-08-24",
       "locality": "SPEARWOOD",
-      "dose1": 62,
-      "dose2": 47,
-      "vaccines": 109
+      "dose1": 63,
+      "dose2": 50,
+      "vaccines": 113
     },
     {
       "date": "2021-08-25",
       "locality": "SPEARWOOD",
-      "dose1": 53,
-      "dose2": 50,
-      "vaccines": 103
+      "dose1": 61,
+      "dose2": 63,
+      "vaccines": 124
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "SPEARWOOD",
+      "dose1": 67,
+      "dose2": 39,
+      "vaccines": 106
     }
   ]
 }

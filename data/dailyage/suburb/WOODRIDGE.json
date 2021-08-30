@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-26T00:00:00",
+  "date_updated": "2021-08-29T00:00:00",
   "postcode": "WOODRIDGE",
   "data": [
     {
@@ -686,9 +686,9 @@
       "date": "2021-07-06",
       "locality": "WOODRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-06",
@@ -910,14 +910,6 @@
       "date": "2021-07-26",
       "locality": "WOODRIDGE",
       "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-27",
-      "locality": "WOODRIDGE",
-      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1342,9 +1334,9 @@
       "date": "2021-08-25",
       "locality": "WOODRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-08-25",
@@ -1359,16 +1351,16 @@
       "locality": "WOODRIDGE",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-08-26",
       "locality": "WOODRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-08-26",
@@ -1377,6 +1369,46 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "WOODRIDGE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "WOODRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "WOODRIDGE",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "WOODRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "WOODRIDGE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

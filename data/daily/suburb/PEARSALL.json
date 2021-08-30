@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-26T00:00:00",
+  "date_updated": "2021-08-29T00:00:00",
   "locality": "PEARSALL",
   "data": [
     {
@@ -1174,9 +1174,9 @@
     {
       "date": "2021-08-19",
       "locality": "PEARSALL",
-      "dose1": 14,
+      "dose1": 12,
       "dose2": 20,
-      "vaccines": 34
+      "vaccines": 32
     },
     {
       "date": "2021-08-20",
@@ -1189,8 +1189,8 @@
       "date": "2021-08-21",
       "locality": "PEARSALL",
       "dose1": 14,
-      "dose2": 21,
-      "vaccines": 35
+      "dose2": 22,
+      "vaccines": 36
     },
     {
       "date": "2021-08-22",
@@ -1217,15 +1217,36 @@
       "date": "2021-08-25",
       "locality": "PEARSALL",
       "dose1": 12,
-      "dose2": 21,
-      "vaccines": 33
+      "dose2": 26,
+      "vaccines": 38
     },
     {
       "date": "2021-08-26",
       "locality": "PEARSALL",
-      "dose1": 13,
-      "dose2": 27,
-      "vaccines": 40
+      "dose1": 16,
+      "dose2": 29,
+      "vaccines": 45
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "PEARSALL",
+      "dose1": 15,
+      "dose2": 24,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "PEARSALL",
+      "dose1": 15,
+      "dose2": 22,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "PEARSALL",
+      "dose1": 7,
+      "dose2": 8,
+      "vaccines": 15
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-26T00:00:00",
+  "date_updated": "2021-08-29T00:00:00",
   "locality": "BERTRAM",
   "data": [
     {
@@ -355,9 +355,9 @@
     {
       "date": "2021-04-30",
       "locality": "BERTRAM",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-05-03",
@@ -852,9 +852,9 @@
     {
       "date": "2021-07-14",
       "locality": "BERTRAM",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 28,
-      "vaccines": 44
+      "vaccines": 45
     },
     {
       "date": "2021-07-15",
@@ -1084,8 +1084,8 @@
       "date": "2021-08-16",
       "locality": "BERTRAM",
       "dose1": 32,
-      "dose2": 21,
-      "vaccines": 53
+      "dose2": 22,
+      "vaccines": 54
     },
     {
       "date": "2021-08-17",
@@ -1104,9 +1104,9 @@
     {
       "date": "2021-08-19",
       "locality": "BERTRAM",
-      "dose1": 36,
+      "dose1": 35,
       "dose2": 16,
-      "vaccines": 52
+      "vaccines": 51
     },
     {
       "date": "2021-08-20",
@@ -1139,23 +1139,44 @@
     {
       "date": "2021-08-24",
       "locality": "BERTRAM",
-      "dose1": 26,
+      "dose1": 25,
       "dose2": 23,
-      "vaccines": 49
+      "vaccines": 48
     },
     {
       "date": "2021-08-25",
       "locality": "BERTRAM",
-      "dose1": 29,
+      "dose1": 31,
       "dose2": 36,
-      "vaccines": 65
+      "vaccines": 67
     },
     {
       "date": "2021-08-26",
       "locality": "BERTRAM",
-      "dose1": 29,
-      "dose2": 27,
-      "vaccines": 56
+      "dose1": 32,
+      "dose2": 28,
+      "vaccines": 60
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "BERTRAM",
+      "dose1": 30,
+      "dose2": 22,
+      "vaccines": 52
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "BERTRAM",
+      "dose1": 18,
+      "dose2": 8,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "BERTRAM",
+      "dose1": 36,
+      "dose2": 8,
+      "vaccines": 44
     }
   ]
 }

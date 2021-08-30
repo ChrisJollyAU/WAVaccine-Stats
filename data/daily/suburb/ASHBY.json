@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-26T00:00:00",
+  "date_updated": "2021-08-29T00:00:00",
   "locality": "ASHBY",
   "data": [
     {
@@ -628,9 +628,9 @@
     {
       "date": "2021-06-08",
       "locality": "ASHBY",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-06-09",
@@ -818,8 +818,8 @@
       "date": "2021-07-05",
       "locality": "ASHBY",
       "dose1": 8,
-      "dose2": 5,
-      "vaccines": 13
+      "dose2": 4,
+      "vaccines": 12
     },
     {
       "date": "2021-07-06",
@@ -943,9 +943,9 @@
     {
       "date": "2021-07-23",
       "locality": "ASHBY",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 12,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-07-24",
@@ -1105,8 +1105,8 @@
       "date": "2021-08-15",
       "locality": "ASHBY",
       "dose1": 6,
-      "dose2": 11,
-      "vaccines": 17
+      "dose2": 10,
+      "vaccines": 16
     },
     {
       "date": "2021-08-16",
@@ -1181,9 +1181,30 @@
     {
       "date": "2021-08-26",
       "locality": "ASHBY",
-      "dose1": 12,
-      "dose2": 18,
-      "vaccines": 30
+      "dose1": 13,
+      "dose2": 19,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "ASHBY",
+      "dose1": 13,
+      "dose2": 10,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "ASHBY",
+      "dose1": 9,
+      "dose2": 11,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "ASHBY",
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     }
   ]
 }

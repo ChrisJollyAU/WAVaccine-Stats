@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-26T00:00:00",
+  "date_updated": "2021-08-29T00:00:00",
   "locality": "KEWDALE",
   "data": [
     {
@@ -1258,23 +1258,44 @@
     {
       "date": "2021-08-24",
       "locality": "KEWDALE",
-      "dose1": 20,
+      "dose1": 24,
       "dose2": 30,
-      "vaccines": 50
+      "vaccines": 54
     },
     {
       "date": "2021-08-25",
       "locality": "KEWDALE",
-      "dose1": 29,
-      "dose2": 34,
-      "vaccines": 63
+      "dose1": 33,
+      "dose2": 36,
+      "vaccines": 69
     },
     {
       "date": "2021-08-26",
       "locality": "KEWDALE",
-      "dose1": 36,
-      "dose2": 26,
-      "vaccines": 62
+      "dose1": 39,
+      "dose2": 28,
+      "vaccines": 67
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "KEWDALE",
+      "dose1": 41,
+      "dose2": 24,
+      "vaccines": 65
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "KEWDALE",
+      "dose1": 50,
+      "dose2": 38,
+      "vaccines": 88
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "KEWDALE",
+      "dose1": 53,
+      "dose2": 12,
+      "vaccines": 65
     }
   ]
 }

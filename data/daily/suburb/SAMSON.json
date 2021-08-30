@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-26T00:00:00",
+  "date_updated": "2021-08-29T00:00:00",
   "locality": "SAMSON",
   "data": [
     {
@@ -1167,9 +1167,30 @@
     {
       "date": "2021-08-26",
       "locality": "SAMSON",
-      "dose1": 9,
+      "dose1": 11,
       "dose2": 16,
-      "vaccines": 25
+      "vaccines": 27
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "SAMSON",
+      "dose1": 15,
+      "dose2": 14,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "SAMSON",
+      "dose1": 10,
+      "dose2": 14,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "SAMSON",
+      "dose1": 7,
+      "dose2": 1,
+      "vaccines": 8
     }
   ]
 }

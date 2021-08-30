@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-26T00:00:00",
+  "date_updated": "2021-08-29T00:00:00",
   "postcode": "WILLAGEE",
   "data": [
     {
@@ -878,9 +878,9 @@
       "date": "2021-04-23",
       "locality": "WILLAGEE",
       "AgeGroup": "70 and over",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-04-25",
@@ -1239,8 +1239,8 @@
       "locality": "WILLAGEE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-15",
@@ -1910,9 +1910,9 @@
       "date": "2021-06-16",
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-06-16",
@@ -2575,8 +2575,8 @@
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 6,
-      "vaccines": 16
+      "dose2": 7,
+      "vaccines": 17
     },
     {
       "date": "2021-07-15",
@@ -2734,9 +2734,9 @@
       "date": "2021-07-22",
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-07-22",
@@ -3030,9 +3030,9 @@
       "date": "2021-08-04",
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 8,
-      "vaccines": 28
+      "vaccines": 27
     },
     {
       "date": "2021-08-04",
@@ -3366,8 +3366,8 @@
       "date": "2021-08-19",
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
-      "dose2": 11,
+      "dose1": 24,
+      "dose2": 10,
       "vaccines": 34
     },
     {
@@ -3414,9 +3414,9 @@
       "date": "2021-08-21",
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 10,
       "dose2": 8,
-      "vaccines": 20
+      "vaccines": 18
     },
     {
       "date": "2021-08-21",
@@ -3478,9 +3478,9 @@
       "date": "2021-08-24",
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 12,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-08-24",
@@ -3502,8 +3502,8 @@
       "date": "2021-08-25",
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
-      "dose2": 11,
+      "dose1": 20,
+      "dose2": 10,
       "vaccines": 30
     },
     {
@@ -3526,25 +3526,89 @@
       "date": "2021-08-26",
       "locality": "WILLAGEE",
       "AgeGroup": "16 to 49",
-      "dose1": 32,
+      "dose1": 35,
       "dose2": 6,
-      "vaccines": 38
+      "vaccines": 41
     },
     {
       "date": "2021-08-26",
       "locality": "WILLAGEE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 10,
-      "vaccines": 12
+      "dose1": 3,
+      "dose2": 11,
+      "vaccines": 14
     },
     {
       "date": "2021-08-26",
       "locality": "WILLAGEE",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 6,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "WILLAGEE",
+      "AgeGroup": "16 to 49",
+      "dose1": 22,
+      "dose2": 7,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "WILLAGEE",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 9,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "WILLAGEE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "WILLAGEE",
+      "AgeGroup": "16 to 49",
+      "dose1": 13,
+      "dose2": 13,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "WILLAGEE",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "WILLAGEE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "WILLAGEE",
+      "AgeGroup": "16 to 49",
+      "dose1": 19,
+      "dose2": 10,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "WILLAGEE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

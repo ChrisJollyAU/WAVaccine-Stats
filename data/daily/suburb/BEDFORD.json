@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-26T00:00:00",
+  "date_updated": "2021-08-29T00:00:00",
   "locality": "BEDFORD",
   "data": [
     {
@@ -1251,23 +1251,44 @@
     {
       "date": "2021-08-24",
       "locality": "BEDFORD",
-      "dose1": 29,
+      "dose1": 32,
       "dose2": 31,
-      "vaccines": 60
+      "vaccines": 63
     },
     {
       "date": "2021-08-25",
       "locality": "BEDFORD",
-      "dose1": 35,
+      "dose1": 36,
       "dose2": 40,
-      "vaccines": 75
+      "vaccines": 76
     },
     {
       "date": "2021-08-26",
       "locality": "BEDFORD",
-      "dose1": 25,
-      "dose2": 26,
-      "vaccines": 51
+      "dose1": 29,
+      "dose2": 32,
+      "vaccines": 61
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "BEDFORD",
+      "dose1": 30,
+      "dose2": 23,
+      "vaccines": 53
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "BEDFORD",
+      "dose1": 31,
+      "dose2": 29,
+      "vaccines": 60
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "BEDFORD",
+      "dose1": 31,
+      "dose2": 12,
+      "vaccines": 43
     }
   ]
 }

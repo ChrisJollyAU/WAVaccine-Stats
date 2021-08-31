@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "locality": "UDUC",
   "data": [
     {
@@ -295,6 +295,20 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "UDUC",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "UDUC",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

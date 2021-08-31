@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "postcode": "6219",
   "data": [
     {
@@ -145,6 +145,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-06-01",
+      "postcode": "6219",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-06-02",
@@ -559,8 +567,8 @@
       "postcode": "6219",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-08-25",
@@ -590,17 +598,33 @@
       "date": "2021-08-27",
       "postcode": "6219",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-08-27",
       "postcode": "6219",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-27",
+      "postcode": "6219",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
+      "postcode": "6219",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

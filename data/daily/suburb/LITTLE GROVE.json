@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "locality": "LITTLE GROVE",
   "data": [
     {
@@ -1090,16 +1090,23 @@
     {
       "date": "2021-08-28",
       "locality": "LITTLE GROVE",
-      "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2021-08-29",
       "locality": "LITTLE GROVE",
-      "dose1": 1,
+      "dose1": 9,
       "dose2": 9,
-      "vaccines": 10
+      "vaccines": 18
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "LITTLE GROVE",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     }
   ]
 }

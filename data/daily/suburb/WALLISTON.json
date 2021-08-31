@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "locality": "WALLISTON",
   "data": [
     {
@@ -1048,16 +1048,23 @@
     {
       "date": "2021-08-28",
       "locality": "WALLISTON",
-      "dose1": 4,
+      "dose1": 7,
       "dose2": 11,
-      "vaccines": 15
+      "vaccines": 18
     },
     {
       "date": "2021-08-29",
       "locality": "WALLISTON",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "WALLISTON",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

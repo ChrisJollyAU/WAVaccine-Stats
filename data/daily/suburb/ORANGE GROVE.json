@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "locality": "ORANGE GROVE",
   "data": [
     {
@@ -852,8 +852,15 @@
     {
       "date": "2021-08-29",
       "locality": "ORANGE GROVE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "ORANGE GROVE",
+      "dose1": 2,
+      "dose2": 3,
       "vaccines": 5
     }
   ]

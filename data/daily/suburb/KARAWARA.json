@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "locality": "KARAWARA",
   "data": [
     {
@@ -215,9 +215,9 @@
     {
       "date": "2021-04-09",
       "locality": "KARAWARA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-10",
@@ -370,8 +370,8 @@
       "date": "2021-05-05",
       "locality": "KARAWARA",
       "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose2": 2,
+      "vaccines": 8
     },
     {
       "date": "2021-05-06",
@@ -964,9 +964,9 @@
     {
       "date": "2021-07-30",
       "locality": "KARAWARA",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 8,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-07-31",
@@ -1112,8 +1112,8 @@
       "date": "2021-08-20",
       "locality": "KARAWARA",
       "dose1": 14,
-      "dose2": 11,
-      "vaccines": 25
+      "dose2": 10,
+      "vaccines": 24
     },
     {
       "date": "2021-08-21",
@@ -1160,9 +1160,9 @@
     {
       "date": "2021-08-27",
       "locality": "KARAWARA",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 12,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-08-28",
@@ -1175,8 +1175,15 @@
       "date": "2021-08-29",
       "locality": "KARAWARA",
       "dose1": 13,
-      "dose2": 3,
-      "vaccines": 16
+      "dose2": 4,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "KARAWARA",
+      "dose1": 9,
+      "dose2": 2,
+      "vaccines": 11
     }
   ]
 }

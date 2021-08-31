@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "postcode": "WILLIAMS",
   "data": [
     {
@@ -1766,6 +1766,30 @@
       "date": "2021-08-28",
       "locality": "WILLIAMS",
       "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "WILLIAMS",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "WILLIAMS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 7,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "WILLIAMS",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1

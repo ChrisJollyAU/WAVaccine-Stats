@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "locality": "VASSE",
   "data": [
     {
@@ -1000,8 +1000,8 @@
       "date": "2021-08-27",
       "locality": "VASSE",
       "dose1": 13,
-      "dose2": 11,
-      "vaccines": 24
+      "dose2": 12,
+      "vaccines": 25
     },
     {
       "date": "2021-08-28",
@@ -1016,6 +1016,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "VASSE",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

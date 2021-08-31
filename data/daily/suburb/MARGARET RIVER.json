@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "locality": "MARGARET RIVER",
   "data": [
     {
@@ -286,8 +286,8 @@
       "date": "2021-04-20",
       "locality": "MARGARET RIVER",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-04-21",
@@ -1126,8 +1126,8 @@
       "date": "2021-08-21",
       "locality": "MARGARET RIVER",
       "dose1": 19,
-      "dose2": 55,
-      "vaccines": 74
+      "dose2": 56,
+      "vaccines": 75
     },
     {
       "date": "2021-08-22",
@@ -1140,50 +1140,57 @@
       "date": "2021-08-23",
       "locality": "MARGARET RIVER",
       "dose1": 19,
-      "dose2": 16,
-      "vaccines": 35
+      "dose2": 17,
+      "vaccines": 36
     },
     {
       "date": "2021-08-24",
       "locality": "MARGARET RIVER",
-      "dose1": 62,
+      "dose1": 63,
       "dose2": 31,
-      "vaccines": 93
+      "vaccines": 94
     },
     {
       "date": "2021-08-25",
       "locality": "MARGARET RIVER",
-      "dose1": 22,
-      "dose2": 56,
-      "vaccines": 78
+      "dose1": 25,
+      "dose2": 65,
+      "vaccines": 90
     },
     {
       "date": "2021-08-26",
       "locality": "MARGARET RIVER",
-      "dose1": 76,
+      "dose1": 77,
       "dose2": 64,
-      "vaccines": 140
+      "vaccines": 141
     },
     {
       "date": "2021-08-27",
       "locality": "MARGARET RIVER",
-      "dose1": 58,
+      "dose1": 60,
       "dose2": 43,
-      "vaccines": 101
+      "vaccines": 103
     },
     {
       "date": "2021-08-28",
       "locality": "MARGARET RIVER",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 41,
-      "vaccines": 50
+      "vaccines": 51
     },
     {
       "date": "2021-08-29",
       "locality": "MARGARET RIVER",
-      "dose1": 14,
-      "dose2": 2,
-      "vaccines": 16
+      "dose1": 15,
+      "dose2": 3,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "MARGARET RIVER",
+      "dose1": 11,
+      "dose2": 8,
+      "vaccines": 19
     }
   ]
 }

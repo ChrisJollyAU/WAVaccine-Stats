@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-29T00:00:00",
+  "date_updated": "2021-08-30T00:00:00",
   "postcode": "DENMARK",
   "data": [
     {
@@ -3086,25 +3086,33 @@
       "date": "2021-08-28",
       "locality": "DENMARK",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-08-28",
       "locality": "DENMARK",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
-      "dose2": 43,
-      "vaccines": 46
+      "dose1": 13,
+      "dose2": 49,
+      "vaccines": 62
     },
     {
       "date": "2021-08-28",
       "locality": "DENMARK",
       "AgeGroup": "70 and over",
-      "dose1": 4,
-      "dose2": 38,
-      "vaccines": 42
+      "dose1": 14,
+      "dose2": 39,
+      "vaccines": 53
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "DENMARK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-29",
@@ -3116,6 +3124,30 @@
     },
     {
       "date": "2021-08-29",
+      "locality": "DENMARK",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "DENMARK",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 8,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "DENMARK",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-08-30",
       "locality": "DENMARK",
       "AgeGroup": "70 and over",
       "dose1": 1,

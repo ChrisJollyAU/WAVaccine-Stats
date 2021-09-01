@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-30T00:00:00",
+  "date_updated": "2021-08-31T00:00:00",
   "locality": "MANDURAH EAST",
   "data": [
     {
@@ -769,8 +769,8 @@
       "date": "2021-08-28",
       "locality": "MANDURAH EAST",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-29",
@@ -783,8 +783,15 @@
       "date": "2021-08-30",
       "locality": "MANDURAH EAST",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-31",
+      "locality": "MANDURAH EAST",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-30T00:00:00",
+  "date_updated": "2021-08-31T00:00:00",
   "locality": "SEPPINGS",
   "data": [
     {
@@ -136,6 +136,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-15",
+      "locality": "SEPPINGS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-16",
       "locality": "SEPPINGS",
       "dose1": 1,
@@ -262,6 +269,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-07-29",
+      "locality": "SEPPINGS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-03",
       "locality": "SEPPINGS",
       "dose1": 0,
@@ -332,6 +346,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-24",
+      "locality": "SEPPINGS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-25",
       "locality": "SEPPINGS",
       "dose1": 1,
@@ -351,6 +372,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-31",
+      "locality": "SEPPINGS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

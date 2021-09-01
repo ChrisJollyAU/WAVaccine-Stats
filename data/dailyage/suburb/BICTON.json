@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-30T00:00:00",
+  "date_updated": "2021-08-31T00:00:00",
   "postcode": "BICTON",
   "data": [
     {
@@ -1374,17 +1374,17 @@
       "date": "2021-05-13",
       "locality": "BICTON",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-05-13",
       "locality": "BICTON",
       "AgeGroup": "50 to 69",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 2,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-05-13",
@@ -1855,16 +1855,16 @@
       "locality": "BICTON",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 6,
-      "vaccines": 13
+      "dose2": 5,
+      "vaccines": 12
     },
     {
       "date": "2021-06-03",
       "locality": "BICTON",
       "AgeGroup": "50 to 69",
       "dose1": 17,
-      "dose2": 3,
-      "vaccines": 20
+      "dose2": 4,
+      "vaccines": 21
     },
     {
       "date": "2021-06-03",
@@ -3799,8 +3799,8 @@
       "locality": "BICTON",
       "AgeGroup": "50 to 69",
       "dose1": 11,
-      "dose2": 44,
-      "vaccines": 55
+      "dose2": 45,
+      "vaccines": 56
     },
     {
       "date": "2021-08-27",
@@ -3862,17 +3862,17 @@
       "date": "2021-08-30",
       "locality": "BICTON",
       "AgeGroup": "16 to 49",
-      "dose1": 27,
-      "dose2": 8,
-      "vaccines": 35
+      "dose1": 28,
+      "dose2": 9,
+      "vaccines": 37
     },
     {
       "date": "2021-08-30",
       "locality": "BICTON",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 18,
-      "vaccines": 22
+      "dose2": 19,
+      "vaccines": 23
     },
     {
       "date": "2021-08-30",
@@ -3880,6 +3880,30 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-31",
+      "locality": "BICTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 26,
+      "dose2": 15,
+      "vaccines": 41
+    },
+    {
+      "date": "2021-08-31",
+      "locality": "BICTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 14,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-08-31",
+      "locality": "BICTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
       "vaccines": 4
     }
   ]

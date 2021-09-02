@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-31T00:00:00",
+  "date_updated": "2021-09-01T00:00:00",
   "postcode": "KARDINYA",
   "data": [
     {
@@ -2495,8 +2495,8 @@
       "locality": "KARDINYA",
       "AgeGroup": "70 and over",
       "dose1": 12,
-      "dose2": 7,
-      "vaccines": 19
+      "dose2": 8,
+      "vaccines": 20
     },
     {
       "date": "2021-06-24",
@@ -2862,17 +2862,17 @@
       "date": "2021-07-09",
       "locality": "KARDINYA",
       "AgeGroup": "50 to 69",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 6,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-07-09",
       "locality": "KARDINYA",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-07-10",
@@ -3286,9 +3286,9 @@
       "date": "2021-07-27",
       "locality": "KARDINYA",
       "AgeGroup": "50 to 69",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 15,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-07-27",
@@ -3863,8 +3863,8 @@
       "locality": "KARDINYA",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 10,
-      "vaccines": 12
+      "dose2": 11,
+      "vaccines": 13
     },
     {
       "date": "2021-08-21",
@@ -3966,9 +3966,9 @@
       "date": "2021-08-25",
       "locality": "KARDINYA",
       "AgeGroup": "16 to 49",
-      "dose1": 62,
+      "dose1": 63,
       "dose2": 15,
-      "vaccines": 77
+      "vaccines": 78
     },
     {
       "date": "2021-08-25",
@@ -4102,25 +4102,49 @@
       "date": "2021-08-31",
       "locality": "KARDINYA",
       "AgeGroup": "16 to 49",
-      "dose1": 41,
-      "dose2": 14,
-      "vaccines": 55
+      "dose1": 44,
+      "dose2": 16,
+      "vaccines": 60
     },
     {
       "date": "2021-08-31",
       "locality": "KARDINYA",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
-      "dose2": 21,
-      "vaccines": 30
+      "dose1": 12,
+      "dose2": 24,
+      "vaccines": 36
     },
     {
       "date": "2021-08-31",
       "locality": "KARDINYA",
       "AgeGroup": "70 and over",
       "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose2": 4,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "KARDINYA",
+      "AgeGroup": "16 to 49",
+      "dose1": 43,
+      "dose2": 19,
+      "vaccines": 62
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "KARDINYA",
+      "AgeGroup": "50 to 69",
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "KARDINYA",
+      "AgeGroup": "70 and over",
+      "dose1": 10,
+      "dose2": 2,
+      "vaccines": 12
     }
   ]
 }

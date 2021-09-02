@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-31T00:00:00",
+  "date_updated": "2021-09-01T00:00:00",
   "postcode": "AUGUSTA",
   "data": [
     {
@@ -2055,16 +2055,32 @@
       "locality": "AUGUSTA",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 8,
-      "vaccines": 13
+      "dose2": 10,
+      "vaccines": 15
     },
     {
       "date": "2021-08-31",
       "locality": "AUGUSTA",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "AUGUSTA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "AUGUSTA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

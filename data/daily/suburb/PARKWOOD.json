@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-31T00:00:00",
+  "date_updated": "2021-09-01T00:00:00",
   "locality": "PARKWOOD",
   "data": [
     {
@@ -1237,9 +1237,16 @@
     {
       "date": "2021-08-31",
       "locality": "PARKWOOD",
-      "dose1": 20,
-      "dose2": 40,
-      "vaccines": 60
+      "dose1": 31,
+      "dose2": 55,
+      "vaccines": 86
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "PARKWOOD",
+      "dose1": 39,
+      "dose2": 25,
+      "vaccines": 64
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-08-31T00:00:00",
+  "date_updated": "2021-09-01T00:00:00",
   "locality": "SALTER POINT",
   "data": [
     {
@@ -1272,16 +1272,23 @@
     {
       "date": "2021-08-30",
       "locality": "SALTER POINT",
-      "dose1": 13,
-      "dose2": 8,
-      "vaccines": 21
+      "dose1": 14,
+      "dose2": 18,
+      "vaccines": 32
     },
     {
       "date": "2021-08-31",
       "locality": "SALTER POINT",
-      "dose1": 14,
-      "dose2": 10,
-      "vaccines": 24
+      "dose1": 31,
+      "dose2": 19,
+      "vaccines": 50
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "SALTER POINT",
+      "dose1": 11,
+      "dose2": 7,
+      "vaccines": 18
     }
   ]
 }

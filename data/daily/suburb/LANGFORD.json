@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "LANGFORD",
   "data": [
     {
@@ -1216,30 +1216,37 @@
     {
       "date": "2021-08-29",
       "locality": "LANGFORD",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 10,
-      "vaccines": 42
+      "vaccines": 43
     },
     {
       "date": "2021-08-30",
       "locality": "LANGFORD",
-      "dose1": 31,
-      "dose2": 30,
-      "vaccines": 61
+      "dose1": 32,
+      "dose2": 31,
+      "vaccines": 63
     },
     {
       "date": "2021-08-31",
       "locality": "LANGFORD",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 34,
-      "vaccines": 59
+      "vaccines": 60
     },
     {
       "date": "2021-09-01",
       "locality": "LANGFORD",
-      "dose1": 16,
-      "dose2": 16,
-      "vaccines": 32
+      "dose1": 19,
+      "dose2": 19,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "LANGFORD",
+      "dose1": 38,
+      "dose2": 17,
+      "vaccines": 55
     }
   ]
 }

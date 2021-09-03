@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "BRABHAM",
   "data": [
     {
@@ -1279,23 +1279,30 @@
     {
       "date": "2021-08-30",
       "locality": "BRABHAM",
-      "dose1": 31,
+      "dose1": 33,
       "dose2": 13,
-      "vaccines": 44
+      "vaccines": 46
     },
     {
       "date": "2021-08-31",
       "locality": "BRABHAM",
-      "dose1": 31,
-      "dose2": 12,
-      "vaccines": 43
+      "dose1": 35,
+      "dose2": 13,
+      "vaccines": 48
     },
     {
       "date": "2021-09-01",
       "locality": "BRABHAM",
-      "dose1": 27,
-      "dose2": 19,
-      "vaccines": 46
+      "dose1": 32,
+      "dose2": 20,
+      "vaccines": 52
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BRABHAM",
+      "dose1": 19,
+      "dose2": 11,
+      "vaccines": 30
     }
   ]
 }

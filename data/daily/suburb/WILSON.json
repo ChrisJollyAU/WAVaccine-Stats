@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "WILSON",
   "data": [
     {
@@ -782,9 +782,9 @@
     {
       "date": "2021-06-15",
       "locality": "WILSON",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 4,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-06-16",
@@ -1307,9 +1307,9 @@
     {
       "date": "2021-08-29",
       "locality": "WILSON",
-      "dose1": 43,
+      "dose1": 44,
       "dose2": 17,
-      "vaccines": 60
+      "vaccines": 61
     },
     {
       "date": "2021-08-30",
@@ -1328,9 +1328,16 @@
     {
       "date": "2021-09-01",
       "locality": "WILSON",
-      "dose1": 29,
-      "dose2": 14,
-      "vaccines": 43
+      "dose1": 32,
+      "dose2": 17,
+      "vaccines": 49
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "WILSON",
+      "dose1": 35,
+      "dose2": 29,
+      "vaccines": 64
     }
   ]
 }

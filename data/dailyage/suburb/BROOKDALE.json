@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "postcode": "BROOKDALE",
   "data": [
     {
@@ -2591,16 +2591,16 @@
       "locality": "BROOKDALE",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 1,
-      "vaccines": 9
+      "dose2": 2,
+      "vaccines": 10
     },
     {
       "date": "2021-09-01",
       "locality": "BROOKDALE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-09-01",
@@ -2609,6 +2609,22 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BROOKDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 8,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BROOKDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "MILLBRIDGE",
   "data": [
     {
@@ -206,6 +206,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-15",
+      "locality": "MILLBRIDGE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-16",
       "locality": "MILLBRIDGE",
       "dose1": 2,
@@ -321,8 +328,8 @@
       "date": "2021-05-06",
       "locality": "MILLBRIDGE",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-05-07",
@@ -1048,9 +1055,16 @@
     {
       "date": "2021-09-01",
       "locality": "MILLBRIDGE",
-      "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose1": 9,
+      "dose2": 11,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "MILLBRIDGE",
+      "dose1": 35,
+      "dose2": 11,
+      "vaccines": 46
     }
   ]
 }

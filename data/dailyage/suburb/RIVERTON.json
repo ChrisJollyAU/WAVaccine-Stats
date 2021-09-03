@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "postcode": "RIVERTON",
   "data": [
     {
@@ -3958,17 +3958,17 @@
       "date": "2021-09-01",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
+      "dose1": 25,
       "dose2": 9,
-      "vaccines": 32
+      "vaccines": 34
     },
     {
       "date": "2021-09-01",
       "locality": "RIVERTON",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 10,
-      "vaccines": 12
+      "dose1": 3,
+      "dose2": 12,
+      "vaccines": 15
     },
     {
       "date": "2021-09-01",
@@ -3977,6 +3977,30 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "RIVERTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 24,
+      "dose2": 7,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "RIVERTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 9,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "RIVERTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

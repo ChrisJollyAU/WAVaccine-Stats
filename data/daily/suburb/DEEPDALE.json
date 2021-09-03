@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "DEEPDALE",
   "data": [
     {
@@ -818,8 +818,15 @@
       "date": "2021-09-01",
       "locality": "DEEPDALE",
       "dose1": 7,
-      "dose2": 1,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "DEEPDALE",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

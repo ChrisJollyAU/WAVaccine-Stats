@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "MANNING",
   "data": [
     {
@@ -1293,9 +1293,16 @@
     {
       "date": "2021-09-01",
       "locality": "MANNING",
-      "dose1": 19,
-      "dose2": 23,
-      "vaccines": 42
+      "dose1": 21,
+      "dose2": 27,
+      "vaccines": 48
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "MANNING",
+      "dose1": 23,
+      "dose2": 20,
+      "vaccines": 43
     }
   ]
 }

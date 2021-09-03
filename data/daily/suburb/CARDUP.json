@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "CARDUP",
   "data": [
     {
@@ -985,9 +985,16 @@
     {
       "date": "2021-09-01",
       "locality": "CARDUP",
-      "dose1": 4,
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "CARDUP",
+      "dose1": 8,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 9
     }
   ]
 }

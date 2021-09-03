@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "postcode": "BRENTWOOD",
   "data": [
     {
@@ -3415,11 +3415,35 @@
       "locality": "BRENTWOOD",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-09-01",
+      "locality": "BRENTWOOD",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BRENTWOOD",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 0,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BRENTWOOD",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-02",
       "locality": "BRENTWOOD",
       "AgeGroup": "70 and over",
       "dose1": 0,

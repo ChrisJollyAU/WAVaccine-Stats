@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "RIVERTON",
   "data": [
     {
@@ -1307,9 +1307,16 @@
     {
       "date": "2021-09-01",
       "locality": "RIVERTON",
-      "dose1": 27,
-      "dose2": 24,
-      "vaccines": 51
+      "dose1": 30,
+      "dose2": 26,
+      "vaccines": 56
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "RIVERTON",
+      "dose1": 28,
+      "dose2": 20,
+      "vaccines": 48
     }
   ]
 }

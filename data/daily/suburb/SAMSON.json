@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "SAMSON",
   "data": [
     {
@@ -1209,9 +1209,16 @@
     {
       "date": "2021-09-01",
       "locality": "SAMSON",
-      "dose1": 10,
-      "dose2": 7,
-      "vaccines": 17
+      "dose1": 12,
+      "dose2": 10,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "SAMSON",
+      "dose1": 9,
+      "dose2": 3,
+      "vaccines": 12
     }
   ]
 }

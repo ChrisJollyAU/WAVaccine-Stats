@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "postcode": "HAYNES",
   "data": [
     {
@@ -870,17 +870,17 @@
       "date": "2021-05-29",
       "locality": "HAYNES",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-29",
       "locality": "HAYNES",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-05-31",
@@ -974,9 +974,9 @@
       "date": "2021-06-08",
       "locality": "HAYNES",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-08",
@@ -1295,8 +1295,8 @@
       "locality": "HAYNES",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 0,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 8
     },
     {
       "date": "2021-06-29",
@@ -1350,9 +1350,9 @@
       "date": "2021-07-02",
       "locality": "HAYNES",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-03",
@@ -1815,8 +1815,8 @@
       "locality": "HAYNES",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-07-30",
@@ -2215,16 +2215,16 @@
       "locality": "HAYNES",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-21",
       "locality": "HAYNES",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-22",
@@ -2374,9 +2374,9 @@
       "date": "2021-09-01",
       "locality": "HAYNES",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 7,
-      "vaccines": 11
+      "dose1": 5,
+      "dose2": 8,
+      "vaccines": 13
     },
     {
       "date": "2021-09-01",
@@ -2384,6 +2384,30 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "HAYNES",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "HAYNES",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 2,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "HAYNES",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

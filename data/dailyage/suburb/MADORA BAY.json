@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "postcode": "MADORA BAY",
   "data": [
     {
@@ -3062,9 +3062,33 @@
       "date": "2021-09-01",
       "locality": "MADORA BAY",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "MADORA BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 5,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "MADORA BAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "MADORA BAY",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

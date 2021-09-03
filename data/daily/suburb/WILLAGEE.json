@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "WILLAGEE",
   "data": [
     {
@@ -1237,9 +1237,16 @@
     {
       "date": "2021-09-01",
       "locality": "WILLAGEE",
-      "dose1": 33,
-      "dose2": 17,
-      "vaccines": 50
+      "dose1": 34,
+      "dose2": 20,
+      "vaccines": 54
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "WILLAGEE",
+      "dose1": 34,
+      "dose2": 22,
+      "vaccines": 56
     }
   ]
 }

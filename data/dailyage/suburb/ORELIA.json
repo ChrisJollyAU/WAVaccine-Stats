@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "postcode": "ORELIA",
   "data": [
     {
@@ -1579,14 +1579,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-12",
-      "locality": "ORELIA",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-13",
       "locality": "ORELIA",
       "AgeGroup": "16 to 49",
@@ -2999,8 +2991,8 @@
       "locality": "ORELIA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-21",
@@ -3230,9 +3222,9 @@
       "date": "2021-09-01",
       "locality": "ORELIA",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 6,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-09-01",
@@ -3249,6 +3241,30 @@
       "dose1": 2,
       "dose2": 4,
       "vaccines": 6
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "ORELIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 2,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "ORELIA",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "ORELIA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

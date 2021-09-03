@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "postcode": "BINNINGUP",
   "data": [
     {
@@ -451,14 +451,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-04-30",
-      "locality": "BINNINGUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-05-01",
       "locality": "BINNINGUP",
       "AgeGroup": "50 to 69",
@@ -775,8 +767,8 @@
       "locality": "BINNINGUP",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-05-26",
@@ -1707,14 +1699,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-21",
-      "locality": "BINNINGUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-22",
       "locality": "BINNINGUP",
       "AgeGroup": "16 to 49",
@@ -2055,8 +2039,8 @@
       "locality": "BINNINGUP",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-08-11",
@@ -2438,9 +2422,9 @@
       "date": "2021-09-01",
       "locality": "BINNINGUP",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 10
     },
     {
       "date": "2021-09-01",
@@ -2449,6 +2433,30 @@
       "dose1": 4,
       "dose2": 1,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BINNINGUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 5,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BINNINGUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BINNINGUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

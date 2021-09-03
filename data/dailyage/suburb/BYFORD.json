@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "postcode": "BYFORD",
   "data": [
     {
@@ -142,17 +142,17 @@
       "date": "2021-03-08",
       "locality": "BYFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-03-08",
       "locality": "BYFORD",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-03-08",
@@ -1806,9 +1806,9 @@
       "date": "2021-05-31",
       "locality": "BYFORD",
       "AgeGroup": "50 to 69",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 0,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-05-31",
@@ -2095,16 +2095,16 @@
       "locality": "BYFORD",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 8,
-      "vaccines": 15
+      "dose2": 7,
+      "vaccines": 14
     },
     {
       "date": "2021-06-14",
       "locality": "BYFORD",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose2": 4,
+      "vaccines": 12
     },
     {
       "date": "2021-06-14",
@@ -2142,9 +2142,9 @@
       "date": "2021-06-16",
       "locality": "BYFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 11,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-06-16",
@@ -2934,8 +2934,8 @@
       "date": "2021-07-21",
       "locality": "BYFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 26,
-      "dose2": 16,
+      "dose1": 25,
+      "dose2": 17,
       "vaccines": 42
     },
     {
@@ -3558,9 +3558,9 @@
       "date": "2021-08-17",
       "locality": "BYFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 51,
+      "dose1": 52,
       "dose2": 24,
-      "vaccines": 75
+      "vaccines": 76
     },
     {
       "date": "2021-08-17",
@@ -3862,17 +3862,17 @@
       "date": "2021-08-30",
       "locality": "BYFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 68,
+      "dose1": 70,
       "dose2": 19,
-      "vaccines": 87
+      "vaccines": 89
     },
     {
       "date": "2021-08-30",
       "locality": "BYFORD",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 12,
-      "vaccines": 24
+      "dose2": 13,
+      "vaccines": 25
     },
     {
       "date": "2021-08-30",
@@ -3886,49 +3886,73 @@
       "date": "2021-08-31",
       "locality": "BYFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 50,
-      "dose2": 24,
-      "vaccines": 74
+      "dose1": 56,
+      "dose2": 29,
+      "vaccines": 85
     },
     {
       "date": "2021-08-31",
       "locality": "BYFORD",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
-      "dose2": 8,
-      "vaccines": 15
+      "dose1": 9,
+      "dose2": 12,
+      "vaccines": 21
     },
     {
       "date": "2021-08-31",
       "locality": "BYFORD",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 6,
-      "vaccines": 6
+      "dose2": 8,
+      "vaccines": 8
     },
     {
       "date": "2021-09-01",
       "locality": "BYFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 50,
-      "dose2": 16,
-      "vaccines": 66
+      "dose1": 77,
+      "dose2": 23,
+      "vaccines": 100
     },
     {
       "date": "2021-09-01",
       "locality": "BYFORD",
       "AgeGroup": "50 to 69",
-      "dose1": 16,
-      "dose2": 12,
-      "vaccines": 28
+      "dose1": 22,
+      "dose2": 27,
+      "vaccines": 49
     },
     {
       "date": "2021-09-01",
       "locality": "BYFORD",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 7,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BYFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 70,
+      "dose2": 22,
+      "vaccines": 92
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BYFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 14,
+      "dose2": 12,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BYFORD",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

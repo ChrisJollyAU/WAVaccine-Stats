@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "ARTHUR RIVER",
   "data": [
     {
@@ -243,9 +243,16 @@
     {
       "date": "2021-09-01",
       "locality": "ARTHUR RIVER",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "ARTHUR RIVER",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

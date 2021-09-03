@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-01T00:00:00",
+  "date_updated": "2021-09-02T00:00:00",
   "locality": "JINDALEE",
   "data": [
     {
@@ -50,6 +50,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-03-07",
+      "locality": "JINDALEE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-03-08",
@@ -587,8 +594,8 @@
       "date": "2021-06-01",
       "locality": "JINDALEE",
       "dose1": 15,
-      "dose2": 7,
-      "vaccines": 22
+      "dose2": 8,
+      "vaccines": 23
     },
     {
       "date": "2021-06-02",
@@ -1230,9 +1237,16 @@
     {
       "date": "2021-09-01",
       "locality": "JINDALEE",
-      "dose1": 15,
-      "dose2": 23,
-      "vaccines": 38
+      "dose1": 16,
+      "dose2": 24,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "JINDALEE",
+      "dose1": 7,
+      "dose2": 11,
+      "vaccines": 18
     }
   ]
 }

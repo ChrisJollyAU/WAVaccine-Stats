@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "SOUTH GUILDFORD",
   "data": [
     {
@@ -1244,16 +1244,37 @@
     {
       "date": "2021-09-01",
       "locality": "SOUTH GUILDFORD",
-      "dose1": 18,
-      "dose2": 17,
-      "vaccines": 35
+      "dose1": 20,
+      "dose2": 18,
+      "vaccines": 38
     },
     {
       "date": "2021-09-02",
       "locality": "SOUTH GUILDFORD",
+      "dose1": 11,
+      "dose2": 15,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "SOUTH GUILDFORD",
+      "dose1": 3,
+      "dose2": 21,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "SOUTH GUILDFORD",
       "dose1": 10,
-      "dose2": 13,
-      "vaccines": 23
+      "dose2": 8,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "SOUTH GUILDFORD",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "SHOALWATER",
   "data": [
     {
@@ -1174,16 +1174,37 @@
     {
       "date": "2021-09-01",
       "locality": "SHOALWATER",
-      "dose1": 22,
-      "dose2": 15,
-      "vaccines": 37
+      "dose1": 23,
+      "dose2": 17,
+      "vaccines": 40
     },
     {
       "date": "2021-09-02",
       "locality": "SHOALWATER",
-      "dose1": 17,
-      "dose2": 28,
-      "vaccines": 45
+      "dose1": 21,
+      "dose2": 31,
+      "vaccines": 52
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "SHOALWATER",
+      "dose1": 18,
+      "dose2": 8,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "SHOALWATER",
+      "dose1": 9,
+      "dose2": 6,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "SHOALWATER",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
     }
   ]
 }

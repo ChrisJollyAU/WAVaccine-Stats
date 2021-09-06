@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "BROOKDALE",
   "data": [
     {
@@ -1056,8 +1056,29 @@
       "date": "2021-09-02",
       "locality": "BROOKDALE",
       "dose1": 12,
-      "dose2": 12,
-      "vaccines": 24
+      "dose2": 16,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "BROOKDALE",
+      "dose1": 13,
+      "dose2": 6,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "BROOKDALE",
+      "dose1": 9,
+      "dose2": 2,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "BROOKDALE",
+      "dose1": 10,
+      "dose2": 2,
+      "vaccines": 12
     }
   ]
 }

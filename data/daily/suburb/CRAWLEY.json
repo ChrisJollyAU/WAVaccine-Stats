@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "CRAWLEY",
   "data": [
     {
@@ -1300,9 +1300,30 @@
     {
       "date": "2021-09-02",
       "locality": "CRAWLEY",
-      "dose1": 24,
+      "dose1": 25,
+      "dose2": 12,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "CRAWLEY",
+      "dose1": 11,
       "dose2": 11,
-      "vaccines": 35
+      "vaccines": 22
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "CRAWLEY",
+      "dose1": 13,
+      "dose2": 8,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "CRAWLEY",
+      "dose1": 12,
+      "dose2": 12,
+      "vaccines": 24
     }
   ]
 }

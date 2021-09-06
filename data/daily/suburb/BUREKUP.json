@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "BUREKUP",
   "data": [
     {
@@ -929,9 +929,23 @@
     {
       "date": "2021-09-02",
       "locality": "BUREKUP",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "BUREKUP",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "BUREKUP",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

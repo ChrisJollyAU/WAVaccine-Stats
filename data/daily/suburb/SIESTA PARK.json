@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "SIESTA PARK",
   "data": [
     {
@@ -283,11 +283,32 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-01",
+      "locality": "SIESTA PARK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-02",
       "locality": "SIESTA PARK",
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "SIESTA PARK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "SIESTA PARK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

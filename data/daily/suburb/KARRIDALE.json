@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "KARRIDALE",
   "data": [
     {
@@ -615,8 +615,22 @@
       "date": "2021-09-02",
       "locality": "KARRIDALE",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "KARRIDALE",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "KARRIDALE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "NORANDA",
   "data": [
     {
@@ -516,9 +516,9 @@
     {
       "date": "2021-05-09",
       "locality": "NORANDA",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-05-10",
@@ -551,9 +551,9 @@
     {
       "date": "2021-05-14",
       "locality": "NORANDA",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 3,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-05-15",
@@ -699,8 +699,8 @@
       "date": "2021-06-04",
       "locality": "NORANDA",
       "dose1": 20,
-      "dose2": 7,
-      "vaccines": 27
+      "dose2": 8,
+      "vaccines": 28
     },
     {
       "date": "2021-06-05",
@@ -1014,8 +1014,8 @@
       "date": "2021-07-19",
       "locality": "NORANDA",
       "dose1": 18,
-      "dose2": 11,
-      "vaccines": 29
+      "dose2": 10,
+      "vaccines": 28
     },
     {
       "date": "2021-07-20",
@@ -1125,9 +1125,9 @@
     {
       "date": "2021-08-04",
       "locality": "NORANDA",
-      "dose1": 39,
+      "dose1": 38,
       "dose2": 34,
-      "vaccines": 73
+      "vaccines": 72
     },
     {
       "date": "2021-08-05",
@@ -1188,9 +1188,9 @@
     {
       "date": "2021-08-13",
       "locality": "NORANDA",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 43,
-      "vaccines": 64
+      "vaccines": 63
     },
     {
       "date": "2021-08-14",
@@ -1322,15 +1322,36 @@
       "date": "2021-09-01",
       "locality": "NORANDA",
       "dose1": 36,
-      "dose2": 37,
-      "vaccines": 73
+      "dose2": 36,
+      "vaccines": 72
     },
     {
       "date": "2021-09-02",
       "locality": "NORANDA",
-      "dose1": 39,
-      "dose2": 33,
-      "vaccines": 72
+      "dose1": 40,
+      "dose2": 36,
+      "vaccines": 76
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "NORANDA",
+      "dose1": 44,
+      "dose2": 34,
+      "vaccines": 78
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "NORANDA",
+      "dose1": 36,
+      "dose2": 21,
+      "vaccines": 57
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "NORANDA",
+      "dose1": 22,
+      "dose2": 30,
+      "vaccines": 52
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "SAWYERS VALLEY",
   "data": [
     {
@@ -993,8 +993,8 @@
       "date": "2021-08-31",
       "locality": "SAWYERS VALLEY",
       "dose1": 10,
-      "dose2": 0,
-      "vaccines": 10
+      "dose2": 1,
+      "vaccines": 11
     },
     {
       "date": "2021-09-01",
@@ -1009,6 +1009,20 @@
       "dose1": 5,
       "dose2": 5,
       "vaccines": 10
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "SAWYERS VALLEY",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "SAWYERS VALLEY",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

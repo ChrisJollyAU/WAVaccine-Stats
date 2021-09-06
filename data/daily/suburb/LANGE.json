@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-02T00:00:00",
+  "date_updated": "2021-09-05T00:00:00",
   "locality": "LANGE",
   "data": [
     {
@@ -815,11 +815,25 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-01",
+      "locality": "LANGE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-02",
       "locality": "LANGE",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "LANGE",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

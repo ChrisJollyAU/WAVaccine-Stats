@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "postcode": "LANGE",
   "data": [
     {
@@ -1377,6 +1377,22 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "LANGE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "LANGE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "BINDOON",
   "data": [
     {
@@ -969,6 +969,13 @@
       "vaccines": 7
     },
     {
+      "date": "2021-08-29",
+      "locality": "BINDOON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-30",
       "locality": "BINDOON",
       "dose1": 8,
@@ -1000,8 +1007,8 @@
       "date": "2021-09-03",
       "locality": "BINDOON",
       "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose2": 5,
+      "vaccines": 12
     },
     {
       "date": "2021-09-04",
@@ -1016,6 +1023,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "BINDOON",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
     }
   ]
 }

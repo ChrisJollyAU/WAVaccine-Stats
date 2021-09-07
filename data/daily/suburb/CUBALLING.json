@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "CUBALLING",
   "data": [
     {
@@ -677,8 +677,15 @@
     {
       "date": "2021-09-03",
       "locality": "CUBALLING",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "CUBALLING",
+      "dose1": 3,
+      "dose2": 0,
       "vaccines": 3
     },
     {
@@ -687,6 +694,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "CUBALLING",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

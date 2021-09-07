@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "DAWESVILLE",
   "data": [
     {
@@ -208,9 +208,9 @@
     {
       "date": "2021-04-04",
       "locality": "DAWESVILLE",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-06",
@@ -229,9 +229,9 @@
     {
       "date": "2021-04-08",
       "locality": "DAWESVILLE",
-      "dose1": 23,
+      "dose1": 21,
       "dose2": 1,
-      "vaccines": 24
+      "vaccines": 22
     },
     {
       "date": "2021-04-09",
@@ -551,9 +551,9 @@
     {
       "date": "2021-05-28",
       "locality": "DAWESVILLE",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 3,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2021-05-29",
@@ -748,8 +748,8 @@
       "date": "2021-06-27",
       "locality": "DAWESVILLE",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-06-28",
@@ -776,8 +776,8 @@
       "date": "2021-07-01",
       "locality": "DAWESVILLE",
       "dose1": 24,
-      "dose2": 13,
-      "vaccines": 37
+      "dose2": 11,
+      "vaccines": 35
     },
     {
       "date": "2021-07-02",
@@ -1049,8 +1049,8 @@
       "date": "2021-08-10",
       "locality": "DAWESVILLE",
       "dose1": 24,
-      "dose2": 48,
-      "vaccines": 72
+      "dose2": 47,
+      "vaccines": 71
     },
     {
       "date": "2021-08-11",
@@ -1139,9 +1139,9 @@
     {
       "date": "2021-08-23",
       "locality": "DAWESVILLE",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 37,
-      "vaccines": 61
+      "vaccines": 62
     },
     {
       "date": "2021-08-24",
@@ -1160,9 +1160,9 @@
     {
       "date": "2021-08-26",
       "locality": "DAWESVILLE",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 30,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-08-27",
@@ -1202,30 +1202,30 @@
     {
       "date": "2021-09-01",
       "locality": "DAWESVILLE",
-      "dose1": 27,
-      "dose2": 40,
-      "vaccines": 67
+      "dose1": 33,
+      "dose2": 47,
+      "vaccines": 80
     },
     {
       "date": "2021-09-02",
       "locality": "DAWESVILLE",
-      "dose1": 22,
-      "dose2": 21,
-      "vaccines": 43
+      "dose1": 32,
+      "dose2": 27,
+      "vaccines": 59
     },
     {
       "date": "2021-09-03",
       "locality": "DAWESVILLE",
-      "dose1": 32,
-      "dose2": 19,
-      "vaccines": 51
+      "dose1": 35,
+      "dose2": 44,
+      "vaccines": 79
     },
     {
       "date": "2021-09-04",
       "locality": "DAWESVILLE",
-      "dose1": 13,
+      "dose1": 15,
       "dose2": 15,
-      "vaccines": 28
+      "vaccines": 30
     },
     {
       "date": "2021-09-05",
@@ -1233,6 +1233,13 @@
       "dose1": 5,
       "dose2": 5,
       "vaccines": 10
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "DAWESVILLE",
+      "dose1": 19,
+      "dose2": 25,
+      "vaccines": 44
     }
   ]
 }

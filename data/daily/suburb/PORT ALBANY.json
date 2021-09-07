@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "PORT ALBANY",
   "data": [
     {
@@ -469,6 +469,20 @@
       "locality": "PORT ALBANY",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "PORT ALBANY",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "PORT ALBANY",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

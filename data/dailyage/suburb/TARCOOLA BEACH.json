@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "postcode": "TARCOOLA BEACH",
   "data": [
     {
@@ -81,6 +81,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-03-23",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-03-23",
@@ -1317,6 +1325,14 @@
     {
       "date": "2021-07-05",
       "locality": "TARCOOLA BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-05",
+      "locality": "TARCOOLA BEACH",
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 1,
@@ -2407,8 +2423,8 @@
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 5,
-      "vaccines": 13
+      "dose2": 6,
+      "vaccines": 14
     },
     {
       "date": "2021-09-03",
@@ -2428,6 +2444,30 @@
     },
     {
       "date": "2021-09-04",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-06",
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 0,

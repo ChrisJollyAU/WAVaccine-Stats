@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "LOWER KING",
   "data": [
     {
@@ -1195,9 +1195,16 @@
     {
       "date": "2021-09-05",
       "locality": "LOWER KING",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 8,
+      "dose2": 7,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "LOWER KING",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

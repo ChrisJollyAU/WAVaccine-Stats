@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "MANDURAH DC",
   "data": [
     {
@@ -510,8 +510,8 @@
       "date": "2021-09-02",
       "locality": "MANDURAH DC",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-03",
@@ -522,6 +522,13 @@
     },
     {
       "date": "2021-09-04",
+      "locality": "MANDURAH DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-06",
       "locality": "MANDURAH DC",
       "dose1": 0,
       "dose2": 1,

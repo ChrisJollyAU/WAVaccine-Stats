@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "MAHOGANY CREEK",
   "data": [
     {
@@ -957,9 +957,16 @@
     {
       "date": "2021-09-05",
       "locality": "MAHOGANY CREEK",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "MAHOGANY CREEK",
+      "dose1": 9,
+      "dose2": 1,
+      "vaccines": 10
     }
   ]
 }

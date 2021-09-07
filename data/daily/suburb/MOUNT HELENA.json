@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "MOUNT HELENA",
   "data": [
     {
@@ -19,9 +19,9 @@
     {
       "date": "2021-02-26",
       "locality": "MOUNT HELENA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-02",
@@ -139,8 +139,8 @@
       "date": "2021-03-25",
       "locality": "MOUNT HELENA",
       "dose1": 10,
-      "dose2": 3,
-      "vaccines": 13
+      "dose2": 4,
+      "vaccines": 14
     },
     {
       "date": "2021-03-26",
@@ -390,9 +390,9 @@
     {
       "date": "2021-05-12",
       "locality": "MOUNT HELENA",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-05-13",
@@ -502,9 +502,9 @@
     {
       "date": "2021-06-02",
       "locality": "MOUNT HELENA",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 5,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-06-03",
@@ -951,8 +951,8 @@
       "date": "2021-08-06",
       "locality": "MOUNT HELENA",
       "dose1": 16,
-      "dose2": 13,
-      "vaccines": 29
+      "dose2": 14,
+      "vaccines": 30
     },
     {
       "date": "2021-08-07",
@@ -1084,8 +1084,8 @@
       "date": "2021-08-25",
       "locality": "MOUNT HELENA",
       "dose1": 15,
-      "dose2": 36,
-      "vaccines": 51
+      "dose2": 37,
+      "vaccines": 52
     },
     {
       "date": "2021-08-26",
@@ -1146,16 +1146,16 @@
     {
       "date": "2021-09-03",
       "locality": "MOUNT HELENA",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 15,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-09-04",
       "locality": "MOUNT HELENA",
-      "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-09-05",
@@ -1163,6 +1163,13 @@
       "dose1": 5,
       "dose2": 4,
       "vaccines": 9
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "MOUNT HELENA",
+      "dose1": 26,
+      "dose2": 17,
+      "vaccines": 43
     }
   ]
 }

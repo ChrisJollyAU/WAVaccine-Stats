@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-05T00:00:00",
+  "date_updated": "2021-09-06T00:00:00",
   "locality": "GNANGARA",
   "data": [
     {
@@ -1140,15 +1140,15 @@
       "date": "2021-09-03",
       "locality": "GNANGARA",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-09-04",
       "locality": "GNANGARA",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-09-05",
@@ -1156,6 +1156,13 @@
       "dose1": 3,
       "dose2": 3,
       "vaccines": 6
+    },
+    {
+      "date": "2021-09-06",
+      "locality": "GNANGARA",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

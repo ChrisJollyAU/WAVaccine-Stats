@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "postcode": "MILLARS WELL",
   "data": [
     {
@@ -995,6 +995,14 @@
       "vaccines": 6
     },
     {
+      "date": "2021-07-06",
+      "locality": "MILLARS WELL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-07",
       "locality": "MILLARS WELL",
       "AgeGroup": "50 to 69",
@@ -1407,8 +1415,8 @@
       "locality": "MILLARS WELL",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-08-10",
@@ -1683,6 +1691,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-28",
+      "locality": "MILLARS WELL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-29",
       "locality": "MILLARS WELL",
       "AgeGroup": "16 to 49",
@@ -1719,8 +1735,8 @@
       "locality": "MILLARS WELL",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-01",
@@ -1742,9 +1758,9 @@
       "date": "2021-09-02",
       "locality": "MILLARS WELL",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 6,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-09-02",
@@ -1801,6 +1817,22 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "MILLARS WELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "MILLARS WELL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

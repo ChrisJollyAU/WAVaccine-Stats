@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "postcode": "WICKHAM",
   "data": [
     {
@@ -1638,8 +1638,24 @@
       "date": "2021-09-06",
       "locality": "WICKHAM",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "WICKHAM",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
       "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "WICKHAM",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 4,
       "vaccines": 5
     }
   ]

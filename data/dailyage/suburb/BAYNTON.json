@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "postcode": "BAYNTON",
   "data": [
     {
@@ -1334,9 +1334,9 @@
       "date": "2021-07-13",
       "locality": "BAYNTON",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-14",
@@ -1638,9 +1638,9 @@
       "date": "2021-08-05",
       "locality": "BAYNTON",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 4,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-08-05",
@@ -1935,8 +1935,8 @@
       "locality": "BAYNTON",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose2": 4,
+      "vaccines": 10
     },
     {
       "date": "2021-08-25",
@@ -2129,6 +2129,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "BAYNTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 7,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "BAYNTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

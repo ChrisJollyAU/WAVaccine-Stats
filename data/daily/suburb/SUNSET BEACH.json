@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "locality": "SUNSET BEACH",
   "data": [
     {
@@ -136,11 +136,18 @@
       "vaccines": 3
     },
     {
+      "date": "2021-04-05",
+      "locality": "SUNSET BEACH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-06",
       "locality": "SUNSET BEACH",
       "dose1": 7,
-      "dose2": 0,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 8
     },
     {
       "date": "2021-04-07",
@@ -1028,8 +1035,8 @@
       "date": "2021-08-31",
       "locality": "SUNSET BEACH",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-09-01",
@@ -1069,9 +1076,16 @@
     {
       "date": "2021-09-06",
       "locality": "SUNSET BEACH",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "SUNSET BEACH",
+      "dose1": 3,
+      "dose2": 14,
+      "vaccines": 17
     }
   ]
 }

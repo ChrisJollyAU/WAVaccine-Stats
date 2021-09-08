@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "locality": "WYALKATCHEM",
   "data": [
     {
@@ -705,9 +705,16 @@
     {
       "date": "2021-09-06",
       "locality": "WYALKATCHEM",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 31,
-      "vaccines": 36
+      "vaccines": 37
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "WYALKATCHEM",
+      "dose1": 14,
+      "dose2": 23,
+      "vaccines": 37
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "locality": "DALYELLUP",
   "data": [
     {
@@ -369,9 +369,9 @@
     {
       "date": "2021-04-28",
       "locality": "DALYELLUP",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 0,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-04-29",
@@ -503,8 +503,8 @@
       "date": "2021-05-19",
       "locality": "DALYELLUP",
       "dose1": 5,
-      "dose2": 14,
-      "vaccines": 19
+      "dose2": 15,
+      "vaccines": 20
     },
     {
       "date": "2021-05-20",
@@ -1202,9 +1202,9 @@
     {
       "date": "2021-09-02",
       "locality": "DALYELLUP",
-      "dose1": 52,
+      "dose1": 55,
       "dose2": 42,
-      "vaccines": 94
+      "vaccines": 97
     },
     {
       "date": "2021-09-03",
@@ -1217,8 +1217,8 @@
       "date": "2021-09-04",
       "locality": "DALYELLUP",
       "dose1": 13,
-      "dose2": 17,
-      "vaccines": 30
+      "dose2": 18,
+      "vaccines": 31
     },
     {
       "date": "2021-09-05",
@@ -1230,9 +1230,16 @@
     {
       "date": "2021-09-06",
       "locality": "DALYELLUP",
-      "dose1": 18,
+      "dose1": 25,
+      "dose2": 38,
+      "vaccines": 63
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "DALYELLUP",
+      "dose1": 34,
       "dose2": 27,
-      "vaccines": 45
+      "vaccines": 61
     }
   ]
 }

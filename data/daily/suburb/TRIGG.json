@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "locality": "TRIGG",
   "data": [
     {
@@ -621,9 +621,9 @@
     {
       "date": "2021-05-31",
       "locality": "TRIGG",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-06-01",
@@ -705,9 +705,9 @@
     {
       "date": "2021-06-12",
       "locality": "TRIGG",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-06-13",
@@ -853,8 +853,8 @@
       "date": "2021-07-03",
       "locality": "TRIGG",
       "dose1": 7,
-      "dose2": 6,
-      "vaccines": 13
+      "dose2": 7,
+      "vaccines": 14
     },
     {
       "date": "2021-07-04",
@@ -1161,8 +1161,8 @@
       "date": "2021-08-16",
       "locality": "TRIGG",
       "dose1": 12,
-      "dose2": 34,
-      "vaccines": 46
+      "dose2": 35,
+      "vaccines": 47
     },
     {
       "date": "2021-08-17",
@@ -1230,9 +1230,9 @@
     {
       "date": "2021-08-26",
       "locality": "TRIGG",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 19,
-      "vaccines": 36
+      "vaccines": 37
     },
     {
       "date": "2021-08-27",
@@ -1307,9 +1307,16 @@
     {
       "date": "2021-09-06",
       "locality": "TRIGG",
-      "dose1": 11,
+      "dose1": 13,
       "dose2": 17,
-      "vaccines": 28
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "TRIGG",
+      "dose1": 7,
+      "dose2": 18,
+      "vaccines": 25
     }
   ]
 }

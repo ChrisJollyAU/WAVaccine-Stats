@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "locality": "BELLEVUE",
   "data": [
     {
@@ -1034,9 +1034,16 @@
     {
       "date": "2021-09-06",
       "locality": "BELLEVUE",
-      "dose1": 10,
-      "dose2": 6,
-      "vaccines": 16
+      "dose1": 12,
+      "dose2": 10,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "BELLEVUE",
+      "dose1": 6,
+      "dose2": 3,
+      "vaccines": 9
     }
   ]
 }

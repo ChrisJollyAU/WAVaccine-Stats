@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "locality": "GLEDHOW",
   "data": [
     {
@@ -964,16 +964,16 @@
     {
       "date": "2021-09-04",
       "locality": "GLEDHOW",
-      "dose1": 5,
-      "dose2": 0,
-      "vaccines": 5
+      "dose1": 10,
+      "dose2": 3,
+      "vaccines": 13
     },
     {
       "date": "2021-09-05",
       "locality": "GLEDHOW",
       "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 13
     },
     {
       "date": "2021-09-06",
@@ -981,6 +981,13 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "GLEDHOW",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "postcode": "MARIGINIUP",
   "data": [
     {
@@ -2206,17 +2206,33 @@
       "date": "2021-09-06",
       "locality": "MARIGINIUP",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-09-06",
       "locality": "MARIGINIUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "MARIGINIUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "MARIGINIUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

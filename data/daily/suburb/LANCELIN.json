@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "locality": "LANCELIN",
   "data": [
     {
@@ -951,8 +951,8 @@
       "date": "2021-09-04",
       "locality": "LANCELIN",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-05",
@@ -967,6 +967,13 @@
       "dose1": 2,
       "dose2": 6,
       "vaccines": 8
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "LANCELIN",
+      "dose1": 5,
+      "dose2": 4,
+      "vaccines": 9
     }
   ]
 }

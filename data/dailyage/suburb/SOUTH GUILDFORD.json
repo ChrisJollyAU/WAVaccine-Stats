@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-06T00:00:00",
+  "date_updated": "2021-09-07T00:00:00",
   "postcode": "SOUTH GUILDFORD",
   "data": [
     {
@@ -358,9 +358,9 @@
       "date": "2021-03-25",
       "locality": "SOUTH GUILDFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-03-25",
@@ -759,8 +759,8 @@
       "locality": "SOUTH GUILDFORD",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-04-21",
@@ -3623,15 +3623,39 @@
       "locality": "SOUTH GUILDFORD",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 10,
+      "vaccines": 17
     },
     {
       "date": "2021-09-06",
       "locality": "SOUTH GUILDFORD",
       "AgeGroup": "70 and over",
-      "dose1": 3,
-      "dose2": 1,
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "SOUTH GUILDFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 20,
+      "dose2": 12,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "SOUTH GUILDFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 4,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "SOUTH GUILDFORD",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
       "vaccines": 4
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-07T00:00:00",
+  "date_updated": "2021-09-08T00:00:00",
   "locality": "NORTHBRIDGE",
   "data": [
     {
@@ -1216,36 +1216,43 @@
     {
       "date": "2021-09-03",
       "locality": "NORTHBRIDGE",
-      "dose1": 7,
-      "dose2": 9,
-      "vaccines": 16
+      "dose1": 10,
+      "dose2": 10,
+      "vaccines": 20
     },
     {
       "date": "2021-09-04",
       "locality": "NORTHBRIDGE",
-      "dose1": 9,
+      "dose1": 12,
       "dose2": 6,
-      "vaccines": 15
+      "vaccines": 18
     },
     {
       "date": "2021-09-05",
       "locality": "NORTHBRIDGE",
-      "dose1": 6,
+      "dose1": 12,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 18
     },
     {
       "date": "2021-09-06",
       "locality": "NORTHBRIDGE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-09-07",
       "locality": "NORTHBRIDGE",
       "dose1": 8,
-      "dose2": 9,
+      "dose2": 10,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "NORTHBRIDGE",
+      "dose1": 7,
+      "dose2": 10,
       "vaccines": 17
     }
   ]

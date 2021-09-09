@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-07T00:00:00",
+  "date_updated": "2021-09-08T00:00:00",
   "locality": "LOCKRIDGE",
   "data": [
     {
@@ -1217,8 +1217,8 @@
       "date": "2021-09-03",
       "locality": "LOCKRIDGE",
       "dose1": 18,
-      "dose2": 8,
-      "vaccines": 26
+      "dose2": 10,
+      "vaccines": 28
     },
     {
       "date": "2021-09-04",
@@ -1230,23 +1230,30 @@
     {
       "date": "2021-09-05",
       "locality": "LOCKRIDGE",
-      "dose1": 6,
+      "dose1": 9,
       "dose2": 5,
-      "vaccines": 11
+      "vaccines": 14
     },
     {
       "date": "2021-09-06",
       "locality": "LOCKRIDGE",
-      "dose1": 11,
-      "dose2": 6,
-      "vaccines": 17
+      "dose1": 12,
+      "dose2": 7,
+      "vaccines": 19
     },
     {
       "date": "2021-09-07",
       "locality": "LOCKRIDGE",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 14,
-      "vaccines": 29
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "LOCKRIDGE",
+      "dose1": 11,
+      "dose2": 16,
+      "vaccines": 27
     }
   ]
 }

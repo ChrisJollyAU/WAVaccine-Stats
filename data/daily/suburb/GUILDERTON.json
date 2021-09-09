@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-07T00:00:00",
+  "date_updated": "2021-09-08T00:00:00",
   "locality": "GUILDERTON",
   "data": [
     {
@@ -559,8 +559,8 @@
       "date": "2021-08-31",
       "locality": "GUILDERTON",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-09-01",
@@ -596,6 +596,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "GUILDERTON",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

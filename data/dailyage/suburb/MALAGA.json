@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-07T00:00:00",
+  "date_updated": "2021-09-08T00:00:00",
   "postcode": "MALAGA",
   "data": [
     {
@@ -445,18 +445,10 @@
     {
       "date": "2021-05-31",
       "locality": "MALAGA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-31",
-      "locality": "MALAGA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-01",
@@ -502,9 +494,9 @@
       "date": "2021-06-05",
       "locality": "MALAGA",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-05",
@@ -677,6 +669,14 @@
     {
       "date": "2021-06-26",
       "locality": "MALAGA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-26",
+      "locality": "MALAGA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -693,7 +693,7 @@
     {
       "date": "2021-06-28",
       "locality": "MALAGA",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1585,6 +1585,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "MALAGA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "MALAGA",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

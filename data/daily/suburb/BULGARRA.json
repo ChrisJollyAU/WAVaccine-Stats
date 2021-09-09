@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-07T00:00:00",
+  "date_updated": "2021-09-08T00:00:00",
   "locality": "BULGARRA",
   "data": [
     {
@@ -47,9 +47,9 @@
     {
       "date": "2021-03-24",
       "locality": "BULGARRA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-29",
@@ -363,8 +363,8 @@
       "date": "2021-06-10",
       "locality": "BULGARRA",
       "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose2": 2,
+      "vaccines": 8
     },
     {
       "date": "2021-06-11",
@@ -789,9 +789,9 @@
     {
       "date": "2021-08-28",
       "locality": "BULGARRA",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-30",
@@ -838,16 +838,23 @@
     {
       "date": "2021-09-06",
       "locality": "BULGARRA",
-      "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose1": 7,
+      "dose2": 8,
+      "vaccines": 15
     },
     {
       "date": "2021-09-07",
       "locality": "BULGARRA",
       "dose1": 9,
-      "dose2": 6,
-      "vaccines": 15
+      "dose2": 7,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "BULGARRA",
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-07T00:00:00",
+  "date_updated": "2021-09-08T00:00:00",
   "locality": "TAPPING",
   "data": [
     {
@@ -1349,23 +1349,30 @@
     {
       "date": "2021-09-05",
       "locality": "TAPPING",
-      "dose1": 26,
+      "dose1": 27,
       "dose2": 14,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-09-06",
       "locality": "TAPPING",
-      "dose1": 42,
-      "dose2": 28,
-      "vaccines": 70
+      "dose1": 43,
+      "dose2": 29,
+      "vaccines": 72
     },
     {
       "date": "2021-09-07",
       "locality": "TAPPING",
-      "dose1": 30,
-      "dose2": 37,
-      "vaccines": 67
+      "dose1": 32,
+      "dose2": 40,
+      "vaccines": 72
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "TAPPING",
+      "dose1": 47,
+      "dose2": 36,
+      "vaccines": 83
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-07T00:00:00",
+  "date_updated": "2021-09-08T00:00:00",
   "locality": "NORTH BEACH",
   "data": [
     {
@@ -1321,9 +1321,16 @@
     {
       "date": "2021-09-07",
       "locality": "NORTH BEACH",
-      "dose1": 11,
-      "dose2": 28,
-      "vaccines": 39
+      "dose1": 14,
+      "dose2": 32,
+      "vaccines": 46
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "NORTH BEACH",
+      "dose1": 19,
+      "dose2": 14,
+      "vaccines": 33
     }
   ]
 }

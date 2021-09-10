@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "postcode": "GOODE BEACH",
   "data": [
     {
@@ -198,9 +198,9 @@
       "date": "2021-04-17",
       "locality": "GOODE BEACH",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-18",
@@ -262,6 +262,14 @@
       "date": "2021-05-05",
       "locality": "GOODE BEACH",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-07",
+      "locality": "GOODE BEACH",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -587,6 +595,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-26",
+      "locality": "GOODE BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-28",
       "locality": "GOODE BEACH",
       "AgeGroup": "16 to 49",
@@ -814,6 +830,14 @@
       "date": "2021-07-14",
       "locality": "GOODE BEACH",
       "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-16",
+      "locality": "GOODE BEACH",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1256,6 +1280,14 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "GOODE BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "postcode": "STRATTON",
   "data": [
     {
@@ -3015,8 +3015,8 @@
       "locality": "STRATTON",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2021-09-02",
@@ -3135,8 +3135,8 @@
       "locality": "STRATTON",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 4,
-      "vaccines": 17
+      "dose2": 5,
+      "vaccines": 18
     },
     {
       "date": "2021-09-08",
@@ -3153,6 +3153,22 @@
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "STRATTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 4,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "STRATTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

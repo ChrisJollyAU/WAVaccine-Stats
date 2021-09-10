@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "locality": "WILLIAMS",
   "data": [
     {
@@ -901,9 +901,16 @@
     {
       "date": "2021-09-08",
       "locality": "WILLIAMS",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "WILLIAMS",
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
     }
   ]
 }

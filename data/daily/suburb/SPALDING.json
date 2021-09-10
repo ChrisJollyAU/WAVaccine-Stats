@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "locality": "SPALDING",
   "data": [
     {
@@ -1083,9 +1083,16 @@
     {
       "date": "2021-09-08",
       "locality": "SPALDING",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 14
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "SPALDING",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

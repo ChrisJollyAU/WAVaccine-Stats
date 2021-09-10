@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "locality": "ORANA",
   "data": [
     {
@@ -1160,16 +1160,16 @@
     {
       "date": "2021-09-04",
       "locality": "ORANA",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 5,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-09-05",
       "locality": "ORANA",
       "dose1": 10,
-      "dose2": 13,
-      "vaccines": 23
+      "dose2": 14,
+      "vaccines": 24
     },
     {
       "date": "2021-09-06",
@@ -1188,9 +1188,16 @@
     {
       "date": "2021-09-08",
       "locality": "ORANA",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "ORANA",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "postcode": "MORANGUP",
   "data": [
     {
@@ -1835,6 +1835,14 @@
       "vaccines": 4
     },
     {
+      "date": "2021-09-06",
+      "locality": "MORANGUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-07",
       "locality": "MORANGUP",
       "AgeGroup": "16 to 49",
@@ -1873,6 +1881,14 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "MORANGUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

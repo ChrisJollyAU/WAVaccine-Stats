@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "locality": "MUNDIJONG",
   "data": [
     {
@@ -1160,16 +1160,23 @@
     {
       "date": "2021-09-07",
       "locality": "MUNDIJONG",
-      "dose1": 10,
+      "dose1": 14,
       "dose2": 10,
-      "vaccines": 20
+      "vaccines": 24
     },
     {
       "date": "2021-09-08",
       "locality": "MUNDIJONG",
+      "dose1": 8,
+      "dose2": 9,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "MUNDIJONG",
       "dose1": 6,
-      "dose2": 7,
-      "vaccines": 13
+      "dose2": 5,
+      "vaccines": 11
     }
   ]
 }

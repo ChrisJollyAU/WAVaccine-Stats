@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "locality": "CANNING VALE SOUTH",
   "data": [
     {
@@ -283,6 +283,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-14",
+      "locality": "CANNING VALE SOUTH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-16",
       "locality": "CANNING VALE SOUTH",
       "dose1": 0,
@@ -357,6 +364,13 @@
       "locality": "CANNING VALE SOUTH",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-05",
+      "locality": "CANNING VALE SOUTH",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -687,6 +701,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "CANNING VALE SOUTH",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

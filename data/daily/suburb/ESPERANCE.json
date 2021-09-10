@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-08T00:00:00",
+  "date_updated": "2021-09-09T00:00:00",
   "locality": "ESPERANCE",
   "data": [
     {
@@ -1174,9 +1174,16 @@
     {
       "date": "2021-09-08",
       "locality": "ESPERANCE",
-      "dose1": 33,
-      "dose2": 35,
-      "vaccines": 68
+      "dose1": 35,
+      "dose2": 59,
+      "vaccines": 94
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "ESPERANCE",
+      "dose1": 17,
+      "dose2": 59,
+      "vaccines": 76
     }
   ]
 }

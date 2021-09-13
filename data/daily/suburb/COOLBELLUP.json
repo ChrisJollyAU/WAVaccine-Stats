@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "COOLBELLUP",
   "data": [
     {
@@ -1287,8 +1287,29 @@
       "date": "2021-09-09",
       "locality": "COOLBELLUP",
       "dose1": 30,
-      "dose2": 23,
-      "vaccines": 53
+      "dose2": 25,
+      "vaccines": 55
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "COOLBELLUP",
+      "dose1": 26,
+      "dose2": 36,
+      "vaccines": 62
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "COOLBELLUP",
+      "dose1": 16,
+      "dose2": 16,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "COOLBELLUP",
+      "dose1": 12,
+      "dose2": 14,
+      "vaccines": 26
     }
   ]
 }

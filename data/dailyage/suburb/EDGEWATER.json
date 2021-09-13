@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "postcode": "EDGEWATER",
   "data": [
     {
@@ -310,9 +310,9 @@
       "date": "2021-03-19",
       "locality": "EDGEWATER",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-03-20",
@@ -1526,9 +1526,9 @@
       "date": "2021-05-25",
       "locality": "EDGEWATER",
       "AgeGroup": "50 to 69",
-      "dose1": 29,
+      "dose1": 28,
       "dose2": 2,
-      "vaccines": 31
+      "vaccines": 30
     },
     {
       "date": "2021-05-25",
@@ -1911,8 +1911,8 @@
       "locality": "EDGEWATER",
       "AgeGroup": "50 to 69",
       "dose1": 15,
-      "dose2": 1,
-      "vaccines": 16
+      "dose2": 0,
+      "vaccines": 15
     },
     {
       "date": "2021-06-11",
@@ -3439,8 +3439,8 @@
       "locality": "EDGEWATER",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 29,
-      "vaccines": 34
+      "dose2": 28,
+      "vaccines": 33
     },
     {
       "date": "2021-08-17",
@@ -3454,9 +3454,9 @@
       "date": "2021-08-18",
       "locality": "EDGEWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 11,
-      "vaccines": 25
+      "vaccines": 24
     },
     {
       "date": "2021-08-18",
@@ -3526,9 +3526,9 @@
       "date": "2021-08-21",
       "locality": "EDGEWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 16,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-08-21",
@@ -3774,9 +3774,9 @@
       "date": "2021-09-01",
       "locality": "EDGEWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 9,
-      "vaccines": 36
+      "vaccines": 37
     },
     {
       "date": "2021-09-01",
@@ -3958,25 +3958,73 @@
       "date": "2021-09-09",
       "locality": "EDGEWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
-      "dose2": 16,
-      "vaccines": 32
+      "dose1": 17,
+      "dose2": 17,
+      "vaccines": 34
     },
     {
       "date": "2021-09-09",
       "locality": "EDGEWATER",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose1": 4,
+      "dose2": 8,
+      "vaccines": 12
     },
     {
       "date": "2021-09-09",
       "locality": "EDGEWATER",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "EDGEWATER",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 16,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "EDGEWATER",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 10,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "EDGEWATER",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "EDGEWATER",
+      "AgeGroup": "16 to 49",
+      "dose1": 17,
+      "dose2": 14,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "EDGEWATER",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "EDGEWATER",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 8,
+      "vaccines": 20
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "postcode": "WARWICK",
   "data": [
     {
@@ -1518,9 +1518,9 @@
       "date": "2021-05-21",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-21",
@@ -1975,8 +1975,8 @@
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-06-11",
@@ -2366,17 +2366,17 @@
       "date": "2021-06-29",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-06-29",
       "locality": "WARWICK",
       "AgeGroup": "50 to 69",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 1,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-06-29",
@@ -2710,9 +2710,9 @@
       "date": "2021-07-14",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 9,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-07-14",
@@ -2870,9 +2870,9 @@
       "date": "2021-07-21",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 4,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-07-21",
@@ -2983,16 +2983,16 @@
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 6,
-      "vaccines": 12
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-07-26",
       "locality": "WARWICK",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 9,
-      "vaccines": 11
+      "dose2": 10,
+      "vaccines": 12
     },
     {
       "date": "2021-07-26",
@@ -3190,8 +3190,8 @@
       "date": "2021-08-04",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
-      "dose2": 3,
+      "dose1": 9,
+      "dose2": 4,
       "vaccines": 13
     },
     {
@@ -3359,8 +3359,8 @@
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 9,
-      "vaccines": 14
+      "dose2": 10,
+      "vaccines": 15
     },
     {
       "date": "2021-08-11",
@@ -3590,9 +3590,9 @@
       "date": "2021-08-21",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 19
+      "vaccines": 17
     },
     {
       "date": "2021-08-21",
@@ -3974,9 +3974,9 @@
       "date": "2021-09-07",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 13,
       "dose2": 8,
-      "vaccines": 19
+      "vaccines": 21
     },
     {
       "date": "2021-09-07",
@@ -3991,16 +3991,16 @@
       "locality": "WARWICK",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
     },
     {
       "date": "2021-09-08",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 6,
-      "vaccines": 16
+      "dose2": 7,
+      "vaccines": 17
     },
     {
       "date": "2021-09-08",
@@ -4015,32 +4015,96 @@
       "locality": "WARWICK",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-09",
       "locality": "WARWICK",
       "AgeGroup": "16 to 49",
       "dose1": 20,
-      "dose2": 9,
-      "vaccines": 29
+      "dose2": 10,
+      "vaccines": 30
     },
     {
       "date": "2021-09-09",
       "locality": "WARWICK",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 11,
+      "vaccines": 15
     },
     {
       "date": "2021-09-09",
       "locality": "WARWICK",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 4,
+      "dose2": 8,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "WARWICK",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 16,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "WARWICK",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "WARWICK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
       "dose2": 7,
-      "vaccines": 8
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "WARWICK",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 8,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "WARWICK",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "WARWICK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "WARWICK",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 7,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "WARWICK",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "LANDSDALE",
   "data": [
     {
@@ -194,9 +194,9 @@
     {
       "date": "2021-03-22",
       "locality": "LANDSDALE",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 1,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-03-23",
@@ -209,15 +209,15 @@
       "date": "2021-03-24",
       "locality": "LANDSDALE",
       "dose1": 23,
-      "dose2": 3,
-      "vaccines": 26
+      "dose2": 4,
+      "vaccines": 27
     },
     {
       "date": "2021-03-25",
       "locality": "LANDSDALE",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 3,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-03-26",
@@ -348,9 +348,9 @@
     {
       "date": "2021-04-14",
       "locality": "LANDSDALE",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 10,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-04-15",
@@ -572,8 +572,8 @@
     {
       "date": "2021-05-18",
       "locality": "LANDSDALE",
-      "dose1": 34,
-      "dose2": 10,
+      "dose1": 33,
+      "dose2": 11,
       "vaccines": 44
     },
     {
@@ -720,8 +720,8 @@
       "date": "2021-06-08",
       "locality": "LANDSDALE",
       "dose1": 23,
-      "dose2": 12,
-      "vaccines": 35
+      "dose2": 14,
+      "vaccines": 37
     },
     {
       "date": "2021-06-09",
@@ -957,9 +957,9 @@
     {
       "date": "2021-07-12",
       "locality": "LANDSDALE",
-      "dose1": 38,
+      "dose1": 37,
       "dose2": 24,
-      "vaccines": 62
+      "vaccines": 61
     },
     {
       "date": "2021-07-13",
@@ -1076,9 +1076,9 @@
     {
       "date": "2021-07-29",
       "locality": "LANDSDALE",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 19,
-      "vaccines": 53
+      "vaccines": 54
     },
     {
       "date": "2021-07-30",
@@ -1223,16 +1223,16 @@
     {
       "date": "2021-08-19",
       "locality": "LANDSDALE",
-      "dose1": 71,
-      "dose2": 53,
-      "vaccines": 124
+      "dose1": 68,
+      "dose2": 54,
+      "vaccines": 122
     },
     {
       "date": "2021-08-20",
       "locality": "LANDSDALE",
-      "dose1": 63,
+      "dose1": 62,
       "dose2": 76,
-      "vaccines": 139
+      "vaccines": 138
     },
     {
       "date": "2021-08-21",
@@ -1293,9 +1293,9 @@
     {
       "date": "2021-08-29",
       "locality": "LANDSDALE",
-      "dose1": 51,
+      "dose1": 50,
       "dose2": 51,
-      "vaccines": 102
+      "vaccines": 101
     },
     {
       "date": "2021-08-30",
@@ -1350,8 +1350,8 @@
       "date": "2021-09-06",
       "locality": "LANDSDALE",
       "dose1": 51,
-      "dose2": 51,
-      "vaccines": 102
+      "dose2": 50,
+      "vaccines": 101
     },
     {
       "date": "2021-09-07",
@@ -1363,16 +1363,37 @@
     {
       "date": "2021-09-08",
       "locality": "LANDSDALE",
-      "dose1": 72,
-      "dose2": 63,
-      "vaccines": 135
+      "dose1": 73,
+      "dose2": 64,
+      "vaccines": 137
     },
     {
       "date": "2021-09-09",
       "locality": "LANDSDALE",
-      "dose1": 62,
-      "dose2": 43,
-      "vaccines": 105
+      "dose1": 67,
+      "dose2": 47,
+      "vaccines": 114
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "LANDSDALE",
+      "dose1": 42,
+      "dose2": 102,
+      "vaccines": 144
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "LANDSDALE",
+      "dose1": 44,
+      "dose2": 49,
+      "vaccines": 93
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "LANDSDALE",
+      "dose1": 71,
+      "dose2": 58,
+      "vaccines": 129
     }
   ]
 }

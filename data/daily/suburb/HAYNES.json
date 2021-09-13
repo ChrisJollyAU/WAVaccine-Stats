@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "HAYNES",
   "data": [
     {
@@ -1163,6 +1163,27 @@
       "dose1": 9,
       "dose2": 11,
       "vaccines": 20
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "HAYNES",
+      "dose1": 4,
+      "dose2": 11,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "HAYNES",
+      "dose1": 8,
+      "dose2": 4,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "HAYNES",
+      "dose1": 9,
+      "dose2": 8,
+      "vaccines": 17
     }
   ]
 }

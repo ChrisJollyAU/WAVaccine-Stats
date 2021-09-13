@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "KOJONUP",
   "data": [
     {
@@ -992,9 +992,30 @@
     {
       "date": "2021-09-09",
       "locality": "KOJONUP",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "KOJONUP",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "KOJONUP",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "KOJONUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

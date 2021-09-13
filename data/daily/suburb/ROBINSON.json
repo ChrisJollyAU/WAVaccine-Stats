@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "ROBINSON",
   "data": [
     {
@@ -902,8 +902,22 @@
       "date": "2021-09-09",
       "locality": "ROBINSON",
       "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "ROBINSON",
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "ROBINSON",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

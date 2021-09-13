@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "BOYANUP",
   "data": [
     {
@@ -1084,15 +1084,29 @@
       "date": "2021-09-08",
       "locality": "BOYANUP",
       "dose1": 8,
-      "dose2": 11,
-      "vaccines": 19
+      "dose2": 12,
+      "vaccines": 20
     },
     {
       "date": "2021-09-09",
       "locality": "BOYANUP",
-      "dose1": 4,
-      "dose2": 7,
-      "vaccines": 11
+      "dose1": 6,
+      "dose2": 8,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "BOYANUP",
+      "dose1": 6,
+      "dose2": 12,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "BOYANUP",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

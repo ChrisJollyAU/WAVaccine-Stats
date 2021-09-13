@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "RIDGEWOOD",
   "data": [
     {
@@ -1231,8 +1231,8 @@
       "date": "2021-09-03",
       "locality": "RIDGEWOOD",
       "dose1": 19,
-      "dose2": 23,
-      "vaccines": 42
+      "dose2": 24,
+      "vaccines": 43
     },
     {
       "date": "2021-09-04",
@@ -1272,8 +1272,29 @@
     {
       "date": "2021-09-09",
       "locality": "RIDGEWOOD",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 14,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "RIDGEWOOD",
+      "dose1": 15,
+      "dose2": 15,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "RIDGEWOOD",
+      "dose1": 22,
+      "dose2": 7,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "RIDGEWOOD",
+      "dose1": 8,
+      "dose2": 21,
       "vaccines": 29
     }
   ]

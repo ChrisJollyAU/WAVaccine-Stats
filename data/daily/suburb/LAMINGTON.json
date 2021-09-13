@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "LAMINGTON",
   "data": [
     {
@@ -145,9 +145,9 @@
     {
       "date": "2021-04-28",
       "locality": "LAMINGTON",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-04-29",
@@ -251,8 +251,8 @@
       "date": "2021-05-19",
       "locality": "LAMINGTON",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-05-20",
@@ -600,9 +600,9 @@
     {
       "date": "2021-07-23",
       "locality": "LAMINGTON",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 8,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-07-24",
@@ -642,9 +642,9 @@
     {
       "date": "2021-07-30",
       "locality": "LAMINGTON",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-07-31",
@@ -776,8 +776,8 @@
       "date": "2021-08-20",
       "locality": "LAMINGTON",
       "dose1": 4,
-      "dose2": 16,
-      "vaccines": 20
+      "dose2": 15,
+      "vaccines": 19
     },
     {
       "date": "2021-08-21",
@@ -796,9 +796,9 @@
     {
       "date": "2021-08-23",
       "locality": "LAMINGTON",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 2,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-08-24",
@@ -825,8 +825,8 @@
       "date": "2021-08-27",
       "locality": "LAMINGTON",
       "dose1": 3,
-      "dose2": 20,
-      "vaccines": 23
+      "dose2": 19,
+      "vaccines": 22
     },
     {
       "date": "2021-08-28",
@@ -918,6 +918,20 @@
       "dose1": 4,
       "dose2": 13,
       "vaccines": 17
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "LAMINGTON",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "LAMINGTON",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

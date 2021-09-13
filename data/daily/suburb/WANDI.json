@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "WANDI",
   "data": [
     {
@@ -1006,9 +1006,9 @@
     {
       "date": "2021-08-01",
       "locality": "WANDI",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-02",
@@ -1168,8 +1168,8 @@
       "date": "2021-08-24",
       "locality": "WANDI",
       "dose1": 19,
-      "dose2": 19,
-      "vaccines": 38
+      "dose2": 20,
+      "vaccines": 39
     },
     {
       "date": "2021-08-25",
@@ -1272,16 +1272,37 @@
     {
       "date": "2021-09-08",
       "locality": "WANDI",
-      "dose1": 17,
+      "dose1": 20,
       "dose2": 27,
-      "vaccines": 44
+      "vaccines": 47
     },
     {
       "date": "2021-09-09",
       "locality": "WANDI",
-      "dose1": 14,
-      "dose2": 16,
-      "vaccines": 30
+      "dose1": 15,
+      "dose2": 17,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "WANDI",
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "WANDI",
+      "dose1": 11,
+      "dose2": 14,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "WANDI",
+      "dose1": 8,
+      "dose2": 17,
+      "vaccines": 25
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "ALLANSON",
   "data": [
     {
@@ -586,9 +586,23 @@
     {
       "date": "2021-09-09",
       "locality": "ALLANSON",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "ALLANSON",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "ALLANSON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

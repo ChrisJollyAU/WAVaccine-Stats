@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "DENBARKER",
   "data": [
     {
@@ -110,9 +110,9 @@
     {
       "date": "2021-08-04",
       "locality": "DENBARKER",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-08",
@@ -172,6 +172,13 @@
     },
     {
       "date": "2021-09-02",
+      "locality": "DENBARKER",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-03",
       "locality": "DENBARKER",
       "dose1": 0,
       "dose2": 1,

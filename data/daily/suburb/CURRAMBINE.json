@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "CURRAMBINE",
   "data": [
     {
@@ -180,9 +180,9 @@
     {
       "date": "2021-03-25",
       "locality": "CURRAMBINE",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 4,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-03-26",
@@ -502,8 +502,8 @@
     {
       "date": "2021-05-18",
       "locality": "CURRAMBINE",
-      "dose1": 40,
-      "dose2": 6,
+      "dose1": 41,
+      "dose2": 5,
       "vaccines": 46
     },
     {
@@ -1091,8 +1091,8 @@
       "date": "2021-08-10",
       "locality": "CURRAMBINE",
       "dose1": 24,
-      "dose2": 40,
-      "vaccines": 64
+      "dose2": 41,
+      "vaccines": 65
     },
     {
       "date": "2021-08-11",
@@ -1139,9 +1139,9 @@
     {
       "date": "2021-08-17",
       "locality": "CURRAMBINE",
-      "dose1": 28,
+      "dose1": 29,
       "dose2": 48,
-      "vaccines": 76
+      "vaccines": 77
     },
     {
       "date": "2021-08-18",
@@ -1209,9 +1209,9 @@
     {
       "date": "2021-08-27",
       "locality": "CURRAMBINE",
-      "dose1": 31,
+      "dose1": 32,
       "dose2": 41,
-      "vaccines": 72
+      "vaccines": 73
     },
     {
       "date": "2021-08-28",
@@ -1293,16 +1293,37 @@
     {
       "date": "2021-09-08",
       "locality": "CURRAMBINE",
-      "dose1": 42,
-      "dose2": 38,
-      "vaccines": 80
+      "dose1": 44,
+      "dose2": 39,
+      "vaccines": 83
     },
     {
       "date": "2021-09-09",
       "locality": "CURRAMBINE",
-      "dose1": 31,
-      "dose2": 32,
+      "dose1": 32,
+      "dose2": 37,
+      "vaccines": 69
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "CURRAMBINE",
+      "dose1": 24,
+      "dose2": 39,
       "vaccines": 63
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "CURRAMBINE",
+      "dose1": 25,
+      "dose2": 24,
+      "vaccines": 49
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "CURRAMBINE",
+      "dose1": 18,
+      "dose2": 13,
+      "vaccines": 31
     }
   ]
 }

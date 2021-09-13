@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "WANDINA",
   "data": [
     {
@@ -1146,9 +1146,23 @@
     {
       "date": "2021-09-09",
       "locality": "WANDINA",
-      "dose1": 11,
-      "dose2": 11,
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "WANDINA",
+      "dose1": 14,
+      "dose2": 8,
       "vaccines": 22
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "WANDINA",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "EMU POINT",
   "data": [
     {
@@ -699,8 +699,15 @@
       "date": "2021-09-09",
       "locality": "EMU POINT",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "EMU POINT",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

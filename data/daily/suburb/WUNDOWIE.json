@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-09T00:00:00",
+  "date_updated": "2021-09-12T00:00:00",
   "locality": "WUNDOWIE",
   "data": [
     {
@@ -124,9 +124,9 @@
     {
       "date": "2021-04-07",
       "locality": "WUNDOWIE",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-04-08",
@@ -678,8 +678,8 @@
       "date": "2021-07-19",
       "locality": "WUNDOWIE",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-07-20",
@@ -1028,8 +1028,29 @@
       "date": "2021-09-09",
       "locality": "WUNDOWIE",
       "dose1": 11,
-      "dose2": 7,
-      "vaccines": 18
+      "dose2": 8,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "WUNDOWIE",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "WUNDOWIE",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "WUNDOWIE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

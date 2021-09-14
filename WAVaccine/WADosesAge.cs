@@ -365,6 +365,7 @@ namespace WAVaccine
             Queue<DoseObjectAge> queue1649 = new Queue<DoseObjectAge>();
             Queue<DoseObjectAge> queue5069 = new Queue<DoseObjectAge>();
             Queue<DoseObjectAge> queue70over = new Queue<DoseObjectAge>();
+            Queue<DoseObjectAge> queue1215 = new Queue<DoseObjectAge>();
             List<DoseObjectAge> rollavg = new List<DoseObjectAge>();
             var grpitems = to.GroupBy(tt => new { tt.date, tt.AgeGroup });
             foreach (var it in grpitems)
@@ -381,6 +382,14 @@ namespace WAVaccine
                 else if (it.Key.AgeGroup == "70 and over")
                 {
                     queue = queue70over;
+                }
+                else if (it.Key.AgeGroup == "Out of Range")
+                {
+                    continue;
+                }
+                else if (it.Key.AgeGroup == "12 to 15")
+                {
+                    queue = queue1215;
                 }
                 queue.Enqueue(it.First());
                 if (queue.Count > 7) queue.Dequeue();

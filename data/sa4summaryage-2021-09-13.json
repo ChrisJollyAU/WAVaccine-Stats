@@ -27,7 +27,9 @@
       "dose1_12_15": 82,
       "dose2_12_15": 11,
       "atleast_1dose_percent12": 55.444911147011308562197092080,
-      "full_vaccinated_percent12": 37.248465266558966074313408720
+      "full_vaccinated_percent12": 37.248465266558966074313408720,
+      "min1d_12_15_pc": 0.7802093244529019980970504300,
+      "full_12_15_pc": 0.1046622264509990485252140800
     },
     {
       "SA4Name": "Mandurah",
@@ -55,7 +57,9 @@
       "dose1_12_15": 43,
       "dose2_12_15": 7,
       "atleast_1dose_percent12": 55.463306488100624377884354360,
-      "full_vaccinated_percent12": 37.408379332187132386209392820
+      "full_vaccinated_percent12": 37.408379332187132386209392820,
+      "min1d_12_15_pc": 0.825494336724899212900748700,
+      "full_12_15_pc": 0.1343827990017277788443079300
     },
     {
       "SA4Name": "Perth - Inner",
@@ -83,7 +87,9 @@
       "dose1_12_15": 207,
       "dose2_12_15": 20,
       "atleast_1dose_percent12": 71.629564665708794387117239840,
-      "full_vaccinated_percent12": 51.919787526512536308957349800
+      "full_vaccinated_percent12": 51.919787526512536308957349800,
+      "min1d_12_15_pc": 2.6409798417963766266904822700,
+      "full_12_15_pc": 0.2551671344730798673130900700
     },
     {
       "SA4Name": "Perth - North East",
@@ -111,7 +117,9 @@
       "dose1_12_15": 192,
       "dose2_12_15": 14,
       "atleast_1dose_percent12": 52.283434030945235482577330040,
-      "full_vaccinated_percent12": 34.030504545714953044505259630
+      "full_vaccinated_percent12": 34.030504545714953044505259630,
+      "min1d_12_15_pc": 1.472618499769903359410952600,
+      "full_12_15_pc": 0.1073784322748887866237152900
     },
     {
       "SA4Name": "Perth - North West",
@@ -139,7 +147,9 @@
       "dose1_12_15": 353,
       "dose2_12_15": 39,
       "atleast_1dose_percent12": 58.175371010812940506938668300,
-      "full_vaccinated_percent12": 40.073545506282011994921857900
+      "full_vaccinated_percent12": 40.073545506282011994921857900,
+      "min1d_12_15_pc": 1.2334894122580194283318191300,
+      "full_12_15_pc": 0.1362778670766650359913341300
     },
     {
       "SA4Name": "Perth - South East",
@@ -167,7 +177,9 @@
       "dose1_12_15": 282,
       "dose2_12_15": 16,
       "atleast_1dose_percent12": 54.511736125367823171148976940,
-      "full_vaccinated_percent12": 35.517233513538173772211957390
+      "full_vaccinated_percent12": 35.517233513538173772211957390,
+      "min1d_12_15_pc": 1.1585390904235651780945729400,
+      "full_12_15_pc": 0.0657327143502732015940183200
     },
     {
       "SA4Name": "Perth - South West",
@@ -195,7 +207,9 @@
       "dose1_12_15": 266,
       "dose2_12_15": 28,
       "atleast_1dose_percent12": 57.890629263766850406592806850,
-      "full_vaccinated_percent12": 39.066746711783004966435627350
+      "full_vaccinated_percent12": 39.066746711783004966435627350,
+      "min1d_12_15_pc": 1.2154999086090294278925242200,
+      "full_12_15_pc": 0.1279473588009504660939499200
     },
     {
       "SA4Name": "Western Australia - Wheat Belt",
@@ -223,7 +237,9 @@
       "dose1_12_15": 93,
       "dose2_12_15": 9,
       "atleast_1dose_percent12": 54.583960843373493975903614460,
-      "full_vaccinated_percent12": 35.904983570646221248630887190
+      "full_vaccinated_percent12": 35.904983570646221248630887190,
+      "min1d_12_15_pc": 1.309674693705111956062526400,
+      "full_12_15_pc": 0.1267427122940430925221799700
     },
     {
       "SA4Name": "Western Australia - Outback (North)",
@@ -251,7 +267,9 @@
       "dose1_12_15": 218,
       "dose2_12_15": 31,
       "atleast_1dose_percent12": 31.478014471487122400445276530,
-      "full_vaccinated_percent12": 18.786368466325962657491271570
+      "full_vaccinated_percent12": 18.786368466325962657491271570,
+      "min1d_12_15_pc": 4.6511627906976744186046511600,
+      "full_12_15_pc": 0.6614038830808619586089182800
     },
     {
       "SA4Name": "Western Australia - Outback (South)",
@@ -279,7 +297,9 @@
       "dose1_12_15": 93,
       "dose2_12_15": 7,
       "atleast_1dose_percent12": 45.731569309273471739264624180,
-      "full_vaccinated_percent12": 29.338902491718277401699553510
+      "full_vaccinated_percent12": 29.338902491718277401699553510,
+      "min1d_12_15_pc": 1.4743183259353202282815472400,
+      "full_12_15_pc": 0.1109701965757767913760304400
     },
     {
       "SA4Name": "Migratory - Offshore - Shipping (WA)",
@@ -307,7 +327,9 @@
       "dose1_12_15": 0,
       "dose2_12_15": 0,
       "atleast_1dose_percent12": 0.0,
-      "full_vaccinated_percent12": 0.0
+      "full_vaccinated_percent12": 0.0,
+      "min1d_12_15_pc": 0.0,
+      "full_12_15_pc": 0.0
     },
     {
       "SA4Name": "No usual address (WA)",
@@ -335,7 +357,9 @@
       "dose1_12_15": 0,
       "dose2_12_15": 0,
       "atleast_1dose_percent12": 0.0,
-      "full_vaccinated_percent12": 0.0
+      "full_vaccinated_percent12": 0.0,
+      "min1d_12_15_pc": 0.0,
+      "full_12_15_pc": 0.0
     },
     {
       "SA4Name": "Other Territories",
@@ -363,7 +387,9 @@
       "dose1_12_15": 72,
       "dose2_12_15": 49,
       "atleast_1dose_percent12": 0.0,
-      "full_vaccinated_percent12": 0.0
+      "full_vaccinated_percent12": 0.0,
+      "min1d_12_15_pc": 0.0,
+      "full_12_15_pc": 0.0
     },
     {
       "SA4Name": "Migratory - Offshore - Shipping (OT)",
@@ -391,7 +417,9 @@
       "dose1_12_15": 0,
       "dose2_12_15": 0,
       "atleast_1dose_percent12": 0.0,
-      "full_vaccinated_percent12": 0.0
+      "full_vaccinated_percent12": 0.0,
+      "min1d_12_15_pc": 0.0,
+      "full_12_15_pc": 0.0
     },
     {
       "SA4Name": "No usual address (OT)",
@@ -419,7 +447,9 @@
       "dose1_12_15": 0,
       "dose2_12_15": 0,
       "atleast_1dose_percent12": 0.0,
-      "full_vaccinated_percent12": 0.0
+      "full_vaccinated_percent12": 0.0,
+      "min1d_12_15_pc": 0.0,
+      "full_12_15_pc": 0.0
     }
   ]
 }

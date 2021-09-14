@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "locality": "LEDA",
   "data": [
     {
@@ -937,8 +937,8 @@
       "date": "2021-08-05",
       "locality": "LEDA",
       "dose1": 12,
-      "dose2": 9,
-      "vaccines": 21
+      "dose2": 10,
+      "vaccines": 22
     },
     {
       "date": "2021-08-06",
@@ -1146,16 +1146,16 @@
     {
       "date": "2021-09-04",
       "locality": "LEDA",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 4,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-09-05",
       "locality": "LEDA",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 13,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-09-06",
@@ -1202,9 +1202,16 @@
     {
       "date": "2021-09-12",
       "locality": "LEDA",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "LEDA",
+      "dose1": 15,
+      "dose2": 18,
+      "vaccines": 33
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "locality": "COOGEE",
   "data": [
     {
@@ -1321,16 +1321,23 @@
     {
       "date": "2021-09-11",
       "locality": "COOGEE",
-      "dose1": 23,
-      "dose2": 20,
-      "vaccines": 43
+      "dose1": 25,
+      "dose2": 21,
+      "vaccines": 46
     },
     {
       "date": "2021-09-12",
       "locality": "COOGEE",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 13,
-      "vaccines": 22
+      "vaccines": 23
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "COOGEE",
+      "dose1": 13,
+      "dose2": 21,
+      "vaccines": 34
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "locality": "DUNSBOROUGH",
   "data": [
     {
@@ -677,9 +677,9 @@
     {
       "date": "2021-06-18",
       "locality": "DUNSBOROUGH",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-06-19",
@@ -1251,23 +1251,23 @@
     {
       "date": "2021-09-09",
       "locality": "DUNSBOROUGH",
-      "dose1": 16,
-      "dose2": 23,
-      "vaccines": 39
+      "dose1": 18,
+      "dose2": 30,
+      "vaccines": 48
     },
     {
       "date": "2021-09-10",
       "locality": "DUNSBOROUGH",
       "dose1": 25,
-      "dose2": 55,
-      "vaccines": 80
+      "dose2": 54,
+      "vaccines": 79
     },
     {
       "date": "2021-09-11",
       "locality": "DUNSBOROUGH",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-12",
@@ -1275,6 +1275,13 @@
       "dose1": 3,
       "dose2": 1,
       "vaccines": 4
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "DUNSBOROUGH",
+      "dose1": 25,
+      "dose2": 20,
+      "vaccines": 45
     }
   ]
 }

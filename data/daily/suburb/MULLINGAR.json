@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "locality": "MULLINGAR",
   "data": [
     {
@@ -32,6 +32,13 @@
     },
     {
       "date": "2021-04-15",
+      "locality": "MULLINGAR",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-22",
       "locality": "MULLINGAR",
       "dose1": 1,
       "dose2": 0,
@@ -76,8 +83,8 @@
       "date": "2021-05-13",
       "locality": "MULLINGAR",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-05-14",
@@ -360,6 +367,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-04",
+      "locality": "MULLINGAR",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-05",
       "locality": "MULLINGAR",
       "dose1": 2,
@@ -475,8 +489,8 @@
       "date": "2021-08-25",
       "locality": "MULLINGAR",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-08-26",
@@ -554,6 +568,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "MULLINGAR",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

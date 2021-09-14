@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "postcode": "NEWDEGATE",
   "data": [
     {
@@ -403,6 +403,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-27",
+      "locality": "NEWDEGATE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-28",
       "locality": "NEWDEGATE",
       "AgeGroup": "16 to 49",
@@ -575,8 +583,8 @@
       "locality": "NEWDEGATE",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 0,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 7
     },
     {
       "date": "2021-08-17",
@@ -793,6 +801,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "NEWDEGATE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

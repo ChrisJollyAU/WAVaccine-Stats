@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "postcode": "YOKINE",
   "data": [
     {
@@ -1254,9 +1254,9 @@
       "date": "2021-04-23",
       "locality": "YOKINE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-04-23",
@@ -3974,9 +3974,9 @@
       "date": "2021-08-18",
       "locality": "YOKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 79,
+      "dose1": 80,
       "dose2": 38,
-      "vaccines": 117
+      "vaccines": 118
     },
     {
       "date": "2021-08-18",
@@ -4137,6 +4137,14 @@
       "dose1": 5,
       "dose2": 17,
       "vaccines": 22
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "YOKINE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-25",
@@ -4397,6 +4405,14 @@
     {
       "date": "2021-09-05",
       "locality": "YOKINE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "YOKINE",
       "AgeGroup": "16 to 49",
       "dose1": 70,
       "dose2": 22,
@@ -4462,17 +4478,17 @@
       "date": "2021-09-08",
       "locality": "YOKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
-      "dose2": 41,
-      "vaccines": 64
+      "dose1": 24,
+      "dose2": 42,
+      "vaccines": 66
     },
     {
       "date": "2021-09-08",
       "locality": "YOKINE",
       "AgeGroup": "50 to 69",
       "dose1": 9,
-      "dose2": 21,
-      "vaccines": 30
+      "dose2": 22,
+      "vaccines": 31
     },
     {
       "date": "2021-09-08",
@@ -4495,8 +4511,8 @@
       "locality": "YOKINE",
       "AgeGroup": "50 to 69",
       "dose1": 11,
-      "dose2": 14,
-      "vaccines": 25
+      "dose2": 15,
+      "vaccines": 26
     },
     {
       "date": "2021-09-09",
@@ -4510,17 +4526,17 @@
       "date": "2021-09-10",
       "locality": "YOKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 29,
       "dose2": 41,
-      "vaccines": 69
+      "vaccines": 70
     },
     {
       "date": "2021-09-10",
       "locality": "YOKINE",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 12,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-09-10",
@@ -4534,33 +4550,33 @@
       "date": "2021-09-11",
       "locality": "YOKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 37,
-      "dose2": 38,
-      "vaccines": 75
+      "dose1": 39,
+      "dose2": 39,
+      "vaccines": 78
     },
     {
       "date": "2021-09-11",
       "locality": "YOKINE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 10,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-09-11",
       "locality": "YOKINE",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-09-12",
       "locality": "YOKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 36,
+      "dose1": 39,
       "dose2": 49,
-      "vaccines": 85
+      "vaccines": 88
     },
     {
       "date": "2021-09-12",
@@ -4569,6 +4585,30 @@
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "YOKINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 17,
+      "dose2": 46,
+      "vaccines": 63
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "YOKINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 15,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "YOKINE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

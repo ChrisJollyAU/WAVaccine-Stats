@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "locality": "BERTRAM",
   "data": [
     {
@@ -551,9 +551,9 @@
     {
       "date": "2021-05-31",
       "locality": "BERTRAM",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-06-01",
@@ -803,9 +803,9 @@
     {
       "date": "2021-07-07",
       "locality": "BERTRAM",
-      "dose1": 33,
+      "dose1": 34,
       "dose2": 4,
-      "vaccines": 37
+      "vaccines": 38
     },
     {
       "date": "2021-07-08",
@@ -1133,8 +1133,8 @@
       "date": "2021-08-23",
       "locality": "BERTRAM",
       "dose1": 25,
-      "dose2": 21,
-      "vaccines": 46
+      "dose2": 22,
+      "vaccines": 47
     },
     {
       "date": "2021-08-24",
@@ -1203,8 +1203,8 @@
       "date": "2021-09-02",
       "locality": "BERTRAM",
       "dose1": 21,
-      "dose2": 20,
-      "vaccines": 41
+      "dose2": 21,
+      "vaccines": 42
     },
     {
       "date": "2021-09-03",
@@ -1259,15 +1259,15 @@
       "date": "2021-09-10",
       "locality": "BERTRAM",
       "dose1": 18,
-      "dose2": 31,
-      "vaccines": 49
+      "dose2": 32,
+      "vaccines": 50
     },
     {
       "date": "2021-09-11",
       "locality": "BERTRAM",
-      "dose1": 26,
+      "dose1": 27,
       "dose2": 23,
-      "vaccines": 49
+      "vaccines": 50
     },
     {
       "date": "2021-09-12",
@@ -1275,6 +1275,13 @@
       "dose1": 12,
       "dose2": 22,
       "vaccines": 34
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "BERTRAM",
+      "dose1": 20,
+      "dose2": 25,
+      "vaccines": 45
     }
   ]
 }

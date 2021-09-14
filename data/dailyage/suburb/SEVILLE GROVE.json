@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "postcode": "SEVILLE GROVE",
   "data": [
     {
@@ -3055,8 +3055,8 @@
       "locality": "SEVILLE GROVE",
       "AgeGroup": "16 to 49",
       "dose1": 23,
-      "dose2": 15,
-      "vaccines": 38
+      "dose2": 16,
+      "vaccines": 39
     },
     {
       "date": "2021-08-05",
@@ -3453,6 +3453,14 @@
     {
       "date": "2021-08-23",
       "locality": "SEVILLE GROVE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "SEVILLE GROVE",
       "AgeGroup": "16 to 49",
       "dose1": 42,
       "dose2": 16,
@@ -3614,17 +3622,17 @@
       "date": "2021-08-30",
       "locality": "SEVILLE GROVE",
       "AgeGroup": "16 to 49",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 19,
-      "vaccines": 49
+      "vaccines": 48
     },
     {
       "date": "2021-08-30",
       "locality": "SEVILLE GROVE",
       "AgeGroup": "50 to 69",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 8,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-08-30",
@@ -3729,6 +3737,14 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "SEVILLE GROVE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-04",
@@ -3863,16 +3879,16 @@
       "locality": "SEVILLE GROVE",
       "AgeGroup": "16 to 49",
       "dose1": 23,
-      "dose2": 25,
-      "vaccines": 48
+      "dose2": 26,
+      "vaccines": 49
     },
     {
       "date": "2021-09-10",
       "locality": "SEVILLE GROVE",
       "AgeGroup": "50 to 69",
-      "dose1": 14,
-      "dose2": 14,
-      "vaccines": 28
+      "dose1": 16,
+      "dose2": 15,
+      "vaccines": 31
     },
     {
       "date": "2021-09-10",
@@ -3886,17 +3902,17 @@
       "date": "2021-09-11",
       "locality": "SEVILLE GROVE",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 29,
-      "vaccines": 50
+      "vaccines": 51
     },
     {
       "date": "2021-09-11",
       "locality": "SEVILLE GROVE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 13,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-09-11",
@@ -3910,9 +3926,9 @@
       "date": "2021-09-12",
       "locality": "SEVILLE GROVE",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 32,
-      "vaccines": 57
+      "vaccines": 58
     },
     {
       "date": "2021-09-12",
@@ -3921,6 +3937,30 @@
       "dose1": 4,
       "dose2": 7,
       "vaccines": 11
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "SEVILLE GROVE",
+      "AgeGroup": "16 to 49",
+      "dose1": 23,
+      "dose2": 19,
+      "vaccines": 42
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "SEVILLE GROVE",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 9,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "SEVILLE GROVE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

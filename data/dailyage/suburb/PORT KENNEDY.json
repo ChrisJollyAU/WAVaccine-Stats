@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "postcode": "PORT KENNEDY",
   "data": [
     {
@@ -3099,6 +3099,14 @@
       "vaccines": 7
     },
     {
+      "date": "2021-08-02",
+      "locality": "PORT KENNEDY",
+      "AgeGroup": "Out of Range",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-03",
       "locality": "PORT KENNEDY",
       "AgeGroup": "16 to 49",
@@ -3151,8 +3159,8 @@
       "locality": "PORT KENNEDY",
       "AgeGroup": "16 to 49",
       "dose1": 39,
-      "dose2": 20,
-      "vaccines": 59
+      "dose2": 21,
+      "vaccines": 60
     },
     {
       "date": "2021-08-05",
@@ -3311,8 +3319,8 @@
       "locality": "PORT KENNEDY",
       "AgeGroup": "50 to 69",
       "dose1": 23,
-      "dose2": 21,
-      "vaccines": 44
+      "dose2": 22,
+      "vaccines": 45
     },
     {
       "date": "2021-08-12",
@@ -3373,18 +3381,26 @@
     {
       "date": "2021-08-15",
       "locality": "PORT KENNEDY",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-15",
+      "locality": "PORT KENNEDY",
       "AgeGroup": "16 to 49",
-      "dose1": 41,
+      "dose1": 42,
       "dose2": 8,
-      "vaccines": 49
+      "vaccines": 50
     },
     {
       "date": "2021-08-15",
       "locality": "PORT KENNEDY",
       "AgeGroup": "50 to 69",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 5,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-08-16",
@@ -3550,9 +3566,9 @@
       "date": "2021-08-23",
       "locality": "PORT KENNEDY",
       "AgeGroup": "16 to 49",
-      "dose1": 34,
+      "dose1": 33,
       "dose2": 11,
-      "vaccines": 45
+      "vaccines": 44
     },
     {
       "date": "2021-08-23",
@@ -3767,8 +3783,8 @@
       "locality": "PORT KENNEDY",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 29,
-      "vaccines": 41
+      "dose2": 30,
+      "vaccines": 42
     },
     {
       "date": "2021-09-01",
@@ -3845,9 +3861,17 @@
     {
       "date": "2021-09-05",
       "locality": "PORT KENNEDY",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "PORT KENNEDY",
       "AgeGroup": "16 to 49",
-      "dose1": 46,
-      "dose2": 30,
+      "dose1": 45,
+      "dose2": 31,
       "vaccines": 76
     },
     {
@@ -3902,9 +3926,9 @@
       "date": "2021-09-07",
       "locality": "PORT KENNEDY",
       "AgeGroup": "70 and over",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-09-08",
@@ -3958,17 +3982,17 @@
       "date": "2021-09-10",
       "locality": "PORT KENNEDY",
       "AgeGroup": "16 to 49",
-      "dose1": 39,
-      "dose2": 20,
-      "vaccines": 59
+      "dose1": 40,
+      "dose2": 21,
+      "vaccines": 61
     },
     {
       "date": "2021-09-10",
       "locality": "PORT KENNEDY",
       "AgeGroup": "50 to 69",
       "dose1": 13,
-      "dose2": 18,
-      "vaccines": 31
+      "dose2": 19,
+      "vaccines": 32
     },
     {
       "date": "2021-09-10",
@@ -3982,33 +4006,65 @@
       "date": "2021-09-11",
       "locality": "PORT KENNEDY",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 25,
       "dose2": 12,
-      "vaccines": 33
+      "vaccines": 37
     },
     {
       "date": "2021-09-11",
       "locality": "PORT KENNEDY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-09-12",
       "locality": "PORT KENNEDY",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 23,
       "dose2": 47,
-      "vaccines": 65
+      "vaccines": 70
     },
     {
       "date": "2021-09-12",
       "locality": "PORT KENNEDY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
-      "dose2": 23,
+      "dose1": 2,
+      "dose2": 24,
       "vaccines": 26
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "PORT KENNEDY",
+      "AgeGroup": "12 to 15",
+      "dose1": 6,
+      "dose2": 0,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "PORT KENNEDY",
+      "AgeGroup": "16 to 49",
+      "dose1": 44,
+      "dose2": 24,
+      "vaccines": 68
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "PORT KENNEDY",
+      "AgeGroup": "50 to 69",
+      "dose1": 14,
+      "dose2": 23,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "PORT KENNEDY",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "postcode": "CASTLETOWN",
   "data": [
     {
@@ -2365,6 +2365,14 @@
     {
       "date": "2021-09-01",
       "locality": "CASTLETOWN",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "CASTLETOWN",
       "AgeGroup": "16 to 49",
       "dose1": 16,
       "dose2": 0,
@@ -2423,8 +2431,8 @@
       "locality": "CASTLETOWN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-03",
@@ -2504,6 +2512,14 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "CASTLETOWN",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -2601,6 +2617,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "CASTLETOWN",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "CASTLETOWN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "CASTLETOWN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

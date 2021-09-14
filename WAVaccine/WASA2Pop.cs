@@ -101,6 +101,28 @@ namespace WAVaccine
 " + "\n" +
 @"                                        ""Name"": ""SA2 Population.C16_Plus""
 " + "\n" +
+@"                                    },
+" + "\n" +
+@"                                    {
+" + "\n" +
+@"                                        ""Column"": {
+" + "\n" +
+@"                                            ""Expression"": {
+" + "\n" +
+@"                                                ""SourceRef"": {
+" + "\n" +
+@"                                                    ""Source"": ""a""
+" + "\n" +
+@"                                                }
+" + "\n" +
+@"                                            },
+" + "\n" +
+@"                                            ""Property"": ""C12_Plus""
+" + "\n" +
+@"                                        },
+" + "\n" +
+@"                                        ""Name"": ""SA2 Population.C12_Plus""
+" + "\n" +
 @"                                    }
 " + "\n" +
 @"                                ],
@@ -149,7 +171,9 @@ namespace WAVaccine
 " + "\n" +
 @"                                                0,
 " + "\n" +
-@"                                                1
+@"                                                1,
+" + "\n" +
+@"                                                2
 " + "\n" +
 @"                                            ]
 " + "\n" +
@@ -253,6 +277,15 @@ namespace WAVaccine
                         po.c16_plus = Convert.ToDecimal(it[i]);
                         i++;
                     }
+                    if ((rVal & 4) == 4)
+                    {
+                        po.c12_plus = to.Last().c12_plus;
+                    }
+                    else
+                    {
+                        po.c12_plus = Convert.ToDecimal(it[i]);
+                        i++;
+                    }
                 }
                 else
                 {
@@ -262,6 +295,7 @@ namespace WAVaccine
                         po.name = d0[result].ToString();
                     }
                     po.c16_plus = Convert.ToDecimal(it[1]);
+                    po.c12_plus = Convert.ToDecimal(it[2]);
                 }
                 to.Add(po);
             }
@@ -276,5 +310,6 @@ namespace WAVaccine
     {
         public string name { get; set; }
         public decimal c16_plus { get; set; }
+        public decimal c12_plus { get; set; }
     }
 }

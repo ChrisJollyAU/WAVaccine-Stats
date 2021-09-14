@@ -422,6 +422,7 @@ namespace WAVaccine
                 if (s2pop != null)
                 {
                     sdet.c16_plus = (int)s2pop.c16_plus;
+                    sdet.c12_plus = (int)s2pop.c12_plus;
                 }
                 var subage = sa2subagejson[it.Key];
                 int ct_50_69 = 0;
@@ -432,6 +433,7 @@ namespace WAVaccine
                     ct_50_69 = Convert.ToInt32(subage["FIELD2"].ToString());
                     ct_70p = Convert.ToInt32(subage["FIELD3"].ToString());
                     ct_16_49 = sdet.c16_plus - ct_50_69 - ct_70p;
+                    sdet.c_12_15 = sdet.c12_plus - sdet.c16_plus;
                     sdet.c_16_49 = ct_16_49;
                     sdet.c_50_69 = ct_50_69;
                     sdet.c_70p = ct_70p;
@@ -442,8 +444,14 @@ namespace WAVaccine
                     List<SuburbObjectAge> obs = to.Where(tt => tt.suburb_name == it2.name).ToList();
                     foreach (var ob in obs)
                     {
-                        if (ob.AgeGroup == "16 to 49")
-{
+                        if (ob.AgeGroup == "12 to 15")
+                        {
+                            sdet.dose1_12_15 += ob.dose_1;
+                            sdet.dose2_12_15 += ob.dose_2;
+                            sdet.total_doses += ob.total_dose;
+                        }
+                        else if (ob.AgeGroup == "16 to 49")
+                        {
                             sdet.dose1_16_49 += ob.dose_1;
                             sdet.dose2_16_49 += ob.dose_2;
                             sdet.total_doses += ob.total_dose;
@@ -466,6 +474,11 @@ namespace WAVaccine
                 {
                     sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
                     sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                }
+                if (sdet.c12_plus > 0)
+                {
+                    sdet.atleast_1dose_percent12 = (sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent12 = (sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c12_plus * 100;
                 }
                 if (ct_16_49 > 0)
                 {
@@ -523,16 +536,25 @@ namespace WAVaccine
                     {
                         sdet.total_doses += s2det.total_doses;
                         sdet.c16_plus += s2det.c16_plus;
+                        sdet.c12_plus += s2det.c12_plus;
+                        sdet.c_12_15 += s2det.c_12_15;
                         sdet.c_16_49 += s2det.c_16_49;
                         sdet.c_50_69 += s2det.c_50_69;
                         sdet.c_70p += s2det.c_70p;
+                        sdet.dose1_12_15 += s2det.dose1_12_15;
                         sdet.dose1_16_49 += s2det.dose1_16_49;
                         sdet.dose1_50_69 += s2det.dose1_50_69;
                         sdet.dose1_70p += s2det.dose1_70p;
+                        sdet.dose2_12_15 += s2det.dose2_12_15;
                         sdet.dose2_16_49 += s2det.dose2_16_49;
                         sdet.dose2_50_69 += s2det.dose2_50_69;
                         sdet.dose2_70p += s2det.dose2_70p;
                     }
+                }
+                if (sdet.c12_plus > 0)
+                {
+                    sdet.atleast_1dose_percent12 = (sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent12 = (sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c12_plus * 100;
                 }
                 if (sdet.c16_plus > 0)
                 {
@@ -593,17 +615,26 @@ namespace WAVaccine
                     if (s2det != null)
                     {
                         sdet.total_doses += s2det.total_doses;
+                        sdet.c12_plus += s2det.c12_plus;
                         sdet.c16_plus += s2det.c16_plus;
+                        sdet.c_12_15 += s2det.c_12_15;
                         sdet.c_16_49 += s2det.c_16_49;
                         sdet.c_50_69 += s2det.c_50_69;
                         sdet.c_70p += s2det.c_70p;
+                        sdet.dose1_12_15 += s2det.dose1_12_15;
                         sdet.dose1_16_49 += s2det.dose1_16_49;
                         sdet.dose1_50_69 += s2det.dose1_50_69;
                         sdet.dose1_70p += s2det.dose1_70p;
+                        sdet.dose2_12_15 += s2det.dose2_12_15;
                         sdet.dose2_16_49 += s2det.dose2_16_49;
                         sdet.dose2_50_69 += s2det.dose2_50_69;
                         sdet.dose2_70p += s2det.dose2_70p;
                     }
+                }
+                if (sdet.c12_plus > 0)
+                {
+                    sdet.atleast_1dose_percent12 = (sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent12 = (sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c12_plus * 100;
                 }
                 if (sdet.c16_plus > 0)
                 {
@@ -664,17 +695,26 @@ namespace WAVaccine
                     if (s2det != null)
                     {
                         sdet.total_doses += s2det.total_doses;
+                        sdet.c12_plus += s2det.c12_plus;
                         sdet.c16_plus += s2det.c16_plus;
+                        sdet.c_12_15 += s2det.c_12_15;
                         sdet.c_16_49 += s2det.c_16_49;
                         sdet.c_50_69 += s2det.c_50_69;
                         sdet.c_70p += s2det.c_70p;
+                        sdet.dose1_12_15 += s2det.dose1_12_15;
                         sdet.dose1_16_49 += s2det.dose1_16_49;
                         sdet.dose1_50_69 += s2det.dose1_50_69;
                         sdet.dose1_70p += s2det.dose1_70p;
+                        sdet.dose2_12_15 += s2det.dose2_12_15;
                         sdet.dose2_16_49 += s2det.dose2_16_49;
                         sdet.dose2_50_69 += s2det.dose2_50_69;
                         sdet.dose2_70p += s2det.dose2_70p;
                     }
+                }
+                if (sdet.c12_plus > 0)
+                {
+                    sdet.atleast_1dose_percent12 = (sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent12 = (sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c12_plus * 100;
                 }
                 if (sdet.c16_plus > 0)
                 {
@@ -735,17 +775,26 @@ namespace WAVaccine
                     if (s2det != null)
                     {
                         sdet.total_doses += s2det.total_doses;
+                        sdet.c12_plus += s2det.c12_plus;
                         sdet.c16_plus += s2det.c16_plus;
+                        sdet.c_12_15 += s2det.c_12_15;
                         sdet.c_16_49 += s2det.c_16_49;
                         sdet.c_50_69 += s2det.c_50_69;
                         sdet.c_70p += s2det.c_70p;
+                        sdet.dose1_12_15 += s2det.dose1_12_15;
                         sdet.dose1_16_49 += s2det.dose1_16_49;
                         sdet.dose1_50_69 += s2det.dose1_50_69;
                         sdet.dose1_70p += s2det.dose1_70p;
+                        sdet.dose2_12_15 += s2det.dose2_12_15;
                         sdet.dose2_16_49 += s2det.dose2_16_49;
                         sdet.dose2_50_69 += s2det.dose2_50_69;
                         sdet.dose2_70p += s2det.dose2_70p;
                     }
+                }
+                if (sdet.c12_plus > 0)
+                {
+                    sdet.atleast_1dose_percent12 = (sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent12 = (sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c12_plus * 100;
                 }
                 if (sdet.c16_plus > 0)
                 {
@@ -809,6 +858,12 @@ namespace WAVaccine
         public decimal full_50_69_pc { get; set; }
         public decimal min1d_70p_pc { get; set; }
         public decimal full_70p_pc { get; set; }
+        public int c12_plus { get; internal set; }
+        public int dose1_12_15 { get; internal set; }
+        public int dose2_12_15 { get; internal set; }
+        public decimal atleast_1dose_percent12 { get; internal set; }
+        public decimal full_vaccinated_percent12 { get; internal set; }
+        public int c_12_15 { get; internal set; }
     }
     class SA3DetailAge
     {
@@ -832,6 +887,12 @@ namespace WAVaccine
         public decimal full_50_69_pc { get; set; }
         public decimal min1d_70p_pc { get; set; }
         public decimal full_70p_pc { get; set; }
+        public int c12_plus { get; internal set; }
+        public int c_12_15 { get; internal set; }
+        public int dose1_12_15 { get; internal set; }
+        public int dose2_12_15 { get; internal set; }
+        public decimal atleast_1dose_percent12 { get; internal set; }
+        public decimal full_vaccinated_percent12 { get; internal set; }
     }
     class SA4DetailAge
     {
@@ -855,6 +916,12 @@ namespace WAVaccine
         public decimal full_50_69_pc { get; set; }
         public decimal min1d_70p_pc { get; set; }
         public decimal full_70p_pc { get; set; }
+        public int c12_plus { get; internal set; }
+        public int c_12_15 { get; internal set; }
+        public int dose1_12_15 { get; internal set; }
+        public int dose2_12_15 { get; internal set; }
+        public decimal atleast_1dose_percent12 { get; internal set; }
+        public decimal full_vaccinated_percent12 { get; internal set; }
     }
     class GCCSADetailAge
     {
@@ -878,5 +945,11 @@ namespace WAVaccine
         public decimal full_50_69_pc { get; set; }
         public decimal min1d_70p_pc { get; set; }
         public decimal full_70p_pc { get; set; }
+        public int c12_plus { get; internal set; }
+        public int c_12_15 { get; internal set; }
+        public int dose1_12_15 { get; internal set; }
+        public int dose2_12_15 { get; internal set; }
+        public decimal atleast_1dose_percent12 { get; internal set; }
+        public decimal full_vaccinated_percent12 { get; internal set; }
     }
 }

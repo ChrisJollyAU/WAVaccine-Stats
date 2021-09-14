@@ -355,6 +355,7 @@ namespace WAVaccine
                 var s2pop = sa2pop.SingleOrDefault(sp => sp.name == it.Key);
                 if (s2pop != null) {
                     sdet.c16_plus = (int)s2pop.c16_plus;
+                    sdet.c12_plus = (int)s2pop.c12_plus;
                 }
                 foreach (var it2 in it)
                 {
@@ -367,10 +368,10 @@ namespace WAVaccine
                         used.Add(ob);
                     }
                 }
-                if (sdet.c16_plus > 0)
+                if (sdet.c12_plus > 0)
                 {
-                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
                 }
                 sa2det.Add(sdet);
             }
@@ -417,13 +418,14 @@ namespace WAVaccine
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
                         sdet.c16_plus += s2det.c16_plus;
+                        sdet.c12_plus += s2det.c12_plus;
                         used.Add(s2det);
                     }
                 }
-                if (sdet.c16_plus > 0)
+                if (sdet.c12_plus > 0)
                 {
-                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
                 }
                 sa3det.Add(sdet);
             }
@@ -467,12 +469,13 @@ namespace WAVaccine
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
                         sdet.c16_plus += s2det.c16_plus;
+                        sdet.c12_plus += s2det.c12_plus;
                     }
                 }
-                if (sdet.c16_plus > 0)
+                if (sdet.c12_plus > 0)
                 {
-                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
                 }
                 sa4det.Add(sdet);
             }
@@ -516,12 +519,13 @@ namespace WAVaccine
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
                         sdet.c16_plus += s2det.c16_plus;
+                        sdet.c12_plus += s2det.c12_plus;
                     }
                 }
-                if (sdet.c16_plus > 0)
+                if (sdet.c12_plus > 0)
                 {
-                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
                 }
                 gccsadet.Add(sdet);
             }
@@ -565,12 +569,13 @@ namespace WAVaccine
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
                         sdet.c16_plus += s2det.c16_plus;
+                        sdet.c12_plus += s2det.c12_plus;
                     }
                 }
-                if (sdet.c16_plus > 0)
+                if (sdet.c12_plus > 0)
                 {
-                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c16_plus * 100;
-                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c16_plus * 100;
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
                 }
                 gccsadet.Add(sdet);
             }
@@ -609,6 +614,7 @@ namespace WAVaccine
         public int total_doses { get; set; }
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
+        public int c12_plus { get; internal set; }
     }
     class SA3Detail
     {
@@ -619,6 +625,7 @@ namespace WAVaccine
         public int total_doses { get; set; }
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
+        public int c12_plus { get; internal set; }
     }
     class SA4Detail
     {
@@ -629,6 +636,7 @@ namespace WAVaccine
         public int total_doses { get; set; }
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
+        public int c12_plus { get; internal set; }
     }
     class GCCSADetail
     {
@@ -639,5 +647,6 @@ namespace WAVaccine
         public int total_doses { get; set; }
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
+        public int c12_plus { get; internal set; }
     }
 }

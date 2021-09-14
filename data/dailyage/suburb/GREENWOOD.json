@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "postcode": "GREENWOOD",
   "data": [
     {
@@ -2379,6 +2379,14 @@
       "vaccines": 9
     },
     {
+      "date": "2021-06-18",
+      "locality": "GREENWOOD",
+      "AgeGroup": "Out of Range",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-19",
       "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
@@ -3495,8 +3503,8 @@
       "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 11,
-      "vaccines": 24
+      "dose2": 12,
+      "vaccines": 25
     },
     {
       "date": "2021-08-05",
@@ -3609,6 +3617,14 @@
       "dose1": 0,
       "dose2": 11,
       "vaccines": 11
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "GREENWOOD",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-10",
@@ -3769,6 +3785,14 @@
       "dose1": 2,
       "dose2": 15,
       "vaccines": 17
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "GREENWOOD",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-17",
@@ -3965,6 +3989,14 @@
     {
       "date": "2021-08-25",
       "locality": "GREENWOOD",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 36,
       "dose2": 23,
@@ -3990,9 +4022,9 @@
       "date": "2021-08-26",
       "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 33,
+      "dose1": 32,
       "dose2": 16,
-      "vaccines": 49
+      "vaccines": 48
     },
     {
       "date": "2021-08-26",
@@ -4014,9 +4046,9 @@
       "date": "2021-08-27",
       "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 36,
+      "dose1": 35,
       "dose2": 14,
-      "vaccines": 50
+      "vaccines": 49
     },
     {
       "date": "2021-08-27",
@@ -4197,6 +4229,14 @@
     {
       "date": "2021-09-04",
       "locality": "GREENWOOD",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 40,
       "dose2": 20,
@@ -4293,6 +4333,14 @@
     {
       "date": "2021-09-08",
       "locality": "GREENWOOD",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 29,
       "dose2": 32,
@@ -4342,17 +4390,17 @@
       "date": "2021-09-10",
       "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 26,
-      "vaccines": 45
+      "vaccines": 44
     },
     {
       "date": "2021-09-10",
       "locality": "GREENWOOD",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 19,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-09-10",
@@ -4374,25 +4422,25 @@
       "date": "2021-09-11",
       "locality": "GREENWOOD",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
-      "dose2": 10,
-      "vaccines": 16
+      "dose1": 7,
+      "dose2": 11,
+      "vaccines": 18
     },
     {
       "date": "2021-09-11",
       "locality": "GREENWOOD",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-09-12",
       "locality": "GREENWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 29,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-09-12",
@@ -4401,6 +4449,30 @@
       "dose1": 3,
       "dose2": 2,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "GREENWOOD",
+      "AgeGroup": "16 to 49",
+      "dose1": 22,
+      "dose2": 28,
+      "vaccines": 50
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "GREENWOOD",
+      "AgeGroup": "50 to 69",
+      "dose1": 11,
+      "dose2": 10,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "GREENWOOD",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "locality": "BADGINGARRA",
   "data": [
     {
@@ -220,13 +220,6 @@
       "vaccines": 4
     },
     {
-      "date": "2021-06-24",
-      "locality": "BADGINGARRA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-30",
       "locality": "BADGINGARRA",
       "dose1": 3,
@@ -279,8 +272,8 @@
       "date": "2021-07-15",
       "locality": "BADGINGARRA",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-07-19",
@@ -540,6 +533,13 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "BADGINGARRA",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

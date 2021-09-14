@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "postcode": "SOMERVILLE",
   "data": [
     {
@@ -1957,6 +1957,14 @@
     {
       "date": "2021-08-14",
       "locality": "SOMERVILLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 3,
       "dose2": 0,
@@ -2309,6 +2317,14 @@
     {
       "date": "2021-09-02",
       "locality": "SOMERVILLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 7,
       "dose2": 16,
@@ -2345,6 +2361,14 @@
       "dose1": 0,
       "dose2": 7,
       "vaccines": 7
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-04",
@@ -2391,8 +2415,8 @@
       "locality": "SOMERVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-09-08",
@@ -2453,10 +2477,18 @@
     {
       "date": "2021-09-11",
       "locality": "SOMERVILLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 7
     },
     {
       "date": "2021-09-11",
@@ -2473,6 +2505,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

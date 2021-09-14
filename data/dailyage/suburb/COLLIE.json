@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-12T00:00:00",
+  "date_updated": "2021-09-13T00:00:00",
   "postcode": "COLLIE",
   "data": [
     {
@@ -2551,8 +2551,8 @@
       "locality": "COLLIE",
       "AgeGroup": "50 to 69",
       "dose1": 14,
-      "dose2": 22,
-      "vaccines": 36
+      "dose2": 23,
+      "vaccines": 37
     },
     {
       "date": "2021-08-05",
@@ -2601,14 +2601,6 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
-    },
-    {
-      "date": "2021-08-08",
-      "locality": "COLLIE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-08-09",
@@ -2685,6 +2677,14 @@
     {
       "date": "2021-08-12",
       "locality": "COLLIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-12",
+      "locality": "COLLIE",
       "AgeGroup": "16 to 49",
       "dose1": 8,
       "dose2": 13,
@@ -2710,9 +2710,9 @@
       "date": "2021-08-13",
       "locality": "COLLIE",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 15,
-      "vaccines": 40
+      "vaccines": 39
     },
     {
       "date": "2021-08-13",
@@ -2729,6 +2729,14 @@
       "dose1": 3,
       "dose2": 5,
       "vaccines": 8
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "COLLIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-08-14",
@@ -2950,9 +2958,9 @@
       "date": "2021-08-25",
       "locality": "COLLIE",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 8,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-08-25",
@@ -3261,6 +3269,14 @@
     {
       "date": "2021-09-09",
       "locality": "COLLIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "COLLIE",
       "AgeGroup": "16 to 49",
       "dose1": 26,
       "dose2": 10,
@@ -3286,41 +3302,57 @@
       "date": "2021-09-10",
       "locality": "COLLIE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
-      "dose2": 15,
-      "vaccines": 20
+      "dose1": 11,
+      "dose2": 14,
+      "vaccines": 25
     },
     {
       "date": "2021-09-10",
       "locality": "COLLIE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
-      "dose2": 12,
-      "vaccines": 19
+      "dose1": 13,
+      "dose2": 23,
+      "vaccines": 36
     },
     {
       "date": "2021-09-10",
       "locality": "COLLIE",
       "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "COLLIE",
+      "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-11",
       "locality": "COLLIE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose1": 15,
+      "dose2": 2,
+      "vaccines": 17
     },
     {
       "date": "2021-09-11",
       "locality": "COLLIE",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 4,
+      "dose2": 15,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "COLLIE",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-09-12",
@@ -3329,6 +3361,38 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "COLLIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "COLLIE",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "COLLIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "COLLIE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

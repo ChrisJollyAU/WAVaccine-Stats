@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "SAN REMO",
   "data": [
     {
@@ -1042,8 +1042,15 @@
       "date": "2021-09-13",
       "locality": "SAN REMO",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "SAN REMO",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     }
   ]
 }

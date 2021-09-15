@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "postcode": "MOUNT HELENA",
   "data": [
     {
@@ -2367,8 +2367,8 @@
       "locality": "MOUNT HELENA",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-07-26",
@@ -3433,6 +3433,30 @@
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "MOUNT HELENA",
+      "AgeGroup": "16 to 49",
+      "dose1": 19,
+      "dose2": 1,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "MOUNT HELENA",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "MOUNT HELENA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

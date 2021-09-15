@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "WANDI",
   "data": [
     {
@@ -930,8 +930,8 @@
       "date": "2021-07-21",
       "locality": "WANDI",
       "dose1": 10,
-      "dose2": 23,
-      "vaccines": 33
+      "dose2": 24,
+      "vaccines": 34
     },
     {
       "date": "2021-07-22",
@@ -1307,9 +1307,16 @@
     {
       "date": "2021-09-13",
       "locality": "WANDI",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 16,
-      "vaccines": 35
+      "vaccines": 36
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "WANDI",
+      "dose1": 9,
+      "dose2": 11,
+      "vaccines": 20
     }
   ]
 }

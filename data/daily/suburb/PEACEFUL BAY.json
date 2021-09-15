@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "PEACEFUL BAY",
   "data": [
     {
@@ -241,10 +241,24 @@
       "vaccines": 5
     },
     {
-      "date": "2021-09-13",
+      "date": "2021-09-12",
       "locality": "PEACEFUL BAY",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "PEACEFUL BAY",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "PEACEFUL BAY",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

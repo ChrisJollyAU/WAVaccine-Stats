@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "BENNETT SPRINGS",
   "data": [
     {
@@ -1349,9 +1349,16 @@
     {
       "date": "2021-09-13",
       "locality": "BENNETT SPRINGS",
-      "dose1": 12,
-      "dose2": 13,
-      "vaccines": 25
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "BENNETT SPRINGS",
+      "dose1": 33,
+      "dose2": 12,
+      "vaccines": 45
     }
   ]
 }

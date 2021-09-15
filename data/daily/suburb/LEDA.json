@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "LEDA",
   "data": [
     {
@@ -1209,9 +1209,16 @@
     {
       "date": "2021-09-13",
       "locality": "LEDA",
-      "dose1": 15,
+      "dose1": 18,
       "dose2": 18,
-      "vaccines": 33
+      "vaccines": 36
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "LEDA",
+      "dose1": 11,
+      "dose2": 12,
+      "vaccines": 23
     }
   ]
 }

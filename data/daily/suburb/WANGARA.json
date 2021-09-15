@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "WANGARA",
   "data": [
     {
@@ -700,6 +700,13 @@
       "locality": "WANGARA",
       "dose1": 1,
       "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "WANGARA",
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     }
   ]

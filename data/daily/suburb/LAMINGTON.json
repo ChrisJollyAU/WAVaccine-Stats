@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "LAMINGTON",
   "data": [
     {
@@ -895,8 +895,8 @@
       "date": "2021-09-06",
       "locality": "LAMINGTON",
       "dose1": 3,
-      "dose2": 11,
-      "vaccines": 14
+      "dose2": 12,
+      "vaccines": 15
     },
     {
       "date": "2021-09-07",
@@ -916,8 +916,8 @@
       "date": "2021-09-09",
       "locality": "LAMINGTON",
       "dose1": 4,
-      "dose2": 13,
-      "vaccines": 17
+      "dose2": 14,
+      "vaccines": 18
     },
     {
       "date": "2021-09-10",
@@ -943,9 +943,16 @@
     {
       "date": "2021-09-13",
       "locality": "LAMINGTON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "LAMINGTON",
+      "dose1": 21,
+      "dose2": 1,
+      "vaccines": 22
     }
   ]
 }

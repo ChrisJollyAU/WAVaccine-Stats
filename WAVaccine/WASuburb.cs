@@ -614,7 +614,7 @@ namespace WAVaccine
         public int total_doses { get; set; }
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
-        public int c12_plus { get; internal set; }
+        public int c12_plus { get; set; }
     }
     class SA3Detail
     {
@@ -625,7 +625,7 @@ namespace WAVaccine
         public int total_doses { get; set; }
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
-        public int c12_plus { get; internal set; }
+        public int c12_plus { get; set; }
     }
     class SA4Detail
     {
@@ -636,7 +636,7 @@ namespace WAVaccine
         public int total_doses { get; set; }
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
-        public int c12_plus { get; internal set; }
+        public int c12_plus { get; set; }
     }
     class GCCSADetail
     {
@@ -647,6 +647,6 @@ namespace WAVaccine
         public int total_doses { get; set; }
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
-        public int c12_plus { get; internal set; }
+        public int c12_plus { get; set; }
     }
 }

@@ -883,14 +883,14 @@ namespace WAVaccine
         public decimal full_50_69_pc { get; set; }
         public decimal min1d_70p_pc { get; set; }
         public decimal full_70p_pc { get; set; }
-        public int c12_plus { get; internal set; }
-        public int dose1_12_15 { get; internal set; }
-        public int dose2_12_15 { get; internal set; }
-        public decimal atleast_1dose_percent12 { get; internal set; }
-        public decimal full_vaccinated_percent12 { get; internal set; }
-        public int c_12_15 { get; internal set; }
-        public decimal min1d_12_15_pc { get; internal set; }
-        public decimal full_12_15_pc { get; internal set; }
+        public int c12_plus { get; set; }
+        public int dose1_12_15 { get; set; }
+        public int dose2_12_15 { get; set; }
+        public decimal atleast_1dose_percent12 { get; set; }
+        public decimal full_vaccinated_percent12 { get; set; }
+        public int c_12_15 { get; set; }
+        public decimal min1d_12_15_pc { get; set; }
+        public decimal full_12_15_pc { get; set; }
     }
     class SA3DetailAge
     {
@@ -914,14 +914,14 @@ namespace WAVaccine
         public decimal full_50_69_pc { get; set; }
         public decimal min1d_70p_pc { get; set; }
         public decimal full_70p_pc { get; set; }
-        public int c12_plus { get; internal set; }
-        public int c_12_15 { get; internal set; }
-        public int dose1_12_15 { get; internal set; }
-        public int dose2_12_15 { get; internal set; }
-        public decimal atleast_1dose_percent12 { get; internal set; }
-        public decimal full_vaccinated_percent12 { get; internal set; }
-        public decimal min1d_12_15_pc { get; internal set; }
-        public decimal full_12_15_pc { get; internal set; }
+        public int c12_plus { get; set; }
+        public int c_12_15 { get; set; }
+        public int dose1_12_15 { get; set; }
+        public int dose2_12_15 { get; set; }
+        public decimal atleast_1dose_percent12 { get; set; }
+        public decimal full_vaccinated_percent12 { get; set; }
+        public decimal min1d_12_15_pc { get; set; }
+        public decimal full_12_15_pc { get; set; }
     }
     class SA4DetailAge
     {
@@ -945,14 +945,14 @@ namespace WAVaccine
         public decimal full_50_69_pc { get; set; }
         public decimal min1d_70p_pc { get; set; }
         public decimal full_70p_pc { get; set; }
-        public int c12_plus { get; internal set; }
-        public int c_12_15 { get; internal set; }
-        public int dose1_12_15 { get; internal set; }
-        public int dose2_12_15 { get; internal set; }
-        public decimal atleast_1dose_percent12 { get; internal set; }
-        public decimal full_vaccinated_percent12 { get; internal set; }
-        public decimal min1d_12_15_pc { get; internal set; }
-        public decimal full_12_15_pc { get; internal set; }
+        public int c12_plus { get; set; }
+        public int c_12_15 { get; set; }
+        public int dose1_12_15 { get; set; }
+        public int dose2_12_15 { get; set; }
+        public decimal atleast_1dose_percent12 { get; set; }
+        public decimal full_vaccinated_percent12 { get; set; }
+        public decimal min1d_12_15_pc { get; set; }
+        public decimal full_12_15_pc { get; set; }
     }
     class GCCSADetailAge
     {
@@ -976,13 +976,13 @@ namespace WAVaccine
         public decimal full_50_69_pc { get; set; }
         public decimal min1d_70p_pc { get; set; }
         public decimal full_70p_pc { get; set; }
-        public int c12_plus { get; internal set; }
-        public int c_12_15 { get; internal set; }
-        public int dose1_12_15 { get; internal set; }
-        public int dose2_12_15 { get; internal set; }
-        public decimal atleast_1dose_percent12 { get; internal set; }
-        public decimal full_vaccinated_percent12 { get; internal set; }
-        public decimal min1d_12_15_pc { get; internal set; }
-        public decimal full_12_15_pc { get; internal set; }
+        public int c12_plus { get; set; }
+        public int c_12_15 { get; set; }
+        public int dose1_12_15 { get; set; }
+        public int dose2_12_15 { get; set; }
+        public decimal atleast_1dose_percent12 { get; set; }
+        public decimal full_vaccinated_percent12 { get; set; }
+        public decimal min1d_12_15_pc { get; set; }
+        public decimal full_12_15_pc { get; set; }
     }
 }

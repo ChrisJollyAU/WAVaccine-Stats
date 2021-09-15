@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "CURRAMBINE",
   "data": [
     {
@@ -1300,16 +1300,16 @@
     {
       "date": "2021-09-09",
       "locality": "CURRAMBINE",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 37,
-      "vaccines": 69
+      "vaccines": 70
     },
     {
       "date": "2021-09-10",
       "locality": "CURRAMBINE",
       "dose1": 27,
-      "dose2": 43,
-      "vaccines": 70
+      "dose2": 44,
+      "vaccines": 71
     },
     {
       "date": "2021-09-11",
@@ -1321,16 +1321,23 @@
     {
       "date": "2021-09-12",
       "locality": "CURRAMBINE",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 13,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-09-13",
       "locality": "CURRAMBINE",
-      "dose1": 37,
+      "dose1": 39,
       "dose2": 19,
-      "vaccines": 56
+      "vaccines": 58
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "CURRAMBINE",
+      "dose1": 43,
+      "dose2": 25,
+      "vaccines": 68
     }
   ]
 }

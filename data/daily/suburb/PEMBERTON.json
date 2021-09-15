@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-13T00:00:00",
+  "date_updated": "2021-09-14T00:00:00",
   "locality": "PEMBERTON",
   "data": [
     {
@@ -922,9 +922,16 @@
     {
       "date": "2021-09-13",
       "locality": "PEMBERTON",
-      "dose1": 3,
-      "dose2": 13,
+      "dose1": 2,
+      "dose2": 14,
       "vaccines": 16
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "PEMBERTON",
+      "dose1": 6,
+      "dose2": 1,
+      "vaccines": 7
     }
   ]
 }

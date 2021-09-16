@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "locality": "HILBERT",
   "data": [
     {
@@ -1237,9 +1237,16 @@
     {
       "date": "2021-09-14",
       "locality": "HILBERT",
-      "dose1": 22,
-      "dose2": 12,
-      "vaccines": 34
+      "dose1": 25,
+      "dose2": 13,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "HILBERT",
+      "dose1": 12,
+      "dose2": 15,
+      "vaccines": 27
     }
   ]
 }

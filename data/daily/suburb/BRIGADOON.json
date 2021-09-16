@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "locality": "BRIGADOON",
   "data": [
     {
@@ -811,8 +811,8 @@
       "date": "2021-08-06",
       "locality": "BRIGADOON",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-07",
@@ -1077,8 +1077,15 @@
       "date": "2021-09-14",
       "locality": "BRIGADOON",
       "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "BRIGADOON",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     }
   ]
 }

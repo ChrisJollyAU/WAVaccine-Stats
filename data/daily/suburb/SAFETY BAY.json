@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "locality": "SAFETY BAY",
   "data": [
     {
@@ -1314,9 +1314,16 @@
     {
       "date": "2021-09-14",
       "locality": "SAFETY BAY",
-      "dose1": 18,
+      "dose1": 20,
       "dose2": 23,
-      "vaccines": 41
+      "vaccines": 43
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "SAFETY BAY",
+      "dose1": 32,
+      "dose2": 29,
+      "vaccines": 61
     }
   ]
 }

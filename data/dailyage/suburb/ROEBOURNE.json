@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "postcode": "ROEBOURNE",
   "data": [
     {
@@ -398,9 +398,9 @@
       "date": "2021-06-17",
       "locality": "ROEBOURNE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-06-17",
@@ -527,8 +527,8 @@
       "locality": "ROEBOURNE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-12",
@@ -542,9 +542,9 @@
       "date": "2021-07-13",
       "locality": "ROEBOURNE",
       "AgeGroup": "16 to 49",
-      "dose1": 46,
+      "dose1": 47,
       "dose2": 0,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-07-13",
@@ -751,8 +751,8 @@
       "locality": "ROEBOURNE",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 48,
-      "vaccines": 54
+      "dose2": 49,
+      "vaccines": 55
     },
     {
       "date": "2021-08-03",
@@ -1134,8 +1134,24 @@
       "date": "2021-09-14",
       "locality": "ROEBOURNE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "ROEBOURNE",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "ROEBOURNE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
       "vaccines": 3
     }
   ]

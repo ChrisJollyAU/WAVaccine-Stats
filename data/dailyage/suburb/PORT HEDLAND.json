@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "postcode": "PORT HEDLAND",
   "data": [
     {
@@ -2558,9 +2558,9 @@
       "date": "2021-09-03",
       "locality": "PORT HEDLAND",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 29,
       "dose2": 7,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-09-03",
@@ -2783,8 +2783,40 @@
       "locality": "PORT HEDLAND",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 2,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "PORT HEDLAND",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "PORT HEDLAND",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 3,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "PORT HEDLAND",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 0,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "PORT HEDLAND",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

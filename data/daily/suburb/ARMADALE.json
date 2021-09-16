@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "locality": "ARMADALE",
   "data": [
     {
@@ -1300,9 +1300,9 @@
     {
       "date": "2021-09-09",
       "locality": "ARMADALE",
-      "dose1": 70,
+      "dose1": 71,
       "dose2": 74,
-      "vaccines": 144
+      "vaccines": 145
     },
     {
       "date": "2021-09-10",
@@ -1335,9 +1335,16 @@
     {
       "date": "2021-09-14",
       "locality": "ARMADALE",
-      "dose1": 29,
-      "dose2": 40,
-      "vaccines": 69
+      "dose1": 40,
+      "dose2": 57,
+      "vaccines": 97
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "ARMADALE",
+      "dose1": 34,
+      "dose2": 41,
+      "vaccines": 75
     }
   ]
 }

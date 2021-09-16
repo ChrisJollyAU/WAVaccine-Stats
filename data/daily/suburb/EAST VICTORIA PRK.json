@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "locality": "EAST VICTORIA PRK",
   "data": [
     {
@@ -1356,23 +1356,30 @@
     {
       "date": "2021-09-12",
       "locality": "EAST VICTORIA PRK",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 22,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-09-13",
       "locality": "EAST VICTORIA PRK",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 27,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-09-14",
       "locality": "EAST VICTORIA PRK",
       "dose1": 13,
-      "dose2": 19,
-      "vaccines": 32
+      "dose2": 21,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "EAST VICTORIA PRK",
+      "dose1": 22,
+      "dose2": 25,
+      "vaccines": 47
     }
   ]
 }

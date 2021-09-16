@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "postcode": "BURNS BEACH",
   "data": [
     {
@@ -1990,9 +1990,9 @@
       "date": "2021-06-25",
       "locality": "BURNS BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-06-25",
@@ -2839,8 +2839,8 @@
       "locality": "BURNS BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 21,
-      "vaccines": 33
+      "dose2": 20,
+      "vaccines": 32
     },
     {
       "date": "2021-08-02",
@@ -3539,14 +3539,6 @@
       "vaccines": 13
     },
     {
-      "date": "2021-09-03",
-      "locality": "BURNS BEACH",
-      "AgeGroup": "Out of Range",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-04",
       "locality": "BURNS BEACH",
       "AgeGroup": "16 to 49",
@@ -3670,9 +3662,9 @@
       "date": "2021-09-10",
       "locality": "BURNS BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 10,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-09-10",
@@ -3734,9 +3726,9 @@
       "date": "2021-09-13",
       "locality": "BURNS BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 12,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-09-13",
@@ -3758,17 +3750,49 @@
       "date": "2021-09-14",
       "locality": "BURNS BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 13,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-09-14",
       "locality": "BURNS BEACH",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "BURNS BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "BURNS BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 13,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "BURNS BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "BURNS BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

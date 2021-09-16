@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "locality": "CHIDLOW",
   "data": [
     {
@@ -1063,8 +1063,8 @@
       "date": "2021-09-03",
       "locality": "CHIDLOW",
       "dose1": 14,
-      "dose2": 13,
-      "vaccines": 27
+      "dose2": 14,
+      "vaccines": 28
     },
     {
       "date": "2021-09-04",
@@ -1139,9 +1139,16 @@
     {
       "date": "2021-09-14",
       "locality": "CHIDLOW",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 4,
-      "vaccines": 14
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "CHIDLOW",
+      "dose1": 22,
+      "dose2": 10,
+      "vaccines": 32
     }
   ]
 }

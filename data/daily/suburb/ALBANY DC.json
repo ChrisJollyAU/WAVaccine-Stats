@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "locality": "ALBANY DC",
   "data": [
     {
@@ -1321,8 +1321,15 @@
     {
       "date": "2021-09-14",
       "locality": "ALBANY DC",
-      "dose1": 10,
+      "dose1": 12,
       "dose2": 7,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "ALBANY DC",
+      "dose1": 13,
+      "dose2": 4,
       "vaccines": 17
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-14T00:00:00",
+  "date_updated": "2021-09-15T00:00:00",
   "postcode": "SHARK BAY",
   "data": [
     {
@@ -51,6 +51,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-20",
+      "locality": "SHARK BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-21",
       "locality": "SHARK BAY",
       "AgeGroup": "50 to 69",
@@ -93,9 +101,33 @@
     {
       "date": "2021-09-14",
       "locality": "SHARK BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "SHARK BAY",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "SHARK BAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "SHARK BAY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

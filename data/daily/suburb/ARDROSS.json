@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "ARDROSS",
   "data": [
     {
@@ -1371,15 +1371,15 @@
       "date": "2021-09-13",
       "locality": "ARDROSS",
       "dose1": 4,
-      "dose2": 19,
-      "vaccines": 23
+      "dose2": 21,
+      "vaccines": 25
     },
     {
       "date": "2021-09-14",
       "locality": "ARDROSS",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 21,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-09-15",
@@ -1387,6 +1387,13 @@
       "dose1": 13,
       "dose2": 24,
       "vaccines": 37
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "ARDROSS",
+      "dose1": 11,
+      "dose2": 16,
+      "vaccines": 27
     }
   ]
 }

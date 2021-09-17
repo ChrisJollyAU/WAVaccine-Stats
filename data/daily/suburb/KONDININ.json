@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "KONDININ",
   "data": [
     {
@@ -573,8 +573,15 @@
       "date": "2021-09-15",
       "locality": "KONDININ",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "KONDININ",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

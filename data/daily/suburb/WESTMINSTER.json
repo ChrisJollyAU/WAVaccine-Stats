@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "WESTMINSTER",
   "data": [
     {
@@ -999,9 +999,9 @@
     {
       "date": "2021-07-22",
       "locality": "WESTMINSTER",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 12,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-07-23",
@@ -1132,8 +1132,8 @@
     {
       "date": "2021-08-10",
       "locality": "WESTMINSTER",
-      "dose1": 13,
-      "dose2": 18,
+      "dose1": 12,
+      "dose2": 19,
       "vaccines": 31
     },
     {
@@ -1188,9 +1188,9 @@
     {
       "date": "2021-08-18",
       "locality": "WESTMINSTER",
-      "dose1": 41,
+      "dose1": 42,
       "dose2": 18,
-      "vaccines": 59
+      "vaccines": 60
     },
     {
       "date": "2021-08-19",
@@ -1336,8 +1336,8 @@
       "date": "2021-09-08",
       "locality": "WESTMINSTER",
       "dose1": 29,
-      "dose2": 27,
-      "vaccines": 56
+      "dose2": 28,
+      "vaccines": 57
     },
     {
       "date": "2021-09-09",
@@ -1384,9 +1384,16 @@
     {
       "date": "2021-09-15",
       "locality": "WESTMINSTER",
-      "dose1": 16,
-      "dose2": 30,
-      "vaccines": 46
+      "dose1": 21,
+      "dose2": 33,
+      "vaccines": 54
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "WESTMINSTER",
+      "dose1": 13,
+      "dose2": 21,
+      "vaccines": 34
     }
   ]
 }

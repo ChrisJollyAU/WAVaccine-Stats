@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "BATEMAN",
   "data": [
     {
@@ -278,9 +278,9 @@
     {
       "date": "2021-04-08",
       "locality": "BATEMAN",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 5,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-04-09",
@@ -1357,8 +1357,8 @@
       "date": "2021-09-10",
       "locality": "BATEMAN",
       "dose1": 15,
-      "dose2": 20,
-      "vaccines": 35
+      "dose2": 21,
+      "vaccines": 36
     },
     {
       "date": "2021-09-11",
@@ -1377,23 +1377,30 @@
     {
       "date": "2021-09-13",
       "locality": "BATEMAN",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 12,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-09-14",
       "locality": "BATEMAN",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 13,
-      "vaccines": 20
+      "vaccines": 22
     },
     {
       "date": "2021-09-15",
       "locality": "BATEMAN",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 19,
-      "vaccines": 26
+      "vaccines": 28
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "BATEMAN",
+      "dose1": 12,
+      "dose2": 13,
+      "vaccines": 25
     }
   ]
 }

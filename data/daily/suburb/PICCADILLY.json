@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "PICCADILLY",
   "data": [
     {
@@ -986,8 +986,8 @@
       "date": "2021-09-14",
       "locality": "PICCADILLY",
       "dose1": 13,
-      "dose2": 4,
-      "vaccines": 17
+      "dose2": 5,
+      "vaccines": 18
     },
     {
       "date": "2021-09-15",
@@ -995,6 +995,13 @@
       "dose1": 9,
       "dose2": 4,
       "vaccines": 13
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "PICCADILLY",
+      "dose1": 4,
+      "dose2": 15,
+      "vaccines": 19
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "CARNAMAH",
   "data": [
     {
@@ -185,6 +185,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-03",
+      "locality": "CARNAMAH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-05",
       "locality": "CARNAMAH",
       "dose1": 1,
@@ -232,13 +239,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-06-18",
-      "locality": "CARNAMAH",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-06-19",
@@ -587,8 +587,8 @@
       "date": "2021-08-26",
       "locality": "CARNAMAH",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-27",
@@ -708,6 +708,13 @@
       "dose1": 4,
       "dose2": 3,
       "vaccines": 7
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "CARNAMAH",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

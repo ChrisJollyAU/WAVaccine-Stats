@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "CALISTA",
   "data": [
     {
@@ -460,9 +460,9 @@
     {
       "date": "2021-06-01",
       "locality": "CALISTA",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-06-02",
@@ -713,8 +713,8 @@
       "date": "2021-07-12",
       "locality": "CALISTA",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-07-13",
@@ -1104,9 +1104,9 @@
     {
       "date": "2021-09-09",
       "locality": "CALISTA",
-      "dose1": 9,
+      "dose1": 13,
       "dose2": 11,
-      "vaccines": 20
+      "vaccines": 24
     },
     {
       "date": "2021-09-10",
@@ -1139,16 +1139,23 @@
     {
       "date": "2021-09-14",
       "locality": "CALISTA",
-      "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-09-15",
       "locality": "CALISTA",
-      "dose1": 9,
-      "dose2": 3,
-      "vaccines": 12
+      "dose1": 10,
+      "dose2": 5,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "CALISTA",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

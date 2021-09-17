@@ -1,7 +1,15 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "postcode": "DUMBERNING",
   "data": [
+    {
+      "date": "2021-05-21",
+      "locality": "DUMBERNING",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-06-21",
       "locality": "DUMBERNING",
@@ -27,6 +35,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-15",
+      "locality": "DUMBERNING",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-23",
       "locality": "DUMBERNING",
       "AgeGroup": "50 to 69",
@@ -35,12 +51,20 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-13",
+      "date": "2021-08-12",
       "locality": "DUMBERNING",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-13",
+      "locality": "DUMBERNING",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-17",

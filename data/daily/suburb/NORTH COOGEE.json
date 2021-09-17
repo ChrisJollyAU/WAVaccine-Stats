@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "NORTH COOGEE",
   "data": [
     {
@@ -1328,9 +1328,16 @@
     {
       "date": "2021-09-15",
       "locality": "NORTH COOGEE",
+      "dose1": 11,
+      "dose2": 13,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "NORTH COOGEE",
       "dose1": 8,
-      "dose2": 12,
-      "vaccines": 20
+      "dose2": 20,
+      "vaccines": 28
     }
   ]
 }

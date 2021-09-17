@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "CRANBROOK",
   "data": [
     {
@@ -761,9 +761,16 @@
     {
       "date": "2021-09-15",
       "locality": "CRANBROOK",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "CRANBROOK",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

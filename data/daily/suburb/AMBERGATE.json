@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "AMBERGATE",
   "data": [
     {
@@ -236,9 +236,9 @@
     {
       "date": "2021-06-24",
       "locality": "AMBERGATE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-29",
@@ -314,8 +314,8 @@
       "date": "2021-07-20",
       "locality": "AMBERGATE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-21",
@@ -516,9 +516,9 @@
     {
       "date": "2021-08-27",
       "locality": "AMBERGATE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-28",
@@ -614,9 +614,9 @@
     {
       "date": "2021-09-14",
       "locality": "AMBERGATE",
-      "dose1": 2,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 7
     },
     {
       "date": "2021-09-15",
@@ -624,6 +624,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "AMBERGATE",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
     }
   ]
 }

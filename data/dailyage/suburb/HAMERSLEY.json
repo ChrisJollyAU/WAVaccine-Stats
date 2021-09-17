@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "postcode": "HAMERSLEY",
   "data": [
     {
@@ -4334,9 +4334,9 @@
       "date": "2021-09-15",
       "locality": "HAMERSLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose1": 4,
+      "dose2": 8,
+      "vaccines": 12
     },
     {
       "date": "2021-09-15",
@@ -4345,6 +4345,38 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "HAMERSLEY",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "HAMERSLEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 23,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "HAMERSLEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "HAMERSLEY",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-15T00:00:00",
+  "date_updated": "2021-09-16T00:00:00",
   "locality": "KELLERBERRIN",
   "data": [
     {
@@ -755,8 +755,8 @@
       "date": "2021-09-09",
       "locality": "KELLERBERRIN",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-09-10",
@@ -792,6 +792,13 @@
       "dose1": 8,
       "dose2": 18,
       "vaccines": 26
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "KELLERBERRIN",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

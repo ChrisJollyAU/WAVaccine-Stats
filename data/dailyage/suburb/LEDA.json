@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "postcode": "LEDA",
   "data": [
     {
@@ -310,9 +310,9 @@
       "date": "2021-03-30",
       "locality": "LEDA",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-03-31",
@@ -806,9 +806,9 @@
       "date": "2021-05-11",
       "locality": "LEDA",
       "AgeGroup": "70 and over",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-05-12",
@@ -1007,8 +1007,8 @@
       "locality": "LEDA",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-26",
@@ -2239,8 +2239,8 @@
       "locality": "LEDA",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-08-05",
@@ -2983,8 +2983,8 @@
       "locality": "LEDA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-09-09",
@@ -3103,8 +3103,8 @@
       "locality": "LEDA",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 4,
-      "vaccines": 15
+      "dose2": 5,
+      "vaccines": 16
     },
     {
       "date": "2021-09-15",
@@ -3127,16 +3127,16 @@
       "locality": "LEDA",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 6,
-      "vaccines": 14
+      "dose2": 8,
+      "vaccines": 16
     },
     {
       "date": "2021-09-16",
       "locality": "LEDA",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-09-16",
@@ -3144,6 +3144,70 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LEDA",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LEDA",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 6,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LEDA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "LEDA",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 4,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "LEDA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "LEDA",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "LEDA",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "LEDA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

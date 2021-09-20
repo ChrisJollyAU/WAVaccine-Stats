@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "postcode": "NORTHAMPTON",
   "data": [
     {
@@ -134,9 +134,9 @@
       "date": "2021-03-31",
       "locality": "NORTHAMPTON",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-03-31",
@@ -158,17 +158,17 @@
       "date": "2021-04-01",
       "locality": "NORTHAMPTON",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-01",
       "locality": "NORTHAMPTON",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-06",
@@ -646,9 +646,9 @@
       "date": "2021-06-02",
       "locality": "NORTHAMPTON",
       "AgeGroup": "70 and over",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-06-03",
@@ -967,16 +967,16 @@
       "locality": "NORTHAMPTON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-24",
       "locality": "NORTHAMPTON",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-25",
@@ -1135,8 +1135,8 @@
       "locality": "NORTHAMPTON",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-07-05",
@@ -2039,8 +2039,8 @@
       "locality": "NORTHAMPTON",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 6,
-      "vaccines": 6
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2021-08-26",
@@ -2457,6 +2457,46 @@
       "dose1": 4,
       "dose2": 2,
       "vaccines": 6
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 18,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 17,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "NORTHAMPTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

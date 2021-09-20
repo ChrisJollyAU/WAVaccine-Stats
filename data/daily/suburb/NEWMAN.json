@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "locality": "NEWMAN",
   "data": [
     {
@@ -46,6 +46,13 @@
     },
     {
       "date": "2021-03-26",
+      "locality": "NEWMAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-29",
       "locality": "NEWMAN",
       "dose1": 1,
       "dose2": 0,
@@ -146,8 +153,8 @@
       "date": "2021-04-19",
       "locality": "NEWMAN",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-04-20",
@@ -558,9 +565,9 @@
     {
       "date": "2021-07-08",
       "locality": "NEWMAN",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-07-09",
@@ -818,8 +825,8 @@
       "date": "2021-08-19",
       "locality": "NEWMAN",
       "dose1": 5,
-      "dose2": 33,
-      "vaccines": 38
+      "dose2": 32,
+      "vaccines": 37
     },
     {
       "date": "2021-08-20",
@@ -831,9 +838,9 @@
     {
       "date": "2021-08-21",
       "locality": "NEWMAN",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-08-22",
@@ -978,16 +985,16 @@
     {
       "date": "2021-09-11",
       "locality": "NEWMAN",
-      "dose1": 15,
+      "dose1": 13,
       "dose2": 7,
-      "vaccines": 22
+      "vaccines": 20
     },
     {
       "date": "2021-09-12",
       "locality": "NEWMAN",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-09-13",
@@ -1013,9 +1020,30 @@
     {
       "date": "2021-09-16",
       "locality": "NEWMAN",
-      "dose1": 13,
-      "dose2": 7,
-      "vaccines": 20
+      "dose1": 19,
+      "dose2": 8,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "NEWMAN",
+      "dose1": 5,
+      "dose2": 16,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "NEWMAN",
+      "dose1": 7,
+      "dose2": 1,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "NEWMAN",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

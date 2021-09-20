@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "locality": "SHENTON PARK",
   "data": [
     {
@@ -243,9 +243,9 @@
     {
       "date": "2021-03-28",
       "locality": "SHENTON PARK",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-03-29",
@@ -405,8 +405,8 @@
       "date": "2021-04-21",
       "locality": "SHENTON PARK",
       "dose1": 15,
-      "dose2": 4,
-      "vaccines": 19
+      "dose2": 5,
+      "vaccines": 20
     },
     {
       "date": "2021-04-22",
@@ -1182,8 +1182,8 @@
       "date": "2021-08-10",
       "locality": "SHENTON PARK",
       "dose1": 14,
-      "dose2": 24,
-      "vaccines": 38
+      "dose2": 25,
+      "vaccines": 39
     },
     {
       "date": "2021-08-11",
@@ -1440,9 +1440,30 @@
     {
       "date": "2021-09-16",
       "locality": "SHENTON PARK",
-      "dose1": 17,
-      "dose2": 18,
-      "vaccines": 35
+      "dose1": 18,
+      "dose2": 21,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "SHENTON PARK",
+      "dose1": 12,
+      "dose2": 25,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "SHENTON PARK",
+      "dose1": 11,
+      "dose2": 30,
+      "vaccines": 41
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "SHENTON PARK",
+      "dose1": 10,
+      "dose2": 27,
+      "vaccines": 37
     }
   ]
 }

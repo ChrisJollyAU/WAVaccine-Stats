@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "locality": "KARDINYA",
   "data": [
     {
@@ -40,9 +40,9 @@
     {
       "date": "2021-03-02",
       "locality": "KARDINYA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-03",
@@ -195,8 +195,8 @@
       "date": "2021-03-24",
       "locality": "KARDINYA",
       "dose1": 10,
-      "dose2": 4,
-      "vaccines": 14
+      "dose2": 5,
+      "vaccines": 15
     },
     {
       "date": "2021-03-25",
@@ -544,9 +544,9 @@
     {
       "date": "2021-05-13",
       "locality": "KARDINYA",
-      "dose1": 46,
+      "dose1": 47,
       "dose2": 2,
-      "vaccines": 48
+      "vaccines": 49
     },
     {
       "date": "2021-05-14",
@@ -761,9 +761,9 @@
     {
       "date": "2021-06-13",
       "locality": "KARDINYA",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 2,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-06-14",
@@ -887,9 +887,9 @@
     {
       "date": "2021-07-01",
       "locality": "KARDINYA",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 47,
-      "vaccines": 74
+      "vaccines": 75
     },
     {
       "date": "2021-07-02",
@@ -943,16 +943,16 @@
     {
       "date": "2021-07-09",
       "locality": "KARDINYA",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 20,
-      "vaccines": 41
+      "vaccines": 42
     },
     {
       "date": "2021-07-10",
       "locality": "KARDINYA",
       "dose1": 20,
-      "dose2": 15,
-      "vaccines": 35
+      "dose2": 16,
+      "vaccines": 36
     },
     {
       "date": "2021-07-11",
@@ -1195,9 +1195,9 @@
     {
       "date": "2021-08-14",
       "locality": "KARDINYA",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 53,
-      "vaccines": 83
+      "vaccines": 82
     },
     {
       "date": "2021-08-15",
@@ -1272,9 +1272,9 @@
     {
       "date": "2021-08-25",
       "locality": "KARDINYA",
-      "dose1": 79,
+      "dose1": 80,
       "dose2": 49,
-      "vaccines": 128
+      "vaccines": 129
     },
     {
       "date": "2021-08-26",
@@ -1384,9 +1384,9 @@
     {
       "date": "2021-09-10",
       "locality": "KARDINYA",
-      "dose1": 37,
+      "dose1": 38,
       "dose2": 61,
-      "vaccines": 98
+      "vaccines": 99
     },
     {
       "date": "2021-09-11",
@@ -1412,9 +1412,9 @@
     {
       "date": "2021-09-14",
       "locality": "KARDINYA",
-      "dose1": 30,
+      "dose1": 32,
       "dose2": 32,
-      "vaccines": 62
+      "vaccines": 64
     },
     {
       "date": "2021-09-15",
@@ -1426,9 +1426,30 @@
     {
       "date": "2021-09-16",
       "locality": "KARDINYA",
-      "dose1": 41,
-      "dose2": 55,
-      "vaccines": 96
+      "dose1": 48,
+      "dose2": 59,
+      "vaccines": 107
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "KARDINYA",
+      "dose1": 34,
+      "dose2": 48,
+      "vaccines": 82
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "KARDINYA",
+      "dose1": 28,
+      "dose2": 50,
+      "vaccines": 78
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "KARDINYA",
+      "dose1": 15,
+      "dose2": 41,
+      "vaccines": 56
     }
   ]
 }

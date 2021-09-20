@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "locality": "KALBARRI",
   "data": [
     {
@@ -334,9 +334,9 @@
     {
       "date": "2021-06-02",
       "locality": "KALBARRI",
-      "dose1": 5,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 3
     },
     {
       "date": "2021-06-03",
@@ -769,8 +769,8 @@
       "date": "2021-08-17",
       "locality": "KALBARRI",
       "dose1": 1,
-      "dose2": 8,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-08-18",
@@ -958,8 +958,22 @@
       "date": "2021-09-16",
       "locality": "KALBARRI",
       "dose1": 30,
-      "dose2": 43,
-      "vaccines": 73
+      "dose2": 44,
+      "vaccines": 74
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "KALBARRI",
+      "dose1": 18,
+      "dose2": 21,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "KALBARRI",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

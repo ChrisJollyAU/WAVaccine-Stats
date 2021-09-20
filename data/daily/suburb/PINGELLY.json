@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "locality": "PINGELLY",
   "data": [
     {
@@ -873,9 +873,23 @@
     {
       "date": "2021-09-16",
       "locality": "PINGELLY",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 2,
-      "vaccines": 9
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "PINGELLY",
+      "dose1": 24,
+      "dose2": 2,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "PINGELLY",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

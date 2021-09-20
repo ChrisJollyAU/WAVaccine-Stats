@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "locality": "WARRENUP",
   "data": [
     {
@@ -1062,9 +1062,23 @@
     {
       "date": "2021-09-16",
       "locality": "WARRENUP",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "WARRENUP",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "WARRENUP",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

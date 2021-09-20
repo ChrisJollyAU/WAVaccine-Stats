@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "postcode": "LESMURDIE",
   "data": [
     {
@@ -790,9 +790,9 @@
       "date": "2021-04-09",
       "locality": "LESMURDIE",
       "AgeGroup": "70 and over",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 10,
-      "vaccines": 22
+      "vaccines": 21
     },
     {
       "date": "2021-04-10",
@@ -1318,9 +1318,9 @@
       "date": "2021-05-05",
       "locality": "LESMURDIE",
       "AgeGroup": "50 to 69",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 0,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-05-05",
@@ -1438,9 +1438,9 @@
       "date": "2021-05-11",
       "locality": "LESMURDIE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-05-11",
@@ -1782,9 +1782,9 @@
       "date": "2021-05-25",
       "locality": "LESMURDIE",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-05-26",
@@ -2471,8 +2471,8 @@
       "locality": "LESMURDIE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-06-24",
@@ -3423,8 +3423,8 @@
       "locality": "LESMURDIE",
       "AgeGroup": "50 to 69",
       "dose1": 14,
-      "dose2": 14,
-      "vaccines": 28
+      "dose2": 15,
+      "vaccines": 29
     },
     {
       "date": "2021-08-03",
@@ -3783,8 +3783,8 @@
       "locality": "LESMURDIE",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 12,
-      "vaccines": 14
+      "dose2": 11,
+      "vaccines": 13
     },
     {
       "date": "2021-08-19",
@@ -3894,9 +3894,9 @@
       "date": "2021-08-23",
       "locality": "LESMURDIE",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 6,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-08-23",
@@ -4302,9 +4302,9 @@
       "date": "2021-09-08",
       "locality": "LESMURDIE",
       "AgeGroup": "16 to 49",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 27,
-      "vaccines": 59
+      "vaccines": 60
     },
     {
       "date": "2021-09-08",
@@ -4502,9 +4502,9 @@
       "date": "2021-09-15",
       "locality": "LESMURDIE",
       "AgeGroup": "16 to 49",
-      "dose1": 34,
+      "dose1": 36,
       "dose2": 16,
-      "vaccines": 50
+      "vaccines": 52
     },
     {
       "date": "2021-09-15",
@@ -4526,17 +4526,121 @@
       "date": "2021-09-16",
       "locality": "LESMURDIE",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
+      "dose1": 25,
       "dose2": 22,
-      "vaccines": 45
+      "vaccines": 47
     },
     {
       "date": "2021-09-16",
       "locality": "LESMURDIE",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "LESMURDIE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LESMURDIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LESMURDIE",
+      "AgeGroup": "16 to 49",
+      "dose1": 17,
+      "dose2": 15,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LESMURDIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LESMURDIE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "LESMURDIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 9,
+      "dose2": 0,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "LESMURDIE",
+      "AgeGroup": "16 to 49",
+      "dose1": 18,
+      "dose2": 17,
+      "vaccines": 35
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "LESMURDIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 15,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "LESMURDIE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 21,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "LESMURDIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 6,
+      "dose2": 0,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "LESMURDIE",
+      "AgeGroup": "16 to 49",
+      "dose1": 26,
+      "dose2": 14,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "LESMURDIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 11,
+      "dose2": 10,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "LESMURDIE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

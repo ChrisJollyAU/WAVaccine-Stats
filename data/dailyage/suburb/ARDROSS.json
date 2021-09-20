@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "postcode": "ARDROSS",
   "data": [
     {
@@ -886,17 +886,17 @@
       "date": "2021-04-20",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-04-20",
       "locality": "ARDROSS",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-04-20",
@@ -1959,16 +1959,16 @@
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-06-08",
       "locality": "ARDROSS",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-06-08",
@@ -2662,9 +2662,9 @@
       "date": "2021-07-09",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 9,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-07-09",
@@ -3239,8 +3239,8 @@
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-08-03",
@@ -3558,9 +3558,9 @@
       "date": "2021-08-17",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 8,
-      "vaccines": 30
+      "vaccines": 29
     },
     {
       "date": "2021-08-17",
@@ -3774,9 +3774,9 @@
       "date": "2021-08-26",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 9,
-      "vaccines": 37
+      "vaccines": 36
     },
     {
       "date": "2021-08-26",
@@ -4103,8 +4103,8 @@
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 22,
-      "vaccines": 32
+      "dose2": 21,
+      "vaccines": 31
     },
     {
       "date": "2021-09-09",
@@ -4214,17 +4214,17 @@
       "date": "2021-09-14",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 17,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-09-14",
       "locality": "ARDROSS",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-09-14",
@@ -4278,17 +4278,17 @@
       "date": "2021-09-16",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 15,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-09-16",
       "locality": "ARDROSS",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-16",
@@ -4296,6 +4296,86 @@
       "AgeGroup": "70 and over",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "ARDROSS",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "ARDROSS",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 14,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "ARDROSS",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "ARDROSS",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "ARDROSS",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 7,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "ARDROSS",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "ARDROSS",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "ARDROSS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "ARDROSS",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 22,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "ARDROSS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

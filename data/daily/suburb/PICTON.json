@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "locality": "PICTON",
   "data": [
     {
@@ -75,9 +75,9 @@
     {
       "date": "2021-04-10",
       "locality": "PICTON",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-14",
@@ -194,9 +194,9 @@
     {
       "date": "2021-05-27",
       "locality": "PICTON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-05-30",
@@ -260,6 +260,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-06-17",
+      "locality": "PICTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-06-18",
@@ -559,8 +566,8 @@
       "date": "2021-08-20",
       "locality": "PICTON",
       "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 9
     },
     {
       "date": "2021-08-21",

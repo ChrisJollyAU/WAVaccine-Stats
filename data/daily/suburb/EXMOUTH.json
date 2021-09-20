@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-16T00:00:00",
+  "date_updated": "2021-09-19T00:00:00",
   "locality": "EXMOUTH",
   "data": [
     {
@@ -923,8 +923,22 @@
       "date": "2021-09-16",
       "locality": "EXMOUTH",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "EXMOUTH",
+      "dose1": 6,
+      "dose2": 1,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "EXMOUTH",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

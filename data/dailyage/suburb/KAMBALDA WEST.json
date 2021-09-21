@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "postcode": "KAMBALDA WEST",
   "data": [
     {
@@ -1702,9 +1702,9 @@
       "date": "2021-09-15",
       "locality": "KAMBALDA WEST",
       "AgeGroup": "50 to 69",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 4,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-09-15",
@@ -1753,6 +1753,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "KAMBALDA WEST",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "KAMBALDA WEST",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "postcode": "BOYUP BROOK",
   "data": [
     {
@@ -2038,17 +2038,25 @@
       "date": "2021-09-17",
       "locality": "BOYUP BROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 7,
       "dose2": 12,
-      "vaccines": 12
+      "vaccines": 19
     },
     {
       "date": "2021-09-17",
       "locality": "BOYUP BROOK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose1": 7,
+      "dose2": 11,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "BOYUP BROOK",
+      "AgeGroup": "70 and over",
+      "dose1": 7,
+      "dose2": 13,
+      "vaccines": 20
     },
     {
       "date": "2021-09-18",
@@ -2057,6 +2065,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "BOYUP BROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "BOYUP BROOK",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

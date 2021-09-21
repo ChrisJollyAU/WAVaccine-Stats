@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "locality": "CARMEL",
   "data": [
     {
@@ -922,9 +922,9 @@
     {
       "date": "2021-08-22",
       "locality": "CARMEL",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-08-23",
@@ -1121,6 +1121,13 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "CARMEL",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
     }
   ]
 }

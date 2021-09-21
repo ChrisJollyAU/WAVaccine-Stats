@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "postcode": "WAGIN",
   "data": [
     {
@@ -806,17 +806,17 @@
       "date": "2021-06-25",
       "locality": "WAGIN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-25",
       "locality": "WAGIN",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-26",
@@ -1159,16 +1159,16 @@
       "locality": "WAGIN",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 6,
-      "vaccines": 18
+      "dose2": 5,
+      "vaccines": 17
     },
     {
       "date": "2021-07-21",
       "locality": "WAGIN",
       "AgeGroup": "50 to 69",
       "dose1": 10,
-      "dose2": 2,
-      "vaccines": 12
+      "dose2": 3,
+      "vaccines": 13
     },
     {
       "date": "2021-07-21",
@@ -1590,9 +1590,9 @@
       "date": "2021-08-17",
       "locality": "WAGIN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 5,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-08-17",
@@ -2006,8 +2006,8 @@
       "date": "2021-09-10",
       "locality": "WAGIN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -2169,6 +2169,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "WAGIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "WAGIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "WAGIN",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

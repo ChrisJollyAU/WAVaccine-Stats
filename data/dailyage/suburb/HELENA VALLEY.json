@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "postcode": "HELENA VALLEY",
   "data": [
     {
@@ -3214,9 +3214,9 @@
       "date": "2021-08-13",
       "locality": "HELENA VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 10,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-08-13",
@@ -3831,8 +3831,8 @@
       "locality": "HELENA VALLEY",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 21,
-      "vaccines": 27
+      "dose2": 22,
+      "vaccines": 28
     },
     {
       "date": "2021-09-08",
@@ -4045,6 +4045,14 @@
     {
       "date": "2021-09-17",
       "locality": "HELENA VALLEY",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "HELENA VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 15,
       "dose2": 12,
@@ -4078,9 +4086,9 @@
       "date": "2021-09-18",
       "locality": "HELENA VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 3,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-09-18",
@@ -4121,6 +4129,38 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "HELENA VALLEY",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "HELENA VALLEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 3,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "HELENA VALLEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 9,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "HELENA VALLEY",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

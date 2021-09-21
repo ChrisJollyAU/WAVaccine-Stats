@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "postcode": "SINAGRA",
   "data": [
     {
@@ -3319,8 +3319,8 @@
       "locality": "SINAGRA",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 19,
-      "vaccines": 29
+      "dose2": 20,
+      "vaccines": 30
     },
     {
       "date": "2021-09-17",
@@ -3342,25 +3342,25 @@
       "date": "2021-09-18",
       "locality": "SINAGRA",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-18",
       "locality": "SINAGRA",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 13,
       "dose2": 8,
-      "vaccines": 17
+      "vaccines": 21
     },
     {
       "date": "2021-09-18",
       "locality": "SINAGRA",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-09-18",
@@ -3373,10 +3373,18 @@
     {
       "date": "2021-09-19",
       "locality": "SINAGRA",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "SINAGRA",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose1": 8,
+      "dose2": 8,
+      "vaccines": 16
     },
     {
       "date": "2021-09-19",
@@ -3385,6 +3393,22 @@
       "dose1": 4,
       "dose2": 1,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "SINAGRA",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "SINAGRA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

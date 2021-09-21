@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "locality": "LOWER CHITTERING",
   "data": [
     {
@@ -614,9 +614,9 @@
     {
       "date": "2021-06-17",
       "locality": "LOWER CHITTERING",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-18",
@@ -1202,8 +1202,8 @@
     {
       "date": "2021-09-10",
       "locality": "LOWER CHITTERING",
-      "dose1": 8,
-      "dose2": 14,
+      "dose1": 7,
+      "dose2": 15,
       "vaccines": 22
     },
     {
@@ -1258,9 +1258,9 @@
     {
       "date": "2021-09-18",
       "locality": "LOWER CHITTERING",
-      "dose1": 6,
+      "dose1": 8,
       "dose2": 12,
-      "vaccines": 18
+      "vaccines": 20
     },
     {
       "date": "2021-09-19",
@@ -1268,6 +1268,13 @@
       "dose1": 6,
       "dose2": 3,
       "vaccines": 9
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "LOWER CHITTERING",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

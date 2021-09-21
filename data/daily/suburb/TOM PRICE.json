@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "locality": "TOM PRICE",
   "data": [
     {
@@ -775,9 +775,9 @@
     {
       "date": "2021-09-10",
       "locality": "TOM PRICE",
-      "dose1": 29,
+      "dose1": 28,
       "dose2": 14,
-      "vaccines": 43
+      "vaccines": 42
     },
     {
       "date": "2021-09-11",
@@ -804,8 +804,8 @@
       "date": "2021-09-14",
       "locality": "TOM PRICE",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 7,
+      "vaccines": 9
     },
     {
       "date": "2021-09-15",
@@ -831,16 +831,23 @@
     {
       "date": "2021-09-18",
       "locality": "TOM PRICE",
-      "dose1": 45,
+      "dose1": 46,
       "dose2": 3,
-      "vaccines": 48
+      "vaccines": 49
     },
     {
       "date": "2021-09-19",
       "locality": "TOM PRICE",
-      "dose1": 57,
+      "dose1": 59,
       "dose2": 2,
-      "vaccines": 59
+      "vaccines": 61
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "TOM PRICE",
+      "dose1": 55,
+      "dose2": 6,
+      "vaccines": 61
     }
   ]
 }

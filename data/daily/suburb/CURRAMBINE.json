@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "locality": "CURRAMBINE",
   "data": [
     {
@@ -1370,9 +1370,16 @@
     {
       "date": "2021-09-19",
       "locality": "CURRAMBINE",
-      "dose1": 17,
+      "dose1": 21,
       "dose2": 17,
-      "vaccines": 34
+      "vaccines": 38
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "CURRAMBINE",
+      "dose1": 34,
+      "dose2": 17,
+      "vaccines": 51
     }
   ]
 }

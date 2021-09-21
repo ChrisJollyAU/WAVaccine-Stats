@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "locality": "VASSE",
   "data": [
     {
@@ -320,9 +320,9 @@
     {
       "date": "2021-05-12",
       "locality": "VASSE",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-13",
@@ -526,13 +526,6 @@
       "dose1": 12,
       "dose2": 1,
       "vaccines": 13
-    },
-    {
-      "date": "2021-06-18",
-      "locality": "VASSE",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-06-19",
@@ -915,9 +908,9 @@
     {
       "date": "2021-08-13",
       "locality": "VASSE",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 10,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-08-14",
@@ -1070,8 +1063,8 @@
       "date": "2021-09-06",
       "locality": "VASSE",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-09-07",
@@ -1139,9 +1132,9 @@
     {
       "date": "2021-09-17",
       "locality": "VASSE",
-      "dose1": 12,
-      "dose2": 6,
-      "vaccines": 18
+      "dose1": 14,
+      "dose2": 8,
+      "vaccines": 22
     },
     {
       "date": "2021-09-18",
@@ -1149,6 +1142,13 @@
       "dose1": 7,
       "dose2": 3,
       "vaccines": 10
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "VASSE",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

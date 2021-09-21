@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "locality": "AUGUSTA",
   "data": [
     {
@@ -1020,8 +1020,15 @@
     {
       "date": "2021-09-17",
       "locality": "AUGUSTA",
-      "dose1": 2,
-      "dose2": 1,
+      "dose1": 11,
+      "dose2": 19,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "AUGUSTA",
+      "dose1": 3,
+      "dose2": 0,
       "vaccines": 3
     }
   ]

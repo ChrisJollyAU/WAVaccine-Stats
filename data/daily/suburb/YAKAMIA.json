@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-19T00:00:00",
+  "date_updated": "2021-09-20T00:00:00",
   "locality": "YAKAMIA",
   "data": [
     {
@@ -1293,23 +1293,30 @@
     {
       "date": "2021-09-17",
       "locality": "YAKAMIA",
-      "dose1": 11,
+      "dose1": 13,
       "dose2": 4,
-      "vaccines": 15
+      "vaccines": 17
     },
     {
       "date": "2021-09-18",
       "locality": "YAKAMIA",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose1": 9,
+      "dose2": 5,
+      "vaccines": 14
     },
     {
       "date": "2021-09-19",
       "locality": "YAKAMIA",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "YAKAMIA",
+      "dose1": 9,
+      "dose2": 0,
+      "vaccines": 9
     }
   ]
 }

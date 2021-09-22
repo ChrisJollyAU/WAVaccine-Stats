@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "BULLSBROOK",
   "data": [
     {
@@ -1315,8 +1315,8 @@
       "date": "2021-09-16",
       "locality": "BULLSBROOK",
       "dose1": 21,
-      "dose2": 23,
-      "vaccines": 44
+      "dose2": 24,
+      "vaccines": 45
     },
     {
       "date": "2021-09-17",
@@ -1343,8 +1343,15 @@
       "date": "2021-09-20",
       "locality": "BULLSBROOK",
       "dose1": 14,
-      "dose2": 10,
-      "vaccines": 24
+      "dose2": 11,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "BULLSBROOK",
+      "dose1": 25,
+      "dose2": 7,
+      "vaccines": 32
     }
   ]
 }

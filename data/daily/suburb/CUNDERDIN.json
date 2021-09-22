@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "CUNDERDIN",
   "data": [
     {
@@ -880,9 +880,16 @@
     {
       "date": "2021-09-20",
       "locality": "CUNDERDIN",
-      "dose1": 0,
+      "dose1": 25,
+      "dose2": 6,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "CUNDERDIN",
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 7
     }
   ]
 }

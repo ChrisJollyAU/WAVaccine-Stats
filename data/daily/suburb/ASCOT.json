@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "ASCOT",
   "data": [
     {
@@ -1195,9 +1195,9 @@
     {
       "date": "2021-08-23",
       "locality": "ASCOT",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 21,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-08-24",
@@ -1266,8 +1266,8 @@
       "date": "2021-09-02",
       "locality": "ASCOT",
       "dose1": 8,
-      "dose2": 8,
-      "vaccines": 16
+      "dose2": 10,
+      "vaccines": 18
     },
     {
       "date": "2021-09-03",
@@ -1293,9 +1293,9 @@
     {
       "date": "2021-09-06",
       "locality": "ASCOT",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 24,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-09-07",
@@ -1364,8 +1364,8 @@
       "date": "2021-09-16",
       "locality": "ASCOT",
       "dose1": 14,
-      "dose2": 7,
-      "vaccines": 21
+      "dose2": 8,
+      "vaccines": 22
     },
     {
       "date": "2021-09-17",
@@ -1391,9 +1391,16 @@
     {
       "date": "2021-09-20",
       "locality": "ASCOT",
-      "dose1": 11,
+      "dose1": 14,
       "dose2": 11,
-      "vaccines": 22
+      "vaccines": 25
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "ASCOT",
+      "dose1": 15,
+      "dose2": 12,
+      "vaccines": 27
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "YALYALUP",
   "data": [
     {
@@ -1146,9 +1146,16 @@
     {
       "date": "2021-09-20",
       "locality": "YALYALUP",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 9,
+      "dose2": 3,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "YALYALUP",
+      "dose1": 11,
+      "dose2": 14,
+      "vaccines": 25
     }
   ]
 }

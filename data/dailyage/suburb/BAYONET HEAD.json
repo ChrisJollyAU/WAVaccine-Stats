@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "postcode": "BAYONET HEAD",
   "data": [
     {
@@ -342,9 +342,9 @@
       "date": "2021-04-01",
       "locality": "BAYONET HEAD",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-04-01",
@@ -1799,8 +1799,8 @@
       "locality": "BAYONET HEAD",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-06-25",
@@ -3777,6 +3777,30 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "BAYONET HEAD",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 3,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "BAYONET HEAD",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "BAYONET HEAD",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

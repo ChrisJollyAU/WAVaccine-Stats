@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "postcode": "LAMINGTON",
   "data": [
     {
@@ -118,9 +118,9 @@
       "date": "2021-04-06",
       "locality": "LAMINGTON",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-06",
@@ -774,9 +774,9 @@
       "date": "2021-06-03",
       "locality": "LAMINGTON",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-06-03",
@@ -999,8 +999,8 @@
       "locality": "LAMINGTON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-22",
@@ -1799,8 +1799,8 @@
       "locality": "LAMINGTON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-12",
@@ -2511,16 +2511,16 @@
       "locality": "LAMINGTON",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-09-19",
       "locality": "LAMINGTON",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2021-09-19",
@@ -2545,6 +2545,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "LAMINGTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "LAMINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 1,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "LAMINGTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

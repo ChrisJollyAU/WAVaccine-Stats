@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "postcode": "WYALKATCHEM",
   "data": [
     {
@@ -1462,9 +1462,9 @@
       "date": "2021-09-14",
       "locality": "WYALKATCHEM",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-14",
@@ -1477,6 +1477,14 @@
     {
       "date": "2021-09-16",
       "locality": "WYALKATCHEM",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "WYALKATCHEM",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 1,
@@ -1500,6 +1508,38 @@
     },
     {
       "date": "2021-09-17",
+      "locality": "WYALKATCHEM",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "WYALKATCHEM",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "WYALKATCHEM",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "WYALKATCHEM",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-21",
       "locality": "WYALKATCHEM",
       "AgeGroup": "70 and over",
       "dose1": 0,

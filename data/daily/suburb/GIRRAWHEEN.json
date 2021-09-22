@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "GIRRAWHEEN",
   "data": [
     {
@@ -1385,15 +1385,15 @@
       "date": "2021-09-17",
       "locality": "GIRRAWHEEN",
       "dose1": 29,
-      "dose2": 42,
-      "vaccines": 71
+      "dose2": 44,
+      "vaccines": 73
     },
     {
       "date": "2021-09-18",
       "locality": "GIRRAWHEEN",
-      "dose1": 29,
+      "dose1": 30,
       "dose2": 39,
-      "vaccines": 68
+      "vaccines": 69
     },
     {
       "date": "2021-09-19",
@@ -1405,9 +1405,16 @@
     {
       "date": "2021-09-20",
       "locality": "GIRRAWHEEN",
-      "dose1": 41,
-      "dose2": 23,
-      "vaccines": 64
+      "dose1": 44,
+      "dose2": 30,
+      "vaccines": 74
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "GIRRAWHEEN",
+      "dose1": 47,
+      "dose2": 37,
+      "vaccines": 84
     }
   ]
 }

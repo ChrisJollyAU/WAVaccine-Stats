@@ -1,9 +1,17 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "postcode": "GWELUP DC",
   "data": [
     {
       "date": "2021-03-11",
+      "locality": "GWELUP DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-18",
       "locality": "GWELUP DC",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -38,6 +46,14 @@
       "date": "2021-04-10",
       "locality": "GWELUP DC",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-16",
+      "locality": "GWELUP DC",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -183,8 +199,8 @@
       "locality": "GWELUP DC",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-09",
@@ -200,6 +216,14 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-11",
+      "locality": "GWELUP DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "DONNYBROOK",
   "data": [
     {
@@ -950,9 +950,9 @@
     {
       "date": "2021-08-01",
       "locality": "DONNYBROOK",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-02",
@@ -1140,8 +1140,8 @@
       "date": "2021-08-28",
       "locality": "DONNYBROOK",
       "dose1": 11,
-      "dose2": 6,
-      "vaccines": 17
+      "dose2": 5,
+      "vaccines": 16
     },
     {
       "date": "2021-08-29",
@@ -1258,9 +1258,9 @@
     {
       "date": "2021-09-14",
       "locality": "DONNYBROOK",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 10,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-09-15",
@@ -1286,9 +1286,9 @@
     {
       "date": "2021-09-18",
       "locality": "DONNYBROOK",
-      "dose1": 19,
+      "dose1": 21,
       "dose2": 8,
-      "vaccines": 27
+      "vaccines": 29
     },
     {
       "date": "2021-09-19",
@@ -1300,9 +1300,16 @@
     {
       "date": "2021-09-20",
       "locality": "DONNYBROOK",
-      "dose1": 16,
+      "dose1": 18,
       "dose2": 24,
-      "vaccines": 40
+      "vaccines": 42
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "DONNYBROOK",
+      "dose1": 12,
+      "dose2": 14,
+      "vaccines": 26
     }
   ]
 }

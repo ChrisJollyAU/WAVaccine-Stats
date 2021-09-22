@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "SOMERVILLE",
   "data": [
     {
@@ -979,8 +979,8 @@
       "date": "2021-09-06",
       "locality": "SOMERVILLE",
       "dose1": 2,
-      "dose2": 10,
-      "vaccines": 12
+      "dose2": 11,
+      "vaccines": 13
     },
     {
       "date": "2021-09-07",
@@ -1076,9 +1076,16 @@
     {
       "date": "2021-09-20",
       "locality": "SOMERVILLE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 8,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "SOMERVILLE",
+      "dose1": 33,
+      "dose2": 0,
+      "vaccines": 33
     }
   ]
 }

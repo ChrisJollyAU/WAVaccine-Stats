@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "LESCHENAULT",
   "data": [
     {
@@ -1175,8 +1175,8 @@
       "date": "2021-09-10",
       "locality": "LESCHENAULT",
       "dose1": 9,
-      "dose2": 12,
-      "vaccines": 21
+      "dose2": 13,
+      "vaccines": 22
     },
     {
       "date": "2021-09-11",
@@ -1223,9 +1223,9 @@
     {
       "date": "2021-09-17",
       "locality": "LESCHENAULT",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 15,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-09-18",
@@ -1244,9 +1244,16 @@
     {
       "date": "2021-09-20",
       "locality": "LESCHENAULT",
-      "dose1": 10,
+      "dose1": 19,
       "dose2": 11,
-      "vaccines": 21
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "LESCHENAULT",
+      "dose1": 24,
+      "dose2": 16,
+      "vaccines": 40
     }
   ]
 }

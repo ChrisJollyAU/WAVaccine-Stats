@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "DALE",
   "data": [
     {
@@ -322,6 +322,13 @@
       "locality": "DALE",
       "dose1": 1,
       "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "DALE",
+      "dose1": 0,
+      "dose2": 3,
       "vaccines": 3
     }
   ]

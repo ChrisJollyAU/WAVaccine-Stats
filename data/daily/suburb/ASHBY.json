@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-20T00:00:00",
+  "date_updated": "2021-09-21T00:00:00",
   "locality": "ASHBY",
   "data": [
     {
@@ -1336,15 +1336,15 @@
       "date": "2021-09-17",
       "locality": "ASHBY",
       "dose1": 12,
-      "dose2": 15,
-      "vaccines": 27
+      "dose2": 16,
+      "vaccines": 28
     },
     {
       "date": "2021-09-18",
       "locality": "ASHBY",
       "dose1": 10,
-      "dose2": 9,
-      "vaccines": 19
+      "dose2": 10,
+      "vaccines": 20
     },
     {
       "date": "2021-09-19",
@@ -1356,9 +1356,16 @@
     {
       "date": "2021-09-20",
       "locality": "ASHBY",
-      "dose1": 11,
-      "dose2": 8,
-      "vaccines": 19
+      "dose1": 12,
+      "dose2": 10,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "ASHBY",
+      "dose1": 14,
+      "dose2": 9,
+      "vaccines": 23
     }
   ]
 }

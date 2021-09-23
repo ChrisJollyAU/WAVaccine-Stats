@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "COOMBERDALE",
   "data": [
     {
@@ -216,8 +216,15 @@
       "date": "2021-09-20",
       "locality": "COOMBERDALE",
       "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "COOMBERDALE",
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 2
     }
   ]
 }

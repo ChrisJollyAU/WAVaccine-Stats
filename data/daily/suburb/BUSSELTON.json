@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "BUSSELTON",
   "data": [
     {
@@ -1300,9 +1300,16 @@
     {
       "date": "2021-09-21",
       "locality": "BUSSELTON",
-      "dose1": 36,
+      "dose1": 41,
       "dose2": 34,
-      "vaccines": 70
+      "vaccines": 75
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "BUSSELTON",
+      "dose1": 8,
+      "dose2": 12,
+      "vaccines": 20
     }
   ]
 }

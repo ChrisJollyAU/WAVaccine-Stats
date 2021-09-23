@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "MERREDIN",
   "data": [
     {
@@ -1111,8 +1111,15 @@
     {
       "date": "2021-09-21",
       "locality": "MERREDIN",
-      "dose1": 6,
-      "dose2": 6,
+      "dose1": 8,
+      "dose2": 12,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "MERREDIN",
+      "dose1": 9,
+      "dose2": 3,
       "vaccines": 12
     }
   ]

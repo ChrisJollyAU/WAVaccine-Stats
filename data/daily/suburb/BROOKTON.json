@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "BROOKTON",
   "data": [
     {
@@ -950,15 +950,22 @@
     {
       "date": "2021-09-20",
       "locality": "BROOKTON",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 6,
-      "vaccines": 13
+      "vaccines": 15
     },
     {
       "date": "2021-09-21",
       "locality": "BROOKTON",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "BROOKTON",
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     }
   ]

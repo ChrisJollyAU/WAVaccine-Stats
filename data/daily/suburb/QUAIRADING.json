@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "QUAIRADING",
   "data": [
     {
@@ -839,8 +839,15 @@
       "date": "2021-09-21",
       "locality": "QUAIRADING",
       "dose1": 10,
-      "dose2": 0,
-      "vaccines": 10
+      "dose2": 1,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "QUAIRADING",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

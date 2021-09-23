@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "PORONGURUP",
   "data": [
     {
@@ -754,9 +754,16 @@
     {
       "date": "2021-09-21",
       "locality": "PORONGURUP",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "PORONGURUP",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

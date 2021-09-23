@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "RANGEWAY",
   "data": [
     {
@@ -1118,16 +1118,23 @@
     {
       "date": "2021-09-20",
       "locality": "RANGEWAY",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-09-21",
       "locality": "RANGEWAY",
-      "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose1": 8,
+      "dose2": 7,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "RANGEWAY",
+      "dose1": 8,
+      "dose2": 1,
+      "vaccines": 9
     }
   ]
 }

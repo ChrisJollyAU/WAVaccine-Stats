@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "FLOREAT",
   "data": [
     {
@@ -229,9 +229,9 @@
     {
       "date": "2021-03-27",
       "locality": "FLOREAT",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-03-28",
@@ -1462,15 +1462,22 @@
       "date": "2021-09-20",
       "locality": "FLOREAT",
       "dose1": 21,
-      "dose2": 48,
-      "vaccines": 69
+      "dose2": 49,
+      "vaccines": 70
     },
     {
       "date": "2021-09-21",
       "locality": "FLOREAT",
-      "dose1": 45,
+      "dose1": 48,
+      "dose2": 39,
+      "vaccines": 87
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "FLOREAT",
+      "dose1": 35,
       "dose2": 32,
-      "vaccines": 77
+      "vaccines": 67
     }
   ]
 }

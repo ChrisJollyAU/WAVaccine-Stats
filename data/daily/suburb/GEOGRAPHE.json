@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "GEOGRAPHE",
   "data": [
     {
@@ -1223,9 +1223,16 @@
     {
       "date": "2021-09-21",
       "locality": "GEOGRAPHE",
-      "dose1": 17,
-      "dose2": 6,
-      "vaccines": 23
+      "dose1": 19,
+      "dose2": 11,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "GEOGRAPHE",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
     }
   ]
 }

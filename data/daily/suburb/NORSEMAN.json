@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "NORSEMAN",
   "data": [
     {
@@ -447,8 +447,8 @@
       "date": "2021-08-05",
       "locality": "NORSEMAN",
       "dose1": 2,
-      "dose2": 9,
-      "vaccines": 11
+      "dose2": 10,
+      "vaccines": 12
     },
     {
       "date": "2021-08-06",
@@ -694,6 +694,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "NORSEMAN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "STRATTON",
   "data": [
     {
@@ -1287,15 +1287,22 @@
       "date": "2021-09-20",
       "locality": "STRATTON",
       "dose1": 13,
-      "dose2": 7,
-      "vaccines": 20
+      "dose2": 10,
+      "vaccines": 23
     },
     {
       "date": "2021-09-21",
       "locality": "STRATTON",
-      "dose1": 22,
+      "dose1": 30,
       "dose2": 5,
-      "vaccines": 27
+      "vaccines": 35
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "STRATTON",
+      "dose1": 21,
+      "dose2": 7,
+      "vaccines": 28
     }
   ]
 }

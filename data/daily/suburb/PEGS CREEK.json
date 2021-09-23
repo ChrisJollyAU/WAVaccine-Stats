@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "PEGS CREEK",
   "data": [
     {
@@ -943,9 +943,16 @@
     {
       "date": "2021-09-21",
       "locality": "PEGS CREEK",
-      "dose1": 12,
+      "dose1": 13,
+      "dose2": 3,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "PEGS CREEK",
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 14
+      "vaccines": 8
     }
   ]
 }

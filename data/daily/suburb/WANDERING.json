@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "WANDERING",
   "data": [
     {
@@ -643,8 +643,8 @@
       "date": "2021-09-16",
       "locality": "WANDERING",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-09-18",
@@ -657,15 +657,22 @@
       "date": "2021-09-20",
       "locality": "WANDERING",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-21",
       "locality": "WANDERING",
-      "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "WANDERING",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

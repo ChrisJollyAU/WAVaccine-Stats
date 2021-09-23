@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "postcode": "6012",
   "data": [
     {
@@ -574,17 +574,17 @@
       "date": "2021-03-26",
       "postcode": "6012",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-03-26",
       "postcode": "6012",
       "AgeGroup": "70 and over",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 0,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-03-27",
@@ -2263,16 +2263,16 @@
       "postcode": "6012",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 5,
-      "vaccines": 17
+      "dose2": 4,
+      "vaccines": 16
     },
     {
       "date": "2021-06-11",
       "postcode": "6012",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-06-12",
@@ -3374,9 +3374,9 @@
       "date": "2021-07-28",
       "postcode": "6012",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 20,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-07-28",
@@ -3879,8 +3879,8 @@
       "postcode": "6012",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 28,
-      "vaccines": 35
+      "dose2": 29,
+      "vaccines": 36
     },
     {
       "date": "2021-08-18",
@@ -3926,9 +3926,9 @@
       "date": "2021-08-20",
       "postcode": "6012",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 12,
-      "vaccines": 37
+      "vaccines": 38
     },
     {
       "date": "2021-08-20",
@@ -4423,8 +4423,8 @@
       "postcode": "6012",
       "AgeGroup": "16 to 49",
       "dose1": 35,
-      "dose2": 50,
-      "vaccines": 85
+      "dose2": 51,
+      "vaccines": 86
     },
     {
       "date": "2021-09-09",
@@ -4647,8 +4647,8 @@
       "postcode": "6012",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-09-17",
@@ -4726,9 +4726,9 @@
       "date": "2021-09-19",
       "postcode": "6012",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 37,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-09-19",
@@ -4749,10 +4749,18 @@
     {
       "date": "2021-09-20",
       "postcode": "6012",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "postcode": "6012",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 20,
-      "vaccines": 33
+      "dose2": 21,
+      "vaccines": 34
     },
     {
       "date": "2021-09-20",
@@ -4782,17 +4790,17 @@
       "date": "2021-09-21",
       "postcode": "6012",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 19,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-09-21",
       "postcode": "6012",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 6,
-      "vaccines": 14
+      "dose2": 7,
+      "vaccines": 15
     },
     {
       "date": "2021-09-21",
@@ -4801,6 +4809,38 @@
       "dose1": 7,
       "dose2": 7,
       "vaccines": 14
+    },
+    {
+      "date": "2021-09-22",
+      "postcode": "6012",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-22",
+      "postcode": "6012",
+      "AgeGroup": "16 to 49",
+      "dose1": 27,
+      "dose2": 32,
+      "vaccines": 59
+    },
+    {
+      "date": "2021-09-22",
+      "postcode": "6012",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-22",
+      "postcode": "6012",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "MUNDARING DC",
   "data": [
     {
@@ -810,9 +810,16 @@
     {
       "date": "2021-09-21",
       "locality": "MUNDARING DC",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "MUNDARING DC",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

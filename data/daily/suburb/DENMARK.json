@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-21T00:00:00",
+  "date_updated": "2021-09-22T00:00:00",
   "locality": "DENMARK",
   "data": [
     {
@@ -1307,9 +1307,16 @@
     {
       "date": "2021-09-21",
       "locality": "DENMARK",
-      "dose1": 22,
+      "dose1": 23,
+      "dose2": 10,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "DENMARK",
+      "dose1": 16,
       "dose2": 7,
-      "vaccines": 29
+      "vaccines": 23
     }
   ]
 }

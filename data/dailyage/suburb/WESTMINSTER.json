@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "postcode": "WESTMINSTER",
   "data": [
     {
@@ -1694,9 +1694,9 @@
       "date": "2021-05-31",
       "locality": "WESTMINSTER",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-05-31",
@@ -3591,8 +3591,8 @@
       "locality": "WESTMINSTER",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-08-23",
@@ -4318,9 +4318,9 @@
       "date": "2021-09-21",
       "locality": "WESTMINSTER",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
-      "dose2": 10,
-      "vaccines": 29
+      "dose1": 21,
+      "dose2": 11,
+      "vaccines": 32
     },
     {
       "date": "2021-09-21",
@@ -4350,17 +4350,17 @@
       "date": "2021-09-22",
       "locality": "WESTMINSTER",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
-      "dose2": 12,
-      "vaccines": 28
+      "dose1": 17,
+      "dose2": 15,
+      "vaccines": 32
     },
     {
       "date": "2021-09-22",
       "locality": "WESTMINSTER",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose1": 7,
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-09-22",
@@ -4369,6 +4369,30 @@
       "dose1": 4,
       "dose2": 2,
       "vaccines": 6
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "WESTMINSTER",
+      "AgeGroup": "16 to 49",
+      "dose1": 21,
+      "dose2": 13,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "WESTMINSTER",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "WESTMINSTER",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

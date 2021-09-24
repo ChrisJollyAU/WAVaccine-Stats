@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "MINGENEW",
   "data": [
     {
@@ -817,9 +817,16 @@
     {
       "date": "2021-09-22",
       "locality": "MINGENEW",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "MINGENEW",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

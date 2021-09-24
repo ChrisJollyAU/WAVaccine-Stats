@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "JANDAKOT",
   "data": [
     {
@@ -1377,16 +1377,23 @@
     {
       "date": "2021-09-21",
       "locality": "JANDAKOT",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 10,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-09-22",
       "locality": "JANDAKOT",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 13,
-      "vaccines": 33
+      "vaccines": 34
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "JANDAKOT",
+      "dose1": 12,
+      "dose2": 11,
+      "vaccines": 23
     }
   ]
 }

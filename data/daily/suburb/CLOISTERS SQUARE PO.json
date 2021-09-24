@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "CLOISTERS SQUARE PO",
   "data": [
     {
@@ -705,9 +705,16 @@
     {
       "date": "2021-09-22",
       "locality": "CLOISTERS SQUARE PO",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "CLOISTERS SQUARE PO",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

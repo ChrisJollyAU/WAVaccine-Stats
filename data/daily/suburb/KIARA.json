@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "KIARA",
   "data": [
     {
@@ -1300,16 +1300,23 @@
     {
       "date": "2021-09-21",
       "locality": "KIARA",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-09-22",
       "locality": "KIARA",
+      "dose1": 21,
+      "dose2": 5,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "KIARA",
       "dose1": 20,
-      "dose2": 4,
-      "vaccines": 24
+      "dose2": 8,
+      "vaccines": 28
     }
   ]
 }

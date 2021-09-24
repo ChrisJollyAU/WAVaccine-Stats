@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "MOOLIABEENEE",
   "data": [
     {
@@ -311,6 +311,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-08-31",
+      "locality": "MOOLIABEENEE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-03",
       "locality": "MOOLIABEENEE",
       "dose1": 0,
@@ -391,8 +398,8 @@
       "date": "2021-09-21",
       "locality": "MOOLIABEENEE",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

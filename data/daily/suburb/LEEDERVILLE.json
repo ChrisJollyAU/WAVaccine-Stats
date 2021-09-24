@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "LEEDERVILLE",
   "data": [
     {
@@ -1475,9 +1475,16 @@
     {
       "date": "2021-09-22",
       "locality": "LEEDERVILLE",
-      "dose1": 20,
-      "dose2": 9,
-      "vaccines": 29
+      "dose1": 25,
+      "dose2": 15,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "LEEDERVILLE",
+      "dose1": 12,
+      "dose2": 20,
+      "vaccines": 32
     }
   ]
 }

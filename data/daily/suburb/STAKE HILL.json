@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "STAKE HILL",
   "data": [
     {
@@ -824,9 +824,16 @@
     {
       "date": "2021-09-22",
       "locality": "STAKE HILL",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "STAKE HILL",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "DALKEITH",
   "data": [
     {
@@ -1475,15 +1475,22 @@
     {
       "date": "2021-09-21",
       "locality": "DALKEITH",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 20,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-09-22",
       "locality": "DALKEITH",
-      "dose1": 13,
-      "dose2": 23,
+      "dose1": 17,
+      "dose2": 24,
+      "vaccines": 41
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "DALKEITH",
+      "dose1": 15,
+      "dose2": 21,
       "vaccines": 36
     }
   ]

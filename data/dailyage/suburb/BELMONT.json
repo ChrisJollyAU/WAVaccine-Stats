@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "postcode": "BELMONT",
   "data": [
     {
@@ -438,9 +438,9 @@
       "date": "2021-03-24",
       "locality": "BELMONT",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-03-24",
@@ -1999,8 +1999,8 @@
       "locality": "BELMONT",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-07",
@@ -3262,9 +3262,9 @@
       "date": "2021-07-31",
       "locality": "BELMONT",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 8,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-07-31",
@@ -3574,9 +3574,9 @@
       "date": "2021-08-13",
       "locality": "BELMONT",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 13,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-08-13",
@@ -3646,9 +3646,9 @@
       "date": "2021-08-16",
       "locality": "BELMONT",
       "AgeGroup": "50 to 69",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 23,
-      "vaccines": 34
+      "vaccines": 33
     },
     {
       "date": "2021-08-16",
@@ -3662,9 +3662,9 @@
       "date": "2021-08-17",
       "locality": "BELMONT",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 18,
-      "vaccines": 46
+      "vaccines": 45
     },
     {
       "date": "2021-08-17",
@@ -3863,8 +3863,8 @@
       "locality": "BELMONT",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 11,
-      "vaccines": 14
+      "dose2": 12,
+      "vaccines": 15
     },
     {
       "date": "2021-08-25",
@@ -3903,8 +3903,8 @@
       "locality": "BELMONT",
       "AgeGroup": "16 to 49",
       "dose1": 45,
-      "dose2": 20,
-      "vaccines": 65
+      "dose2": 19,
+      "vaccines": 64
     },
     {
       "date": "2021-08-27",
@@ -4351,8 +4351,8 @@
       "locality": "BELMONT",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 8,
-      "vaccines": 14
+      "dose2": 7,
+      "vaccines": 13
     },
     {
       "date": "2021-09-13",
@@ -4487,16 +4487,16 @@
       "locality": "BELMONT",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-09-18",
       "locality": "BELMONT",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-09-19",
@@ -4558,9 +4558,9 @@
       "date": "2021-09-21",
       "locality": "BELMONT",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 24,
       "dose2": 26,
-      "vaccines": 47
+      "vaccines": 50
     },
     {
       "date": "2021-09-21",
@@ -4590,17 +4590,17 @@
       "date": "2021-09-22",
       "locality": "BELMONT",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
-      "dose2": 12,
-      "vaccines": 35
+      "dose1": 28,
+      "dose2": 13,
+      "vaccines": 41
     },
     {
       "date": "2021-09-22",
       "locality": "BELMONT",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose1": 9,
+      "dose2": 8,
+      "vaccines": 17
     },
     {
       "date": "2021-09-22",
@@ -4609,6 +4609,30 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "BELMONT",
+      "AgeGroup": "16 to 49",
+      "dose1": 23,
+      "dose2": 16,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "BELMONT",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 2,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "BELMONT",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     }
   ]
 }

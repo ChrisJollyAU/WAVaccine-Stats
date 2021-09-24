@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "CHURCHLANDS",
   "data": [
     {
@@ -1433,16 +1433,23 @@
     {
       "date": "2021-09-21",
       "locality": "CHURCHLANDS",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 17,
-      "vaccines": 41
+      "vaccines": 42
     },
     {
       "date": "2021-09-22",
       "locality": "CHURCHLANDS",
+      "dose1": 25,
+      "dose2": 18,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "CHURCHLANDS",
       "dose1": 21,
-      "dose2": 17,
-      "vaccines": 38
+      "dose2": 21,
+      "vaccines": 42
     }
   ]
 }

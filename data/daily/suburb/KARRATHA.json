@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "KARRATHA",
   "data": [
     {
@@ -530,9 +530,9 @@
     {
       "date": "2021-06-26",
       "locality": "KARRATHA",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-27",
@@ -734,8 +734,8 @@
       "date": "2021-07-27",
       "locality": "KARRATHA",
       "dose1": 13,
-      "dose2": 6,
-      "vaccines": 19
+      "dose2": 5,
+      "vaccines": 18
     },
     {
       "date": "2021-07-28",
@@ -1090,9 +1090,9 @@
     {
       "date": "2021-09-16",
       "locality": "KARRATHA",
-      "dose1": 15,
+      "dose1": 17,
       "dose2": 12,
-      "vaccines": 27
+      "vaccines": 29
     },
     {
       "date": "2021-09-17",
@@ -1118,23 +1118,30 @@
     {
       "date": "2021-09-20",
       "locality": "KARRATHA",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 13,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-09-21",
       "locality": "KARRATHA",
-      "dose1": 18,
+      "dose1": 20,
       "dose2": 11,
-      "vaccines": 29
+      "vaccines": 31
     },
     {
       "date": "2021-09-22",
       "locality": "KARRATHA",
-      "dose1": 11,
+      "dose1": 15,
       "dose2": 8,
-      "vaccines": 19
+      "vaccines": 23
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "KARRATHA",
+      "dose1": 12,
+      "dose2": 6,
+      "vaccines": 18
     }
   ]
 }

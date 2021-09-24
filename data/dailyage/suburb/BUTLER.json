@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "postcode": "BUTLER",
   "data": [
     {
@@ -1046,9 +1046,9 @@
       "date": "2021-04-22",
       "locality": "BUTLER",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-04-22",
@@ -1447,8 +1447,8 @@
       "locality": "BUTLER",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 0,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 8
     },
     {
       "date": "2021-05-13",
@@ -2502,9 +2502,9 @@
       "date": "2021-06-29",
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 3,
-      "vaccines": 31
+      "vaccines": 30
     },
     {
       "date": "2021-06-29",
@@ -3822,9 +3822,9 @@
       "date": "2021-08-23",
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
-      "dose1": 34,
+      "dose1": 33,
       "dose2": 24,
-      "vaccines": 58
+      "vaccines": 57
     },
     {
       "date": "2021-08-23",
@@ -3998,9 +3998,9 @@
       "date": "2021-08-30",
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
-      "dose1": 69,
+      "dose1": 68,
       "dose2": 17,
-      "vaccines": 86
+      "vaccines": 85
     },
     {
       "date": "2021-08-30",
@@ -4246,9 +4246,9 @@
       "date": "2021-09-09",
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
-      "dose1": 49,
+      "dose1": 50,
       "dose2": 33,
-      "vaccines": 82
+      "vaccines": 83
     },
     {
       "date": "2021-09-09",
@@ -4423,8 +4423,8 @@
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
       "dose1": 42,
-      "dose2": 29,
-      "vaccines": 71
+      "dose2": 28,
+      "vaccines": 70
     },
     {
       "date": "2021-09-15",
@@ -4455,8 +4455,8 @@
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
       "dose1": 28,
-      "dose2": 23,
-      "vaccines": 51
+      "dose2": 22,
+      "vaccines": 50
     },
     {
       "date": "2021-09-16",
@@ -4550,9 +4550,9 @@
       "date": "2021-09-19",
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 23,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-09-19",
@@ -4583,8 +4583,8 @@
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
       "dose1": 31,
-      "dose2": 29,
-      "vaccines": 60
+      "dose2": 30,
+      "vaccines": 61
     },
     {
       "date": "2021-09-20",
@@ -4646,17 +4646,57 @@
       "date": "2021-09-22",
       "locality": "BUTLER",
       "AgeGroup": "16 to 49",
-      "dose1": 45,
+      "dose1": 47,
       "dose2": 28,
-      "vaccines": 73
+      "vaccines": 75
     },
     {
       "date": "2021-09-22",
       "locality": "BUTLER",
       "AgeGroup": "50 to 69",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 14,
-      "vaccines": 25
+      "vaccines": 26
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "BUTLER",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "BUTLER",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "BUTLER",
+      "AgeGroup": "16 to 49",
+      "dose1": 56,
+      "dose2": 28,
+      "vaccines": 84
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "BUTLER",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 6,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "BUTLER",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

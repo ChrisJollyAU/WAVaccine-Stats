@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "postcode": "COOGEE",
   "data": [
     {
@@ -4239,16 +4239,16 @@
       "locality": "COOGEE",
       "AgeGroup": "16 to 49",
       "dose1": 18,
-      "dose2": 15,
-      "vaccines": 33
+      "dose2": 16,
+      "vaccines": 34
     },
     {
       "date": "2021-09-22",
       "locality": "COOGEE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 5,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-09-22",
@@ -4257,6 +4257,30 @@
       "dose1": 3,
       "dose2": 2,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "COOGEE",
+      "AgeGroup": "16 to 49",
+      "dose1": 13,
+      "dose2": 5,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "COOGEE",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "COOGEE",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

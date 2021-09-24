@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "MOORA",
   "data": [
     {
@@ -969,13 +969,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-09-19",
-      "locality": "MOORA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-20",
       "locality": "MOORA",
       "dose1": 9,
@@ -992,9 +985,16 @@
     {
       "date": "2021-09-22",
       "locality": "MOORA",
-      "dose1": 24,
+      "dose1": 23,
       "dose2": 19,
-      "vaccines": 43
+      "vaccines": 42
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "MOORA",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

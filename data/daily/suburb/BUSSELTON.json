@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "locality": "BUSSELTON",
   "data": [
     {
@@ -390,9 +390,9 @@
     {
       "date": "2021-05-08",
       "locality": "BUSSELTON",
-      "dose1": 62,
+      "dose1": 60,
       "dose2": 0,
-      "vaccines": 62
+      "vaccines": 60
     },
     {
       "date": "2021-05-09",
@@ -902,8 +902,8 @@
       "date": "2021-07-24",
       "locality": "BUSSELTON",
       "dose1": 16,
-      "dose2": 77,
-      "vaccines": 93
+      "dose2": 75,
+      "vaccines": 91
     },
     {
       "date": "2021-07-26",
@@ -1041,9 +1041,9 @@
     {
       "date": "2021-08-14",
       "locality": "BUSSELTON",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 50,
-      "vaccines": 66
+      "vaccines": 65
     },
     {
       "date": "2021-08-16",
@@ -1238,8 +1238,8 @@
       "date": "2021-09-12",
       "locality": "BUSSELTON",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-13",
@@ -1273,8 +1273,8 @@
       "date": "2021-09-17",
       "locality": "BUSSELTON",
       "dose1": 44,
-      "dose2": 38,
-      "vaccines": 82
+      "dose2": 39,
+      "vaccines": 83
     },
     {
       "date": "2021-09-18",
@@ -1293,23 +1293,30 @@
     {
       "date": "2021-09-20",
       "locality": "BUSSELTON",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 15,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-09-21",
       "locality": "BUSSELTON",
-      "dose1": 41,
-      "dose2": 34,
-      "vaccines": 75
+      "dose1": 43,
+      "dose2": 37,
+      "vaccines": 80
     },
     {
       "date": "2021-09-22",
       "locality": "BUSSELTON",
-      "dose1": 8,
-      "dose2": 12,
-      "vaccines": 20
+      "dose1": 13,
+      "dose2": 18,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "BUSSELTON",
+      "dose1": 32,
+      "dose2": 26,
+      "vaccines": 58
     }
   ]
 }

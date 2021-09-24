@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-22T00:00:00",
+  "date_updated": "2021-09-23T00:00:00",
   "postcode": "WILLETTON",
   "data": [
     {
@@ -110,9 +110,9 @@
       "date": "2021-03-02",
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-03-02",
@@ -511,8 +511,8 @@
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 2,
-      "vaccines": 12
+      "dose2": 3,
+      "vaccines": 13
     },
     {
       "date": "2021-03-23",
@@ -2622,9 +2622,9 @@
       "date": "2021-06-23",
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 5,
-      "vaccines": 37
+      "vaccines": 38
     },
     {
       "date": "2021-06-23",
@@ -3247,8 +3247,8 @@
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
       "dose1": 18,
-      "dose2": 10,
-      "vaccines": 28
+      "dose2": 11,
+      "vaccines": 29
     },
     {
       "date": "2021-07-19",
@@ -3686,17 +3686,17 @@
       "date": "2021-08-06",
       "locality": "WILLETTON",
       "AgeGroup": "50 to 69",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 32,
-      "vaccines": 57
+      "vaccines": 56
     },
     {
       "date": "2021-08-06",
       "locality": "WILLETTON",
       "AgeGroup": "70 and over",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 8,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-08-07",
@@ -3974,9 +3974,9 @@
       "date": "2021-08-18",
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
-      "dose1": 117,
+      "dose1": 116,
       "dose2": 33,
-      "vaccines": 150
+      "vaccines": 149
     },
     {
       "date": "2021-08-18",
@@ -4118,9 +4118,9 @@
       "date": "2021-08-24",
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
-      "dose1": 85,
+      "dose1": 84,
       "dose2": 27,
-      "vaccines": 112
+      "vaccines": 111
     },
     {
       "date": "2021-08-24",
@@ -4398,9 +4398,9 @@
       "date": "2021-09-03",
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
-      "dose1": 103,
+      "dose1": 104,
       "dose2": 53,
-      "vaccines": 156
+      "vaccines": 157
     },
     {
       "date": "2021-09-03",
@@ -4575,8 +4575,8 @@
       "locality": "WILLETTON",
       "AgeGroup": "50 to 69",
       "dose1": 29,
-      "dose2": 66,
-      "vaccines": 95
+      "dose2": 67,
+      "vaccines": 96
     },
     {
       "date": "2021-09-09",
@@ -4607,8 +4607,8 @@
       "locality": "WILLETTON",
       "AgeGroup": "50 to 69",
       "dose1": 18,
-      "dose2": 25,
-      "vaccines": 43
+      "dose2": 26,
+      "vaccines": 44
     },
     {
       "date": "2021-09-10",
@@ -4758,9 +4758,9 @@
       "date": "2021-09-15",
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
-      "dose1": 63,
+      "dose1": 64,
       "dose2": 67,
-      "vaccines": 130
+      "vaccines": 131
     },
     {
       "date": "2021-09-15",
@@ -4942,65 +4942,97 @@
       "date": "2021-09-21",
       "locality": "WILLETTON",
       "AgeGroup": "12 to 15",
-      "dose1": 3,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 9
     },
     {
       "date": "2021-09-21",
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
-      "dose1": 35,
-      "dose2": 51,
-      "vaccines": 86
+      "dose1": 44,
+      "dose2": 53,
+      "vaccines": 97
     },
     {
       "date": "2021-09-21",
       "locality": "WILLETTON",
       "AgeGroup": "50 to 69",
       "dose1": 20,
-      "dose2": 15,
-      "vaccines": 35
+      "dose2": 16,
+      "vaccines": 36
     },
     {
       "date": "2021-09-21",
       "locality": "WILLETTON",
       "AgeGroup": "70 and over",
       "dose1": 11,
-      "dose2": 12,
-      "vaccines": 23
+      "dose2": 13,
+      "vaccines": 24
     },
     {
       "date": "2021-09-22",
       "locality": "WILLETTON",
       "AgeGroup": "12 to 15",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-22",
       "locality": "WILLETTON",
       "AgeGroup": "16 to 49",
-      "dose1": 58,
-      "dose2": 57,
-      "vaccines": 115
+      "dose1": 69,
+      "dose2": 81,
+      "vaccines": 150
     },
     {
       "date": "2021-09-22",
       "locality": "WILLETTON",
       "AgeGroup": "50 to 69",
-      "dose1": 26,
-      "dose2": 20,
-      "vaccines": 46
+      "dose1": 35,
+      "dose2": 33,
+      "vaccines": 68
     },
     {
       "date": "2021-09-22",
       "locality": "WILLETTON",
       "AgeGroup": "70 and over",
+      "dose1": 9,
+      "dose2": 9,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "WILLETTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 12,
+      "dose2": 0,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "WILLETTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 50,
+      "dose2": 48,
+      "vaccines": 98
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "WILLETTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 14,
+      "dose2": 13,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "WILLETTON",
+      "AgeGroup": "70 and over",
       "dose1": 7,
-      "dose2": 6,
-      "vaccines": 13
+      "dose2": 1,
+      "vaccines": 8
     }
   ]
 }

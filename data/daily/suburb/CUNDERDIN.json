@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "CUNDERDIN",
   "data": [
     {
@@ -904,6 +904,34 @@
       "dose1": 6,
       "dose2": 16,
       "vaccines": 22
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "CUNDERDIN",
+      "dose1": 16,
+      "dose2": 37,
+      "vaccines": 53
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "CUNDERDIN",
+      "dose1": 7,
+      "dose2": 23,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "CUNDERDIN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "CUNDERDIN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

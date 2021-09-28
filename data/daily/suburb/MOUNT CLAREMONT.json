@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "MOUNT CLAREMONT",
   "data": [
     {
@@ -979,8 +979,8 @@
       "date": "2021-07-15",
       "locality": "MOUNT CLAREMONT",
       "dose1": 18,
-      "dose2": 24,
-      "vaccines": 42
+      "dose2": 25,
+      "vaccines": 43
     },
     {
       "date": "2021-07-16",
@@ -1280,15 +1280,15 @@
       "date": "2021-08-27",
       "locality": "MOUNT CLAREMONT",
       "dose1": 28,
-      "dose2": 30,
-      "vaccines": 58
+      "dose2": 31,
+      "vaccines": 59
     },
     {
       "date": "2021-08-28",
       "locality": "MOUNT CLAREMONT",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 19,
-      "vaccines": 38
+      "vaccines": 37
     },
     {
       "date": "2021-08-29",
@@ -1462,15 +1462,43 @@
       "date": "2021-09-22",
       "locality": "MOUNT CLAREMONT",
       "dose1": 16,
-      "dose2": 23,
-      "vaccines": 39
+      "dose2": 24,
+      "vaccines": 40
     },
     {
       "date": "2021-09-23",
       "locality": "MOUNT CLAREMONT",
-      "dose1": 35,
+      "dose1": 36,
+      "dose2": 21,
+      "vaccines": 57
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 22,
       "dose2": 20,
-      "vaccines": 55
+      "vaccines": 42
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 2,
+      "dose2": 22,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 2,
+      "dose2": 27,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 3,
+      "dose2": 18,
+      "vaccines": 21
     }
   ]
 }

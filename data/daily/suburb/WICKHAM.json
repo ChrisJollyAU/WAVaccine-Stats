@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "WICKHAM",
   "data": [
     {
@@ -936,16 +936,37 @@
     {
       "date": "2021-09-22",
       "locality": "WICKHAM",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 6,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-09-23",
       "locality": "WICKHAM",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "WICKHAM",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "WICKHAM",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "WICKHAM",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
     }
   ]
 }

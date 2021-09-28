@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "STRATHALBYN",
   "data": [
     {
@@ -1055,9 +1055,37 @@
     {
       "date": "2021-09-23",
       "locality": "STRATHALBYN",
-      "dose1": 7,
+      "dose1": 9,
+      "dose2": 2,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "STRATHALBYN",
+      "dose1": 8,
+      "dose2": 2,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "STRATHALBYN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "STRATHALBYN",
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "STRATHALBYN",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

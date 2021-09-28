@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "BEACHLANDS",
   "data": [
     {
@@ -663,9 +663,9 @@
     {
       "date": "2021-07-11",
       "locality": "BEACHLANDS",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-07-12",
@@ -853,8 +853,8 @@
       "date": "2021-08-08",
       "locality": "BEACHLANDS",
       "dose1": 9,
-      "dose2": 1,
-      "vaccines": 10
+      "dose2": 2,
+      "vaccines": 11
     },
     {
       "date": "2021-08-09",
@@ -929,9 +929,9 @@
     {
       "date": "2021-08-20",
       "locality": "BEACHLANDS",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-08-21",
@@ -1062,9 +1062,9 @@
     {
       "date": "2021-09-09",
       "locality": "BEACHLANDS",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 9,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-09-10",
@@ -1146,16 +1146,44 @@
     {
       "date": "2021-09-22",
       "locality": "BEACHLANDS",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-09-23",
       "locality": "BEACHLANDS",
-      "dose1": 2,
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "BEACHLANDS",
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "BEACHLANDS",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "BEACHLANDS",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "BEACHLANDS",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

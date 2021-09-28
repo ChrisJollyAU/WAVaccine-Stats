@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "INGLEWOOD DC",
   "data": [
     {
@@ -476,6 +476,20 @@
       "locality": "INGLEWOOD DC",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "INGLEWOOD DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "INGLEWOOD DC",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

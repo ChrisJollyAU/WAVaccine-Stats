@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "UPPER SWAN",
   "data": [
     {
@@ -1013,9 +1013,30 @@
     {
       "date": "2021-09-23",
       "locality": "UPPER SWAN",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 2,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "UPPER SWAN",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "UPPER SWAN",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "UPPER SWAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

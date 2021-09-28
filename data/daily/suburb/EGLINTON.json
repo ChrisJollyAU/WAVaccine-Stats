@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "EGLINTON",
   "data": [
     {
@@ -1020,16 +1020,16 @@
     {
       "date": "2021-08-08",
       "locality": "EGLINTON",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-08-09",
       "locality": "EGLINTON",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 7,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-08-10",
@@ -1175,8 +1175,8 @@
       "date": "2021-08-30",
       "locality": "EGLINTON",
       "dose1": 16,
-      "dose2": 12,
-      "vaccines": 28
+      "dose2": 13,
+      "vaccines": 29
     },
     {
       "date": "2021-08-31",
@@ -1231,8 +1231,8 @@
       "date": "2021-09-07",
       "locality": "EGLINTON",
       "dose1": 16,
-      "dose2": 6,
-      "vaccines": 22
+      "dose2": 7,
+      "vaccines": 23
     },
     {
       "date": "2021-09-08",
@@ -1252,8 +1252,8 @@
       "date": "2021-09-10",
       "locality": "EGLINTON",
       "dose1": 18,
-      "dose2": 12,
-      "vaccines": 30
+      "dose2": 13,
+      "vaccines": 31
     },
     {
       "date": "2021-09-11",
@@ -1342,8 +1342,36 @@
     {
       "date": "2021-09-23",
       "locality": "EGLINTON",
-      "dose1": 8,
+      "dose1": 10,
+      "dose2": 5,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "EGLINTON",
+      "dose1": 18,
+      "dose2": 14,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "EGLINTON",
+      "dose1": 17,
+      "dose2": 6,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "EGLINTON",
+      "dose1": 9,
       "dose2": 4,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "EGLINTON",
+      "dose1": 9,
+      "dose2": 3,
       "vaccines": 12
     }
   ]

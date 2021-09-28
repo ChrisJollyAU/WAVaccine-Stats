@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "COOGEE",
   "data": [
     {
@@ -138,9 +138,9 @@
     {
       "date": "2021-03-18",
       "locality": "COOGEE",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-03-19",
@@ -173,9 +173,9 @@
     {
       "date": "2021-03-24",
       "locality": "COOGEE",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-03-25",
@@ -286,8 +286,8 @@
       "date": "2021-04-13",
       "locality": "COOGEE",
       "dose1": 25,
-      "dose2": 5,
-      "vaccines": 30
+      "dose2": 4,
+      "vaccines": 29
     },
     {
       "date": "2021-04-14",
@@ -369,9 +369,9 @@
     {
       "date": "2021-04-28",
       "locality": "COOGEE",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 2,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-04-29",
@@ -741,8 +741,8 @@
       "date": "2021-06-21",
       "locality": "COOGEE",
       "dose1": 17,
-      "dose2": 8,
-      "vaccines": 25
+      "dose2": 9,
+      "vaccines": 26
     },
     {
       "date": "2021-06-22",
@@ -951,8 +951,8 @@
       "date": "2021-07-21",
       "locality": "COOGEE",
       "dose1": 20,
-      "dose2": 31,
-      "vaccines": 51
+      "dose2": 30,
+      "vaccines": 50
     },
     {
       "date": "2021-07-22",
@@ -1384,9 +1384,9 @@
     {
       "date": "2021-09-21",
       "locality": "COOGEE",
-      "dose1": 31,
+      "dose1": 33,
       "dose2": 28,
-      "vaccines": 59
+      "vaccines": 61
     },
     {
       "date": "2021-09-22",
@@ -1399,8 +1399,36 @@
       "date": "2021-09-23",
       "locality": "COOGEE",
       "dose1": 21,
-      "dose2": 7,
-      "vaccines": 28
+      "dose2": 10,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "COOGEE",
+      "dose1": 25,
+      "dose2": 30,
+      "vaccines": 55
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "COOGEE",
+      "dose1": 7,
+      "dose2": 10,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "COOGEE",
+      "dose1": 8,
+      "dose2": 17,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "COOGEE",
+      "dose1": 6,
+      "dose2": 15,
+      "vaccines": 21
     }
   ]
 }

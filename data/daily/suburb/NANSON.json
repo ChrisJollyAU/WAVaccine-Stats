@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "NANSON",
   "data": [
     {
@@ -101,6 +101,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-28",
+      "locality": "NANSON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-03",
       "locality": "NANSON",
       "dose1": 1,
@@ -115,6 +122,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-11",
+      "locality": "NANSON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-16",
       "locality": "NANSON",
       "dose1": 0,
@@ -127,6 +141,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "NANSON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-26",
@@ -164,6 +185,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-10",
+      "locality": "NANSON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-13",
       "locality": "NANSON",
       "dose1": 1,
@@ -188,8 +216,8 @@
       "date": "2021-09-23",
       "locality": "NANSON",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

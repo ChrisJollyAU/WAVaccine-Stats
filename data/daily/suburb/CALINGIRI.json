@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "CALINGIRI",
   "data": [
     {
@@ -565,9 +565,16 @@
     {
       "date": "2021-09-23",
       "locality": "CALINGIRI",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "CALINGIRI",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

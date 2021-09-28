@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "CAPEL",
   "data": [
     {
@@ -1265,9 +1265,37 @@
     {
       "date": "2021-09-23",
       "locality": "CAPEL",
-      "dose1": 16,
-      "dose2": 13,
-      "vaccines": 29
+      "dose1": 21,
+      "dose2": 15,
+      "vaccines": 36
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "CAPEL",
+      "dose1": 19,
+      "dose2": 15,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "CAPEL",
+      "dose1": 6,
+      "dose2": 8,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "CAPEL",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "CAPEL",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

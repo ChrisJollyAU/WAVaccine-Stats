@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "KAMBALDA EAST",
   "data": [
     {
@@ -545,8 +545,8 @@
       "date": "2021-09-08",
       "locality": "KAMBALDA EAST",
       "dose1": 10,
-      "dose2": 5,
-      "vaccines": 15
+      "dose2": 6,
+      "vaccines": 16
     },
     {
       "date": "2021-09-09",
@@ -631,6 +631,27 @@
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "KAMBALDA EAST",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "KAMBALDA EAST",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "KAMBALDA EAST",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

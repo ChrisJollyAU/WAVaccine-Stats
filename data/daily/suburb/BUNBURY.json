@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-27T00:00:00",
   "locality": "BUNBURY",
   "data": [
     {
@@ -26,9 +26,9 @@
     {
       "date": "2021-02-26",
       "locality": "BUNBURY",
-      "dose1": 12,
+      "dose1": 14,
       "dose2": 0,
-      "vaccines": 12
+      "vaccines": 14
     },
     {
       "date": "2021-03-02",
@@ -131,15 +131,15 @@
     {
       "date": "2021-03-18",
       "locality": "BUNBURY",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 10,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-03-19",
       "locality": "BUNBURY",
-      "dose1": 9,
-      "dose2": 9,
+      "dose1": 7,
+      "dose2": 11,
       "vaccines": 18
     },
     {
@@ -629,8 +629,8 @@
       "date": "2021-06-11",
       "locality": "BUNBURY",
       "dose1": 27,
-      "dose2": 9,
-      "vaccines": 36
+      "dose2": 10,
+      "vaccines": 37
     },
     {
       "date": "2021-06-12",
@@ -810,9 +810,9 @@
     {
       "date": "2021-07-08",
       "locality": "BUNBURY",
-      "dose1": 44,
+      "dose1": 45,
       "dose2": 28,
-      "vaccines": 72
+      "vaccines": 73
     },
     {
       "date": "2021-07-09",
@@ -859,9 +859,9 @@
     {
       "date": "2021-07-15",
       "locality": "BUNBURY",
-      "dose1": 64,
+      "dose1": 65,
       "dose2": 28,
-      "vaccines": 92
+      "vaccines": 93
     },
     {
       "date": "2021-07-16",
@@ -908,9 +908,9 @@
     {
       "date": "2021-07-22",
       "locality": "BUNBURY",
-      "dose1": 67,
+      "dose1": 68,
       "dose2": 15,
-      "vaccines": 82
+      "vaccines": 83
     },
     {
       "date": "2021-07-23",
@@ -943,9 +943,9 @@
     {
       "date": "2021-07-27",
       "locality": "BUNBURY",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 22,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-07-28",
@@ -1007,15 +1007,15 @@
       "date": "2021-08-05",
       "locality": "BUNBURY",
       "dose1": 26,
-      "dose2": 55,
-      "vaccines": 81
+      "dose2": 57,
+      "vaccines": 83
     },
     {
       "date": "2021-08-06",
       "locality": "BUNBURY",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 62,
-      "vaccines": 94
+      "vaccines": 93
     },
     {
       "date": "2021-08-07",
@@ -1104,9 +1104,9 @@
     {
       "date": "2021-08-19",
       "locality": "BUNBURY",
-      "dose1": 37,
-      "dose2": 51,
-      "vaccines": 88
+      "dose1": 38,
+      "dose2": 53,
+      "vaccines": 91
     },
     {
       "date": "2021-08-20",
@@ -1153,9 +1153,9 @@
     {
       "date": "2021-08-26",
       "locality": "BUNBURY",
-      "dose1": 37,
+      "dose1": 36,
       "dose2": 50,
-      "vaccines": 87
+      "vaccines": 86
     },
     {
       "date": "2021-08-27",
@@ -1174,9 +1174,9 @@
     {
       "date": "2021-08-29",
       "locality": "BUNBURY",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-08-30",
@@ -1258,9 +1258,9 @@
     {
       "date": "2021-09-10",
       "locality": "BUNBURY",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 35,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-09-11",
@@ -1308,8 +1308,8 @@
       "date": "2021-09-17",
       "locality": "BUNBURY",
       "dose1": 37,
-      "dose2": 29,
-      "vaccines": 66
+      "dose2": 27,
+      "vaccines": 64
     },
     {
       "date": "2021-09-18",
@@ -1322,8 +1322,8 @@
       "date": "2021-09-19",
       "locality": "BUNBURY",
       "dose1": 7,
-      "dose2": 2,
-      "vaccines": 9
+      "dose2": 1,
+      "vaccines": 8
     },
     {
       "date": "2021-09-20",
@@ -1342,16 +1342,44 @@
     {
       "date": "2021-09-22",
       "locality": "BUNBURY",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 31,
-      "vaccines": 55
+      "vaccines": 56
     },
     {
       "date": "2021-09-23",
       "locality": "BUNBURY",
-      "dose1": 47,
-      "dose2": 26,
-      "vaccines": 73
+      "dose1": 50,
+      "dose2": 35,
+      "vaccines": 85
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "BUNBURY",
+      "dose1": 35,
+      "dose2": 21,
+      "vaccines": 56
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "BUNBURY",
+      "dose1": 12,
+      "dose2": 14,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "BUNBURY",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "BUNBURY",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

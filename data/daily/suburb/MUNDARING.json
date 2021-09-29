@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-27T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "MUNDARING",
   "data": [
     {
@@ -124,9 +124,9 @@
     {
       "date": "2021-03-18",
       "locality": "MUNDARING",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-03-19",
@@ -643,8 +643,8 @@
       "date": "2021-06-14",
       "locality": "MUNDARING",
       "dose1": 21,
-      "dose2": 4,
-      "vaccines": 25
+      "dose2": 5,
+      "vaccines": 26
     },
     {
       "date": "2021-06-15",
@@ -1373,6 +1373,13 @@
       "dose1": 5,
       "dose2": 6,
       "vaccines": 11
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "MUNDARING",
+      "dose1": 12,
+      "dose2": 16,
+      "vaccines": 28
     }
   ]
 }

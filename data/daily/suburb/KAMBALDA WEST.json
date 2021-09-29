@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-27T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "KAMBALDA WEST",
   "data": [
     {
@@ -852,9 +852,16 @@
     {
       "date": "2021-09-27",
       "locality": "KAMBALDA WEST",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "KAMBALDA WEST",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

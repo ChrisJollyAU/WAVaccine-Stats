@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-27T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "OLDBURY",
   "data": [
     {
@@ -801,11 +801,25 @@
       "vaccines": 4
     },
     {
+      "date": "2021-09-25",
+      "locality": "OLDBURY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-26",
       "locality": "OLDBURY",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "OLDBURY",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

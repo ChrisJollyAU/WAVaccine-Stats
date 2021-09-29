@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-27T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "SWANBOURNE",
   "data": [
     {
@@ -1448,8 +1448,8 @@
       "date": "2021-09-21",
       "locality": "SWANBOURNE",
       "dose1": 29,
-      "dose2": 29,
-      "vaccines": 58
+      "dose2": 30,
+      "vaccines": 59
     },
     {
       "date": "2021-09-22",
@@ -1461,23 +1461,23 @@
     {
       "date": "2021-09-23",
       "locality": "SWANBOURNE",
-      "dose1": 39,
+      "dose1": 41,
       "dose2": 17,
-      "vaccines": 56
+      "vaccines": 58
     },
     {
       "date": "2021-09-24",
       "locality": "SWANBOURNE",
       "dose1": 19,
-      "dose2": 11,
-      "vaccines": 30
+      "dose2": 12,
+      "vaccines": 31
     },
     {
       "date": "2021-09-25",
       "locality": "SWANBOURNE",
-      "dose1": 4,
+      "dose1": 9,
       "dose2": 16,
-      "vaccines": 20
+      "vaccines": 25
     },
     {
       "date": "2021-09-26",
@@ -1490,8 +1490,15 @@
       "date": "2021-09-27",
       "locality": "SWANBOURNE",
       "dose1": 0,
-      "dose2": 15,
-      "vaccines": 15
+      "dose2": 16,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "SWANBOURNE",
+      "dose1": 4,
+      "dose2": 21,
+      "vaccines": 25
     }
   ]
 }

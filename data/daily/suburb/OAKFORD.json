@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-27T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "OAKFORD",
   "data": [
     {
@@ -1371,8 +1371,8 @@
       "date": "2021-09-25",
       "locality": "OAKFORD",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-09-26",
@@ -1387,6 +1387,13 @@
       "dose1": 3,
       "dose2": 5,
       "vaccines": 8
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "OAKFORD",
+      "dose1": 11,
+      "dose2": 15,
+      "vaccines": 26
     }
   ]
 }

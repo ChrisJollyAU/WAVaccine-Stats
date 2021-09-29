@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-27T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "CORRIGIN",
   "data": [
     {
@@ -754,16 +754,16 @@
     {
       "date": "2021-09-21",
       "locality": "CORRIGIN",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 29,
+      "dose2": 2,
+      "vaccines": 31
     },
     {
       "date": "2021-09-22",
       "locality": "CORRIGIN",
-      "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose1": 23,
+      "dose2": 12,
+      "vaccines": 35
     },
     {
       "date": "2021-09-23",
@@ -785,6 +785,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "CORRIGIN",
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-27T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "QUEENS PARK",
   "data": [
     {
@@ -1405,16 +1405,16 @@
     {
       "date": "2021-09-23",
       "locality": "QUEENS PARK",
-      "dose1": 43,
+      "dose1": 44,
       "dose2": 24,
-      "vaccines": 67
+      "vaccines": 68
     },
     {
       "date": "2021-09-24",
       "locality": "QUEENS PARK",
-      "dose1": 35,
-      "dose2": 25,
-      "vaccines": 60
+      "dose1": 36,
+      "dose2": 27,
+      "vaccines": 63
     },
     {
       "date": "2021-09-25",
@@ -1433,9 +1433,16 @@
     {
       "date": "2021-09-27",
       "locality": "QUEENS PARK",
-      "dose1": 12,
+      "dose1": 16,
       "dose2": 18,
-      "vaccines": 30
+      "vaccines": 34
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "QUEENS PARK",
+      "dose1": 30,
+      "dose2": 21,
+      "vaccines": 51
     }
   ]
 }

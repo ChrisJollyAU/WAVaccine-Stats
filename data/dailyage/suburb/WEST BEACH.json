@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "postcode": "WEST BEACH",
   "data": [
     {
@@ -1987,6 +1987,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-16",
+      "locality": "WEST BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-17",
       "locality": "WEST BEACH",
       "AgeGroup": "16 to 49",
@@ -2071,23 +2079,87 @@
       "locality": "WEST BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-09-23",
       "locality": "WEST BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose1": 8,
+      "dose2": 9,
+      "vaccines": 17
     },
     {
       "date": "2021-09-23",
       "locality": "WEST BEACH",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "WEST BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "WEST BEACH",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "WEST BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 0,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "WEST BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "WEST BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "WEST BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "WEST BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "WEST BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

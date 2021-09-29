@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "postcode": "RIVERTON",
   "data": [
     {
@@ -182,9 +182,9 @@
       "date": "2021-03-11",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-03-11",
@@ -599,8 +599,8 @@
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-04-03",
@@ -806,17 +806,17 @@
       "date": "2021-04-14",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-04-14",
       "locality": "RIVERTON",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-04-14",
@@ -1239,16 +1239,16 @@
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-05-05",
       "locality": "RIVERTON",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-05-05",
@@ -1710,9 +1710,9 @@
       "date": "2021-05-26",
       "locality": "RIVERTON",
       "AgeGroup": "70 and over",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 3,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-05-27",
@@ -1878,9 +1878,9 @@
       "date": "2021-06-03",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-06-03",
@@ -2183,8 +2183,8 @@
       "locality": "RIVERTON",
       "AgeGroup": "70 and over",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-06-17",
@@ -2351,8 +2351,8 @@
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 10,
-      "vaccines": 14
+      "dose2": 9,
+      "vaccines": 13
     },
     {
       "date": "2021-06-24",
@@ -2950,9 +2950,9 @@
       "date": "2021-07-20",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 7,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-07-20",
@@ -3495,8 +3495,8 @@
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 15,
-      "vaccines": 28
+      "dose2": 14,
+      "vaccines": 27
     },
     {
       "date": "2021-08-12",
@@ -3638,9 +3638,9 @@
       "date": "2021-08-18",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 11,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-08-18",
@@ -3910,9 +3910,9 @@
       "date": "2021-08-30",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 11,
-      "vaccines": 30
+      "vaccines": 31
     },
     {
       "date": "2021-08-30",
@@ -3958,9 +3958,9 @@
       "date": "2021-09-01",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 8,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-09-01",
@@ -4118,9 +4118,9 @@
       "date": "2021-09-07",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 21,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-09-07",
@@ -4165,10 +4165,18 @@
     {
       "date": "2021-09-09",
       "locality": "RIVERTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 13,
-      "vaccines": 25
+      "dose2": 12,
+      "vaccines": 24
     },
     {
       "date": "2021-09-09",
@@ -4286,17 +4294,17 @@
       "date": "2021-09-13",
       "locality": "RIVERTON",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 5,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-13",
       "locality": "RIVERTON",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-14",
@@ -4415,8 +4423,8 @@
       "locality": "RIVERTON",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-09-17",
@@ -4518,9 +4526,9 @@
       "date": "2021-09-21",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
-      "dose2": 6,
-      "vaccines": 17
+      "dose1": 12,
+      "dose2": 7,
+      "vaccines": 19
     },
     {
       "date": "2021-09-21",
@@ -4550,9 +4558,9 @@
       "date": "2021-09-22",
       "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
-      "dose2": 16,
-      "vaccines": 33
+      "dose1": 18,
+      "dose2": 17,
+      "vaccines": 35
     },
     {
       "date": "2021-09-22",
@@ -4573,26 +4581,194 @@
     {
       "date": "2021-09-23",
       "locality": "RIVERTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "RIVERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 22,
       "dose2": 11,
-      "vaccines": 31
+      "vaccines": 33
     },
     {
       "date": "2021-09-23",
       "locality": "RIVERTON",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose1": 7,
+      "dose2": 2,
+      "vaccines": 9
     },
     {
       "date": "2021-09-23",
       "locality": "RIVERTON",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "RIVERTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "RIVERTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 22,
+      "dose2": 18,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "RIVERTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "RIVERTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "RIVERTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "RIVERTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 14,
+      "dose2": 20,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "RIVERTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "RIVERTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "RIVERTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "RIVERTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 45,
+      "vaccines": 56
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "RIVERTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 7,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "RIVERTON",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "RIVERTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "RIVERTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 12,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "RIVERTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "RIVERTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "RIVERTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 13,
+      "dose2": 0,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "RIVERTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 19,
+      "dose2": 17,
+      "vaccines": 36
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "RIVERTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "RIVERTON",
+      "AgeGroup": "70 and over",
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
     }
   ]
 }

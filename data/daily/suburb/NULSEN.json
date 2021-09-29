@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "NULSEN",
   "data": [
     {
@@ -804,8 +804,8 @@
       "date": "2021-09-16",
       "locality": "NULSEN",
       "dose1": 6,
-      "dose2": 0,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 7
     },
     {
       "date": "2021-09-17",
@@ -839,14 +839,42 @@
       "date": "2021-09-22",
       "locality": "NULSEN",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-09-23",
       "locality": "NULSEN",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "NULSEN",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "NULSEN",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "NULSEN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "NULSEN",
+      "dose1": 6,
+      "dose2": 3,
       "vaccines": 9
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "DARKAN",
   "data": [
     {
@@ -839,8 +839,22 @@
       "date": "2021-09-23",
       "locality": "DARKAN",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "DARKAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "DARKAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

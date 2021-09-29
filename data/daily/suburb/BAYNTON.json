@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "BAYNTON",
   "data": [
     {
@@ -236,9 +236,9 @@
     {
       "date": "2021-04-29",
       "locality": "BAYNTON",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-04-30",
@@ -334,9 +334,9 @@
     {
       "date": "2021-05-18",
       "locality": "BAYNTON",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-05-19",
@@ -370,8 +370,8 @@
       "date": "2021-05-25",
       "locality": "BAYNTON",
       "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-05-26",
@@ -425,9 +425,9 @@
     {
       "date": "2021-06-02",
       "locality": "BAYNTON",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 10,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-06-03",
@@ -530,9 +530,9 @@
     {
       "date": "2021-06-21",
       "locality": "BAYNTON",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-06-22",
@@ -677,9 +677,9 @@
     {
       "date": "2021-07-16",
       "locality": "BAYNTON",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 4,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-07-19",
@@ -789,9 +789,9 @@
     {
       "date": "2021-08-04",
       "locality": "BAYNTON",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 7,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-08-05",
@@ -880,8 +880,8 @@
     {
       "date": "2021-08-17",
       "locality": "BAYNTON",
-      "dose1": 12,
-      "dose2": 15,
+      "dose1": 13,
+      "dose2": 14,
       "vaccines": 27
     },
     {
@@ -937,8 +937,8 @@
       "date": "2021-08-25",
       "locality": "BAYNTON",
       "dose1": 15,
-      "dose2": 13,
-      "vaccines": 28
+      "dose2": 12,
+      "vaccines": 27
     },
     {
       "date": "2021-08-26",
@@ -992,16 +992,16 @@
     {
       "date": "2021-09-02",
       "locality": "BAYNTON",
-      "dose1": 14,
+      "dose1": 16,
       "dose2": 12,
-      "vaccines": 26
+      "vaccines": 28
     },
     {
       "date": "2021-09-03",
       "locality": "BAYNTON",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 6,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-09-04",
@@ -1035,8 +1035,8 @@
       "date": "2021-09-08",
       "locality": "BAYNTON",
       "dose1": 8,
-      "dose2": 14,
-      "vaccines": 22
+      "dose2": 15,
+      "vaccines": 23
     },
     {
       "date": "2021-09-09",
@@ -1118,9 +1118,9 @@
     {
       "date": "2021-09-20",
       "locality": "BAYNTON",
-      "dose1": 9,
-      "dose2": 15,
-      "vaccines": 24
+      "dose1": 10,
+      "dose2": 16,
+      "vaccines": 26
     },
     {
       "date": "2021-09-21",
@@ -1132,16 +1132,51 @@
     {
       "date": "2021-09-22",
       "locality": "BAYNTON",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 13,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-09-23",
       "locality": "BAYNTON",
-      "dose1": 16,
-      "dose2": 11,
-      "vaccines": 27
+      "dose1": 18,
+      "dose2": 12,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "BAYNTON",
+      "dose1": 12,
+      "dose2": 7,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "BAYNTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "BAYNTON",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "BAYNTON",
+      "dose1": 20,
+      "dose2": 5,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "BAYNTON",
+      "dose1": 14,
+      "dose2": 6,
+      "vaccines": 20
     }
   ]
 }

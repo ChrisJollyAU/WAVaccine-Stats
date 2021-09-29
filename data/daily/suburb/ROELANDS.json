@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "locality": "ROELANDS",
   "data": [
     {
@@ -782,9 +782,9 @@
     {
       "date": "2021-08-20",
       "locality": "ROELANDS",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-08-21",
@@ -957,8 +957,8 @@
     {
       "date": "2021-09-17",
       "locality": "ROELANDS",
-      "dose1": 4,
-      "dose2": 2,
+      "dose1": 3,
+      "dose2": 3,
       "vaccines": 6
     },
     {
@@ -995,6 +995,34 @@
       "dose1": 3,
       "dose2": 8,
       "vaccines": 11
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "ROELANDS",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "ROELANDS",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "ROELANDS",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "ROELANDS",
+      "dose1": 10,
+      "dose2": 11,
+      "vaccines": 21
     }
   ]
 }

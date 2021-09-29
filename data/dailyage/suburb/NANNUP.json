@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-23T00:00:00",
+  "date_updated": "2021-09-28T00:00:00",
   "postcode": "NANNUP",
   "data": [
     {
@@ -678,17 +678,17 @@
       "date": "2021-06-01",
       "locality": "NANNUP",
       "AgeGroup": "50 to 69",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 0,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-06-01",
       "locality": "NANNUP",
       "AgeGroup": "70 and over",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-06-02",
@@ -1360,14 +1360,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-19",
-      "locality": "NANNUP",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -2087,16 +2079,16 @@
       "locality": "NANNUP",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 19,
-      "vaccines": 22
+      "dose2": 18,
+      "vaccines": 21
     },
     {
       "date": "2021-08-26",
       "locality": "NANNUP",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
     },
     {
       "date": "2021-08-27",
@@ -2411,14 +2403,6 @@
       "vaccines": 4
     },
     {
-      "date": "2021-09-13",
-      "locality": "NANNUP",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-14",
       "locality": "NANNUP",
       "AgeGroup": "16 to 49",
@@ -2665,6 +2649,62 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "NANNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "NANNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "NANNUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "NANNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "NANNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "NANNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "NANNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

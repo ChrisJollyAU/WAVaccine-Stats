@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "COODANUP",
   "data": [
     {
@@ -1280,8 +1280,8 @@
       "date": "2021-09-24",
       "locality": "COODANUP",
       "dose1": 16,
-      "dose2": 14,
-      "vaccines": 30
+      "dose2": 15,
+      "vaccines": 31
     },
     {
       "date": "2021-09-25",
@@ -1307,9 +1307,16 @@
     {
       "date": "2021-09-28",
       "locality": "COODANUP",
-      "dose1": 10,
-      "dose2": 22,
-      "vaccines": 32
+      "dose1": 16,
+      "dose2": 23,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "COODANUP",
+      "dose1": 14,
+      "dose2": 9,
+      "vaccines": 23
     }
   ]
 }

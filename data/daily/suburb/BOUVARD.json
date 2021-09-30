@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "BOUVARD",
   "data": [
     {
@@ -586,9 +586,9 @@
     {
       "date": "2021-07-15",
       "locality": "BOUVARD",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-16",
@@ -776,15 +776,15 @@
       "date": "2021-08-16",
       "locality": "BOUVARD",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-08-17",
       "locality": "BOUVARD",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-08-18",
@@ -1000,8 +1000,8 @@
       "date": "2021-09-18",
       "locality": "BOUVARD",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-20",
@@ -1034,9 +1034,9 @@
     {
       "date": "2021-09-24",
       "locality": "BOUVARD",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 7,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-25",
@@ -1055,9 +1055,16 @@
     {
       "date": "2021-09-28",
       "locality": "BOUVARD",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "BOUVARD",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

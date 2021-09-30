@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "REDMOND WEST",
   "data": [
     {
@@ -11,6 +11,13 @@
     },
     {
       "date": "2021-03-25",
+      "locality": "REDMOND WEST",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-01",
       "locality": "REDMOND WEST",
       "dose1": 1,
       "dose2": 0,
@@ -33,8 +40,8 @@
     {
       "date": "2021-07-31",
       "locality": "REDMOND WEST",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {

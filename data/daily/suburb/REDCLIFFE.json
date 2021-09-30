@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "REDCLIFFE",
   "data": [
     {
@@ -1475,16 +1475,23 @@
     {
       "date": "2021-09-27",
       "locality": "REDCLIFFE",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 6,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-09-28",
       "locality": "REDCLIFFE",
-      "dose1": 13,
-      "dose2": 17,
-      "vaccines": 30
+      "dose1": 20,
+      "dose2": 19,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "REDCLIFFE",
+      "dose1": 22,
+      "dose2": 16,
+      "vaccines": 38
     }
   ]
 }

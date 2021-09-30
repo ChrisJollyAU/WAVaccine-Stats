@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "ROCKINGHAM DC",
   "data": [
     {
@@ -45,6 +45,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-05-06",
+      "locality": "ROCKINGHAM DC",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-12",
       "locality": "ROCKINGHAM DC",
       "dose1": 1,
@@ -78,6 +85,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-05-26",
+      "locality": "ROCKINGHAM DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-05-27",
@@ -456,6 +470,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "ROCKINGHAM DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

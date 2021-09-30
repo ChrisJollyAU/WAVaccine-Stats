@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "SUNSET BEACH",
   "data": [
     {
@@ -1216,9 +1216,16 @@
     {
       "date": "2021-09-28",
       "locality": "SUNSET BEACH",
-      "dose1": 7,
-      "dose2": 3,
-      "vaccines": 10
+      "dose1": 8,
+      "dose2": 4,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "SUNSET BEACH",
+      "dose1": 20,
+      "dose2": 4,
+      "vaccines": 24
     }
   ]
 }

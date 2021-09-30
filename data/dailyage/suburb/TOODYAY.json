@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "postcode": "TOODYAY",
   "data": [
     {
@@ -3687,8 +3687,8 @@
       "locality": "TOODYAY",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 8,
-      "vaccines": 14
+      "dose2": 9,
+      "vaccines": 15
     },
     {
       "date": "2021-09-28",
@@ -3697,6 +3697,38 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "TOODYAY",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "TOODYAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 14,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "TOODYAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 10,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "TOODYAY",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

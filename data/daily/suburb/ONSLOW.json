@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "ONSLOW",
   "data": [
     {
@@ -663,9 +663,16 @@
     {
       "date": "2021-09-28",
       "locality": "ONSLOW",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "ONSLOW",
+      "dose1": 22,
+      "dose2": 13,
+      "vaccines": 35
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "EDGEWATER",
   "data": [
     {
@@ -57,13 +57,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-03-03",
-      "locality": "EDGEWATER",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-03-04",
@@ -213,6 +206,13 @@
       "vaccines": 15
     },
     {
+      "date": "2021-03-27",
+      "locality": "EDGEWATER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-03-28",
       "locality": "EDGEWATER",
       "dose1": 1,
@@ -321,8 +321,8 @@
       "date": "2021-04-13",
       "locality": "EDGEWATER",
       "dose1": 10,
-      "dose2": 3,
-      "vaccines": 13
+      "dose2": 2,
+      "vaccines": 12
     },
     {
       "date": "2021-04-14",
@@ -349,8 +349,8 @@
       "date": "2021-04-17",
       "locality": "EDGEWATER",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-04-19",
@@ -1020,9 +1020,9 @@
     {
       "date": "2021-07-24",
       "locality": "EDGEWATER",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 3,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-07-25",
@@ -1146,9 +1146,9 @@
     {
       "date": "2021-08-11",
       "locality": "EDGEWATER",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 24,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-08-12",
@@ -1217,8 +1217,8 @@
       "date": "2021-08-21",
       "locality": "EDGEWATER",
       "dose1": 18,
-      "dose2": 30,
-      "vaccines": 48
+      "dose2": 29,
+      "vaccines": 47
     },
     {
       "date": "2021-08-22",
@@ -1349,9 +1349,9 @@
     {
       "date": "2021-09-09",
       "locality": "EDGEWATER",
-      "dose1": 24,
+      "dose1": 23,
       "dose2": 26,
-      "vaccines": 50
+      "vaccines": 49
     },
     {
       "date": "2021-09-10",
@@ -1482,9 +1482,16 @@
     {
       "date": "2021-09-28",
       "locality": "EDGEWATER",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 17,
-      "vaccines": 32
+      "vaccines": 33
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "EDGEWATER",
+      "dose1": 22,
+      "dose2": 13,
+      "vaccines": 35
     }
   ]
 }

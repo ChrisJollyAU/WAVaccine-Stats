@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "postcode": "6753",
   "data": [
     {
@@ -11,6 +11,13 @@
     },
     {
       "date": "2021-03-09",
+      "postcode": "6753",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-11",
       "postcode": "6753",
       "dose1": 1,
       "dose2": 0,
@@ -391,8 +398,8 @@
       "date": "2021-06-08",
       "postcode": "6753",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-06-09",
@@ -621,9 +628,9 @@
     {
       "date": "2021-07-14",
       "postcode": "6753",
-      "dose1": 33,
+      "dose1": 32,
       "dose2": 12,
-      "vaccines": 45
+      "vaccines": 44
     },
     {
       "date": "2021-07-15",
@@ -789,8 +796,8 @@
     {
       "date": "2021-08-11",
       "postcode": "6753",
-      "dose1": 16,
-      "dose2": 34,
+      "dose1": 17,
+      "dose2": 33,
       "vaccines": 50
     },
     {
@@ -936,16 +943,16 @@
     {
       "date": "2021-09-02",
       "postcode": "6753",
-      "dose1": 44,
-      "dose2": 35,
+      "dose1": 43,
+      "dose2": 36,
       "vaccines": 79
     },
     {
       "date": "2021-09-03",
       "postcode": "6753",
       "dose1": 41,
-      "dose2": 59,
-      "vaccines": 100
+      "dose2": 60,
+      "vaccines": 101
     },
     {
       "date": "2021-09-04",
@@ -978,9 +985,9 @@
     {
       "date": "2021-09-08",
       "postcode": "6753",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 36,
-      "vaccines": 55
+      "vaccines": 56
     },
     {
       "date": "2021-09-09",
@@ -1118,9 +1125,16 @@
     {
       "date": "2021-09-28",
       "postcode": "6753",
-      "dose1": 12,
-      "dose2": 12,
-      "vaccines": 24
+      "dose1": 17,
+      "dose2": 43,
+      "vaccines": 60
+    },
+    {
+      "date": "2021-09-29",
+      "postcode": "6753",
+      "dose1": 27,
+      "dose2": 21,
+      "vaccines": 48
     }
   ]
 }

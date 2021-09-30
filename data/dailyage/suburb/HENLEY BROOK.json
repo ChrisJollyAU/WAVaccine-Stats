@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "postcode": "HENLEY BROOK",
   "data": [
     {
@@ -3007,8 +3007,8 @@
       "locality": "HENLEY BROOK",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-09-01",
@@ -3159,8 +3159,8 @@
       "locality": "HENLEY BROOK",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-09-08",
@@ -3559,8 +3559,8 @@
       "locality": "HENLEY BROOK",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose2": 4,
+      "vaccines": 12
     },
     {
       "date": "2021-09-24",
@@ -3670,9 +3670,41 @@
       "date": "2021-09-28",
       "locality": "HENLEY BROOK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 9,
-      "vaccines": 11
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "HENLEY BROOK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "HENLEY BROOK",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "HENLEY BROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 13,
+      "dose2": 3,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "HENLEY BROOK",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

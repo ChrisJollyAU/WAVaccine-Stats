@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "ROELANDS",
   "data": [
     {
@@ -1020,9 +1020,16 @@
     {
       "date": "2021-09-28",
       "locality": "ROELANDS",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 11,
-      "vaccines": 21
+      "vaccines": 22
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "ROELANDS",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
     }
   ]
 }

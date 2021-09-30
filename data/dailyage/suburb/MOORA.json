@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "postcode": "MOORA",
   "data": [
     {
@@ -174,9 +174,9 @@
       "date": "2021-04-07",
       "locality": "MOORA",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-07",
@@ -999,8 +999,8 @@
       "locality": "MOORA",
       "AgeGroup": "16 to 49",
       "dose1": 19,
-      "dose2": 1,
-      "vaccines": 20
+      "dose2": 0,
+      "vaccines": 19
     },
     {
       "date": "2021-07-14",
@@ -1726,9 +1726,9 @@
       "date": "2021-08-31",
       "locality": "MOORA",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 17,
       "dose2": 6,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2021-08-31",
@@ -1838,9 +1838,9 @@
       "date": "2021-09-08",
       "locality": "MOORA",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 12,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-09-08",
@@ -2087,8 +2087,8 @@
       "locality": "MOORA",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 9,
-      "vaccines": 21
+      "dose2": 8,
+      "vaccines": 20
     },
     {
       "date": "2021-09-21",
@@ -2198,33 +2198,65 @@
       "date": "2021-09-28",
       "locality": "MOORA",
       "AgeGroup": "12 to 15",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 6
     },
     {
       "date": "2021-09-28",
       "locality": "MOORA",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose1": 7,
+      "dose2": 9,
+      "vaccines": 16
     },
     {
       "date": "2021-09-28",
       "locality": "MOORA",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 5
     },
     {
       "date": "2021-09-28",
       "locality": "MOORA",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "MOORA",
+      "AgeGroup": "12 to 15",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "MOORA",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 7,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "MOORA",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "MOORA",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "postcode": "6728",
   "data": [
     {
@@ -138,9 +138,9 @@
     {
       "date": "2021-04-09",
       "postcode": "6728",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-04-12",
@@ -258,8 +258,8 @@
       "date": "2021-05-06",
       "postcode": "6728",
       "dose1": 7,
-      "dose2": 0,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 8
     },
     {
       "date": "2021-05-07",
@@ -1100,6 +1100,13 @@
       "dose1": 8,
       "dose2": 13,
       "vaccines": 21
+    },
+    {
+      "date": "2021-09-29",
+      "postcode": "6728",
+      "dose1": 10,
+      "dose2": 3,
+      "vaccines": 13
     }
   ]
 }

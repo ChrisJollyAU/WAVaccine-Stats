@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "postcode": "COOLBELLUP",
   "data": [
     {
@@ -4247,8 +4247,8 @@
       "locality": "COOLBELLUP",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 5,
-      "vaccines": 11
+      "dose2": 6,
+      "vaccines": 12
     },
     {
       "date": "2021-09-23",
@@ -4383,8 +4383,40 @@
       "locality": "COOLBELLUP",
       "AgeGroup": "70 and over",
       "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "COOLBELLUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "COOLBELLUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 20,
+      "dose2": 14,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "COOLBELLUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
       "dose2": 3,
       "vaccines": 6
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "COOLBELLUP",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

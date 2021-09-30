@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "NAREMBEEN",
   "data": [
     {
@@ -797,8 +797,8 @@
       "date": "2021-09-23",
       "locality": "NAREMBEEN",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-09-24",
@@ -827,6 +827,13 @@
       "dose1": 6,
       "dose2": 11,
       "vaccines": 17
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "NAREMBEEN",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

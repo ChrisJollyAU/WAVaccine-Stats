@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "JERRAMUNGUP",
   "data": [
     {
@@ -647,11 +647,25 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-27",
+      "locality": "JERRAMUNGUP",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
       "date": "2021-09-28",
       "locality": "JERRAMUNGUP",
-      "dose1": 2,
+      "dose1": 38,
+      "dose2": 4,
+      "vaccines": 42
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "JERRAMUNGUP",
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     }
   ]
 }

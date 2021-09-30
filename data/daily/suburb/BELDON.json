@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-28T00:00:00",
+  "date_updated": "2021-09-29T00:00:00",
   "locality": "BELDON",
   "data": [
     {
@@ -194,9 +194,9 @@
     {
       "date": "2021-03-29",
       "locality": "BELDON",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 2,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-03-30",
@@ -636,8 +636,8 @@
       "date": "2021-06-08",
       "locality": "BELDON",
       "dose1": 13,
-      "dose2": 4,
-      "vaccines": 17
+      "dose2": 3,
+      "vaccines": 16
     },
     {
       "date": "2021-06-09",
@@ -1398,9 +1398,9 @@
     {
       "date": "2021-09-25",
       "locality": "BELDON",
-      "dose1": 19,
-      "dose2": 5,
-      "vaccines": 24
+      "dose1": 23,
+      "dose2": 10,
+      "vaccines": 33
     },
     {
       "date": "2021-09-26",
@@ -1419,9 +1419,16 @@
     {
       "date": "2021-09-28",
       "locality": "BELDON",
-      "dose1": 6,
-      "dose2": 14,
-      "vaccines": 20
+      "dose1": 10,
+      "dose2": 17,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "BELDON",
+      "dose1": 22,
+      "dose2": 10,
+      "vaccines": 32
     }
   ]
 }

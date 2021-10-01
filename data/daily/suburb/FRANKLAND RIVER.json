@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "FRANKLAND RIVER",
   "data": [
     {
@@ -474,9 +474,9 @@
     {
       "date": "2021-09-10",
       "locality": "FRANKLAND RIVER",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-09-11",
@@ -493,11 +493,18 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-13",
+      "locality": "FRANKLAND RIVER",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
       "date": "2021-09-14",
       "locality": "FRANKLAND RIVER",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-09-15",
@@ -516,9 +523,23 @@
     {
       "date": "2021-09-17",
       "locality": "FRANKLAND RIVER",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "FRANKLAND RIVER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "FRANKLAND RIVER",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
     },
     {
       "date": "2021-09-22",
@@ -537,9 +558,9 @@
     {
       "date": "2021-09-24",
       "locality": "FRANKLAND RIVER",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-25",
@@ -559,8 +580,8 @@
       "date": "2021-09-28",
       "locality": "FRANKLAND RIVER",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-29",
@@ -568,6 +589,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "FRANKLAND RIVER",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

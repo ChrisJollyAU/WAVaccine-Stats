@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "EMBLETON",
   "data": [
     {
@@ -1483,14 +1483,21 @@
       "date": "2021-09-28",
       "locality": "EMBLETON",
       "dose1": 10,
-      "dose2": 17,
-      "vaccines": 27
+      "dose2": 18,
+      "vaccines": 28
     },
     {
       "date": "2021-09-29",
       "locality": "EMBLETON",
-      "dose1": 13,
-      "dose2": 9,
+      "dose1": 14,
+      "dose2": 13,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "EMBLETON",
+      "dose1": 10,
+      "dose2": 12,
       "vaccines": 22
     }
   ]

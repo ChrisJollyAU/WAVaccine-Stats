@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "MARIGINIUP",
   "data": [
     {
@@ -1188,16 +1188,23 @@
     {
       "date": "2021-09-28",
       "locality": "MARIGINIUP",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 3,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-09-29",
       "locality": "MARIGINIUP",
-      "dose1": 2,
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "MARIGINIUP",
+      "dose1": 7,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 9
     }
   ]
 }

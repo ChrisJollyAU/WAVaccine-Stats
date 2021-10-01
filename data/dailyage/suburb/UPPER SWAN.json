@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "postcode": "UPPER SWAN",
   "data": [
     {
@@ -2110,9 +2110,17 @@
       "date": "2021-09-29",
       "locality": "UPPER SWAN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 5
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "UPPER SWAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "HOVEA",
   "data": [
     {
@@ -1181,9 +1181,16 @@
     {
       "date": "2021-09-29",
       "locality": "HOVEA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "HOVEA",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
     }
   ]
 }

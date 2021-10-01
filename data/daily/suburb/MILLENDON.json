@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "MILLENDON",
   "data": [
     {
@@ -1069,9 +1069,16 @@
     {
       "date": "2021-09-29",
       "locality": "MILLENDON",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 6,
-      "vaccines": 10
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "MILLENDON",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

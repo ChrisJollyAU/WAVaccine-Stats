@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "NORTHAMPTON",
   "data": [
     {
@@ -1132,9 +1132,16 @@
     {
       "date": "2021-09-29",
       "locality": "NORTHAMPTON",
-      "dose1": 5,
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "NORTHAMPTON",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     }
   ]
 }

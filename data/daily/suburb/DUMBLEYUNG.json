@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "DUMBLEYUNG",
   "data": [
     {
@@ -824,9 +824,16 @@
     {
       "date": "2021-09-29",
       "locality": "DUMBLEYUNG",
-      "dose1": 5,
-      "dose2": 10,
-      "vaccines": 15
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "DUMBLEYUNG",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

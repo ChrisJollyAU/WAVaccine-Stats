@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "JARRAHDALE",
   "data": [
     {
@@ -1217,15 +1217,22 @@
       "date": "2021-09-28",
       "locality": "JARRAHDALE",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 10
     },
     {
       "date": "2021-09-29",
       "locality": "JARRAHDALE",
       "dose1": 1,
-      "dose2": 9,
-      "vaccines": 10
+      "dose2": 10,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "JARRAHDALE",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

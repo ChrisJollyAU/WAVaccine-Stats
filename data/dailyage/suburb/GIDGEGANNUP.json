@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "postcode": "GIDGEGANNUP",
   "data": [
     {
@@ -142,6 +142,14 @@
       "date": "2021-03-11",
       "locality": "GIDGEGANNUP",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-14",
+      "locality": "GIDGEGANNUP",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1214,8 +1222,8 @@
       "date": "2021-06-02",
       "locality": "GIDGEGANNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 2,
+      "dose1": 0,
+      "dose2": 3,
       "vaccines": 3
     },
     {
@@ -3726,17 +3734,17 @@
       "date": "2021-09-29",
       "locality": "GIDGEGANNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
-      "dose2": 7,
-      "vaccines": 12
+      "dose1": 7,
+      "dose2": 8,
+      "vaccines": 15
     },
     {
       "date": "2021-09-29",
       "locality": "GIDGEGANNUP",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-09-29",
@@ -3745,6 +3753,38 @@
       "dose1": 3,
       "dose2": 1,
       "vaccines": 4
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "GIDGEGANNUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "GIDGEGANNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 9,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "GIDGEGANNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 7,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "GIDGEGANNUP",
+      "AgeGroup": "70 and over",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     }
   ]
 }

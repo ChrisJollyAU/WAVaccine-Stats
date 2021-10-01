@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "postcode": "CHIDLOW",
   "data": [
     {
@@ -185,6 +185,14 @@
       "dose1": 3,
       "dose2": 1,
       "vaccines": 4
+    },
+    {
+      "date": "2021-03-24",
+      "locality": "CHIDLOW",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-03-24",
@@ -1455,8 +1463,8 @@
       "locality": "CHIDLOW",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-02",
@@ -3318,20 +3326,52 @@
       "date": "2021-09-29",
       "locality": "CHIDLOW",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
-      "dose2": 3,
-      "vaccines": 14
+      "dose1": 12,
+      "dose2": 5,
+      "vaccines": 17
     },
     {
       "date": "2021-09-29",
       "locality": "CHIDLOW",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
     },
     {
       "date": "2021-09-29",
+      "locality": "CHIDLOW",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "CHIDLOW",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "CHIDLOW",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "CHIDLOW",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-09-30",
       "locality": "CHIDLOW",
       "AgeGroup": "70 and over",
       "dose1": 1,

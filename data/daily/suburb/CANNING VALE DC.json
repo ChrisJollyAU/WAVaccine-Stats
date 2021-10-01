@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "CANNING VALE DC",
   "data": [
     {
@@ -523,16 +523,16 @@
     {
       "date": "2021-08-09",
       "locality": "CANNING VALE DC",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 13,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-08-10",
       "locality": "CANNING VALE DC",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-08-11",
@@ -671,8 +671,8 @@
       "date": "2021-08-31",
       "locality": "CANNING VALE DC",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-01",
@@ -727,8 +727,8 @@
       "date": "2021-09-08",
       "locality": "CANNING VALE DC",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-09-09",
@@ -855,6 +855,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "CANNING VALE DC",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

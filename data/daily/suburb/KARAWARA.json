@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "KARAWARA",
   "data": [
     {
@@ -1384,9 +1384,16 @@
     {
       "date": "2021-09-29",
       "locality": "KARAWARA",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 7,
-      "vaccines": 18
+      "vaccines": 19
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "KARAWARA",
+      "dose1": 10,
+      "dose2": 11,
+      "vaccines": 21
     }
   ]
 }

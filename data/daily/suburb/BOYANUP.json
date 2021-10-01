@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "BOYANUP",
   "data": [
     {
@@ -1202,9 +1202,16 @@
     {
       "date": "2021-09-29",
       "locality": "BOYANUP",
-      "dose1": 5,
+      "dose1": 7,
       "dose2": 9,
-      "vaccines": 14
+      "vaccines": 16
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "BOYANUP",
+      "dose1": 7,
+      "dose2": 12,
+      "vaccines": 19
     }
   ]
 }

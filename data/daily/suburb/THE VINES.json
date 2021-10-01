@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "THE VINES",
   "data": [
     {
@@ -152,9 +152,9 @@
     {
       "date": "2021-03-20",
       "locality": "THE VINES",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-21",
@@ -286,8 +286,8 @@
       "date": "2021-04-12",
       "locality": "THE VINES",
       "dose1": 9,
-      "dose2": 2,
-      "vaccines": 11
+      "dose2": 3,
+      "vaccines": 12
     },
     {
       "date": "2021-04-13",
@@ -915,16 +915,16 @@
     {
       "date": "2021-07-13",
       "locality": "THE VINES",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 22,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-07-14",
       "locality": "THE VINES",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 24,
-      "vaccines": 37
+      "vaccines": 36
     },
     {
       "date": "2021-07-15",
@@ -978,9 +978,9 @@
     {
       "date": "2021-07-22",
       "locality": "THE VINES",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 14,
-      "vaccines": 30
+      "vaccines": 31
     },
     {
       "date": "2021-07-23",
@@ -1111,9 +1111,9 @@
     {
       "date": "2021-08-10",
       "locality": "THE VINES",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 21,
-      "vaccines": 37
+      "vaccines": 36
     },
     {
       "date": "2021-08-11",
@@ -1126,8 +1126,8 @@
       "date": "2021-08-12",
       "locality": "THE VINES",
       "dose1": 13,
-      "dose2": 22,
-      "vaccines": 35
+      "dose2": 23,
+      "vaccines": 36
     },
     {
       "date": "2021-08-13",
@@ -1300,9 +1300,9 @@
     {
       "date": "2021-09-06",
       "locality": "THE VINES",
-      "dose1": 22,
+      "dose1": 20,
       "dose2": 30,
-      "vaccines": 52
+      "vaccines": 50
     },
     {
       "date": "2021-09-07",
@@ -1454,16 +1454,23 @@
     {
       "date": "2021-09-28",
       "locality": "THE VINES",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 20,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-09-29",
       "locality": "THE VINES",
-      "dose1": 30,
-      "dose2": 24,
-      "vaccines": 54
+      "dose1": 34,
+      "dose2": 29,
+      "vaccines": 63
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "THE VINES",
+      "dose1": 29,
+      "dose2": 18,
+      "vaccines": 47
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-29T00:00:00",
+  "date_updated": "2021-09-30T00:00:00",
   "locality": "BULLSBROOK",
   "data": [
     {
@@ -75,9 +75,9 @@
     {
       "date": "2021-03-15",
       "locality": "BULLSBROOK",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-03-16",
@@ -215,9 +215,9 @@
     {
       "date": "2021-04-07",
       "locality": "BULLSBROOK",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-04-08",
@@ -559,8 +559,8 @@
       "date": "2021-05-31",
       "locality": "BULLSBROOK",
       "dose1": 15,
-      "dose2": 4,
-      "vaccines": 19
+      "dose2": 3,
+      "vaccines": 18
     },
     {
       "date": "2021-06-01",
@@ -776,8 +776,8 @@
       "date": "2021-07-01",
       "locality": "BULLSBROOK",
       "dose1": 20,
-      "dose2": 12,
-      "vaccines": 32
+      "dose2": 11,
+      "vaccines": 31
     },
     {
       "date": "2021-07-02",
@@ -1230,9 +1230,9 @@
     {
       "date": "2021-09-04",
       "locality": "BULLSBROOK",
-      "dose1": 36,
+      "dose1": 35,
       "dose2": 21,
-      "vaccines": 57
+      "vaccines": 56
     },
     {
       "date": "2021-09-05",
@@ -1378,8 +1378,8 @@
       "date": "2021-09-25",
       "locality": "BULLSBROOK",
       "dose1": 19,
-      "dose2": 21,
-      "vaccines": 40
+      "dose2": 20,
+      "vaccines": 39
     },
     {
       "date": "2021-09-26",
@@ -1398,16 +1398,23 @@
     {
       "date": "2021-09-28",
       "locality": "BULLSBROOK",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 31,
-      "vaccines": 65
+      "vaccines": 66
     },
     {
       "date": "2021-09-29",
       "locality": "BULLSBROOK",
+      "dose1": 29,
+      "dose2": 29,
+      "vaccines": 58
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "BULLSBROOK",
       "dose1": 25,
-      "dose2": 13,
-      "vaccines": 38
+      "dose2": 16,
+      "vaccines": 41
     }
   ]
 }

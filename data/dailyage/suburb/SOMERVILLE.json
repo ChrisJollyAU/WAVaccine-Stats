@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "postcode": "SOMERVILLE",
   "data": [
     {
@@ -1014,9 +1014,9 @@
       "date": "2021-06-18",
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 8,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-06-18",
@@ -1463,8 +1463,8 @@
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-17",
@@ -1686,9 +1686,9 @@
       "date": "2021-07-30",
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 10,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-07-30",
@@ -2199,8 +2199,8 @@
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 19,
-      "vaccines": 24
+      "dose2": 18,
+      "vaccines": 23
     },
     {
       "date": "2021-08-27",
@@ -2294,9 +2294,9 @@
       "date": "2021-09-01",
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 13,
-      "vaccines": 35
+      "vaccines": 34
     },
     {
       "date": "2021-09-01",
@@ -2406,9 +2406,9 @@
       "date": "2021-09-07",
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 1,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-09-07",
@@ -2887,16 +2887,16 @@
       "locality": "SOMERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 16,
-      "vaccines": 22
+      "dose2": 18,
+      "vaccines": 24
     },
     {
       "date": "2021-09-30",
       "locality": "SOMERVILLE",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-30",
@@ -2904,6 +2904,62 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 11,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "SOMERVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

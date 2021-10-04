@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "locality": "CARDUP",
   "data": [
     {
@@ -1174,9 +1174,30 @@
     {
       "date": "2021-09-30",
       "locality": "CARDUP",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "CARDUP",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "CARDUP",
+      "dose1": 5,
+      "dose2": 9,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "CARDUP",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

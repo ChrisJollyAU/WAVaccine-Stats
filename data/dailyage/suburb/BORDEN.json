@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "postcode": "BORDEN",
   "data": [
     {
@@ -751,8 +751,24 @@
       "locality": "BORDEN",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "BORDEN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "BORDEN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

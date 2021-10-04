@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "postcode": "DARLINGTON",
   "data": [
     {
@@ -1334,9 +1334,9 @@
       "date": "2021-05-18",
       "locality": "DARLINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-18",
@@ -2038,9 +2038,9 @@
       "date": "2021-06-21",
       "locality": "DARLINGTON",
       "AgeGroup": "70 and over",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-06-22",
@@ -2351,8 +2351,8 @@
       "locality": "DARLINGTON",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose2": 2,
+      "vaccines": 10
     },
     {
       "date": "2021-07-06",
@@ -3919,8 +3919,8 @@
       "locality": "DARLINGTON",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-14",
@@ -4390,9 +4390,9 @@
       "date": "2021-09-30",
       "locality": "DARLINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
-      "dose2": 8,
-      "vaccines": 26
+      "dose1": 19,
+      "dose2": 10,
+      "vaccines": 29
     },
     {
       "date": "2021-09-30",
@@ -4408,6 +4408,94 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "DARLINGTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "DARLINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 19,
+      "dose2": 18,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "DARLINGTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "DARLINGTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "DARLINGTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "DARLINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 8,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "DARLINGTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 1,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "DARLINGTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "DARLINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 13,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "DARLINGTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "DARLINGTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

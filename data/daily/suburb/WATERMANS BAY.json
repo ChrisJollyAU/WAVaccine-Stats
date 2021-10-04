@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "locality": "WATERMANS BAY",
   "data": [
     {
@@ -1384,9 +1384,30 @@
     {
       "date": "2021-09-30",
       "locality": "WATERMANS BAY",
-      "dose1": 6,
-      "dose2": 5,
-      "vaccines": 11
+      "dose1": 7,
+      "dose2": 8,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "WATERMANS BAY",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "WATERMANS BAY",
+      "dose1": 7,
+      "dose2": 1,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "WATERMANS BAY",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

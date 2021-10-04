@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "locality": "WILUNA",
   "data": [
     {
@@ -314,8 +314,8 @@
       "date": "2021-09-09",
       "locality": "WILUNA",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-09-10",
@@ -421,6 +421,20 @@
       "dose1": 4,
       "dose2": 1,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "WILUNA",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "WILUNA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

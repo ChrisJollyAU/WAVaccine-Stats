@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "locality": "NOWERGUP",
   "data": [
     {
@@ -227,13 +227,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-27",
-      "locality": "NOWERGUP",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-28",
       "locality": "NOWERGUP",
       "dose1": 1,
@@ -294,13 +287,6 @@
       "locality": "NOWERGUP",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-18",
-      "locality": "NOWERGUP",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -652,6 +638,20 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "NOWERGUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "NOWERGUP",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "postcode": "WAGGRAKINE",
   "data": [
     {
@@ -2974,25 +2974,65 @@
       "date": "2021-09-30",
       "locality": "WAGGRAKINE",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-30",
       "locality": "WAGGRAKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 14,
       "dose2": 4,
-      "vaccines": 13
+      "vaccines": 18
     },
     {
       "date": "2021-09-30",
       "locality": "WAGGRAKINE",
       "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-30",
+      "locality": "WAGGRAKINE",
+      "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "WAGGRAKINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 7,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "WAGGRAKINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "WAGGRAKINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 6,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "WAGGRAKINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

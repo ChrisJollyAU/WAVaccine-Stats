@@ -1,16 +1,9 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "locality": "ROSA GLEN",
   "data": [
     {
       "date": "2021-03-16",
-      "locality": "ROSA GLEN",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-20",
       "locality": "ROSA GLEN",
       "dose1": 1,
       "dose2": 0,
@@ -162,13 +155,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-06-27",
-      "locality": "ROSA GLEN",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-06-29",
@@ -463,6 +449,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "ROSA GLEN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

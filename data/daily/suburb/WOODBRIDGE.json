@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "locality": "WOODBRIDGE",
   "data": [
     {
@@ -1275,6 +1275,27 @@
       "dose1": 3,
       "dose2": 8,
       "vaccines": 11
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "WOODBRIDGE",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "WOODBRIDGE",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "WOODBRIDGE",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     }
   ]
 }

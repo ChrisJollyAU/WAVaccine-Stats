@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "locality": "MOONYOONOOKA",
   "data": [
     {
@@ -332,13 +332,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-07-16",
-      "locality": "MOONYOONOOKA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-17",
       "locality": "MOONYOONOOKA",
       "dose1": 1,
@@ -423,13 +416,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-02",
-      "locality": "MOONYOONOOKA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-04",
       "locality": "MOONYOONOOKA",
       "dose1": 2,
@@ -482,8 +468,8 @@
       "date": "2021-08-12",
       "locality": "MOONYOONOOKA",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-08-13",
@@ -771,6 +757,20 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "MOONYOONOOKA",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "MOONYOONOOKA",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

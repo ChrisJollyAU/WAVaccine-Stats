@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-09-30T00:00:00",
+  "date_updated": "2021-10-03T00:00:00",
   "locality": "DOWERIN",
   "data": [
     {
@@ -901,9 +901,30 @@
     {
       "date": "2021-09-30",
       "locality": "DOWERIN",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "DOWERIN",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "DOWERIN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "DOWERIN",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

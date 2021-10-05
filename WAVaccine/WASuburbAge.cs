@@ -397,48 +397,76 @@ namespace WAVaccine
 
         private static List<SA2DetailAge> DoSa2Stats(List<SuburbObjectAge> to)
         {
-            var sa2poptext = File.ReadAllText("data/sa2pop.json");
             var sa2suburbtext = File.ReadAllText("data/sa2suburb.json");
-            var sa2subagetext = File.ReadAllText("data/sa2agegrp.json");
             var sa2suburbextratext = File.ReadAllText("data/sa2suburbextra.json");
-            JObject sa2json = (JObject) JsonConvert.DeserializeObject(sa2poptext);
             JObject sa2subjson = (JObject)JsonConvert.DeserializeObject(sa2suburbtext);
-            JObject sa2subagejson = (JObject)JsonConvert.DeserializeObject(sa2subagetext);
             JObject sa2subextrajson = (JObject)JsonConvert.DeserializeObject(sa2suburbextratext);
-            JArray ar1 = (JArray)sa2json["data"];
             JArray ar2 = (JArray)sa2subjson["data"];
             JArray ar2extra = (JArray)sa2subextrajson["data"];
-            var sa2pop = JsonConvert.DeserializeObject<List<SA2PopOb>>(ar1.ToString());
             var sa2sub = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2.ToString());
             var sa2subextra = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2extra.ToString());
             sa2sub.AddRange(sa2subextra);
+
+            var sa2pop2020 = System.IO.File.ReadAllLines("data/sa2pop2020.csv");
+            List<SA2PopOb> sa2pop = new List<SA2PopOb>();
+            foreach (var ln in sa2pop2020)
+            {
+                var cols = ln.Split(',');
+                SA2PopOb pop = new SA2PopOb
+                {
+                    State = cols[1],
+                    GCCSA = cols[3],
+                    SA4 = cols[5],
+                    SA3 = cols[7],
+                    SA2 = cols[9],
+                    c_0_4 = Convert.ToInt32(cols[10]),
+                    c_5_11 = Convert.ToInt32(cols[11]),
+                    c_12_15 = Convert.ToInt32(cols[12]),
+                    c_16_19 = Convert.ToInt32(cols[13]),
+                    c_20_24 = Convert.ToInt32(cols[14]),
+                    c_25_29 = Convert.ToInt32(cols[15]),
+                    c_30_34 = Convert.ToInt32(cols[16]),
+                    c_35_39 = Convert.ToInt32(cols[17]),
+                    c_40_44 = Convert.ToInt32(cols[18]),
+                    c_45_49 = Convert.ToInt32(cols[19]),
+                    c_50_54 = Convert.ToInt32(cols[20]),
+                    c_55_59 = Convert.ToInt32(cols[21]),
+                    c_60_64 = Convert.ToInt32(cols[22]),
+                    c_65_69 = Convert.ToInt32(cols[23]),
+                    c_70_74 = Convert.ToInt32(cols[24]),
+                    c_75_79 = Convert.ToInt32(cols[25]),
+                    c_80_84 = Convert.ToInt32(cols[26]),
+                    c_85p = Convert.ToInt32(cols[27]),
+                };
+                var total = Convert.ToInt32(cols[28]);
+                pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
+                pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                sa2pop.Add(pop);
+            }
+
             var grpsa2sub = sa2sub.GroupBy(ss => ss.SA2_Name);
             List<SA2DetailAge> sa2det = new List<SA2DetailAge>();
             foreach (var it in grpsa2sub)
             {
                 SA2DetailAge sdet = new SA2DetailAge();
                 sdet.SA2Name = it.Key;
-                var s2pop = sa2pop.SingleOrDefault(sp => sp.name == it.Key);
+                var s2pop = sa2pop.SingleOrDefault(sp => sp.SA2 == it.Key);
                 if (s2pop != null)
                 {
                     sdet.c16_plus = (int)s2pop.c16_plus;
                     sdet.c12_plus = (int)s2pop.c12_plus;
-                }
-                var subage = sa2subagejson[it.Key];
-                int ct_50_69 = 0;
-                int ct_70p = 0;
-                int ct_16_49 = 0;
-                if (subage != null)
-                {
-                    ct_50_69 = Convert.ToInt32(subage["FIELD2"].ToString());
-                    ct_70p = Convert.ToInt32(subage["FIELD3"].ToString());
-                    ct_16_49 = sdet.c16_plus - ct_50_69 - ct_70p;
-                    sdet.c_12_15 = sdet.c12_plus - sdet.c16_plus;
+                    int ct_50_69 = 0;
+                    int ct_70p = 0;
+                    int ct_16_49 = 0;
+                    ct_50_69 = (int)(s2pop.c_50_54 + s2pop.c_55_59 + s2pop.c_60_64 + s2pop.c_60_64);
+                    ct_70p = (int)(s2pop.c_70_74 + s2pop.c_75_79 + s2pop.c_80_84 + s2pop.c_85p);
+                    ct_16_49 = (int)(s2pop.c_16_19 + s2pop.c_20_24 + s2pop.c_25_29 + s2pop.c_30_34 + s2pop.c_35_39 + s2pop.c_40_44 + s2pop.c_45_49);
+                    sdet.c_12_15 = (int)s2pop.c_12_15;
                     sdet.c_16_49 = ct_16_49;
                     sdet.c_50_69 = ct_50_69;
                     sdet.c_70p = ct_70p;
                 }
-                
+
                 foreach (var it2 in it)
                 {
                     List<SuburbObjectAge> obs = to.Where(tt => tt.suburb_name == it2.name).ToList();
@@ -485,20 +513,20 @@ namespace WAVaccine
                     sdet.min1d_12_15_pc = (sdet.dose1_12_15) / (decimal)sdet.c_12_15 * 100;
                     sdet.full_12_15_pc = (sdet.dose2_12_15) / (decimal)sdet.c_12_15 * 100;
                 }
-                if (ct_16_49 > 0)
+                if (sdet.c_16_49 > 0)
                 {
-                    sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)ct_16_49 * 100;
-                    sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)ct_16_49 * 100;
+                    sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)sdet.c_16_49 * 100;
+                    sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)sdet.c_16_49 * 100;
                 }
-                if (ct_50_69 > 0)
+                if (sdet.c_50_69 > 0)
                 {
-                    sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)ct_50_69 * 100;
-                    sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)ct_50_69 * 100;
+                    sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)sdet.c_50_69 * 100;
+                    sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)sdet.c_50_69 * 100;
                 }
-                if (ct_70p > 0)
+                if (sdet.c_70p > 0)
                 {
-                    sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)ct_70p * 100;
-                    sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)ct_70p * 100;
+                    sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)sdet.c_70p * 100;
+                    sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
                 }
                 sa2det.Add(sdet);
             }

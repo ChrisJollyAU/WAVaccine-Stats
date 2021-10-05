@@ -576,6 +576,201 @@ namespace WAVaccine
             item.Add("date_updated", latestdate);
             item.Add("data", results);
             File.WriteAllText("data/daily/all.json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            DoPostcodeStats(to);
+            DoPostcodeStatsAge(to);
+        }
+
+        public static void DoPostcodeStats(List<WARawOb> to)
+        {
+            var poapop2020 = System.IO.File.ReadAllLines("data/poapop2020.csv");
+            List<PostcodePop> poplist = new List<PostcodePop>();
+            foreach (var ln in poapop2020)
+            {
+                var cols = ln.Split(',');
+                PostcodePop pop = new PostcodePop
+                {
+                    name = cols[2],
+                    c_0_4 = Convert.ToInt32(cols[3]),
+                    c_5_11 = Convert.ToInt32(cols[4]),
+                    c_12_15 = Convert.ToInt32(cols[5]),
+                    c_16_19 = Convert.ToInt32(cols[6]),
+                    c_20_24 = Convert.ToInt32(cols[7]),
+                    c_25_29 = Convert.ToInt32(cols[8]),
+                    c_30_34 = Convert.ToInt32(cols[9]),
+                    c_35_39 = Convert.ToInt32(cols[10]),
+                    c_40_44 = Convert.ToInt32(cols[11]),
+                    c_45_49 = Convert.ToInt32(cols[12]),
+                    c_50_54 = Convert.ToInt32(cols[13]),
+                    c_55_59 = Convert.ToInt32(cols[14]),
+                    c_60_64 = Convert.ToInt32(cols[15]),
+                    c_65_69 = Convert.ToInt32(cols[16]),
+                    c_70_74 = Convert.ToInt32(cols[17]),
+                    c_75_79 = Convert.ToInt32(cols[18]),
+                    c_80_84 = Convert.ToInt32(cols[19]),
+                    c_85p = Convert.ToInt32(cols[20]),
+                };
+                var total = Convert.ToInt32(cols[21]);
+                pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
+                pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                poplist.Add(pop);
+            }
+
+            var grppost = to.GroupBy(ss => ss.postcode);
+            List<GCCSADetail> sa2det = new List<GCCSADetail>();
+            foreach (var it in grppost)
+            {
+                GCCSADetail sdet = new GCCSADetail();
+                sdet.Name = it.Key;
+                var s2pop = poplist.SingleOrDefault(sp => sp.name == it.Key);
+                if (s2pop != null)
+                {
+                    sdet.c16_plus = (int)s2pop.c16_plus;
+                    sdet.c12_plus = (int)s2pop.c12_plus;
+                }
+                foreach (var it2 in it)
+                {
+                    sdet.dose1 += it2.dose1;
+                    sdet.dose2 += it2.dose2;
+                    sdet.total_doses += it2.vaccines;
+                }
+                if (sdet.c12_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
+                }
+                sa2det.Add(sdet);
+            }
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", sa2det);
+            File.WriteAllText("data/postcodesummary-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/postcodesummary-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
+        }
+
+        public static void DoPostcodeStatsAge(List<WARawOb> to)
+        {
+            var poapop2020 = System.IO.File.ReadAllLines("data/poapop2020.csv");
+            List<PostcodePop> poplist = new List<PostcodePop>();
+            foreach (var ln in poapop2020)
+            {
+                var cols = ln.Split(',');
+                PostcodePop pop = new PostcodePop
+                {
+                    name = cols[2],
+                    c_0_4 = Convert.ToInt32(cols[3]),
+                    c_5_11 = Convert.ToInt32(cols[4]),
+                    c_12_15 = Convert.ToInt32(cols[5]),
+                    c_16_19 = Convert.ToInt32(cols[6]),
+                    c_20_24 = Convert.ToInt32(cols[7]),
+                    c_25_29 = Convert.ToInt32(cols[8]),
+                    c_30_34 = Convert.ToInt32(cols[9]),
+                    c_35_39 = Convert.ToInt32(cols[10]),
+                    c_40_44 = Convert.ToInt32(cols[11]),
+                    c_45_49 = Convert.ToInt32(cols[12]),
+                    c_50_54 = Convert.ToInt32(cols[13]),
+                    c_55_59 = Convert.ToInt32(cols[14]),
+                    c_60_64 = Convert.ToInt32(cols[15]),
+                    c_65_69 = Convert.ToInt32(cols[16]),
+                    c_70_74 = Convert.ToInt32(cols[17]),
+                    c_75_79 = Convert.ToInt32(cols[18]),
+                    c_80_84 = Convert.ToInt32(cols[19]),
+                    c_85p = Convert.ToInt32(cols[20]),
+                };
+                var total = Convert.ToInt32(cols[21]);
+                pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
+                pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                poplist.Add(pop);
+            }
+
+            var grppost = to.GroupBy(ss => ss.postcode);
+            List<GCCSADetailAge> sa2det = new List<GCCSADetailAge>();
+            foreach (var it in grppost)
+            {
+                GCCSADetailAge sdet = new GCCSADetailAge();
+                sdet.Name = it.Key;
+                var s2pop = poplist.SingleOrDefault(sp => sp.name == it.Key);
+                if (s2pop != null)
+                {
+                    sdet.c16_plus = (int)s2pop.c16_plus;
+                    sdet.c12_plus = (int)s2pop.c12_plus;
+                    int ct_50_69 = 0;
+                    int ct_70p = 0;
+                    int ct_16_49 = 0;
+                    ct_50_69 = (int)(s2pop.c_50_54 + s2pop.c_55_59 + s2pop.c_60_64 + s2pop.c_60_64);
+                    ct_70p = (int)(s2pop.c_70_74 + s2pop.c_75_79 + s2pop.c_80_84 + s2pop.c_85p);
+                    ct_16_49 = (int)(s2pop.c_16_19 + s2pop.c_20_24 + s2pop.c_25_29 + s2pop.c_30_34 + s2pop.c_35_39 + s2pop.c_40_44 + s2pop.c_45_49);
+                    sdet.c_12_15 = (int)s2pop.c_12_15;
+                    sdet.c_16_49 = ct_16_49;
+                    sdet.c_50_69 = ct_50_69;
+                    sdet.c_70p = ct_70p;
+                }
+
+                foreach (var it2 in it)
+                {
+                    if (it2.AgeGroup == "12 to 15")
+                    {
+                        sdet.dose1_12_15 += it2.dose1;
+                        sdet.dose2_12_15 += it2.dose2;
+                        sdet.total_doses += it2.vaccines;
+                    }
+                    else if (it2.AgeGroup == "16 to 49")
+                    {
+                        sdet.dose1_16_49 += it2.dose1;
+                        sdet.dose2_16_49 += it2.dose2;
+                        sdet.total_doses += it2.vaccines;
+                    }
+                    else if (it2.AgeGroup == "50 to 69")
+                    {
+                        sdet.dose1_50_69 += it2.dose1;
+                        sdet.dose2_50_69 += it2.dose2;
+                        sdet.total_doses += it2.vaccines;
+                    }
+                    else if (it2.AgeGroup == "70 and over")
+                    {
+                        sdet.dose1_70p += it2.dose1;
+                        sdet.dose2_70p += it2.dose2;
+                        sdet.total_doses += it2.vaccines;
+                    }
+                }
+                if (sdet.c16_plus > 0)
+                {
+                    sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
+                    sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                }
+                if (sdet.c12_plus > 0)
+                {
+                    sdet.atleast_1dose_percent12 = (sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c12_plus * 100;
+                    sdet.full_vaccinated_percent12 = (sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c12_plus * 100;
+                }
+                if (sdet.c_12_15 > 0)
+                {
+                    sdet.min1d_12_15_pc = (sdet.dose1_12_15) / (decimal)sdet.c_12_15 * 100;
+                    sdet.full_12_15_pc = (sdet.dose2_12_15) / (decimal)sdet.c_12_15 * 100;
+                }
+                if (sdet.c_16_49 > 0)
+                {
+                    sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)sdet.c_16_49 * 100;
+                    sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)sdet.c_16_49 * 100;
+                }
+                if (sdet.c_50_69 > 0)
+                {
+                    sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)sdet.c_50_69 * 100;
+                    sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)sdet.c_50_69 * 100;
+                }
+                if (sdet.c_70p > 0)
+                {
+                    sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)sdet.c_70p * 100;
+                    sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
+                }
+                sa2det.Add(sdet);
+            }
+            var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
+            JsonObject item = new JsonObject();
+            item.Add("date", date);
+            item.Add("data", sa2det);
+            File.WriteAllText("data/postcodesummaryage-" + date + ".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/postcodesummaryage-latest.json", JsonConvert.SerializeObject(item, Formatting.Indented));
         }
     }
 
@@ -588,5 +783,30 @@ namespace WAVaccine
         public int dose2 { get; set; }
         public int vaccines { get; set; }
         public string AgeGroup { get; set; }
+    }
+
+    public class PostcodePop
+    {
+        public string name { get; set; }
+        public decimal c12_plus { get; set; }
+        public decimal c16_plus { get; set; }
+        public decimal c_0_4 { get; set; }
+        public decimal c_5_11 { get; set; }
+        public decimal c_12_15 { get; set; }
+        public decimal c_16_19 { get; set; }
+        public decimal c_20_24 { get; set; }
+        public decimal c_25_29 { get; set; }
+        public decimal c_30_34 { get; set; }
+        public decimal c_35_39 { get; set; }
+        public decimal c_40_44 { get; set; }
+        public decimal c_45_49 { get; set; }
+        public decimal c_50_54 { get; set; }
+        public decimal c_55_59 { get; set; }
+        public decimal c_60_64 { get; set; }
+        public decimal c_65_69 { get; set; }
+        public decimal c_70_74 { get; set; }
+        public decimal c_75_79 { get; set; }
+        public decimal c_80_84 { get; set; }
+        public decimal c_85p { get; set; }
     }
 }

@@ -332,19 +332,53 @@ namespace WAVaccine
 
         private static List<SA2Detail> DoSa2Stats(List<SuburbObject> to)
         {
-            var sa2poptext = File.ReadAllText("data/sa2pop.json");
             var sa2suburbtext = File.ReadAllText("data/sa2suburb.json");
             var sa2suburbextratext = File.ReadAllText("data/sa2suburbextra.json");
-            JObject sa2json = (JObject) JsonConvert.DeserializeObject(sa2poptext);
             JObject sa2subjson = (JObject)JsonConvert.DeserializeObject(sa2suburbtext);
             JObject sa2subextrajson = (JObject)JsonConvert.DeserializeObject(sa2suburbextratext);
-            JArray ar1 = (JArray)sa2json["data"];
             JArray ar2 = (JArray)sa2subjson["data"];
             JArray ar2extra = (JArray)sa2subextrajson["data"];
-            var sa2pop = JsonConvert.DeserializeObject<List<SA2PopOb>>(ar1.ToString());
             var sa2sub = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2.ToString());
             var sa2subextra = JsonConvert.DeserializeObject<List<SA2SuburbOb>>(ar2extra.ToString());
             sa2sub.AddRange(sa2subextra);
+
+            var sa2pop2020 = System.IO.File.ReadAllLines("data/sa2pop2020.csv");
+            List<SA2PopOb> sa2pop = new List<SA2PopOb>();
+            foreach (var ln in sa2pop2020)
+            {
+                var cols = ln.Split(',');
+                SA2PopOb pop = new SA2PopOb
+                {
+                    State = cols[1],
+                    GCCSA = cols[3],
+                    SA4 = cols[5],
+                    SA3 = cols[7],
+                    SA2 = cols[9],
+                    c_0_4 = Convert.ToInt32(cols[10]),
+                    c_5_11 = Convert.ToInt32(cols[11]),
+                    c_12_15 = Convert.ToInt32(cols[12]),
+                    c_16_19 = Convert.ToInt32(cols[13]),
+                    c_20_24 = Convert.ToInt32(cols[14]),
+                    c_25_29 = Convert.ToInt32(cols[15]),
+                    c_30_34 = Convert.ToInt32(cols[16]),
+                    c_35_39 = Convert.ToInt32(cols[17]),
+                    c_40_44 = Convert.ToInt32(cols[18]),
+                    c_45_49 = Convert.ToInt32(cols[19]),
+                    c_50_54 = Convert.ToInt32(cols[20]),
+                    c_55_59 = Convert.ToInt32(cols[21]),
+                    c_60_64 = Convert.ToInt32(cols[22]),
+                    c_65_69 = Convert.ToInt32(cols[23]),
+                    c_70_74 = Convert.ToInt32(cols[24]),
+                    c_75_79 = Convert.ToInt32(cols[25]),
+                    c_80_84 = Convert.ToInt32(cols[26]),
+                    c_85p = Convert.ToInt32(cols[27]),
+                };
+                var total = Convert.ToInt32(cols[28]);
+                pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
+                pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                sa2pop.Add(pop);
+            }
+
             var grpsa2sub = sa2sub.GroupBy(ss => ss.SA2_Name);
             List<SuburbObject> used = new List<SuburbObject>();
             List<SA2Detail> sa2det = new List<SA2Detail>();
@@ -352,7 +386,7 @@ namespace WAVaccine
             {
                 SA2Detail sdet = new SA2Detail();
                 sdet.SA2Name = it.Key;
-                var s2pop = sa2pop.SingleOrDefault(sp => sp.name == it.Key);
+                var s2pop = sa2pop.SingleOrDefault(sp => sp.SA2 == it.Key);
                 if (s2pop != null) {
                     sdet.c16_plus = (int)s2pop.c16_plus;
                     sdet.c12_plus = (int)s2pop.c12_plus;

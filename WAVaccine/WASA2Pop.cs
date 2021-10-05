@@ -15,7 +15,7 @@ namespace WAVaccine
     {
         public static void Execute()
         {
-            var client = new RestClient("https://wabi-australia-southeast-api.analysis.windows.net/public/reports/querydata?synchronous=true");
+            /*var client = new RestClient("https://wabi-australia-southeast-api.analysis.windows.net/public/reports/querydata?synchronous=true");
             client.Timeout = -1;
             client.UseNewtonsoftJson();
             var request = new RestRequest(Method.POST);
@@ -302,14 +302,36 @@ namespace WAVaccine
             JsonObject item = new JsonObject();
             item.Add("date_updated", latestdate);
             item.Add("data", to);
-            File.WriteAllText("data/sa2pop.json", JsonConvert.SerializeObject(item, Formatting.Indented));
+            File.WriteAllText("data/sa2pop.json", JsonConvert.SerializeObject(item, Formatting.Indented));*/
         }
     }
 
     class SA2PopOb
     {
-        public string name { get; set; }
-        public decimal c16_plus { get; set; }
+        public string SA2 { get; set; }
+        public string SA3 { get; set; }
+        public string SA4 { get; set; }
+        public string GCCSA { get; set; }
+        public string State { get; set; }
         public decimal c12_plus { get; set; }
+        public decimal c16_plus { get; set; }
+        public decimal c_0_4 { get; set; }
+        public decimal c_5_11 { get; set; }
+        public decimal c_12_15 { get; set; }
+        public decimal c_16_19 { get; set; }
+        public decimal c_20_24 { get; set; }
+        public decimal c_25_29 { get; set; }
+        public decimal c_30_34 { get; set; }
+        public decimal c_35_39 { get; set; }
+        public decimal c_40_44 { get; set; }
+        public decimal c_45_49 { get; set; }
+        public decimal c_50_54 { get; set; }
+        public decimal c_55_59 { get; set; }
+        public decimal c_60_64 { get; set; }
+        public decimal c_65_69 { get; set; }
+        public decimal c_70_74 { get; set; }
+        public decimal c_75_79 { get; set; }
+        public decimal c_80_84 { get; set; }
+        public decimal c_85p { get; set; }
     }
 }

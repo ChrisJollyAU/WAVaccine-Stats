@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "locality": "GUILDFORD",
   "data": [
     {
@@ -1399,8 +1399,8 @@
       "date": "2021-09-30",
       "locality": "GUILDFORD",
       "dose1": 16,
-      "dose2": 12,
-      "vaccines": 28
+      "dose2": 13,
+      "vaccines": 29
     },
     {
       "date": "2021-10-01",
@@ -1413,15 +1413,22 @@
       "date": "2021-10-02",
       "locality": "GUILDFORD",
       "dose1": 8,
-      "dose2": 5,
-      "vaccines": 13
+      "dose2": 6,
+      "vaccines": 14
     },
     {
       "date": "2021-10-03",
       "locality": "GUILDFORD",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 10,
-      "vaccines": 13
+      "vaccines": 15
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "GUILDFORD",
+      "dose1": 7,
+      "dose2": 11,
+      "vaccines": 18
     }
   ]
 }

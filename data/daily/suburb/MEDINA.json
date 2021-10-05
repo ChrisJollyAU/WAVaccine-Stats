@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "locality": "MEDINA",
   "data": [
     {
@@ -1300,16 +1300,16 @@
     {
       "date": "2021-10-01",
       "locality": "MEDINA",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 13,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-10-02",
       "locality": "MEDINA",
       "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-10-03",
@@ -1317,6 +1317,13 @@
       "dose1": 6,
       "dose2": 6,
       "vaccines": 12
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "MEDINA",
+      "dose1": 15,
+      "dose2": 13,
+      "vaccines": 28
     }
   ]
 }

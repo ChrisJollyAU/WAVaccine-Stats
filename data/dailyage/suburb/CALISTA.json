@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "postcode": "CALISTA",
   "data": [
     {
@@ -3257,6 +3257,22 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "CALISTA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "CALISTA",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     }
   ]
 }

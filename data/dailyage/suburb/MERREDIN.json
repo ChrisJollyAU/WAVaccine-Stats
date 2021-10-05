@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "postcode": "MERREDIN",
   "data": [
     {
@@ -590,17 +590,17 @@
       "date": "2021-05-18",
       "locality": "MERREDIN",
       "AgeGroup": "50 to 69",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 0,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-05-18",
       "locality": "MERREDIN",
       "AgeGroup": "70 and over",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 0,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-05-19",
@@ -1903,16 +1903,16 @@
       "locality": "MERREDIN",
       "AgeGroup": "50 to 69",
       "dose1": 15,
-      "dose2": 6,
-      "vaccines": 21
+      "dose2": 5,
+      "vaccines": 20
     },
     {
       "date": "2021-08-10",
       "locality": "MERREDIN",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-08-11",
@@ -3055,7 +3055,15 @@
       "locality": "MERREDIN",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "MERREDIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -3081,6 +3089,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "MERREDIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "MERREDIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

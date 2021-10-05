@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "locality": "ELLENBROOK",
   "data": [
     {
@@ -96,9 +96,9 @@
     {
       "date": "2021-03-08",
       "locality": "ELLENBROOK",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 0,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-03-09",
@@ -258,8 +258,8 @@
       "date": "2021-04-01",
       "locality": "ELLENBROOK",
       "dose1": 34,
-      "dose2": 5,
-      "vaccines": 39
+      "dose2": 4,
+      "vaccines": 38
     },
     {
       "date": "2021-04-02",
@@ -789,9 +789,9 @@
     {
       "date": "2021-06-18",
       "locality": "ELLENBROOK",
-      "dose1": 35,
+      "dose1": 34,
       "dose2": 15,
-      "vaccines": 50
+      "vaccines": 49
     },
     {
       "date": "2021-06-19",
@@ -915,9 +915,9 @@
     {
       "date": "2021-07-06",
       "locality": "ELLENBROOK",
-      "dose1": 47,
+      "dose1": 48,
       "dose2": 30,
-      "vaccines": 77
+      "vaccines": 78
     },
     {
       "date": "2021-07-07",
@@ -971,16 +971,16 @@
     {
       "date": "2021-07-14",
       "locality": "ELLENBROOK",
-      "dose1": 56,
+      "dose1": 55,
       "dose2": 55,
-      "vaccines": 111
+      "vaccines": 110
     },
     {
       "date": "2021-07-15",
       "locality": "ELLENBROOK",
       "dose1": 39,
-      "dose2": 27,
-      "vaccines": 66
+      "dose2": 26,
+      "vaccines": 65
     },
     {
       "date": "2021-07-16",
@@ -999,9 +999,9 @@
     {
       "date": "2021-07-18",
       "locality": "ELLENBROOK",
-      "dose1": 42,
+      "dose1": 43,
       "dose2": 21,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-07-19",
@@ -1090,9 +1090,9 @@
     {
       "date": "2021-07-31",
       "locality": "ELLENBROOK",
-      "dose1": 108,
+      "dose1": 107,
       "dose2": 85,
-      "vaccines": 193
+      "vaccines": 192
     },
     {
       "date": "2021-08-01",
@@ -1126,8 +1126,8 @@
       "date": "2021-08-05",
       "locality": "ELLENBROOK",
       "dose1": 45,
-      "dose2": 59,
-      "vaccines": 104
+      "dose2": 58,
+      "vaccines": 103
     },
     {
       "date": "2021-08-06",
@@ -1203,8 +1203,8 @@
       "date": "2021-08-16",
       "locality": "ELLENBROOK",
       "dose1": 80,
-      "dose2": 73,
-      "vaccines": 153
+      "dose2": 74,
+      "vaccines": 154
     },
     {
       "date": "2021-08-17",
@@ -1294,15 +1294,15 @@
       "date": "2021-08-29",
       "locality": "ELLENBROOK",
       "dose1": 54,
-      "dose2": 54,
-      "vaccines": 108
+      "dose2": 55,
+      "vaccines": 109
     },
     {
       "date": "2021-08-30",
       "locality": "ELLENBROOK",
-      "dose1": 87,
+      "dose1": 86,
       "dose2": 60,
-      "vaccines": 147
+      "vaccines": 146
     },
     {
       "date": "2021-08-31",
@@ -1314,9 +1314,9 @@
     {
       "date": "2021-09-01",
       "locality": "ELLENBROOK",
-      "dose1": 101,
+      "dose1": 100,
       "dose2": 65,
-      "vaccines": 166
+      "vaccines": 165
     },
     {
       "date": "2021-09-02",
@@ -1335,9 +1335,9 @@
     {
       "date": "2021-09-04",
       "locality": "ELLENBROOK",
-      "dose1": 160,
-      "dose2": 124,
-      "vaccines": 284
+      "dose1": 159,
+      "dose2": 123,
+      "vaccines": 282
     },
     {
       "date": "2021-09-05",
@@ -1454,16 +1454,16 @@
     {
       "date": "2021-09-21",
       "locality": "ELLENBROOK",
-      "dose1": 129,
+      "dose1": 130,
       "dose2": 63,
-      "vaccines": 192
+      "vaccines": 193
     },
     {
       "date": "2021-09-22",
       "locality": "ELLENBROOK",
       "dose1": 113,
-      "dose2": 74,
-      "vaccines": 187
+      "dose2": 73,
+      "vaccines": 186
     },
     {
       "date": "2021-09-23",
@@ -1524,23 +1524,30 @@
     {
       "date": "2021-10-01",
       "locality": "ELLENBROOK",
-      "dose1": 98,
-      "dose2": 58,
-      "vaccines": 156
+      "dose1": 110,
+      "dose2": 59,
+      "vaccines": 169
     },
     {
       "date": "2021-10-02",
       "locality": "ELLENBROOK",
-      "dose1": 179,
-      "dose2": 151,
-      "vaccines": 330
+      "dose1": 182,
+      "dose2": 153,
+      "vaccines": 335
     },
     {
       "date": "2021-10-03",
       "locality": "ELLENBROOK",
-      "dose1": 51,
-      "dose2": 60,
-      "vaccines": 111
+      "dose1": 53,
+      "dose2": 61,
+      "vaccines": 114
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "ELLENBROOK",
+      "dose1": 88,
+      "dose2": 65,
+      "vaccines": 153
     }
   ]
 }

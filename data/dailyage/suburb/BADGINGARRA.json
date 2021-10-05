@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "postcode": "BADGINGARRA",
   "data": [
     {
@@ -97,6 +97,14 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
+    },
+    {
+      "date": "2021-05-07",
+      "locality": "BADGINGARRA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-05-09",
@@ -455,8 +463,8 @@
       "locality": "BADGINGARRA",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-07-26",
@@ -1190,6 +1198,30 @@
       "date": "2021-10-03",
       "locality": "BADGINGARRA",
       "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "BADGINGARRA",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "BADGINGARRA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "BADGINGARRA",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1

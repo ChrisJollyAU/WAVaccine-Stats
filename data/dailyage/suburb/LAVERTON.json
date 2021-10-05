@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "postcode": "LAVERTON",
   "data": [
     {
@@ -155,14 +155,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-28",
-      "locality": "LAVERTON",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-02",
       "locality": "LAVERTON",
       "AgeGroup": "16 to 49",
@@ -281,14 +273,6 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
-    },
-    {
-      "date": "2021-07-25",
-      "locality": "LAVERTON",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-27",
@@ -879,8 +863,8 @@
       "locality": "LAVERTON",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose2": 4,
+      "vaccines": 10
     },
     {
       "date": "2021-09-30",
@@ -895,6 +879,22 @@
       "locality": "LAVERTON",
       "AgeGroup": "16 to 49",
       "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "LAVERTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "LAVERTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
       "dose2": 0,
       "vaccines": 1
     },
@@ -905,6 +905,14 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "LAVERTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

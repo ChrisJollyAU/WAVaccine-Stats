@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "postcode": "ALKIMOS",
   "data": [
     {
@@ -2102,9 +2102,9 @@
       "date": "2021-06-24",
       "locality": "ALKIMOS",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 0,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 4
     },
     {
       "date": "2021-06-25",
@@ -2590,9 +2590,9 @@
       "date": "2021-07-17",
       "locality": "ALKIMOS",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 1,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-07-17",
@@ -2614,9 +2614,9 @@
       "date": "2021-07-18",
       "locality": "ALKIMOS",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 8,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2021-07-18",
@@ -2950,9 +2950,9 @@
       "date": "2021-08-02",
       "locality": "ALKIMOS",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 17,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-08-02",
@@ -3119,8 +3119,8 @@
       "locality": "ALKIMOS",
       "AgeGroup": "16 to 49",
       "dose1": 22,
-      "dose2": 16,
-      "vaccines": 38
+      "dose2": 17,
+      "vaccines": 39
     },
     {
       "date": "2021-08-10",
@@ -3551,8 +3551,8 @@
       "locality": "ALKIMOS",
       "AgeGroup": "16 to 49",
       "dose1": 19,
-      "dose2": 24,
-      "vaccines": 43
+      "dose2": 23,
+      "vaccines": 42
     },
     {
       "date": "2021-08-29",
@@ -3727,8 +3727,8 @@
       "locality": "ALKIMOS",
       "AgeGroup": "16 to 49",
       "dose1": 29,
-      "dose2": 17,
-      "vaccines": 46
+      "dose2": 18,
+      "vaccines": 47
     },
     {
       "date": "2021-09-06",
@@ -3822,9 +3822,9 @@
       "date": "2021-09-10",
       "locality": "ALKIMOS",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 10,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-09-10",
@@ -4247,8 +4247,8 @@
       "locality": "ALKIMOS",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-25",
@@ -4270,9 +4270,9 @@
       "date": "2021-09-25",
       "locality": "ALKIMOS",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-09-25",
@@ -4399,8 +4399,8 @@
       "locality": "ALKIMOS",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose2": 4,
+      "vaccines": 10
     },
     {
       "date": "2021-10-01",
@@ -4414,17 +4414,17 @@
       "date": "2021-10-01",
       "locality": "ALKIMOS",
       "AgeGroup": "16 to 49",
-      "dose1": 45,
-      "dose2": 36,
-      "vaccines": 81
+      "dose1": 47,
+      "dose2": 38,
+      "vaccines": 85
     },
     {
       "date": "2021-10-01",
       "locality": "ALKIMOS",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose1": 9,
+      "dose2": 4,
+      "vaccines": 13
     },
     {
       "date": "2021-10-01",
@@ -4479,16 +4479,48 @@
       "locality": "ALKIMOS",
       "AgeGroup": "16 to 49",
       "dose1": 20,
-      "dose2": 29,
-      "vaccines": 49
+      "dose2": 33,
+      "vaccines": 53
     },
     {
       "date": "2021-10-03",
       "locality": "ALKIMOS",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "ALKIMOS",
+      "AgeGroup": "12 to 15",
+      "dose1": 7,
+      "dose2": 0,
       "vaccines": 7
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "ALKIMOS",
+      "AgeGroup": "16 to 49",
+      "dose1": 35,
+      "dose2": 17,
+      "vaccines": 52
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "ALKIMOS",
+      "AgeGroup": "50 to 69",
+      "dose1": 8,
+      "dose2": 6,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "ALKIMOS",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

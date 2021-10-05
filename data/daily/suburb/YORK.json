@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "locality": "YORK",
   "data": [
     {
@@ -705,9 +705,9 @@
     {
       "date": "2021-07-08",
       "locality": "YORK",
-      "dose1": 52,
+      "dose1": 53,
       "dose2": 6,
-      "vaccines": 58
+      "vaccines": 59
     },
     {
       "date": "2021-07-09",
@@ -1286,8 +1286,8 @@
     {
       "date": "2021-09-30",
       "locality": "YORK",
-      "dose1": 26,
-      "dose2": 6,
+      "dose1": 25,
+      "dose2": 7,
       "vaccines": 32
     },
     {
@@ -1310,6 +1310,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "YORK",
+      "dose1": 0,
+      "dose2": 14,
+      "vaccines": 14
     }
   ]
 }

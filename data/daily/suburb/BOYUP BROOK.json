@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "locality": "BOYUP BROOK",
   "data": [
     {
@@ -1007,15 +1007,15 @@
       "date": "2021-10-01",
       "locality": "BOYUP BROOK",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-02",
       "locality": "BOYUP BROOK",
-      "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-10-03",
@@ -1023,6 +1023,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "BOYUP BROOK",
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
     }
   ]
 }

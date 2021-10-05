@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-03T00:00:00",
+  "date_updated": "2021-10-04T00:00:00",
   "locality": "PINK LAKE",
   "data": [
     {
@@ -398,7 +398,14 @@
       "date": "2021-10-02",
       "locality": "PINK LAKE",
       "dose1": 0,
-      "dose2": 2,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "PINK LAKE",
+      "dose1": 2,
+      "dose2": 0,
       "vaccines": 2
     }
   ]

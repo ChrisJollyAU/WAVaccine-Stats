@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "FITZROY CROSSING",
   "data": [
     {
@@ -888,8 +888,8 @@
       "date": "2021-10-01",
       "locality": "FITZROY CROSSING",
       "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose2": 7,
+      "vaccines": 11
     },
     {
       "date": "2021-10-02",
@@ -904,6 +904,13 @@
       "dose1": 6,
       "dose2": 19,
       "vaccines": 25
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "FITZROY CROSSING",
+      "dose1": 10,
+      "dose2": 9,
+      "vaccines": 19
     }
   ]
 }

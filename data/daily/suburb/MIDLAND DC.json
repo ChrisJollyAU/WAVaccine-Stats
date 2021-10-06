@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "MIDLAND DC",
   "data": [
     {
@@ -1223,9 +1223,16 @@
     {
       "date": "2021-10-04",
       "locality": "MIDLAND DC",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "MIDLAND DC",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "GIDGEGANNUP",
   "data": [
     {
@@ -1391,9 +1391,16 @@
     {
       "date": "2021-10-04",
       "locality": "GIDGEGANNUP",
-      "dose1": 11,
-      "dose2": 11,
-      "vaccines": 22
+      "dose1": 30,
+      "dose2": 13,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "GIDGEGANNUP",
+      "dose1": 13,
+      "dose2": 13,
+      "vaccines": 26
     }
   ]
 }

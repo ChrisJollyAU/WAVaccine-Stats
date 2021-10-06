@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "BOVELL",
   "data": [
     {
@@ -887,16 +887,23 @@
     {
       "date": "2021-10-01",
       "locality": "BOVELL",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 9
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "BOVELL",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-04",
       "locality": "BOVELL",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "postcode": "MILPARA",
   "data": [
     {
@@ -2711,8 +2711,8 @@
       "locality": "MILPARA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-28",
@@ -2828,6 +2828,22 @@
     },
     {
       "date": "2021-10-04",
+      "locality": "MILPARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "MILPARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-05",
       "locality": "MILPARA",
       "AgeGroup": "50 to 69",
       "dose1": 1,

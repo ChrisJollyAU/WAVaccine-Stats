@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "ROLEYSTONE",
   "data": [
     {
@@ -367,13 +367,6 @@
       "vaccines": 3
     },
     {
-      "date": "2021-04-25",
-      "locality": "ROLEYSTONE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-04-26",
       "locality": "ROLEYSTONE",
       "dose1": 0,
@@ -517,8 +510,8 @@
       "date": "2021-05-16",
       "locality": "ROLEYSTONE",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-05-17",
@@ -782,9 +775,9 @@
     {
       "date": "2021-06-24",
       "locality": "ROLEYSTONE",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 18,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-06-25",
@@ -979,8 +972,8 @@
       "date": "2021-07-22",
       "locality": "ROLEYSTONE",
       "dose1": 15,
-      "dose2": 30,
-      "vaccines": 45
+      "dose2": 31,
+      "vaccines": 46
     },
     {
       "date": "2021-07-23",
@@ -1076,9 +1069,9 @@
     {
       "date": "2021-08-05",
       "locality": "ROLEYSTONE",
-      "dose1": 29,
+      "dose1": 28,
       "dose2": 29,
-      "vaccines": 58
+      "vaccines": 57
     },
     {
       "date": "2021-08-06",
@@ -1280,8 +1273,8 @@
       "date": "2021-09-03",
       "locality": "ROLEYSTONE",
       "dose1": 29,
-      "dose2": 23,
-      "vaccines": 52
+      "dose2": 22,
+      "vaccines": 51
     },
     {
       "date": "2021-09-04",
@@ -1447,9 +1440,9 @@
     {
       "date": "2021-09-27",
       "locality": "ROLEYSTONE",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 17,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-09-28",
@@ -1461,44 +1454,51 @@
     {
       "date": "2021-09-29",
       "locality": "ROLEYSTONE",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 25,
-      "vaccines": 61
+      "vaccines": 62
     },
     {
       "date": "2021-09-30",
       "locality": "ROLEYSTONE",
-      "dose1": 31,
-      "dose2": 30,
-      "vaccines": 61
+      "dose1": 33,
+      "dose2": 31,
+      "vaccines": 64
     },
     {
       "date": "2021-10-01",
       "locality": "ROLEYSTONE",
-      "dose1": 28,
-      "dose2": 31,
-      "vaccines": 59
+      "dose1": 30,
+      "dose2": 32,
+      "vaccines": 62
     },
     {
       "date": "2021-10-02",
       "locality": "ROLEYSTONE",
       "dose1": 25,
-      "dose2": 18,
-      "vaccines": 43
+      "dose2": 19,
+      "vaccines": 44
     },
     {
       "date": "2021-10-03",
       "locality": "ROLEYSTONE",
-      "dose1": 9,
-      "dose2": 18,
-      "vaccines": 27
+      "dose1": 28,
+      "dose2": 22,
+      "vaccines": 50
     },
     {
       "date": "2021-10-04",
       "locality": "ROLEYSTONE",
-      "dose1": 26,
+      "dose1": 27,
       "dose2": 18,
-      "vaccines": 44
+      "vaccines": 45
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "ROLEYSTONE",
+      "dose1": 49,
+      "dose2": 27,
+      "vaccines": 76
     }
   ]
 }

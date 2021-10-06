@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "COOLBINIA",
   "data": [
     {
@@ -145,9 +145,9 @@
     {
       "date": "2021-03-25",
       "locality": "COOLBINIA",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-03-26",
@@ -691,8 +691,8 @@
     {
       "date": "2021-06-17",
       "locality": "COOLBINIA",
-      "dose1": 9,
-      "dose2": 5,
+      "dose1": 8,
+      "dose2": 6,
       "vaccines": 14
     },
     {
@@ -1139,9 +1139,9 @@
     {
       "date": "2021-08-20",
       "locality": "COOLBINIA",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 14,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-08-21",
@@ -1357,8 +1357,8 @@
       "date": "2021-09-20",
       "locality": "COOLBINIA",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 8,
+      "vaccines": 15
     },
     {
       "date": "2021-09-21",
@@ -1454,9 +1454,16 @@
     {
       "date": "2021-10-04",
       "locality": "COOLBINIA",
-      "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "COOLBINIA",
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
     }
   ]
 }

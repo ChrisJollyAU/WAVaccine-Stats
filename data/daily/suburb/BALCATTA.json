@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "BALCATTA",
   "data": [
     {
@@ -89,9 +89,9 @@
     {
       "date": "2021-03-08",
       "locality": "BALCATTA",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-03-09",
@@ -720,8 +720,8 @@
       "date": "2021-06-07",
       "locality": "BALCATTA",
       "dose1": 9,
-      "dose2": 0,
-      "vaccines": 9
+      "dose2": 1,
+      "vaccines": 10
     },
     {
       "date": "2021-06-08",
@@ -915,9 +915,9 @@
     {
       "date": "2021-07-05",
       "locality": "BALCATTA",
-      "dose1": 33,
+      "dose1": 32,
       "dose2": 17,
-      "vaccines": 50
+      "vaccines": 49
     },
     {
       "date": "2021-07-06",
@@ -1146,9 +1146,9 @@
     {
       "date": "2021-08-07",
       "locality": "BALCATTA",
-      "dose1": 24,
+      "dose1": 23,
       "dose2": 42,
-      "vaccines": 66
+      "vaccines": 65
     },
     {
       "date": "2021-08-08",
@@ -1301,8 +1301,8 @@
       "date": "2021-08-29",
       "locality": "BALCATTA",
       "dose1": 57,
-      "dose2": 22,
-      "vaccines": 79
+      "dose2": 21,
+      "vaccines": 78
     },
     {
       "date": "2021-08-30",
@@ -1328,9 +1328,9 @@
     {
       "date": "2021-09-02",
       "locality": "BALCATTA",
-      "dose1": 57,
+      "dose1": 58,
       "dose2": 39,
-      "vaccines": 96
+      "vaccines": 97
     },
     {
       "date": "2021-09-03",
@@ -1455,8 +1455,8 @@
       "date": "2021-09-20",
       "locality": "BALCATTA",
       "dose1": 66,
-      "dose2": 41,
-      "vaccines": 107
+      "dose2": 40,
+      "vaccines": 106
     },
     {
       "date": "2021-09-21",
@@ -1496,9 +1496,9 @@
     {
       "date": "2021-09-26",
       "locality": "BALCATTA",
-      "dose1": 29,
+      "dose1": 30,
       "dose2": 36,
-      "vaccines": 65
+      "vaccines": 66
     },
     {
       "date": "2021-09-27",
@@ -1510,9 +1510,9 @@
     {
       "date": "2021-09-28",
       "locality": "BALCATTA",
-      "dose1": 48,
+      "dose1": 49,
       "dose2": 43,
-      "vaccines": 91
+      "vaccines": 92
     },
     {
       "date": "2021-09-29",
@@ -1525,22 +1525,22 @@
       "date": "2021-09-30",
       "locality": "BALCATTA",
       "dose1": 71,
-      "dose2": 60,
-      "vaccines": 131
+      "dose2": 61,
+      "vaccines": 132
     },
     {
       "date": "2021-10-01",
       "locality": "BALCATTA",
       "dose1": 50,
-      "dose2": 46,
-      "vaccines": 96
+      "dose2": 47,
+      "vaccines": 97
     },
     {
       "date": "2021-10-02",
       "locality": "BALCATTA",
-      "dose1": 40,
+      "dose1": 45,
       "dose2": 36,
-      "vaccines": 76
+      "vaccines": 81
     },
     {
       "date": "2021-10-03",
@@ -1552,9 +1552,16 @@
     {
       "date": "2021-10-04",
       "locality": "BALCATTA",
-      "dose1": 44,
-      "dose2": 34,
-      "vaccines": 78
+      "dose1": 58,
+      "dose2": 45,
+      "vaccines": 103
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "BALCATTA",
+      "dose1": 36,
+      "dose2": 35,
+      "vaccines": 71
     }
   ]
 }

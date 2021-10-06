@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "GREENMOUNT",
   "data": [
     {
@@ -1371,8 +1371,8 @@
       "date": "2021-10-01",
       "locality": "GREENMOUNT",
       "dose1": 8,
-      "dose2": 15,
-      "vaccines": 23
+      "dose2": 16,
+      "vaccines": 24
     },
     {
       "date": "2021-10-02",
@@ -1391,9 +1391,16 @@
     {
       "date": "2021-10-04",
       "locality": "GREENMOUNT",
-      "dose1": 8,
-      "dose2": 15,
-      "vaccines": 23
+      "dose1": 10,
+      "dose2": 20,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "GREENMOUNT",
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "MARMION",
   "data": [
     {
@@ -1510,9 +1510,16 @@
     {
       "date": "2021-10-04",
       "locality": "MARMION",
-      "dose1": 4,
-      "dose2": 15,
-      "vaccines": 19
+      "dose1": 10,
+      "dose2": 18,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "MARMION",
+      "dose1": 12,
+      "dose2": 17,
+      "vaccines": 29
     }
   ]
 }

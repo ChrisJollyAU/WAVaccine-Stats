@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "postcode": "DARKAN",
   "data": [
     {
@@ -86,6 +86,14 @@
       "date": "2021-04-01",
       "locality": "DARKAN",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-01",
+      "locality": "DARKAN",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -243,6 +251,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-05-05",
+      "locality": "DARKAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-07",
       "locality": "DARKAN",
       "AgeGroup": "70 and over",
@@ -311,8 +327,8 @@
       "locality": "DARKAN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-05-26",
@@ -526,8 +542,8 @@
       "date": "2021-06-24",
       "locality": "DARKAN",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 2,
+      "dose1": 0,
+      "dose2": 3,
       "vaccines": 3
     },
     {
@@ -1603,6 +1619,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-26",
+      "locality": "DARKAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-28",
       "locality": "DARKAN",
       "AgeGroup": "12 to 15",
@@ -1724,6 +1748,30 @@
     },
     {
       "date": "2021-10-04",
+      "locality": "DARKAN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "DARKAN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "DARKAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-05",
       "locality": "DARKAN",
       "AgeGroup": "50 to 69",
       "dose1": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "SAFETY BAY",
   "data": [
     {
@@ -218,6 +218,13 @@
       "dose1": 56,
       "dose2": 0,
       "vaccines": 56
+    },
+    {
+      "date": "2021-04-02",
+      "locality": "SAFETY BAY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-06",
@@ -887,9 +894,9 @@
     {
       "date": "2021-07-15",
       "locality": "SAFETY BAY",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 52,
-      "vaccines": 86
+      "vaccines": 87
     },
     {
       "date": "2021-07-16",
@@ -1231,8 +1238,8 @@
       "date": "2021-09-02",
       "locality": "SAFETY BAY",
       "dose1": 31,
-      "dose2": 40,
-      "vaccines": 71
+      "dose2": 41,
+      "vaccines": 72
     },
     {
       "date": "2021-09-03",
@@ -1405,16 +1412,16 @@
     {
       "date": "2021-09-27",
       "locality": "SAFETY BAY",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-09-28",
       "locality": "SAFETY BAY",
       "dose1": 47,
-      "dose2": 35,
-      "vaccines": 82
+      "dose2": 36,
+      "vaccines": 83
     },
     {
       "date": "2021-09-29",
@@ -1427,22 +1434,22 @@
       "date": "2021-09-30",
       "locality": "SAFETY BAY",
       "dose1": 33,
-      "dose2": 58,
-      "vaccines": 91
+      "dose2": 63,
+      "vaccines": 96
     },
     {
       "date": "2021-10-01",
       "locality": "SAFETY BAY",
-      "dose1": 39,
+      "dose1": 40,
       "dose2": 34,
-      "vaccines": 73
+      "vaccines": 74
     },
     {
       "date": "2021-10-02",
       "locality": "SAFETY BAY",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 22,
-      "vaccines": 58
+      "vaccines": 59
     },
     {
       "date": "2021-10-03",
@@ -1454,9 +1461,16 @@
     {
       "date": "2021-10-04",
       "locality": "SAFETY BAY",
-      "dose1": 42,
-      "dose2": 19,
-      "vaccines": 61
+      "dose1": 49,
+      "dose2": 20,
+      "vaccines": 69
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "SAFETY BAY",
+      "dose1": 31,
+      "dose2": 23,
+      "vaccines": 54
     }
   ]
 }

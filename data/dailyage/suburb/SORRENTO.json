@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "postcode": "SORRENTO",
   "data": [
     {
@@ -198,9 +198,9 @@
       "date": "2021-03-08",
       "locality": "SORRENTO",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-08",
@@ -1807,8 +1807,8 @@
       "locality": "SORRENTO",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-05-26",
@@ -3414,9 +3414,9 @@
       "date": "2021-08-04",
       "locality": "SORRENTO",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 11,
-      "vaccines": 30
+      "vaccines": 31
     },
     {
       "date": "2021-08-04",
@@ -3983,8 +3983,8 @@
       "locality": "SORRENTO",
       "AgeGroup": "16 to 49",
       "dose1": 23,
-      "dose2": 11,
-      "vaccines": 34
+      "dose2": 12,
+      "vaccines": 35
     },
     {
       "date": "2021-08-27",
@@ -4206,9 +4206,9 @@
       "date": "2021-09-05",
       "locality": "SORRENTO",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 10,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-09-05",
@@ -4414,9 +4414,9 @@
       "date": "2021-09-14",
       "locality": "SORRENTO",
       "AgeGroup": "12 to 15",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-14",
@@ -4839,8 +4839,8 @@
       "locality": "SORRENTO",
       "AgeGroup": "16 to 49",
       "dose1": 32,
-      "dose2": 43,
-      "vaccines": 75
+      "dose2": 44,
+      "vaccines": 76
     },
     {
       "date": "2021-09-29",
@@ -4974,25 +4974,25 @@
       "date": "2021-10-04",
       "locality": "SORRENTO",
       "AgeGroup": "12 to 15",
-      "dose1": 12,
+      "dose1": 16,
       "dose2": 0,
-      "vaccines": 12
+      "vaccines": 16
     },
     {
       "date": "2021-10-04",
       "locality": "SORRENTO",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 20,
-      "vaccines": 27
+      "dose1": 10,
+      "dose2": 21,
+      "vaccines": 31
     },
     {
       "date": "2021-10-04",
       "locality": "SORRENTO",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
-      "dose2": 10,
-      "vaccines": 17
+      "dose1": 8,
+      "dose2": 12,
+      "vaccines": 20
     },
     {
       "date": "2021-10-04",
@@ -5001,6 +5001,38 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "SORRENTO",
+      "AgeGroup": "12 to 15",
+      "dose1": 9,
+      "dose2": 1,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "SORRENTO",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 30,
+      "vaccines": 45
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "SORRENTO",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "SORRENTO",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "locality": "HYDEN",
   "data": [
     {
@@ -713,8 +713,8 @@
       "date": "2021-10-02",
       "locality": "HYDEN",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-03",
@@ -729,6 +729,13 @@
       "dose1": 3,
       "dose2": 5,
       "vaccines": 8
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "HYDEN",
+      "dose1": 5,
+      "dose2": 13,
+      "vaccines": 18
     }
   ]
 }

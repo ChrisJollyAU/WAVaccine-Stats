@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-04T00:00:00",
+  "date_updated": "2021-10-05T00:00:00",
   "postcode": "NORTH YUNDERUP",
   "data": [
     {
@@ -2038,9 +2038,9 @@
       "date": "2021-09-10",
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-10",
@@ -2383,8 +2383,8 @@
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-01",
@@ -2457,6 +2457,22 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "NORTH YUNDERUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "NORTH YUNDERUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

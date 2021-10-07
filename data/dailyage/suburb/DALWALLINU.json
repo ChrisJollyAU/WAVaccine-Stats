@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "postcode": "DALWALLINU",
   "data": [
     {
@@ -347,14 +347,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-01",
-      "locality": "DALWALLINU",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-03",
       "locality": "DALWALLINU",
       "AgeGroup": "16 to 49",
@@ -697,14 +689,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-07-15",
-      "locality": "DALWALLINU",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-16",
@@ -1150,9 +1134,9 @@
       "date": "2021-08-25",
       "locality": "DALWALLINU",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 7,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-08-25",
@@ -1681,6 +1665,22 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "DALWALLINU",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "DALWALLINU",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

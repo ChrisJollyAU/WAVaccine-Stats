@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "locality": "KOONDOOLA",
   "data": [
     {
@@ -1111,9 +1111,9 @@
     {
       "date": "2021-08-24",
       "locality": "KOONDOOLA",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 11,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-08-25",
@@ -1230,9 +1230,9 @@
     {
       "date": "2021-09-10",
       "locality": "KOONDOOLA",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 22,
-      "vaccines": 43
+      "vaccines": 42
     },
     {
       "date": "2021-09-11",
@@ -1287,8 +1287,8 @@
       "date": "2021-09-18",
       "locality": "KOONDOOLA",
       "dose1": 13,
-      "dose2": 20,
-      "vaccines": 33
+      "dose2": 19,
+      "vaccines": 32
     },
     {
       "date": "2021-09-19",
@@ -1342,9 +1342,9 @@
     {
       "date": "2021-09-26",
       "locality": "KOONDOOLA",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 8,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-09-27",
@@ -1398,16 +1398,23 @@
     {
       "date": "2021-10-04",
       "locality": "KOONDOOLA",
-      "dose1": 33,
+      "dose1": 34,
       "dose2": 12,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-10-05",
       "locality": "KOONDOOLA",
-      "dose1": 18,
-      "dose2": 17,
-      "vaccines": 35
+      "dose1": 19,
+      "dose2": 18,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "KOONDOOLA",
+      "dose1": 12,
+      "dose2": 7,
+      "vaccines": 19
     }
   ]
 }

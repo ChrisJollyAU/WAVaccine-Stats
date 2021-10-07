@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "locality": "SEABIRD",
   "data": [
     {
@@ -420,6 +420,13 @@
       "locality": "SEABIRD",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "SEABIRD",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

@@ -1,14 +1,14 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "postcode": "BASSENDEAN",
   "data": [
     {
       "date": "2021-02-22",
       "locality": "BASSENDEAN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-02-23",
@@ -622,9 +622,9 @@
       "date": "2021-03-29",
       "locality": "BASSENDEAN",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-03-29",
@@ -713,6 +713,14 @@
       "dose1": 10,
       "dose2": 0,
       "vaccines": 10
+    },
+    {
+      "date": "2021-04-02",
+      "locality": "BASSENDEAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-04-03",
@@ -2166,9 +2174,9 @@
       "date": "2021-06-08",
       "locality": "BASSENDEAN",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-06-09",
@@ -2182,9 +2190,9 @@
       "date": "2021-06-09",
       "locality": "BASSENDEAN",
       "AgeGroup": "50 to 69",
-      "dose1": 38,
+      "dose1": 39,
       "dose2": 2,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-06-09",
@@ -2270,9 +2278,9 @@
       "date": "2021-06-13",
       "locality": "BASSENDEAN",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-06-13",
@@ -2951,8 +2959,8 @@
       "locality": "BASSENDEAN",
       "AgeGroup": "16 to 49",
       "dose1": 19,
-      "dose2": 10,
-      "vaccines": 29
+      "dose2": 11,
+      "vaccines": 30
     },
     {
       "date": "2021-07-11",
@@ -4078,9 +4086,9 @@
       "date": "2021-08-28",
       "locality": "BASSENDEAN",
       "AgeGroup": "16 to 49",
-      "dose1": 47,
+      "dose1": 48,
       "dose2": 15,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-08-28",
@@ -4159,8 +4167,8 @@
       "locality": "BASSENDEAN",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-09-01",
@@ -4175,8 +4183,8 @@
       "locality": "BASSENDEAN",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 37,
-      "vaccines": 41
+      "dose2": 38,
+      "vaccines": 42
     },
     {
       "date": "2021-09-01",
@@ -4631,8 +4639,8 @@
       "locality": "BASSENDEAN",
       "AgeGroup": "16 to 49",
       "dose1": 32,
-      "dose2": 23,
-      "vaccines": 55
+      "dose2": 24,
+      "vaccines": 56
     },
     {
       "date": "2021-09-18",
@@ -5006,9 +5014,9 @@
       "date": "2021-09-30",
       "locality": "BASSENDEAN",
       "AgeGroup": "16 to 49",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 31,
-      "vaccines": 67
+      "vaccines": 68
     },
     {
       "date": "2021-09-30",
@@ -5158,17 +5166,57 @@
       "date": "2021-10-05",
       "locality": "BASSENDEAN",
       "AgeGroup": "16 to 49",
-      "dose1": 40,
-      "dose2": 40,
-      "vaccines": 80
+      "dose1": 43,
+      "dose2": 45,
+      "vaccines": 88
     },
     {
       "date": "2021-10-05",
       "locality": "BASSENDEAN",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 10,
-      "vaccines": 12
+      "dose2": 12,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "BASSENDEAN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "BASSENDEAN",
+      "AgeGroup": "12 to 15",
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "BASSENDEAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 35,
+      "dose2": 31,
+      "vaccines": 66
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "BASSENDEAN",
+      "AgeGroup": "50 to 69",
+      "dose1": 9,
+      "dose2": 8,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "BASSENDEAN",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

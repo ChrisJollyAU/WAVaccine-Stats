@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "locality": "ILUKA",
   "data": [
     {
@@ -1510,9 +1510,16 @@
     {
       "date": "2021-10-05",
       "locality": "ILUKA",
+      "dose1": 31,
+      "dose2": 40,
+      "vaccines": 71
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "ILUKA",
       "dose1": 28,
-      "dose2": 36,
-      "vaccines": 64
+      "dose2": 21,
+      "vaccines": 49
     }
   ]
 }

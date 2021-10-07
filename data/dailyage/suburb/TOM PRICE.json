@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "postcode": "TOM PRICE",
   "data": [
     {
@@ -779,6 +779,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-07-20",
+      "locality": "TOM PRICE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-21",
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
@@ -1486,9 +1494,9 @@
       "date": "2021-09-09",
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
-      "dose1": 37,
+      "dose1": 38,
       "dose2": 8,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-09-09",
@@ -1638,9 +1646,9 @@
       "date": "2021-09-17",
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
-      "dose1": 90,
+      "dose1": 91,
       "dose2": 15,
-      "vaccines": 105
+      "vaccines": 106
     },
     {
       "date": "2021-09-17",
@@ -1742,9 +1750,9 @@
       "date": "2021-09-21",
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
-      "dose1": 48,
+      "dose1": 49,
       "dose2": 8,
-      "vaccines": 56
+      "vaccines": 57
     },
     {
       "date": "2021-09-21",
@@ -2011,6 +2019,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-04",
+      "locality": "TOM PRICE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-05",
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
@@ -2023,8 +2039,24 @@
       "locality": "TOM PRICE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "TOM PRICE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "TOM PRICE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

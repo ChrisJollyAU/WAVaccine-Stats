@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "locality": "PORT DENISON",
   "data": [
     {
@@ -1210,8 +1210,15 @@
       "date": "2021-10-05",
       "locality": "PORT DENISON",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "PORT DENISON",
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
     }
   ]
 }

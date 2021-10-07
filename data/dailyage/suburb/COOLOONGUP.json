@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "postcode": "COOLOONGUP",
   "data": [
     {
@@ -1494,9 +1494,9 @@
       "date": "2021-05-31",
       "locality": "COOLOONGUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-05-31",
@@ -2759,8 +2759,8 @@
       "locality": "COOLOONGUP",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose2": 5,
+      "vaccines": 13
     },
     {
       "date": "2021-07-29",
@@ -4094,9 +4094,9 @@
       "date": "2021-09-22",
       "locality": "COOLOONGUP",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 19,
-      "vaccines": 44
+      "vaccines": 43
     },
     {
       "date": "2021-09-22",
@@ -4438,17 +4438,17 @@
       "date": "2021-10-04",
       "locality": "COOLOONGUP",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 27,
       "dose2": 18,
-      "vaccines": 43
+      "vaccines": 45
     },
     {
       "date": "2021-10-04",
       "locality": "COOLOONGUP",
       "AgeGroup": "50 to 69",
       "dose1": 16,
-      "dose2": 8,
-      "vaccines": 24
+      "dose2": 10,
+      "vaccines": 26
     },
     {
       "date": "2021-10-04",
@@ -4461,10 +4461,18 @@
     {
       "date": "2021-10-05",
       "locality": "COOLOONGUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "COOLOONGUP",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 25,
-      "vaccines": 40
+      "dose2": 28,
+      "vaccines": 43
     },
     {
       "date": "2021-10-05",
@@ -4479,8 +4487,40 @@
       "locality": "COOLOONGUP",
       "AgeGroup": "70 and over",
       "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "COOLOONGUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "COOLOONGUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 17,
+      "dose2": 15,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "COOLOONGUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 9,
+      "dose2": 5,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "COOLOONGUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

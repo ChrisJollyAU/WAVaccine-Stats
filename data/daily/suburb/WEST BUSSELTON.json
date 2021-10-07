@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "locality": "WEST BUSSELTON",
   "data": [
     {
@@ -1426,16 +1426,23 @@
     {
       "date": "2021-10-04",
       "locality": "WEST BUSSELTON",
-      "dose1": 36,
-      "dose2": 20,
-      "vaccines": 56
+      "dose1": 37,
+      "dose2": 21,
+      "vaccines": 58
     },
     {
       "date": "2021-10-05",
       "locality": "WEST BUSSELTON",
-      "dose1": 38,
-      "dose2": 31,
-      "vaccines": 69
+      "dose1": 39,
+      "dose2": 49,
+      "vaccines": 88
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "WEST BUSSELTON",
+      "dose1": 25,
+      "dose2": 16,
+      "vaccines": 41
     }
   ]
 }

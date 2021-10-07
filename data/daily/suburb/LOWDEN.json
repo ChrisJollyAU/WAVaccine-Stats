@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "locality": "LOWDEN",
   "data": [
     {
@@ -434,6 +434,13 @@
       "locality": "LOWDEN",
       "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "LOWDEN",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

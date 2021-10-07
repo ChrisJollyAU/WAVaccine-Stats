@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-05T00:00:00",
+  "date_updated": "2021-10-06T00:00:00",
   "locality": "DAVENPORT",
   "data": [
     {
@@ -236,9 +236,16 @@
     {
       "date": "2021-10-05",
       "locality": "DAVENPORT",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "DAVENPORT",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "postcode": "BULGARRA",
   "data": [
     {
@@ -2214,9 +2214,9 @@
       "date": "2021-09-30",
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 7,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-09-30",
@@ -2327,16 +2327,32 @@
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 4,
-      "vaccines": 17
+      "dose2": 5,
+      "vaccines": 18
     },
     {
       "date": "2021-10-06",
       "locality": "BULGARRA",
       "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "BULGARRA",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 2,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "BULGARRA",
+      "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 6
     }
   ]
 }

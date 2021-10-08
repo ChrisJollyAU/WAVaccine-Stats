@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "locality": "MURDOCH",
   "data": [
     {
@@ -1490,8 +1490,15 @@
       "date": "2021-10-06",
       "locality": "MURDOCH",
       "dose1": 8,
-      "dose2": 13,
-      "vaccines": 21
+      "dose2": 14,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "MURDOCH",
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
     }
   ]
 }

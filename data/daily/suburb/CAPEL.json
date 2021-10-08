@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "locality": "CAPEL",
   "data": [
     {
@@ -1356,9 +1356,16 @@
     {
       "date": "2021-10-06",
       "locality": "CAPEL",
-      "dose1": 11,
-      "dose2": 18,
-      "vaccines": 29
+      "dose1": 13,
+      "dose2": 20,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "CAPEL",
+      "dose1": 18,
+      "dose2": 10,
+      "vaccines": 28
     }
   ]
 }

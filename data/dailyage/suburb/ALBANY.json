@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "postcode": "ALBANY",
   "data": [
     {
@@ -1734,8 +1734,8 @@
       "date": "2021-06-16",
       "locality": "ALBANY",
       "AgeGroup": "50 to 69",
-      "dose1": 10,
-      "dose2": 3,
+      "dose1": 9,
+      "dose2": 4,
       "vaccines": 13
     },
     {
@@ -4374,9 +4374,9 @@
       "date": "2021-10-06",
       "locality": "ALBANY",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 7,
-      "vaccines": 7
+      "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-10-06",
@@ -4391,8 +4391,40 @@
       "locality": "ALBANY",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "ALBANY",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "ALBANY",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 6,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "ALBANY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "ALBANY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

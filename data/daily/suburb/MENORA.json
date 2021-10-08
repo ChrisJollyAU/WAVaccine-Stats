@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "locality": "MENORA",
   "data": [
     {
@@ -1146,9 +1146,9 @@
     {
       "date": "2021-08-18",
       "locality": "MENORA",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 17,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-08-19",
@@ -1483,15 +1483,22 @@
       "date": "2021-10-05",
       "locality": "MENORA",
       "dose1": 9,
-      "dose2": 14,
-      "vaccines": 23
+      "dose2": 15,
+      "vaccines": 24
     },
     {
       "date": "2021-10-06",
       "locality": "MENORA",
-      "dose1": 9,
+      "dose1": 12,
       "dose2": 13,
-      "vaccines": 22
+      "vaccines": 25
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "MENORA",
+      "dose1": 3,
+      "dose2": 11,
+      "vaccines": 14
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "locality": "CAMILLO",
   "data": [
     {
@@ -1342,9 +1342,9 @@
     {
       "date": "2021-10-01",
       "locality": "CAMILLO",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 22,
-      "vaccines": 49
+      "vaccines": 50
     },
     {
       "date": "2021-10-02",
@@ -1371,15 +1371,22 @@
       "date": "2021-10-05",
       "locality": "CAMILLO",
       "dose1": 25,
-      "dose2": 17,
-      "vaccines": 42
+      "dose2": 18,
+      "vaccines": 43
     },
     {
       "date": "2021-10-06",
       "locality": "CAMILLO",
-      "dose1": 23,
-      "dose2": 10,
-      "vaccines": 33
+      "dose1": 27,
+      "dose2": 12,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "CAMILLO",
+      "dose1": 24,
+      "dose2": 20,
+      "vaccines": 44
     }
   ]
 }

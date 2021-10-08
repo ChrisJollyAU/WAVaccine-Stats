@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "postcode": "ST JAMES",
   "data": [
     {
@@ -1238,9 +1238,9 @@
       "date": "2021-05-11",
       "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-11",
@@ -1761,6 +1761,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-06-06",
+      "locality": "ST JAMES",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-06-06",
@@ -2830,17 +2838,17 @@
       "date": "2021-07-25",
       "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 3,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-07-25",
       "locality": "ST JAMES",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-07-25",
@@ -3295,16 +3303,16 @@
       "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
       "dose1": 19,
-      "dose2": 19,
-      "vaccines": 38
+      "dose2": 18,
+      "vaccines": 37
     },
     {
       "date": "2021-08-15",
       "locality": "ST JAMES",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
     },
     {
       "date": "2021-08-16",
@@ -4390,9 +4398,9 @@
       "date": "2021-09-29",
       "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 19,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-09-29",
@@ -4422,9 +4430,9 @@
       "date": "2021-09-30",
       "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 16,
-      "vaccines": 24
+      "vaccines": 26
     },
     {
       "date": "2021-09-30",
@@ -4510,25 +4518,25 @@
       "date": "2021-10-03",
       "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 12,
       "dose2": 26,
-      "vaccines": 36
+      "vaccines": 38
     },
     {
       "date": "2021-10-03",
       "locality": "ST JAMES",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-04",
       "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
       "dose1": 16,
-      "dose2": 12,
-      "vaccines": 28
+      "dose2": 13,
+      "vaccines": 29
     },
     {
       "date": "2021-10-04",
@@ -4542,9 +4550,9 @@
       "date": "2021-10-04",
       "locality": "ST JAMES",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 6,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-10-05",
@@ -4558,9 +4566,9 @@
       "date": "2021-10-05",
       "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 26,
       "dose2": 11,
-      "vaccines": 35
+      "vaccines": 37
     },
     {
       "date": "2021-10-05",
@@ -4573,26 +4581,66 @@
     {
       "date": "2021-10-06",
       "locality": "ST JAMES",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "ST JAMES",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 23,
-      "vaccines": 28
+      "dose2": 27,
+      "vaccines": 32
     },
     {
       "date": "2021-10-06",
       "locality": "ST JAMES",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-10-06",
       "locality": "ST JAMES",
       "AgeGroup": "70 and over",
       "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "ST JAMES",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "ST JAMES",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 13,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "ST JAMES",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "ST JAMES",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

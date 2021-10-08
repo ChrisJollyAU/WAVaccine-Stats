@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "postcode": "WATERLOO",
   "data": [
     {
@@ -656,6 +656,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "WATERLOO",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

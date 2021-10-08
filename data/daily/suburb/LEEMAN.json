@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "locality": "LEEMAN",
   "data": [
     {
@@ -740,9 +740,16 @@
     {
       "date": "2021-10-06",
       "locality": "LEEMAN",
-      "dose1": 9,
+      "dose1": 11,
       "dose2": 1,
-      "vaccines": 10
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "LEEMAN",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     }
   ]
 }

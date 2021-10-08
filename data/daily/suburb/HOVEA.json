@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "locality": "HOVEA",
   "data": [
     {
@@ -362,9 +362,9 @@
     {
       "date": "2021-05-25",
       "locality": "HOVEA",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-05-26",
@@ -503,8 +503,8 @@
       "date": "2021-06-17",
       "locality": "HOVEA",
       "dose1": 7,
-      "dose2": 2,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 10
     },
     {
       "date": "2021-06-18",
@@ -1219,6 +1219,13 @@
       "dose1": 5,
       "dose2": 4,
       "vaccines": 9
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "HOVEA",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
     }
   ]
 }

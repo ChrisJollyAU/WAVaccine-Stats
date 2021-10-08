@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "locality": "BINNINGUP",
   "data": [
     {
@@ -1237,9 +1237,16 @@
     {
       "date": "2021-10-06",
       "locality": "BINNINGUP",
-      "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "BINNINGUP",
+      "dose1": 8,
+      "dose2": 4,
+      "vaccines": 12
     }
   ]
 }

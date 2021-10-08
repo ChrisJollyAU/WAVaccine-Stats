@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "postcode": "WELLARD",
   "data": [
     {
@@ -734,9 +734,9 @@
       "date": "2021-04-09",
       "locality": "WELLARD",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-11",
@@ -2398,8 +2398,8 @@
       "date": "2021-07-01",
       "locality": "WELLARD",
       "AgeGroup": "70 and over",
-      "dose1": 2,
-      "dose2": 4,
+      "dose1": 1,
+      "dose2": 5,
       "vaccines": 6
     },
     {
@@ -3046,9 +3046,9 @@
       "date": "2021-07-30",
       "locality": "WELLARD",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 30,
-      "vaccines": 39
+      "vaccines": 40
     },
     {
       "date": "2021-07-30",
@@ -3519,8 +3519,8 @@
       "locality": "WELLARD",
       "AgeGroup": "50 to 69",
       "dose1": 18,
-      "dose2": 33,
-      "vaccines": 51
+      "dose2": 34,
+      "vaccines": 52
     },
     {
       "date": "2021-08-20",
@@ -4550,9 +4550,9 @@
       "date": "2021-09-29",
       "locality": "WELLARD",
       "AgeGroup": "16 to 49",
-      "dose1": 53,
-      "dose2": 45,
-      "vaccines": 98
+      "dose1": 54,
+      "dose2": 46,
+      "vaccines": 100
     },
     {
       "date": "2021-09-29",
@@ -4606,9 +4606,9 @@
       "date": "2021-10-01",
       "locality": "WELLARD",
       "AgeGroup": "16 to 49",
-      "dose1": 41,
+      "dose1": 42,
       "dose2": 62,
-      "vaccines": 103
+      "vaccines": 104
     },
     {
       "date": "2021-10-01",
@@ -4670,8 +4670,8 @@
       "date": "2021-10-03",
       "locality": "WELLARD",
       "AgeGroup": "16 to 49",
-      "dose1": 34,
-      "dose2": 41,
+      "dose1": 35,
+      "dose2": 40,
       "vaccines": 75
     },
     {
@@ -4694,9 +4694,9 @@
       "date": "2021-10-04",
       "locality": "WELLARD",
       "AgeGroup": "16 to 49",
-      "dose1": 38,
+      "dose1": 40,
       "dose2": 52,
-      "vaccines": 90
+      "vaccines": 92
     },
     {
       "date": "2021-10-04",
@@ -4718,17 +4718,17 @@
       "date": "2021-10-05",
       "locality": "WELLARD",
       "AgeGroup": "12 to 15",
-      "dose1": 5,
+      "dose1": 7,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 11
     },
     {
       "date": "2021-10-05",
       "locality": "WELLARD",
       "AgeGroup": "16 to 49",
-      "dose1": 46,
+      "dose1": 48,
       "dose2": 29,
-      "vaccines": 75
+      "vaccines": 77
     },
     {
       "date": "2021-10-05",
@@ -4750,17 +4750,17 @@
       "date": "2021-10-06",
       "locality": "WELLARD",
       "AgeGroup": "12 to 15",
-      "dose1": 4,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 7
     },
     {
       "date": "2021-10-06",
       "locality": "WELLARD",
       "AgeGroup": "16 to 49",
-      "dose1": 48,
-      "dose2": 44,
-      "vaccines": 92
+      "dose1": 52,
+      "dose2": 46,
+      "vaccines": 98
     },
     {
       "date": "2021-10-06",
@@ -4774,9 +4774,41 @@
       "date": "2021-10-06",
       "locality": "WELLARD",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "WELLARD",
+      "AgeGroup": "12 to 15",
+      "dose1": 10,
+      "dose2": 2,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "WELLARD",
+      "AgeGroup": "16 to 49",
+      "dose1": 42,
+      "dose2": 36,
+      "vaccines": 78
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "WELLARD",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "WELLARD",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "postcode": "STAKE HILL",
   "data": [
     {
@@ -102,14 +102,6 @@
       "date": "2021-05-05",
       "locality": "STAKE HILL",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-07",
-      "locality": "STAKE HILL",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -390,6 +382,14 @@
       "date": "2021-06-16",
       "locality": "STAKE HILL",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-16",
+      "locality": "STAKE HILL",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -791,8 +791,8 @@
       "locality": "STAKE HILL",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-31",
@@ -1070,17 +1070,17 @@
       "date": "2021-08-20",
       "locality": "STAKE HILL",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-08-20",
       "locality": "STAKE HILL",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-21",
@@ -1415,8 +1415,8 @@
       "locality": "STAKE HILL",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-09-14",
@@ -1685,7 +1685,7 @@
     {
       "date": "2021-10-03",
       "locality": "STAKE HILL",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1737,6 +1737,14 @@
       "dose1": 6,
       "dose2": 0,
       "vaccines": 6
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "STAKE HILL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-06T00:00:00",
+  "date_updated": "2021-10-07T00:00:00",
   "postcode": "CARDUP",
   "data": [
     {
@@ -2855,24 +2855,56 @@
       "locality": "CARDUP",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-06",
       "locality": "CARDUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-10-06",
       "locality": "CARDUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "CARDUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "CARDUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 4,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "CARDUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 10,
+      "dose2": 0,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "CARDUP",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

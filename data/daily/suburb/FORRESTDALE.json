@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "FORRESTDALE",
   "data": [
     {
@@ -1258,9 +1258,30 @@
     {
       "date": "2021-10-07",
       "locality": "FORRESTDALE",
-      "dose1": 11,
-      "dose2": 3,
-      "vaccines": 14
+      "dose1": 12,
+      "dose2": 4,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "FORRESTDALE",
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "FORRESTDALE",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "FORRESTDALE",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "postcode": "MANJIMUP",
   "data": [
     {
@@ -133,18 +133,10 @@
     {
       "date": "2021-03-23",
       "locality": "MANJIMUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-23",
-      "locality": "MANJIMUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-24",
@@ -814,9 +806,9 @@
       "date": "2021-05-17",
       "locality": "MANJIMUP",
       "AgeGroup": "50 to 69",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-05-17",
@@ -1294,9 +1286,9 @@
       "date": "2021-06-14",
       "locality": "MANJIMUP",
       "AgeGroup": "50 to 69",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 1,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-06-14",
@@ -1399,16 +1391,16 @@
       "locality": "MANJIMUP",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-19",
       "locality": "MANJIMUP",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-20",
@@ -2375,8 +2367,8 @@
       "locality": "MANJIMUP",
       "AgeGroup": "50 to 69",
       "dose1": 15,
-      "dose2": 22,
-      "vaccines": 37
+      "dose2": 24,
+      "vaccines": 39
     },
     {
       "date": "2021-08-09",
@@ -2926,9 +2918,9 @@
       "date": "2021-09-04",
       "locality": "MANJIMUP",
       "AgeGroup": "16 to 49",
-      "dose1": 26,
+      "dose1": 25,
       "dose2": 1,
-      "vaccines": 27
+      "vaccines": 26
     },
     {
       "date": "2021-09-04",
@@ -3014,9 +3006,9 @@
       "date": "2021-09-09",
       "locality": "MANJIMUP",
       "AgeGroup": "16 to 49",
-      "dose1": 69,
+      "dose1": 68,
       "dose2": 40,
-      "vaccines": 109
+      "vaccines": 108
     },
     {
       "date": "2021-09-09",
@@ -3334,9 +3326,9 @@
       "date": "2021-09-23",
       "locality": "MANJIMUP",
       "AgeGroup": "16 to 49",
-      "dose1": 54,
+      "dose1": 55,
       "dose2": 50,
-      "vaccines": 104
+      "vaccines": 105
     },
     {
       "date": "2021-09-23",
@@ -3591,8 +3583,8 @@
       "locality": "MANJIMUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 11,
-      "vaccines": 13
+      "dose2": 10,
+      "vaccines": 12
     },
     {
       "date": "2021-10-04",
@@ -3613,18 +3605,10 @@
     {
       "date": "2021-10-05",
       "locality": "MANJIMUP",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-05",
-      "locality": "MANJIMUP",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-10-05",
@@ -3670,9 +3654,9 @@
       "date": "2021-10-06",
       "locality": "MANJIMUP",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 8
     },
     {
       "date": "2021-10-07",
@@ -3686,17 +3670,17 @@
       "date": "2021-10-07",
       "locality": "MANJIMUP",
       "AgeGroup": "16 to 49",
-      "dose1": 58,
-      "dose2": 81,
-      "vaccines": 139
+      "dose1": 61,
+      "dose2": 80,
+      "vaccines": 141
     },
     {
       "date": "2021-10-07",
       "locality": "MANJIMUP",
       "AgeGroup": "50 to 69",
       "dose1": 16,
-      "dose2": 32,
-      "vaccines": 48
+      "dose2": 33,
+      "vaccines": 49
     },
     {
       "date": "2021-10-07",
@@ -3705,6 +3689,70 @@
       "dose1": 7,
       "dose2": 2,
       "vaccines": 9
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "MANJIMUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "MANJIMUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 16,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "MANJIMUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 19,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "MANJIMUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "MANJIMUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "MANJIMUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 5,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "MANJIMUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "MANJIMUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

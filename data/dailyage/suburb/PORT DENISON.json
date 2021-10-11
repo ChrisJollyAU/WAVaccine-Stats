@@ -1,19 +1,11 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "postcode": "PORT DENISON",
   "data": [
     {
       "date": "2021-02-24",
       "locality": "PORT DENISON",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-10",
-      "locality": "PORT DENISON",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -713,14 +705,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-06-07",
-      "locality": "PORT DENISON",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-06-08",
@@ -2785,6 +2769,30 @@
       "dose1": 0,
       "dose2": 6,
       "vaccines": 6
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "PORT DENISON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "PORT DENISON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "PORT DENISON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "postcode": "PICKERING BROOK",
   "data": [
     {
@@ -190,6 +190,14 @@
       "date": "2021-05-05",
       "locality": "PICKERING BROOK",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-06",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -501,6 +509,14 @@
     {
       "date": "2021-06-09",
       "locality": "PICKERING BROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-09",
+      "locality": "PICKERING BROOK",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -518,6 +534,14 @@
       "date": "2021-06-10",
       "locality": "PICKERING BROOK",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-11",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1795,6 +1819,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-06",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-07",
       "locality": "PICKERING BROOK",
       "AgeGroup": "16 to 49",
@@ -2293,9 +2325,81 @@
     {
       "date": "2021-10-07",
       "locality": "PICKERING BROOK",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "PICKERING BROOK",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "PICKERING BROOK",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

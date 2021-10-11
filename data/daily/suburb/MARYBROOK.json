@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "MARYBROOK",
   "data": [
     {
@@ -605,11 +605,25 @@
       "vaccines": 3
     },
     {
+      "date": "2021-10-06",
+      "locality": "MARYBROOK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-07",
       "locality": "MARYBROOK",
       "dose1": 1,
       "dose2": 4,
       "vaccines": 5
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "MARYBROOK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

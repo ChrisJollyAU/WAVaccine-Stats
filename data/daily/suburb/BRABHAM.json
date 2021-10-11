@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "BRABHAM",
   "data": [
     {
@@ -285,9 +285,9 @@
     {
       "date": "2021-04-08",
       "locality": "BRABHAM",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 6,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-04-09",
@@ -733,9 +733,9 @@
     {
       "date": "2021-06-12",
       "locality": "BRABHAM",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 4,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-06-13",
@@ -895,8 +895,8 @@
       "date": "2021-07-05",
       "locality": "BRABHAM",
       "dose1": 12,
-      "dose2": 10,
-      "vaccines": 22
+      "dose2": 11,
+      "vaccines": 23
     },
     {
       "date": "2021-07-06",
@@ -944,8 +944,8 @@
       "date": "2021-07-12",
       "locality": "BRABHAM",
       "dose1": 10,
-      "dose2": 16,
-      "vaccines": 26
+      "dose2": 17,
+      "vaccines": 27
     },
     {
       "date": "2021-07-13",
@@ -1545,16 +1545,37 @@
     {
       "date": "2021-10-06",
       "locality": "BRABHAM",
-      "dose1": 47,
+      "dose1": 49,
       "dose2": 28,
-      "vaccines": 75
+      "vaccines": 77
     },
     {
       "date": "2021-10-07",
       "locality": "BRABHAM",
-      "dose1": 36,
+      "dose1": 40,
+      "dose2": 40,
+      "vaccines": 80
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "BRABHAM",
+      "dose1": 51,
       "dose2": 38,
-      "vaccines": 74
+      "vaccines": 89
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "BRABHAM",
+      "dose1": 40,
+      "dose2": 43,
+      "vaccines": 83
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "BRABHAM",
+      "dose1": 19,
+      "dose2": 31,
+      "vaccines": 50
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "KELLERBERRIN",
   "data": [
     {
@@ -346,13 +346,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-27",
-      "locality": "KELLERBERRIN",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-28",
       "locality": "KELLERBERRIN",
       "dose1": 1,
@@ -461,8 +454,8 @@
       "date": "2021-07-18",
       "locality": "KELLERBERRIN",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-19",
@@ -607,9 +600,9 @@
     {
       "date": "2021-08-17",
       "locality": "KELLERBERRIN",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 7,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-08-18",
@@ -621,9 +614,9 @@
     {
       "date": "2021-08-19",
       "locality": "KELLERBERRIN",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 0,
-      "vaccines": 32
+      "vaccines": 31
     },
     {
       "date": "2021-08-20",
@@ -888,8 +881,8 @@
       "date": "2021-09-30",
       "locality": "KELLERBERRIN",
       "dose1": 8,
-      "dose2": 23,
-      "vaccines": 31
+      "dose2": 22,
+      "vaccines": 30
     },
     {
       "date": "2021-10-01",
@@ -932,6 +925,20 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "KELLERBERRIN",
+      "dose1": 9,
+      "dose2": 7,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "KELLERBERRIN",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

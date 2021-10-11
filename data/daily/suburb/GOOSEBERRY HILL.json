@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "GOOSEBERRY HILL",
   "data": [
     {
@@ -1517,9 +1517,30 @@
     {
       "date": "2021-10-07",
       "locality": "GOOSEBERRY HILL",
-      "dose1": 11,
+      "dose1": 13,
       "dose2": 14,
-      "vaccines": 25
+      "vaccines": 27
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "GOOSEBERRY HILL",
+      "dose1": 11,
+      "dose2": 18,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "GOOSEBERRY HILL",
+      "dose1": 7,
+      "dose2": 12,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "GOOSEBERRY HILL",
+      "dose1": 10,
+      "dose2": 14,
+      "vaccines": 24
     }
   ]
 }

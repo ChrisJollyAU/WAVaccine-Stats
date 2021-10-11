@@ -1,22 +1,14 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "postcode": "NATURALISTE",
   "data": [
-    {
-      "date": "2021-07-21",
-      "locality": "NATURALISTE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
     {
       "date": "2021-08-10",
       "locality": "NATURALISTE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-02",
@@ -32,6 +24,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "NATURALISTE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

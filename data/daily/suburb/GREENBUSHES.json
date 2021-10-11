@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "GREENBUSHES",
   "data": [
     {
@@ -775,9 +775,23 @@
     {
       "date": "2021-10-07",
       "locality": "GREENBUSHES",
+      "dose1": 1,
+      "dose2": 9,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "GREENBUSHES",
       "dose1": 0,
-      "dose2": 6,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "GREENBUSHES",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

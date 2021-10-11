@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "OSMINGTON",
   "data": [
     {
@@ -171,13 +171,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-18",
-      "locality": "OSMINGTON",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-19",
       "locality": "OSMINGTON",
       "dose1": 1,
@@ -263,13 +256,6 @@
     },
     {
       "date": "2021-09-10",
-      "locality": "OSMINGTON",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-13",
       "locality": "OSMINGTON",
       "dose1": 0,
       "dose2": 1,
@@ -365,6 +351,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "OSMINGTON",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

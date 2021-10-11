@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "CARLISLE NORTH",
   "data": [
     {
@@ -862,6 +862,27 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "CARLISLE NORTH",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "CARLISLE NORTH",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "CARLISLE NORTH",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

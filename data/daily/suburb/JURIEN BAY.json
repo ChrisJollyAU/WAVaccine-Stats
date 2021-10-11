@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "JURIEN BAY",
   "data": [
     {
@@ -1258,9 +1258,30 @@
     {
       "date": "2021-10-07",
       "locality": "JURIEN BAY",
-      "dose1": 8,
-      "dose2": 25,
-      "vaccines": 33
+      "dose1": 12,
+      "dose2": 27,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "JURIEN BAY",
+      "dose1": 15,
+      "dose2": 3,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "JURIEN BAY",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "JURIEN BAY",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

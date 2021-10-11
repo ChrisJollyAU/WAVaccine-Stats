@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "OAKFORD",
   "data": [
     {
@@ -1454,9 +1454,30 @@
     {
       "date": "2021-10-07",
       "locality": "OAKFORD",
-      "dose1": 14,
-      "dose2": 12,
-      "vaccines": 26
+      "dose1": 17,
+      "dose2": 17,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "OAKFORD",
+      "dose1": 10,
+      "dose2": 7,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "OAKFORD",
+      "dose1": 7,
+      "dose2": 11,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "OAKFORD",
+      "dose1": 9,
+      "dose2": 8,
+      "vaccines": 17
     }
   ]
 }

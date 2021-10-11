@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "DONGARA",
   "data": [
     {
@@ -698,9 +698,9 @@
     {
       "date": "2021-07-15",
       "locality": "DONGARA",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 8,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-07-16",
@@ -839,8 +839,8 @@
       "date": "2021-08-05",
       "locality": "DONGARA",
       "dose1": 9,
-      "dose2": 18,
-      "vaccines": 27
+      "dose2": 17,
+      "vaccines": 26
     },
     {
       "date": "2021-08-06",
@@ -1231,8 +1231,8 @@
       "date": "2021-10-04",
       "locality": "DONGARA",
       "dose1": 2,
-      "dose2": 17,
-      "vaccines": 19
+      "dose2": 18,
+      "vaccines": 20
     },
     {
       "date": "2021-10-05",
@@ -1244,16 +1244,37 @@
     {
       "date": "2021-10-06",
       "locality": "DONGARA",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 19,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-10-07",
       "locality": "DONGARA",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 18,
-      "vaccines": 21
+      "vaccines": 22
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "DONGARA",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "DONGARA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "DONGARA",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

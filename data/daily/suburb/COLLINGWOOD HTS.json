@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-07T00:00:00",
+  "date_updated": "2021-10-10T00:00:00",
   "locality": "COLLINGWOOD HTS",
   "data": [
     {
@@ -992,9 +992,30 @@
     {
       "date": "2021-10-07",
       "locality": "COLLINGWOOD HTS",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "COLLINGWOOD HTS",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "COLLINGWOOD HTS",
+      "dose1": 7,
+      "dose2": 2,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "COLLINGWOOD HTS",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "HOPETOUN",
   "data": [
     {
@@ -859,16 +859,16 @@
     {
       "date": "2021-09-29",
       "locality": "HOPETOUN",
-      "dose1": 5,
-      "dose2": 13,
-      "vaccines": 18
+      "dose1": 16,
+      "dose2": 14,
+      "vaccines": 30
     },
     {
       "date": "2021-09-30",
       "locality": "HOPETOUN",
-      "dose1": 3,
+      "dose1": 13,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 18
     },
     {
       "date": "2021-10-01",
@@ -909,8 +909,8 @@
       "date": "2021-10-06",
       "locality": "HOPETOUN",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 11,
+      "vaccines": 12
     },
     {
       "date": "2021-10-07",
@@ -922,16 +922,23 @@
     {
       "date": "2021-10-08",
       "locality": "HOPETOUN",
-      "dose1": 26,
-      "dose2": 5,
-      "vaccines": 31
+      "dose1": 35,
+      "dose2": 20,
+      "vaccines": 55
     },
     {
       "date": "2021-10-09",
       "locality": "HOPETOUN",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 1,
-      "vaccines": 17
+      "vaccines": 18
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "HOPETOUN",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
     }
   ]
 }

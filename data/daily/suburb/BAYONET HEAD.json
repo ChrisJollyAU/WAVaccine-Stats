@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "BAYONET HEAD",
   "data": [
     {
@@ -1462,15 +1462,15 @@
       "date": "2021-10-07",
       "locality": "BAYONET HEAD",
       "dose1": 6,
-      "dose2": 22,
-      "vaccines": 28
+      "dose2": 23,
+      "vaccines": 29
     },
     {
       "date": "2021-10-08",
       "locality": "BAYONET HEAD",
-      "dose1": 32,
+      "dose1": 34,
       "dose2": 16,
-      "vaccines": 48
+      "vaccines": 50
     },
     {
       "date": "2021-10-09",
@@ -1482,9 +1482,16 @@
     {
       "date": "2021-10-10",
       "locality": "BAYONET HEAD",
-      "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose1": 9,
+      "dose2": 14,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "BAYONET HEAD",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

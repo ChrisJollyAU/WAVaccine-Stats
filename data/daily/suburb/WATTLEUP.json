@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "WATTLEUP",
   "data": [
     {
@@ -985,16 +985,23 @@
     {
       "date": "2021-10-08",
       "locality": "WATTLEUP",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 5
     },
     {
       "date": "2021-10-09",
       "locality": "WATTLEUP",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "WATTLEUP",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

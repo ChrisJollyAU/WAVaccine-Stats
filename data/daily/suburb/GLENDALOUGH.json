@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "GLENDALOUGH",
   "data": [
     {
@@ -782,9 +782,9 @@
     {
       "date": "2021-06-27",
       "locality": "GLENDALOUGH",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 5,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-06-28",
@@ -1028,8 +1028,8 @@
       "date": "2021-08-01",
       "locality": "GLENDALOUGH",
       "dose1": 9,
-      "dose2": 5,
-      "vaccines": 14
+      "dose2": 4,
+      "vaccines": 13
     },
     {
       "date": "2021-08-02",
@@ -1503,9 +1503,9 @@
     {
       "date": "2021-10-08",
       "locality": "GLENDALOUGH",
-      "dose1": 11,
+      "dose1": 18,
       "dose2": 11,
-      "vaccines": 22
+      "vaccines": 29
     },
     {
       "date": "2021-10-09",
@@ -1517,9 +1517,16 @@
     {
       "date": "2021-10-10",
       "locality": "GLENDALOUGH",
-      "dose1": 7,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 14
+      "vaccines": 17
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "GLENDALOUGH",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     }
   ]
 }

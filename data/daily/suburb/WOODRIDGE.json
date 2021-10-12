@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "WOODRIDGE",
   "data": [
     {
@@ -1027,23 +1027,30 @@
     {
       "date": "2021-10-08",
       "locality": "WOODRIDGE",
-      "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-09",
       "locality": "WOODRIDGE",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-10",
       "locality": "WOODRIDGE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "WOODRIDGE",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

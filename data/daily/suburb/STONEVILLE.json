@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "STONEVILLE",
   "data": [
     {
@@ -1237,9 +1237,9 @@
     {
       "date": "2021-09-11",
       "locality": "STONEVILLE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-09-12",
@@ -1385,8 +1385,8 @@
       "date": "2021-10-02",
       "locality": "STONEVILLE",
       "dose1": 20,
-      "dose2": 7,
-      "vaccines": 27
+      "dose2": 8,
+      "vaccines": 28
     },
     {
       "date": "2021-10-03",
@@ -1426,23 +1426,30 @@
     {
       "date": "2021-10-08",
       "locality": "STONEVILLE",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 11,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-10-09",
       "locality": "STONEVILLE",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 9,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-10-10",
       "locality": "STONEVILLE",
-      "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose1": 4,
+      "dose2": 8,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "STONEVILLE",
+      "dose1": 6,
+      "dose2": 14,
+      "vaccines": 20
     }
   ]
 }

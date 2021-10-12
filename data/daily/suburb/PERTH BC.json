@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "PERTH BC",
   "data": [
     {
@@ -798,6 +798,13 @@
       "locality": "PERTH BC",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "PERTH BC",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

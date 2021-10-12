@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "COOLBINIA",
   "data": [
     {
@@ -1496,9 +1496,16 @@
     {
       "date": "2021-10-10",
       "locality": "COOLBINIA",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 8,
-      "vaccines": 14
+      "vaccines": 15
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "COOLBINIA",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
     }
   ]
 }

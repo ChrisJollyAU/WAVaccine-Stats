@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "postcode": "EAST CANNINGTON",
   "data": [
     {
@@ -1189,6 +1189,14 @@
     {
       "date": "2021-05-08",
       "locality": "EAST CANNINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-08",
+      "locality": "EAST CANNINGTON",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 0,
@@ -1742,9 +1750,9 @@
       "date": "2021-06-07",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-07",
@@ -2391,8 +2399,8 @@
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 3,
-      "vaccines": 14
+      "dose2": 2,
+      "vaccines": 13
     },
     {
       "date": "2021-07-07",
@@ -2935,8 +2943,8 @@
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose2": 5,
+      "vaccines": 12
     },
     {
       "date": "2021-07-31",
@@ -3734,9 +3742,9 @@
       "date": "2021-09-04",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 30,
+      "dose1": 32,
       "dose2": 17,
-      "vaccines": 47
+      "vaccines": 49
     },
     {
       "date": "2021-09-04",
@@ -3982,9 +3990,9 @@
       "date": "2021-09-15",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 21,
-      "vaccines": 41
+      "vaccines": 40
     },
     {
       "date": "2021-09-15",
@@ -4134,9 +4142,9 @@
       "date": "2021-09-21",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 27,
+      "dose1": 26,
       "dose2": 19,
-      "vaccines": 46
+      "vaccines": 45
     },
     {
       "date": "2021-09-21",
@@ -4471,8 +4479,8 @@
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
       "dose1": 23,
-      "dose2": 34,
-      "vaccines": 57
+      "dose2": 36,
+      "vaccines": 59
     },
     {
       "date": "2021-10-03",
@@ -4526,16 +4534,16 @@
       "date": "2021-10-05",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "12 to 15",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-10-05",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 36,
-      "dose2": 23,
+      "dose1": 37,
+      "dose2": 22,
       "vaccines": 59
     },
     {
@@ -4622,33 +4630,33 @@
       "date": "2021-10-08",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "12 to 15",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-08",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 26,
+      "dose1": 40,
       "dose2": 28,
-      "vaccines": 54
+      "vaccines": 68
     },
     {
       "date": "2021-10-08",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-10-08",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-09",
@@ -4671,16 +4679,24 @@
       "locality": "EAST CANNINGTON",
       "AgeGroup": "70 and over",
       "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "EAST CANNINGTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-10",
       "locality": "EAST CANNINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 29,
       "dose2": 17,
-      "vaccines": 26
+      "vaccines": 46
     },
     {
       "date": "2021-10-10",
@@ -4689,6 +4705,38 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "EAST CANNINGTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "EAST CANNINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 19,
+      "dose2": 16,
+      "vaccines": 35
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "EAST CANNINGTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "EAST CANNINGTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

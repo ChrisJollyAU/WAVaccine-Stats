@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "LOWER KING",
   "data": [
     {
@@ -1413,15 +1413,15 @@
       "date": "2021-10-07",
       "locality": "LOWER KING",
       "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose2": 12,
+      "vaccines": 16
     },
     {
       "date": "2021-10-08",
       "locality": "LOWER KING",
-      "dose1": 12,
+      "dose1": 15,
       "dose2": 3,
-      "vaccines": 15
+      "vaccines": 18
     },
     {
       "date": "2021-10-09",
@@ -1433,9 +1433,16 @@
     {
       "date": "2021-10-10",
       "locality": "LOWER KING",
-      "dose1": 7,
-      "dose2": 8,
-      "vaccines": 15
+      "dose1": 11,
+      "dose2": 11,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "LOWER KING",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
     }
   ]
 }

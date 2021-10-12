@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "postcode": "SOUTH LAKE",
   "data": [
     {
@@ -4534,17 +4534,17 @@
       "date": "2021-10-07",
       "locality": "SOUTH LAKE",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 40,
-      "vaccines": 54
+      "vaccines": 55
     },
     {
       "date": "2021-10-07",
       "locality": "SOUTH LAKE",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 6,
-      "vaccines": 12
+      "dose2": 7,
+      "vaccines": 13
     },
     {
       "date": "2021-10-08",
@@ -4558,17 +4558,17 @@
       "date": "2021-10-08",
       "locality": "SOUTH LAKE",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 25,
-      "vaccines": 50
+      "vaccines": 51
     },
     {
       "date": "2021-10-08",
       "locality": "SOUTH LAKE",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 13,
-      "vaccines": 21
+      "vaccines": 23
     },
     {
       "date": "2021-10-08",
@@ -4598,17 +4598,25 @@
       "date": "2021-10-09",
       "locality": "SOUTH LAKE",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "SOUTH LAKE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-10",
       "locality": "SOUTH LAKE",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 12,
-      "vaccines": 15
+      "dose2": 13,
+      "vaccines": 16
     },
     {
       "date": "2021-10-10",
@@ -4617,6 +4625,30 @@
       "dose1": 5,
       "dose2": 2,
       "vaccines": 7
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "SOUTH LAKE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "SOUTH LAKE",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 10,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "SOUTH LAKE",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

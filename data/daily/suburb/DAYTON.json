@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "DAYTON",
   "data": [
     {
@@ -1510,30 +1510,37 @@
     {
       "date": "2021-10-07",
       "locality": "DAYTON",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 30,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-10-08",
       "locality": "DAYTON",
-      "dose1": 28,
+      "dose1": 29,
       "dose2": 36,
-      "vaccines": 64
+      "vaccines": 65
     },
     {
       "date": "2021-10-09",
       "locality": "DAYTON",
-      "dose1": 23,
-      "dose2": 42,
-      "vaccines": 65
+      "dose1": 25,
+      "dose2": 43,
+      "vaccines": 68
     },
     {
       "date": "2021-10-10",
       "locality": "DAYTON",
-      "dose1": 16,
-      "dose2": 17,
-      "vaccines": 33
+      "dose1": 18,
+      "dose2": 20,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "DAYTON",
+      "dose1": 20,
+      "dose2": 18,
+      "vaccines": 38
     }
   ]
 }

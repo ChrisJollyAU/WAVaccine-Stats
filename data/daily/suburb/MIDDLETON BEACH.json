@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "MIDDLETON BEACH",
   "data": [
     {
@@ -1280,8 +1280,8 @@
       "date": "2021-10-07",
       "locality": "MIDDLETON BEACH",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-10-08",
@@ -1301,8 +1301,15 @@
       "date": "2021-10-10",
       "locality": "MIDDLETON BEACH",
       "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "MIDDLETON BEACH",
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 2
     }
   ]
 }

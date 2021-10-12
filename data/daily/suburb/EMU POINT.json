@@ -1,7 +1,14 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "EMU POINT",
   "data": [
+    {
+      "date": "2021-03-02",
+      "locality": "EMU POINT",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-04",
       "locality": "EMU POINT",
@@ -27,8 +34,8 @@
       "date": "2021-03-24",
       "locality": "EMU POINT",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-03-25",
@@ -832,8 +839,8 @@
       "date": "2021-10-05",
       "locality": "EMU POINT",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-07",

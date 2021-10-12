@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "COLLINGWOOD HTS",
   "data": [
     {
@@ -1013,9 +1013,16 @@
     {
       "date": "2021-10-10",
       "locality": "COLLINGWOOD HTS",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "COLLINGWOOD HTS",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

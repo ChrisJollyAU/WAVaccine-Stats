@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "BODDINGTON",
   "data": [
     {
@@ -789,9 +789,9 @@
     {
       "date": "2021-09-02",
       "locality": "BODDINGTON",
-      "dose1": 8,
+      "dose1": 11,
       "dose2": 16,
-      "vaccines": 24
+      "vaccines": 27
     },
     {
       "date": "2021-09-03",
@@ -853,8 +853,8 @@
       "date": "2021-09-13",
       "locality": "BODDINGTON",
       "dose1": 5,
-      "dose2": 18,
-      "vaccines": 23
+      "dose2": 19,
+      "vaccines": 24
     },
     {
       "date": "2021-09-14",
@@ -992,16 +992,16 @@
     {
       "date": "2021-10-06",
       "locality": "BODDINGTON",
-      "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose1": 4,
+      "dose2": 8,
+      "vaccines": 12
     },
     {
       "date": "2021-10-07",
       "locality": "BODDINGTON",
-      "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
     },
     {
       "date": "2021-10-08",
@@ -1014,14 +1014,21 @@
       "date": "2021-10-09",
       "locality": "BODDINGTON",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-10-10",
       "locality": "BODDINGTON",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "BODDINGTON",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

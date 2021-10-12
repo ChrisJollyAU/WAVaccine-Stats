@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-10T00:00:00",
+  "date_updated": "2021-10-11T00:00:00",
   "locality": "HILLMAN",
   "data": [
     {
@@ -89,9 +89,9 @@
     {
       "date": "2021-03-23",
       "locality": "HILLMAN",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-03-24",
@@ -502,16 +502,16 @@
     {
       "date": "2021-06-14",
       "locality": "HILLMAN",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-06-15",
       "locality": "HILLMAN",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-16",
@@ -1056,8 +1056,8 @@
       "date": "2021-09-06",
       "locality": "HILLMAN",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-09-07",
@@ -1273,29 +1273,36 @@
       "date": "2021-10-07",
       "locality": "HILLMAN",
       "dose1": 18,
-      "dose2": 15,
-      "vaccines": 33
+      "dose2": 16,
+      "vaccines": 34
     },
     {
       "date": "2021-10-08",
       "locality": "HILLMAN",
-      "dose1": 8,
-      "dose2": 5,
-      "vaccines": 13
+      "dose1": 9,
+      "dose2": 7,
+      "vaccines": 16
     },
     {
       "date": "2021-10-09",
       "locality": "HILLMAN",
-      "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose1": 7,
+      "dose2": 5,
+      "vaccines": 12
     },
     {
       "date": "2021-10-10",
       "locality": "HILLMAN",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "HILLMAN",
+      "dose1": 8,
+      "dose2": 7,
+      "vaccines": 15
     }
   ]
 }

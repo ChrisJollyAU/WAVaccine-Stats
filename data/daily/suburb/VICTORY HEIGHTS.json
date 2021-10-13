@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "VICTORY HEIGHTS",
   "data": [
     {
@@ -880,9 +880,16 @@
     {
       "date": "2021-10-11",
       "locality": "VICTORY HEIGHTS",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "VICTORY HEIGHTS",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

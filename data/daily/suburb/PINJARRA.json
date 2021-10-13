@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "PINJARRA",
   "data": [
     {
@@ -96,9 +96,9 @@
     {
       "date": "2021-03-18",
       "locality": "PINJARRA",
-      "dose1": 6,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 4
     },
     {
       "date": "2021-03-19",
@@ -510,8 +510,8 @@
       "date": "2021-05-31",
       "locality": "PINJARRA",
       "dose1": 13,
-      "dose2": 37,
-      "vaccines": 50
+      "dose2": 35,
+      "vaccines": 48
     },
     {
       "date": "2021-06-01",
@@ -1174,9 +1174,9 @@
     {
       "date": "2021-09-11",
       "locality": "PINJARRA",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 6,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-09-12",
@@ -1322,8 +1322,8 @@
       "date": "2021-10-02",
       "locality": "PINJARRA",
       "dose1": 14,
-      "dose2": 9,
-      "vaccines": 23
+      "dose2": 8,
+      "vaccines": 22
     },
     {
       "date": "2021-10-03",
@@ -1349,9 +1349,9 @@
     {
       "date": "2021-10-06",
       "locality": "PINJARRA",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 22,
-      "vaccines": 56
+      "vaccines": 57
     },
     {
       "date": "2021-10-07",
@@ -1364,8 +1364,8 @@
       "date": "2021-10-08",
       "locality": "PINJARRA",
       "dose1": 30,
-      "dose2": 58,
-      "vaccines": 88
+      "dose2": 60,
+      "vaccines": 90
     },
     {
       "date": "2021-10-09",
@@ -1384,9 +1384,16 @@
     {
       "date": "2021-10-11",
       "locality": "PINJARRA",
-      "dose1": 18,
-      "dose2": 23,
-      "vaccines": 41
+      "dose1": 22,
+      "dose2": 33,
+      "vaccines": 55
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "PINJARRA",
+      "dose1": 63,
+      "dose2": 32,
+      "vaccines": 95
     }
   ]
 }

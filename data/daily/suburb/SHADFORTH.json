@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "SHADFORTH",
   "data": [
     {
@@ -439,9 +439,16 @@
     {
       "date": "2021-09-11",
       "locality": "SHADFORTH",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "SHADFORTH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-13",
@@ -495,9 +502,9 @@
     {
       "date": "2021-09-28",
       "locality": "SHADFORTH",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-01",
@@ -542,11 +549,25 @@
       "vaccines": 5
     },
     {
+      "date": "2021-10-10",
+      "locality": "SHADFORTH",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-11",
       "locality": "SHADFORTH",
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "SHADFORTH",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

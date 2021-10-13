@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "postcode": "KIARA",
   "data": [
     {
@@ -3775,8 +3775,8 @@
       "locality": "KIARA",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose2": 12,
+      "vaccines": 16
     },
     {
       "date": "2021-10-09",
@@ -3825,6 +3825,30 @@
       "dose1": 4,
       "dose2": 1,
       "vaccines": 5
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "KIARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 3,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "KIARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "KIARA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

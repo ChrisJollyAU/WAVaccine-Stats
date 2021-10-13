@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "MERREDIN",
   "data": [
     {
@@ -229,9 +229,9 @@
     {
       "date": "2021-05-05",
       "locality": "MERREDIN",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-05-06",
@@ -734,8 +734,8 @@
       "date": "2021-07-29",
       "locality": "MERREDIN",
       "dose1": 3,
-      "dose2": 20,
-      "vaccines": 23
+      "dose2": 21,
+      "vaccines": 24
     },
     {
       "date": "2021-07-30",
@@ -1097,9 +1097,9 @@
     {
       "date": "2021-09-20",
       "locality": "MERREDIN",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-21",
@@ -1210,15 +1210,15 @@
       "date": "2021-10-07",
       "locality": "MERREDIN",
       "dose1": 18,
-      "dose2": 42,
-      "vaccines": 60
+      "dose2": 43,
+      "vaccines": 61
     },
     {
       "date": "2021-10-08",
       "locality": "MERREDIN",
       "dose1": 10,
-      "dose2": 41,
-      "vaccines": 51
+      "dose2": 42,
+      "vaccines": 52
     },
     {
       "date": "2021-10-09",
@@ -1230,16 +1230,23 @@
     {
       "date": "2021-10-10",
       "locality": "MERREDIN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-11",
       "locality": "MERREDIN",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 10,
-      "vaccines": 19
+      "vaccines": 20
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "MERREDIN",
+      "dose1": 12,
+      "dose2": 10,
+      "vaccines": 22
     }
   ]
 }

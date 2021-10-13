@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "SHELLEY",
   "data": [
     {
@@ -1574,8 +1574,8 @@
       "date": "2021-10-09",
       "locality": "SHELLEY",
       "dose1": 20,
-      "dose2": 20,
-      "vaccines": 40
+      "dose2": 21,
+      "vaccines": 41
     },
     {
       "date": "2021-10-10",
@@ -1587,9 +1587,16 @@
     {
       "date": "2021-10-11",
       "locality": "SHELLEY",
-      "dose1": 6,
+      "dose1": 11,
       "dose2": 18,
-      "vaccines": 24
+      "vaccines": 29
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "SHELLEY",
+      "dose1": 9,
+      "dose2": 27,
+      "vaccines": 36
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "postcode": "6517",
   "data": [
     {
@@ -839,8 +839,8 @@
       "date": "2021-10-08",
       "postcode": "6517",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-10-09",
@@ -862,6 +862,13 @@
       "dose1": 3,
       "dose2": 1,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-12",
+      "postcode": "6517",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

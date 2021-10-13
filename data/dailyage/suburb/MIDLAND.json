@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "postcode": "MIDLAND",
   "data": [
     {
@@ -646,9 +646,9 @@
       "date": "2021-04-07",
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-04-07",
@@ -1359,8 +1359,8 @@
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-05-17",
@@ -2606,9 +2606,9 @@
       "date": "2021-07-14",
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-07-14",
@@ -2902,9 +2902,9 @@
       "date": "2021-07-27",
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 2,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-07-27",
@@ -3431,8 +3431,8 @@
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
       "dose1": 17,
-      "dose2": 13,
-      "vaccines": 30
+      "dose2": 14,
+      "vaccines": 31
     },
     {
       "date": "2021-08-18",
@@ -3575,8 +3575,8 @@
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 11,
-      "vaccines": 23
+      "dose2": 12,
+      "vaccines": 24
     },
     {
       "date": "2021-08-24",
@@ -3854,17 +3854,17 @@
       "date": "2021-09-04",
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-09-04",
       "locality": "MIDLAND",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 7,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-09-04",
@@ -4591,16 +4591,16 @@
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
       "dose1": 36,
-      "dose2": 18,
-      "vaccines": 54
+      "dose2": 17,
+      "vaccines": 53
     },
     {
       "date": "2021-09-30",
       "locality": "MIDLAND",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 11,
-      "vaccines": 19
+      "dose2": 12,
+      "vaccines": 20
     },
     {
       "date": "2021-09-30",
@@ -4886,9 +4886,9 @@
       "date": "2021-10-10",
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 21,
-      "vaccines": 41
+      "vaccines": 42
     },
     {
       "date": "2021-10-10",
@@ -4911,32 +4911,64 @@
       "locality": "MIDLAND",
       "AgeGroup": "12 to 15",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-10-11",
       "locality": "MIDLAND",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
-      "dose2": 15,
-      "vaccines": 28
+      "dose1": 14,
+      "dose2": 16,
+      "vaccines": 30
     },
     {
       "date": "2021-10-11",
       "locality": "MIDLAND",
       "AgeGroup": "50 to 69",
-      "dose1": 11,
-      "dose2": 2,
-      "vaccines": 13
+      "dose1": 12,
+      "dose2": 7,
+      "vaccines": 19
     },
     {
       "date": "2021-10-11",
       "locality": "MIDLAND",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "MIDLAND",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "MIDLAND",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 14,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "MIDLAND",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 8,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "MIDLAND",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

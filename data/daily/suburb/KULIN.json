@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "KULIN",
   "data": [
     {
@@ -372,13 +372,6 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
-    },
-    {
-      "date": "2021-07-03",
-      "locality": "KULIN",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-07-05",
@@ -909,8 +902,8 @@
       "date": "2021-10-04",
       "locality": "KULIN",
       "dose1": 2,
-      "dose2": 14,
-      "vaccines": 16
+      "dose2": 13,
+      "vaccines": 15
     },
     {
       "date": "2021-10-05",
@@ -953,6 +946,13 @@
       "dose1": 3,
       "dose2": 3,
       "vaccines": 6
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "KULIN",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

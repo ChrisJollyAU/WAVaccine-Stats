@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "postcode": "EATON",
   "data": [
     {
@@ -4518,25 +4518,25 @@
       "date": "2021-10-11",
       "locality": "EATON",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-11",
       "locality": "EATON",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
-      "dose2": 13,
-      "vaccines": 34
+      "dose1": 29,
+      "dose2": 20,
+      "vaccines": 49
     },
     {
       "date": "2021-10-11",
       "locality": "EATON",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
-      "dose2": 11,
-      "vaccines": 20
+      "dose1": 10,
+      "dose2": 13,
+      "vaccines": 23
     },
     {
       "date": "2021-10-11",
@@ -4545,6 +4545,38 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "EATON",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "EATON",
+      "AgeGroup": "16 to 49",
+      "dose1": 32,
+      "dose2": 22,
+      "vaccines": 54
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "EATON",
+      "AgeGroup": "50 to 69",
+      "dose1": 8,
+      "dose2": 8,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "EATON",
+      "AgeGroup": "70 and over",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     }
   ]
 }

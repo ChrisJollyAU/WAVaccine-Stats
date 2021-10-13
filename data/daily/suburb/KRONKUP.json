@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "KRONKUP",
   "data": [
     {
@@ -418,9 +418,9 @@
     {
       "date": "2021-08-19",
       "locality": "KRONKUP",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-20",
@@ -584,13 +584,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-09-23",
-      "locality": "KRONKUP",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-24",
       "locality": "KRONKUP",
       "dose1": 1,
@@ -673,6 +666,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "KRONKUP",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

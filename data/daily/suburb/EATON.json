@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "EATON",
   "data": [
     {
@@ -1440,9 +1440,16 @@
     {
       "date": "2021-10-11",
       "locality": "EATON",
-      "dose1": 32,
-      "dose2": 29,
-      "vaccines": 61
+      "dose1": 42,
+      "dose2": 39,
+      "vaccines": 81
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "EATON",
+      "dose1": 48,
+      "dose2": 35,
+      "vaccines": 83
     }
   ]
 }

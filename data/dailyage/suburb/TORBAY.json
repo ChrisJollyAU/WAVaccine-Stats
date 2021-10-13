@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "postcode": "TORBAY",
   "data": [
     {
@@ -1179,6 +1179,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-01",
+      "locality": "TORBAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-03",
       "locality": "TORBAY",
       "AgeGroup": "16 to 49",
@@ -1261,6 +1269,14 @@
     {
       "date": "2021-10-10",
       "locality": "TORBAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "TORBAY",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -1272,6 +1288,22 @@
       "AgeGroup": "16 to 49",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "TORBAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "TORBAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

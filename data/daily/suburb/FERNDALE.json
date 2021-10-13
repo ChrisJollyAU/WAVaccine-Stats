@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "FERNDALE",
   "data": [
     {
@@ -1510,23 +1510,30 @@
     {
       "date": "2021-10-09",
       "locality": "FERNDALE",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 19,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-10-10",
       "locality": "FERNDALE",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 19,
-      "vaccines": 43
+      "vaccines": 44
     },
     {
       "date": "2021-10-11",
       "locality": "FERNDALE",
-      "dose1": 15,
-      "dose2": 9,
-      "vaccines": 24
+      "dose1": 20,
+      "dose2": 10,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "FERNDALE",
+      "dose1": 18,
+      "dose2": 17,
+      "vaccines": 35
     }
   ]
 }

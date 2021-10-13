@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "PORONGURUP",
   "data": [
     {
@@ -192,6 +192,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-11",
+      "locality": "PORONGURUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-12",
       "locality": "PORONGURUP",
       "dose1": 1,
@@ -293,8 +300,8 @@
       "date": "2021-07-03",
       "locality": "PORONGURUP",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-07-04",
@@ -867,15 +874,22 @@
       "date": "2021-10-10",
       "locality": "PORONGURUP",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-10-11",
       "locality": "PORONGURUP",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "PORONGURUP",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

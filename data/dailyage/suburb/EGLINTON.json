@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "postcode": "EGLINTON",
   "data": [
     {
@@ -3542,9 +3542,9 @@
       "date": "2021-10-05",
       "locality": "EGLINTON",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 10,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-10-05",
@@ -3663,8 +3663,8 @@
       "locality": "EGLINTON",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 5,
-      "vaccines": 11
+      "dose2": 6,
+      "vaccines": 12
     },
     {
       "date": "2021-10-10",
@@ -3678,9 +3678,17 @@
       "date": "2021-10-11",
       "locality": "EGLINTON",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose1": 13,
+      "dose2": 6,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "EGLINTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-11",
@@ -3689,6 +3697,30 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "EGLINTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "EGLINTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 12,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "EGLINTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

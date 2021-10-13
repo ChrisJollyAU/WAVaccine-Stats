@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-11T00:00:00",
+  "date_updated": "2021-10-12T00:00:00",
   "locality": "STRATHAM",
   "data": [
     {
@@ -1175,8 +1175,15 @@
       "date": "2021-10-11",
       "locality": "STRATHAM",
       "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "STRATHAM",
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 8
     }
   ]
 }

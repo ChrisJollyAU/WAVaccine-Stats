@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "NORTH DANDALUP",
   "data": [
     {
@@ -824,9 +824,9 @@
     {
       "date": "2021-08-27",
       "locality": "NORTH DANDALUP",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-08-28",
@@ -993,8 +993,8 @@
       "date": "2021-09-20",
       "locality": "NORTH DANDALUP",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-09-21",
@@ -1055,9 +1055,9 @@
     {
       "date": "2021-09-30",
       "locality": "NORTH DANDALUP",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-10-01",
@@ -1132,9 +1132,16 @@
     {
       "date": "2021-10-12",
       "locality": "NORTH DANDALUP",
-      "dose1": 9,
-      "dose2": 5,
-      "vaccines": 14
+      "dose1": 13,
+      "dose2": 6,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "NORTH DANDALUP",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

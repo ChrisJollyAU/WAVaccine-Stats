@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "STONEVILLE",
   "data": [
     {
@@ -1454,9 +1454,16 @@
     {
       "date": "2021-10-12",
       "locality": "STONEVILLE",
-      "dose1": 8,
+      "dose1": 11,
       "dose2": 12,
-      "vaccines": 20
+      "vaccines": 23
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "STONEVILLE",
+      "dose1": 11,
+      "dose2": 14,
+      "vaccines": 25
     }
   ]
 }

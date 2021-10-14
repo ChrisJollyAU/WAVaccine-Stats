@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "postcode": "BRIGADOON",
   "data": [
     {
@@ -505,6 +505,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-05-19",
+      "locality": "BRIGADOON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-20",
@@ -1735,8 +1743,8 @@
       "locality": "BRIGADOON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-08-11",
@@ -2030,9 +2038,9 @@
       "date": "2021-08-28",
       "locality": "BRIGADOON",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-29",
@@ -2880,6 +2888,30 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "BRIGADOON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "BRIGADOON",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 4,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "BRIGADOON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

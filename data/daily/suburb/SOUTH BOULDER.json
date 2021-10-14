@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "SOUTH BOULDER",
   "data": [
     {
@@ -986,8 +986,15 @@
       "date": "2021-10-12",
       "locality": "SOUTH BOULDER",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 8,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "SOUTH BOULDER",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

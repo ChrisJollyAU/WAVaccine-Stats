@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "KOORDA",
   "data": [
     {
@@ -888,7 +888,14 @@
       "date": "2021-10-12",
       "locality": "KOORDA",
       "dose1": 0,
-      "dose2": 3,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "KOORDA",
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     }
   ]

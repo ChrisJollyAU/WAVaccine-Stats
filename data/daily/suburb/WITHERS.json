@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "WITHERS",
   "data": [
     {
@@ -1300,9 +1300,16 @@
     {
       "date": "2021-10-12",
       "locality": "WITHERS",
-      "dose1": 19,
-      "dose2": 14,
-      "vaccines": 33
+      "dose1": 20,
+      "dose2": 16,
+      "vaccines": 36
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "WITHERS",
+      "dose1": 23,
+      "dose2": 11,
+      "vaccines": 34
     }
   ]
 }

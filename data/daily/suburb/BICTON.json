@@ -1,13 +1,13 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "BICTON",
   "data": [
     {
       "date": "2021-02-23",
       "locality": "BICTON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-02-25",
@@ -125,8 +125,8 @@
       "date": "2021-03-17",
       "locality": "BICTON",
       "dose1": 10,
-      "dose2": 0,
-      "vaccines": 10
+      "dose2": 1,
+      "vaccines": 11
     },
     {
       "date": "2021-03-18",
@@ -180,9 +180,9 @@
     {
       "date": "2021-03-25",
       "locality": "BICTON",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 3,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-03-26",
@@ -348,9 +348,9 @@
     {
       "date": "2021-04-21",
       "locality": "BICTON",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 6,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-04-22",
@@ -503,8 +503,8 @@
       "date": "2021-05-13",
       "locality": "BICTON",
       "dose1": 62,
-      "dose2": 3,
-      "vaccines": 65
+      "dose2": 2,
+      "vaccines": 64
     },
     {
       "date": "2021-05-14",
@@ -748,8 +748,8 @@
       "date": "2021-06-17",
       "locality": "BICTON",
       "dose1": 29,
-      "dose2": 15,
-      "vaccines": 44
+      "dose2": 14,
+      "vaccines": 43
     },
     {
       "date": "2021-06-18",
@@ -1280,8 +1280,8 @@
       "date": "2021-09-01",
       "locality": "BICTON",
       "dose1": 55,
-      "dose2": 22,
-      "vaccines": 77
+      "dose2": 23,
+      "vaccines": 78
     },
     {
       "date": "2021-09-02",
@@ -1293,9 +1293,9 @@
     {
       "date": "2021-09-03",
       "locality": "BICTON",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 54,
-      "vaccines": 88
+      "vaccines": 89
     },
     {
       "date": "2021-09-04",
@@ -1496,8 +1496,8 @@
     {
       "date": "2021-10-02",
       "locality": "BICTON",
-      "dose1": 13,
-      "dose2": 36,
+      "dose1": 12,
+      "dose2": 37,
       "vaccines": 49
     },
     {
@@ -1538,9 +1538,9 @@
     {
       "date": "2021-10-08",
       "locality": "BICTON",
-      "dose1": 38,
+      "dose1": 39,
       "dose2": 34,
-      "vaccines": 72
+      "vaccines": 73
     },
     {
       "date": "2021-10-09",
@@ -1566,9 +1566,16 @@
     {
       "date": "2021-10-12",
       "locality": "BICTON",
-      "dose1": 25,
+      "dose1": 27,
       "dose2": 29,
-      "vaccines": 54
+      "vaccines": 56
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "BICTON",
+      "dose1": 18,
+      "dose2": 24,
+      "vaccines": 42
     }
   ]
 }

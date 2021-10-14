@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "WILLYUNG",
   "data": [
     {
@@ -1111,9 +1111,16 @@
     {
       "date": "2021-10-12",
       "locality": "WILLYUNG",
-      "dose1": 2,
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "WILLYUNG",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

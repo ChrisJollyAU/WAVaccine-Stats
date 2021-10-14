@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "PICTON EAST",
   "data": [
     {
@@ -270,6 +270,20 @@
     },
     {
       "date": "2021-10-11",
+      "locality": "PICTON EAST",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "PICTON EAST",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-13",
       "locality": "PICTON EAST",
       "dose1": 0,
       "dose2": 1,

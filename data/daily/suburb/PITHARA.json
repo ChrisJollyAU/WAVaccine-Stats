@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "PITHARA",
   "data": [
     {
@@ -130,6 +130,20 @@
     },
     {
       "date": "2021-10-05",
+      "locality": "PITHARA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "PITHARA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-13",
       "locality": "PITHARA",
       "dose1": 1,
       "dose2": 0,

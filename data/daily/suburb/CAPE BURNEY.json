@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "CAPE BURNEY",
   "data": [
     {
@@ -432,9 +432,9 @@
     {
       "date": "2021-06-23",
       "locality": "CAPE BURNEY",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-24",
@@ -580,8 +580,8 @@
       "date": "2021-07-15",
       "locality": "CAPE BURNEY",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-17",
@@ -1142,6 +1142,13 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "CAPE BURNEY",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-12T00:00:00",
+  "date_updated": "2021-10-13T00:00:00",
   "locality": "KWINANA",
   "data": [
     {
@@ -811,8 +811,8 @@
       "date": "2021-08-24",
       "locality": "KWINANA",
       "dose1": 6,
-      "dose2": 14,
-      "vaccines": 20
+      "dose2": 16,
+      "vaccines": 22
     },
     {
       "date": "2021-08-25",
@@ -1146,9 +1146,16 @@
     {
       "date": "2021-10-12",
       "locality": "KWINANA",
-      "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "KWINANA",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

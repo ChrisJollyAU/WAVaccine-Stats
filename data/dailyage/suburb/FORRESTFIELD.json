@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "postcode": "FORRESTFIELD",
   "data": [
     {
@@ -534,17 +534,17 @@
       "date": "2021-03-26",
       "locality": "FORRESTFIELD",
       "AgeGroup": "50 to 69",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-03-26",
       "locality": "FORRESTFIELD",
       "AgeGroup": "70 and over",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-27",
@@ -2319,16 +2319,16 @@
       "locality": "FORRESTFIELD",
       "AgeGroup": "50 to 69",
       "dose1": 19,
-      "dose2": 3,
-      "vaccines": 22
+      "dose2": 2,
+      "vaccines": 21
     },
     {
       "date": "2021-06-16",
       "locality": "FORRESTFIELD",
       "AgeGroup": "70 and over",
       "dose1": 15,
-      "dose2": 3,
-      "vaccines": 18
+      "dose2": 4,
+      "vaccines": 19
     },
     {
       "date": "2021-06-17",
@@ -3422,9 +3422,9 @@
       "date": "2021-08-01",
       "locality": "FORRESTFIELD",
       "AgeGroup": "50 to 69",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 16,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-08-01",
@@ -3935,8 +3935,8 @@
       "locality": "FORRESTFIELD",
       "AgeGroup": "50 to 69",
       "dose1": 24,
-      "dose2": 16,
-      "vaccines": 40
+      "dose2": 17,
+      "vaccines": 41
     },
     {
       "date": "2021-08-23",
@@ -4406,9 +4406,9 @@
       "date": "2021-09-11",
       "locality": "FORRESTFIELD",
       "AgeGroup": "16 to 49",
-      "dose1": 48,
+      "dose1": 47,
       "dose2": 24,
-      "vaccines": 72
+      "vaccines": 71
     },
     {
       "date": "2021-09-11",
@@ -5287,8 +5287,8 @@
       "locality": "FORRESTFIELD",
       "AgeGroup": "16 to 49",
       "dose1": 46,
-      "dose2": 45,
-      "vaccines": 91
+      "dose2": 44,
+      "vaccines": 90
     },
     {
       "date": "2021-10-09",
@@ -5350,9 +5350,9 @@
       "date": "2021-10-11",
       "locality": "FORRESTFIELD",
       "AgeGroup": "16 to 49",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 31,
-      "vaccines": 67
+      "vaccines": 68
     },
     {
       "date": "2021-10-11",
@@ -5406,25 +5406,25 @@
       "date": "2021-10-13",
       "locality": "FORRESTFIELD",
       "AgeGroup": "12 to 15",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-10-13",
       "locality": "FORRESTFIELD",
       "AgeGroup": "16 to 49",
-      "dose1": 33,
-      "dose2": 36,
-      "vaccines": 69
+      "dose1": 35,
+      "dose2": 44,
+      "vaccines": 79
     },
     {
       "date": "2021-10-13",
       "locality": "FORRESTFIELD",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 18,
-      "vaccines": 30
+      "dose2": 20,
+      "vaccines": 32
     },
     {
       "date": "2021-10-13",
@@ -5433,6 +5433,38 @@
       "dose1": 5,
       "dose2": 7,
       "vaccines": 12
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "FORRESTFIELD",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "FORRESTFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 49,
+      "dose2": 46,
+      "vaccines": 95
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "FORRESTFIELD",
+      "AgeGroup": "50 to 69",
+      "dose1": 11,
+      "dose2": 11,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "FORRESTFIELD",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 8,
+      "vaccines": 10
     }
   ]
 }

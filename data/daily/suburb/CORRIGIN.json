@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "CORRIGIN",
   "data": [
     {
@@ -894,9 +894,16 @@
     {
       "date": "2021-10-13",
       "locality": "CORRIGIN",
-      "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose1": 10,
+      "dose2": 28,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "CORRIGIN",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

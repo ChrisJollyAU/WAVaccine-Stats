@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "postcode": "AVELEY",
   "data": [
     {
@@ -934,9 +934,9 @@
       "date": "2021-04-17",
       "locality": "AVELEY",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-19",
@@ -1057,6 +1057,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-04-24",
+      "locality": "AVELEY",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-26",
@@ -1894,17 +1902,17 @@
       "date": "2021-06-03",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 2,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-06-03",
       "locality": "AVELEY",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-04",
@@ -2575,8 +2583,8 @@
       "locality": "AVELEY",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 10
     },
     {
       "date": "2021-07-04",
@@ -2889,6 +2897,14 @@
       "dose1": 23,
       "dose2": 1,
       "vaccines": 24
+    },
+    {
+      "date": "2021-07-17",
+      "locality": "AVELEY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-18",
@@ -3590,9 +3606,9 @@
       "date": "2021-08-18",
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 38,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-08-18",
@@ -3702,9 +3718,9 @@
       "date": "2021-08-23",
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 35,
+      "dose1": 36,
       "dose2": 10,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-08-23",
@@ -3782,25 +3798,25 @@
       "date": "2021-08-26",
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 30,
+      "dose1": 31,
       "dose2": 11,
-      "vaccines": 41
+      "vaccines": 42
     },
     {
       "date": "2021-08-26",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
       "dose1": 10,
-      "dose2": 17,
-      "vaccines": 27
+      "dose2": 16,
+      "vaccines": 26
     },
     {
       "date": "2021-08-26",
       "locality": "AVELEY",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
     },
     {
       "date": "2021-08-27",
@@ -3814,9 +3830,9 @@
       "date": "2021-08-27",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 21,
-      "vaccines": 33
+      "vaccines": 34
     },
     {
       "date": "2021-08-27",
@@ -3918,17 +3934,17 @@
       "date": "2021-09-01",
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 31,
+      "dose1": 30,
       "dose2": 20,
-      "vaccines": 51
+      "vaccines": 50
     },
     {
       "date": "2021-09-01",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 14,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-09-01",
@@ -4087,8 +4103,8 @@
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
       "dose1": 45,
-      "dose2": 24,
-      "vaccines": 69
+      "dose2": 25,
+      "vaccines": 70
     },
     {
       "date": "2021-09-08",
@@ -4454,9 +4470,9 @@
       "date": "2021-09-20",
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 42,
+      "dose1": 43,
       "dose2": 21,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-09-20",
@@ -4518,8 +4534,8 @@
       "date": "2021-09-22",
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 49,
-      "dose2": 23,
+      "dose1": 50,
+      "dose2": 22,
       "vaccines": 72
     },
     {
@@ -4527,8 +4543,8 @@
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 15,
-      "vaccines": 22
+      "dose2": 16,
+      "vaccines": 23
     },
     {
       "date": "2021-09-23",
@@ -5111,8 +5127,8 @@
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
       "dose1": 41,
-      "dose2": 48,
-      "vaccines": 89
+      "dose2": 49,
+      "vaccines": 90
     },
     {
       "date": "2021-10-12",
@@ -5142,12 +5158,36 @@
       "date": "2021-10-13",
       "locality": "AVELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 40,
-      "dose2": 48,
-      "vaccines": 88
+      "dose1": 44,
+      "dose2": 53,
+      "vaccines": 97
     },
     {
       "date": "2021-10-13",
+      "locality": "AVELEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 9,
+      "dose2": 9,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "AVELEY",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "AVELEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 32,
+      "dose2": 40,
+      "vaccines": 72
+    },
+    {
+      "date": "2021-10-14",
       "locality": "AVELEY",
       "AgeGroup": "50 to 69",
       "dose1": 7,
@@ -5155,12 +5195,12 @@
       "vaccines": 15
     },
     {
-      "date": "2021-10-13",
+      "date": "2021-10-14",
       "locality": "AVELEY",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 9,
+      "vaccines": 10
     }
   ]
 }

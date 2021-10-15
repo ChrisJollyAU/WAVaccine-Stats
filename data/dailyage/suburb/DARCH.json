@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "postcode": "DARCH",
   "data": [
     {
@@ -926,9 +926,9 @@
       "date": "2021-04-22",
       "locality": "DARCH",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-04-22",
@@ -1495,8 +1495,8 @@
       "locality": "DARCH",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-05-20",
@@ -2302,9 +2302,9 @@
       "date": "2021-06-28",
       "locality": "DARCH",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 4,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-06-28",
@@ -2350,9 +2350,9 @@
       "date": "2021-06-30",
       "locality": "DARCH",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 3,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-06-30",
@@ -2775,8 +2775,8 @@
       "locality": "DARCH",
       "AgeGroup": "16 to 49",
       "dose1": 17,
-      "dose2": 7,
-      "vaccines": 24
+      "dose2": 6,
+      "vaccines": 23
     },
     {
       "date": "2021-07-19",
@@ -3071,8 +3071,8 @@
       "locality": "DARCH",
       "AgeGroup": "16 to 49",
       "dose1": 21,
-      "dose2": 18,
-      "vaccines": 39
+      "dose2": 19,
+      "vaccines": 40
     },
     {
       "date": "2021-08-01",
@@ -3614,9 +3614,9 @@
       "date": "2021-08-26",
       "locality": "DARCH",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 14,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-08-26",
@@ -4582,9 +4582,9 @@
       "date": "2021-10-02",
       "locality": "DARCH",
       "AgeGroup": "12 to 15",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-02",
@@ -4894,9 +4894,9 @@
       "date": "2021-10-12",
       "locality": "DARCH",
       "AgeGroup": "12 to 15",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-12",
@@ -4934,17 +4934,17 @@
       "date": "2021-10-13",
       "locality": "DARCH",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
-      "dose2": 31,
-      "vaccines": 50
+      "dose1": 20,
+      "dose2": 32,
+      "vaccines": 52
     },
     {
       "date": "2021-10-13",
       "locality": "DARCH",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 6,
-      "vaccines": 13
+      "dose2": 7,
+      "vaccines": 14
     },
     {
       "date": "2021-10-13",
@@ -4953,6 +4953,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "DARCH",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "DARCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 35,
+      "dose2": 35,
+      "vaccines": 70
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "DARCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

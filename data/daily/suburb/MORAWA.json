@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "MORAWA",
   "data": [
     {
@@ -678,8 +678,8 @@
       "date": "2021-09-01",
       "locality": "MORAWA",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-09-02",
@@ -929,9 +929,16 @@
     {
       "date": "2021-10-13",
       "locality": "MORAWA",
-      "dose1": 4,
-      "dose2": 8,
-      "vaccines": 12
+      "dose1": 6,
+      "dose2": 9,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "MORAWA",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

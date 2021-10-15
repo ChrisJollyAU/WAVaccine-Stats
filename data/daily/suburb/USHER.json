@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "USHER",
   "data": [
     {
@@ -1342,9 +1342,16 @@
     {
       "date": "2021-10-13",
       "locality": "USHER",
-      "dose1": 11,
-      "dose2": 12,
-      "vaccines": 23
+      "dose1": 13,
+      "dose2": 14,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "USHER",
+      "dose1": 8,
+      "dose2": 7,
+      "vaccines": 15
     }
   ]
 }

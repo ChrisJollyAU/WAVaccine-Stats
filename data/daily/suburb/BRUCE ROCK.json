@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "BRUCE ROCK",
   "data": [
     {
@@ -881,8 +881,8 @@
       "date": "2021-10-04",
       "locality": "BRUCE ROCK",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-10-05",
@@ -930,15 +930,22 @@
       "date": "2021-10-12",
       "locality": "BRUCE ROCK",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-10-13",
       "locality": "BRUCE ROCK",
       "dose1": 2,
-      "dose2": 9,
-      "vaccines": 11
+      "dose2": 10,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "BRUCE ROCK",
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
     }
   ]
 }

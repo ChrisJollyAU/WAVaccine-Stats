@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "POPANYINNING",
   "data": [
     {
@@ -749,6 +749,13 @@
       "locality": "POPANYINNING",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "POPANYINNING",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

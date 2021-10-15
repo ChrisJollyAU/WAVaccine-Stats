@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "WYALKATCHEM",
   "data": [
     {
@@ -306,9 +306,9 @@
     {
       "date": "2021-06-22",
       "locality": "WYALKATCHEM",
-      "dose1": 10,
+      "dose1": 12,
       "dose2": 2,
-      "vaccines": 12
+      "vaccines": 14
     },
     {
       "date": "2021-06-23",
@@ -320,9 +320,9 @@
     {
       "date": "2021-06-24",
       "locality": "WYALKATCHEM",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-06-27",
@@ -684,8 +684,8 @@
     {
       "date": "2021-09-02",
       "locality": "WYALKATCHEM",
-      "dose1": 3,
-      "dose2": 14,
+      "dose1": 2,
+      "dose2": 15,
       "vaccines": 17
     },
     {
@@ -740,8 +740,8 @@
     {
       "date": "2021-09-10",
       "locality": "WYALKATCHEM",
-      "dose1": 8,
-      "dose2": 4,
+      "dose1": 6,
+      "dose2": 6,
       "vaccines": 12
     },
     {
@@ -890,6 +890,13 @@
       "dose1": 2,
       "dose2": 4,
       "vaccines": 6
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "WYALKATCHEM",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

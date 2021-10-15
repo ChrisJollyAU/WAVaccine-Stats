@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "NICKOL",
   "data": [
     {
@@ -1244,23 +1244,30 @@
     {
       "date": "2021-10-11",
       "locality": "NICKOL",
-      "dose1": 40,
+      "dose1": 42,
       "dose2": 20,
-      "vaccines": 60
+      "vaccines": 62
     },
     {
       "date": "2021-10-12",
       "locality": "NICKOL",
-      "dose1": 18,
+      "dose1": 22,
       "dose2": 13,
-      "vaccines": 31
+      "vaccines": 35
     },
     {
       "date": "2021-10-13",
       "locality": "NICKOL",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 12,
-      "vaccines": 30
+      "vaccines": 31
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "NICKOL",
+      "dose1": 21,
+      "dose2": 14,
+      "vaccines": 35
     }
   ]
 }

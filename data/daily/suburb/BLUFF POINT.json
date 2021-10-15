@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "BLUFF POINT",
   "data": [
     {
@@ -1321,9 +1321,16 @@
     {
       "date": "2021-10-13",
       "locality": "BLUFF POINT",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "BLUFF POINT",
+      "dose1": 6,
+      "dose2": 4,
+      "vaccines": 10
     }
   ]
 }

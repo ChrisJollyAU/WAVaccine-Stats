@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "postcode": "PARKLANDS",
   "data": [
     {
@@ -500,14 +500,6 @@
     },
     {
       "date": "2021-06-13",
-      "locality": "PARKLANDS",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-14",
       "locality": "PARKLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -1487,8 +1479,8 @@
       "locality": "PARKLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-07",
@@ -1574,9 +1566,9 @@
       "date": "2021-09-14",
       "locality": "PARKLANDS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-14",
@@ -1877,14 +1869,6 @@
     {
       "date": "2021-10-05",
       "locality": "PARKLANDS",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-05",
-      "locality": "PARKLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -1905,6 +1889,14 @@
       "dose1": 4,
       "dose2": 2,
       "vaccines": 6
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "PARKLANDS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-07",
@@ -1934,8 +1926,8 @@
       "date": "2021-10-08",
       "locality": "PARKLANDS",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 2,
       "vaccines": 3
     },
     {
@@ -2064,6 +2056,22 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "PARKLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "PARKLANDS",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

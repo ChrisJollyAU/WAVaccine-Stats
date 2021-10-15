@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-13T00:00:00",
+  "date_updated": "2021-10-14T00:00:00",
   "locality": "EAST CARNARVON",
   "data": [
     {
@@ -572,8 +572,15 @@
     {
       "date": "2021-10-13",
       "locality": "EAST CARNARVON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "EAST CARNARVON",
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     }
   ]

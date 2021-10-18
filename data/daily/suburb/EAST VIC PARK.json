@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-14T00:00:00",
+  "date_updated": "2021-10-17T00:00:00",
   "locality": "EAST VIC PARK",
   "data": [
     {
@@ -747,8 +747,29 @@
     {
       "date": "2021-10-14",
       "locality": "EAST VIC PARK",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "EAST VIC PARK",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "EAST VIC PARK",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "EAST VIC PARK",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

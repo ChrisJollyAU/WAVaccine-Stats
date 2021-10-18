@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-14T00:00:00",
+  "date_updated": "2021-10-17T00:00:00",
   "locality": "MUCKENBURRA",
   "data": [
     {
@@ -166,16 +166,23 @@
     {
       "date": "2021-09-25",
       "locality": "MUCKENBURRA",
-      "dose1": 23,
+      "dose1": 28,
       "dose2": 0,
-      "vaccines": 23
+      "vaccines": 28
     },
     {
       "date": "2021-10-01",
       "locality": "MUCKENBURRA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "MUCKENBURRA",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-10-04",
@@ -215,9 +222,23 @@
     {
       "date": "2021-10-14",
       "locality": "MUCKENBURRA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "MUCKENBURRA",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "MUCKENBURRA",
+      "dose1": 0,
+      "dose2": 23,
+      "vaccines": 23
     }
   ]
 }

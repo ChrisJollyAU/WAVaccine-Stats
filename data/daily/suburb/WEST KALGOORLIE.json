@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-14T00:00:00",
+  "date_updated": "2021-10-17T00:00:00",
   "locality": "WEST KALGOORLIE",
   "data": [
     {
@@ -136,6 +136,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-01",
+      "locality": "WEST KALGOORLIE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-03",
       "locality": "WEST KALGOORLIE",
       "dose1": 1,
@@ -168,6 +175,13 @@
       "locality": "WEST KALGOORLIE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "WEST KALGOORLIE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -209,8 +223,15 @@
       "date": "2021-10-14",
       "locality": "WEST KALGOORLIE",
       "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "WEST KALGOORLIE",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-14T00:00:00",
+  "date_updated": "2021-10-17T00:00:00",
   "postcode": "STONEVILLE",
   "data": [
     {
@@ -862,9 +862,9 @@
       "date": "2021-05-08",
       "locality": "STONEVILLE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 2
     },
     {
       "date": "2021-05-08",
@@ -2519,8 +2519,8 @@
       "locality": "STONEVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-08-03",
@@ -3347,14 +3347,6 @@
       "vaccines": 12
     },
     {
-      "date": "2021-09-10",
-      "locality": "STONEVILLE",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-11",
       "locality": "STONEVILLE",
       "AgeGroup": "16 to 49",
@@ -4075,14 +4067,6 @@
       "vaccines": 7
     },
     {
-      "date": "2021-10-08",
-      "locality": "STONEVILLE",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-09",
       "locality": "STONEVILLE",
       "AgeGroup": "16 to 49",
@@ -4215,16 +4199,96 @@
       "locality": "STONEVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose2": 12,
+      "vaccines": 16
     },
     {
       "date": "2021-10-14",
       "locality": "STONEVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "STONEVILLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "STONEVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "STONEVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "STONEVILLE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "STONEVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "STONEVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "STONEVILLE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "STONEVILLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "STONEVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 3,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "STONEVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

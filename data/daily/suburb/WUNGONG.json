@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-14T00:00:00",
+  "date_updated": "2021-10-17T00:00:00",
   "locality": "WUNGONG",
   "data": [
     {
@@ -852,9 +852,23 @@
     {
       "date": "2021-10-14",
       "locality": "WUNGONG",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "WUNGONG",
+      "dose1": 0,
+      "dose2": 7,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "WUNGONG",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

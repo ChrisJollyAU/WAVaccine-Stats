@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-14T00:00:00",
+  "date_updated": "2021-10-17T00:00:00",
   "locality": "GRACETOWN",
   "data": [
     {
@@ -50,6 +50,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-06-03",
+      "locality": "GRACETOWN",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-06-09",
@@ -213,6 +220,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-26",
+      "locality": "GRACETOWN",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
       "date": "2021-08-27",
       "locality": "GRACETOWN",
       "dose1": 0,
@@ -253,6 +267,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "GRACETOWN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-12",
@@ -350,6 +371,13 @@
       "locality": "GRACETOWN",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "GRACETOWN",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

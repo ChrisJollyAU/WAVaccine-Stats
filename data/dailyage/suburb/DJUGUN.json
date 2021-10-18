@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-14T00:00:00",
+  "date_updated": "2021-10-17T00:00:00",
   "postcode": "DJUGUN",
   "data": [
     {
@@ -443,14 +443,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-30",
-      "locality": "DJUGUN",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-01",
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
@@ -547,17 +539,17 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-03",
+      "date": "2021-07-31",
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
-      "date": "2021-08-04",
+      "date": "2021-08-03",
       "locality": "DJUGUN",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -766,9 +758,9 @@
       "date": "2021-09-02",
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-09-03",
@@ -862,9 +854,9 @@
       "date": "2021-09-13",
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-13",
@@ -975,8 +967,8 @@
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-09-23",
@@ -998,9 +990,9 @@
       "date": "2021-09-25",
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-28",
@@ -1030,9 +1022,9 @@
       "date": "2021-09-30",
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-01",
@@ -1062,17 +1054,17 @@
       "date": "2021-10-05",
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-06",
       "locality": "DJUGUN",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-06",
@@ -1136,6 +1128,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "DJUGUN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-14T00:00:00",
+  "date_updated": "2021-10-17T00:00:00",
   "postcode": "CORAL BAY",
   "data": [
     {
@@ -339,6 +339,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-10",
+      "locality": "CORAL BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-15",
       "locality": "CORAL BAY",
       "AgeGroup": "16 to 49",
@@ -438,8 +446,8 @@
       "date": "2021-10-07",
       "locality": "CORAL BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 2,
       "vaccines": 3
     },
     {
@@ -462,9 +470,9 @@
       "date": "2021-10-12",
       "locality": "CORAL BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
-      "dose2": 8,
-      "vaccines": 13
+      "dose1": 10,
+      "dose2": 10,
+      "vaccines": 20
     },
     {
       "date": "2021-10-12",
@@ -489,6 +497,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "CORAL BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

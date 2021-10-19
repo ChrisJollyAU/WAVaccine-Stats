@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "locality": "ALBANY PO",
   "data": [
     {
@@ -1336,8 +1336,8 @@
       "date": "2021-10-15",
       "locality": "ALBANY PO",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-16",
@@ -1345,6 +1345,13 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "ALBANY PO",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

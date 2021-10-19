@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "postcode": "HIGHGATE",
   "data": [
     {
@@ -3758,9 +3758,9 @@
       "date": "2021-09-23",
       "locality": "HIGHGATE",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 16,
       "dose2": 5,
-      "vaccines": 19
+      "vaccines": 21
     },
     {
       "date": "2021-09-23",
@@ -4323,6 +4323,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-10-15",
+      "locality": "HIGHGATE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-16",
       "locality": "HIGHGATE",
       "AgeGroup": "12 to 15",
@@ -4337,6 +4345,14 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "HIGHGATE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-17",
@@ -4361,6 +4377,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "HIGHGATE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 12,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "HIGHGATE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

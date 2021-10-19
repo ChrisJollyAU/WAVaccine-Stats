@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "postcode": "ORANGE GROVE",
   "data": [
     {
@@ -2566,9 +2566,9 @@
       "date": "2021-10-15",
       "locality": "ORANGE GROVE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-15",
@@ -2608,6 +2608,22 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "ORANGE GROVE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "ORANGE GROVE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

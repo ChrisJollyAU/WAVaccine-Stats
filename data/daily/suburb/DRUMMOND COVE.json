@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "locality": "DRUMMOND COVE",
   "data": [
     {
@@ -1315,15 +1315,15 @@
       "date": "2021-10-13",
       "locality": "DRUMMOND COVE",
       "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-10-14",
       "locality": "DRUMMOND COVE",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-15",
@@ -1345,6 +1345,13 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "DRUMMOND COVE",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     }
   ]
 }

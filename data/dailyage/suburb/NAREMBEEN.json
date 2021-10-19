@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "postcode": "NAREMBEEN",
   "data": [
     {
@@ -598,9 +598,9 @@
       "date": "2021-07-07",
       "locality": "NAREMBEEN",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-07-09",
@@ -1575,8 +1575,8 @@
       "locality": "NAREMBEEN",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-10-02",
@@ -1816,6 +1816,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "NAREMBEEN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

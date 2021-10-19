@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "postcode": "COLLINGWOOD HTS",
   "data": [
     {
@@ -1773,6 +1773,14 @@
     {
       "date": "2021-10-14",
       "locality": "COLLINGWOOD HTS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "COLLINGWOOD HTS",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -1787,6 +1795,22 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-15",
+      "locality": "COLLINGWOOD HTS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "COLLINGWOOD HTS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-16",
       "locality": "COLLINGWOOD HTS",
       "AgeGroup": "16 to 49",
@@ -1797,9 +1821,33 @@
     {
       "date": "2021-10-17",
       "locality": "COLLINGWOOD HTS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "COLLINGWOOD HTS",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "COLLINGWOOD HTS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "COLLINGWOOD HTS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

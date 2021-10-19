@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "locality": "STIRLING",
   "data": [
     {
@@ -61,9 +61,9 @@
     {
       "date": "2021-03-03",
       "locality": "STIRLING",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-03-04",
@@ -244,8 +244,8 @@
       "date": "2021-03-29",
       "locality": "STIRLING",
       "dose1": 19,
-      "dose2": 5,
-      "vaccines": 24
+      "dose2": 4,
+      "vaccines": 23
     },
     {
       "date": "2021-03-30",
@@ -593,9 +593,9 @@
     {
       "date": "2021-05-18",
       "locality": "STIRLING",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 4,
-      "vaccines": 25
+      "vaccines": 24
     },
     {
       "date": "2021-05-19",
@@ -698,9 +698,9 @@
     {
       "date": "2021-06-02",
       "locality": "STIRLING",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 7,
-      "vaccines": 35
+      "vaccines": 34
     },
     {
       "date": "2021-06-03",
@@ -1105,8 +1105,8 @@
       "date": "2021-07-30",
       "locality": "STIRLING",
       "dose1": 30,
-      "dose2": 44,
-      "vaccines": 74
+      "dose2": 43,
+      "vaccines": 73
     },
     {
       "date": "2021-07-31",
@@ -1336,8 +1336,8 @@
       "date": "2021-09-01",
       "locality": "STIRLING",
       "dose1": 71,
-      "dose2": 50,
-      "vaccines": 121
+      "dose2": 49,
+      "vaccines": 120
     },
     {
       "date": "2021-09-02",
@@ -1595,8 +1595,8 @@
       "date": "2021-10-08",
       "locality": "STIRLING",
       "dose1": 60,
-      "dose2": 41,
-      "vaccines": 101
+      "dose2": 42,
+      "vaccines": 102
     },
     {
       "date": "2021-10-09",
@@ -1643,16 +1643,16 @@
     {
       "date": "2021-10-15",
       "locality": "STIRLING",
-      "dose1": 48,
-      "dose2": 53,
-      "vaccines": 101
+      "dose1": 50,
+      "dose2": 54,
+      "vaccines": 104
     },
     {
       "date": "2021-10-16",
       "locality": "STIRLING",
-      "dose1": 38,
+      "dose1": 39,
       "dose2": 39,
-      "vaccines": 77
+      "vaccines": 78
     },
     {
       "date": "2021-10-17",
@@ -1660,6 +1660,13 @@
       "dose1": 21,
       "dose2": 41,
       "vaccines": 62
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "STIRLING",
+      "dose1": 33,
+      "dose2": 36,
+      "vaccines": 69
     }
   ]
 }

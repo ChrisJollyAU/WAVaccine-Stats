@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "postcode": "STIRLING",
   "data": [
     {
@@ -102,9 +102,9 @@
       "date": "2021-03-03",
       "locality": "STIRLING",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-03-03",
@@ -599,8 +599,8 @@
       "locality": "STIRLING",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2021-03-29",
@@ -1734,9 +1734,9 @@
       "date": "2021-05-18",
       "locality": "STIRLING",
       "AgeGroup": "70 and over",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-05-19",
@@ -2086,9 +2086,9 @@
       "date": "2021-06-02",
       "locality": "STIRLING",
       "AgeGroup": "50 to 69",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 2,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-06-02",
@@ -3471,8 +3471,8 @@
       "locality": "STIRLING",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 12,
-      "vaccines": 14
+      "dose2": 11,
+      "vaccines": 13
     },
     {
       "date": "2021-07-31",
@@ -4247,8 +4247,8 @@
       "locality": "STIRLING",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 20,
-      "vaccines": 32
+      "dose2": 19,
+      "vaccines": 31
     },
     {
       "date": "2021-09-01",
@@ -5303,8 +5303,8 @@
       "locality": "STIRLING",
       "AgeGroup": "16 to 49",
       "dose1": 34,
-      "dose2": 28,
-      "vaccines": 62
+      "dose2": 29,
+      "vaccines": 63
     },
     {
       "date": "2021-10-08",
@@ -5526,17 +5526,17 @@
       "date": "2021-10-15",
       "locality": "STIRLING",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
-      "dose2": 20,
-      "vaccines": 44
+      "dose1": 25,
+      "dose2": 21,
+      "vaccines": 46
     },
     {
       "date": "2021-10-15",
       "locality": "STIRLING",
       "AgeGroup": "50 to 69",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 18,
-      "vaccines": 30
+      "vaccines": 31
     },
     {
       "date": "2021-10-15",
@@ -5566,9 +5566,9 @@
       "date": "2021-10-16",
       "locality": "STIRLING",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 13,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-10-16",
@@ -5609,6 +5609,38 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "STIRLING",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "STIRLING",
+      "AgeGroup": "16 to 49",
+      "dose1": 14,
+      "dose2": 19,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "STIRLING",
+      "AgeGroup": "50 to 69",
+      "dose1": 9,
+      "dose2": 10,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "STIRLING",
+      "AgeGroup": "70 and over",
+      "dose1": 7,
+      "dose2": 7,
+      "vaccines": 14
     }
   ]
 }

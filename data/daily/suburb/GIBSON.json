@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "locality": "GIBSON",
   "data": [
     {
@@ -741,14 +741,21 @@
       "date": "2021-10-16",
       "locality": "GIBSON",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-10-17",
       "locality": "GIBSON",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "GIBSON",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

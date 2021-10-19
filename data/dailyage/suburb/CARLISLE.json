@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "postcode": "CARLISLE",
   "data": [
     {
@@ -966,9 +966,9 @@
       "date": "2021-04-20",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-04-20",
@@ -1399,8 +1399,8 @@
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-05-11",
@@ -1894,9 +1894,9 @@
       "date": "2021-06-03",
       "locality": "CARLISLE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-06-03",
@@ -3839,8 +3839,8 @@
       "locality": "CARLISLE",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 7,
-      "vaccines": 12
+      "dose2": 8,
+      "vaccines": 13
     },
     {
       "date": "2021-08-26",
@@ -3878,9 +3878,9 @@
       "date": "2021-08-28",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 42,
+      "dose1": 43,
       "dose2": 14,
-      "vaccines": 56
+      "vaccines": 57
     },
     {
       "date": "2021-08-28",
@@ -3926,9 +3926,9 @@
       "date": "2021-08-30",
       "locality": "CARLISLE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 7,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-08-30",
@@ -4407,8 +4407,8 @@
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
       "dose1": 17,
-      "dose2": 21,
-      "vaccines": 38
+      "dose2": 22,
+      "vaccines": 39
     },
     {
       "date": "2021-09-18",
@@ -4494,9 +4494,9 @@
       "date": "2021-09-21",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 15,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-09-21",
@@ -4894,9 +4894,9 @@
       "date": "2021-10-04",
       "locality": "CARLISLE",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 4,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-10-04",
@@ -5062,9 +5062,9 @@
       "date": "2021-10-10",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 31,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-10-10",
@@ -5182,8 +5182,8 @@
       "date": "2021-10-14",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
-      "dose2": 28,
+      "dose1": 17,
+      "dose2": 29,
       "vaccines": 46
     },
     {
@@ -5214,9 +5214,9 @@
       "date": "2021-10-15",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 16,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-10-15",
@@ -5270,9 +5270,9 @@
       "date": "2021-10-17",
       "locality": "CARLISLE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 17,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-10-17",
@@ -5289,6 +5289,38 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "CARLISLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "CARLISLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 19,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "CARLISLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "CARLISLE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

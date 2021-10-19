@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "locality": "PERTH BUSINESS CENTRE",
   "data": [
     {
@@ -685,8 +685,8 @@
       "date": "2021-10-08",
       "locality": "PERTH BUSINESS CENTRE",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-10",
@@ -715,6 +715,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "PERTH BUSINESS CENTRE",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

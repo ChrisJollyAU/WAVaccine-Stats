@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "locality": "LEDGE POINT",
   "data": [
     {
@@ -727,14 +727,21 @@
       "date": "2021-10-14",
       "locality": "LEDGE POINT",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-10-15",
       "locality": "LEDGE POINT",
       "dose1": 0,
-      "dose2": 2,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "LEDGE POINT",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

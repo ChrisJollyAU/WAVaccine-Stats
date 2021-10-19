@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-17T00:00:00",
+  "date_updated": "2021-10-18T00:00:00",
   "postcode": "X",
   "data": [
     {
@@ -19,11 +19,19 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-09",
+      "date": "2021-07-28",
       "locality": "X",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "X",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

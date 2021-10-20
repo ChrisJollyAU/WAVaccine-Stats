@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "postcode": "MILLENDON",
   "data": [
     {
@@ -2463,8 +2463,8 @@
       "locality": "MILLENDON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-18",
@@ -2473,6 +2473,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "MILLENDON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "postcode": "YAKAMIA",
   "data": [
     {
       "date": "2021-03-02",
       "locality": "YAKAMIA",
       "AgeGroup": "70 and over",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-03-03",
@@ -247,8 +247,8 @@
       "locality": "YAKAMIA",
       "AgeGroup": "70 and over",
       "dose1": 8,
-      "dose2": 13,
-      "vaccines": 21
+      "dose2": 12,
+      "vaccines": 20
     },
     {
       "date": "2021-03-25",
@@ -4254,17 +4254,17 @@
       "date": "2021-10-15",
       "locality": "YAKAMIA",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose1": 7,
+      "dose2": 5,
+      "vaccines": 12
     },
     {
       "date": "2021-10-15",
       "locality": "YAKAMIA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-10-15",
@@ -4293,18 +4293,26 @@
     {
       "date": "2021-10-17",
       "locality": "YAKAMIA",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "YAKAMIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 9,
+      "vaccines": 15
     },
     {
       "date": "2021-10-17",
       "locality": "YAKAMIA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-10-17",
@@ -4317,7 +4325,7 @@
     {
       "date": "2021-10-18",
       "locality": "YAKAMIA",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "12 to 15",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -4325,10 +4333,18 @@
     {
       "date": "2021-10-18",
       "locality": "YAKAMIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 3,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "YAKAMIA",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-18",
@@ -4337,6 +4353,30 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "YAKAMIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 1,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "YAKAMIA",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "YAKAMIA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

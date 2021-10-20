@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "locality": "SHENTON PARK",
   "data": [
     {
@@ -1665,8 +1665,15 @@
       "date": "2021-10-18",
       "locality": "SHENTON PARK",
       "dose1": 8,
+      "dose2": 13,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "SHENTON PARK",
+      "dose1": 7,
       "dose2": 12,
-      "vaccines": 20
+      "vaccines": 19
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "postcode": "SOUTHERN CROSS",
   "data": [
     {
@@ -1339,6 +1339,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-26",
+      "locality": "SOUTHERN CROSS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-27",
       "locality": "SOUTHERN CROSS",
       "AgeGroup": "16 to 49",
@@ -1599,8 +1607,8 @@
       "locality": "SOUTHERN CROSS",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-10-14",
@@ -1655,8 +1663,8 @@
       "locality": "SOUTHERN CROSS",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-18",
@@ -1665,6 +1673,30 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "SOUTHERN CROSS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "SOUTHERN CROSS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "SOUTHERN CROSS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

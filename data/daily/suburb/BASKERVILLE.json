@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "locality": "BASKERVILLE",
   "data": [
     {
@@ -1042,8 +1042,15 @@
       "date": "2021-10-18",
       "locality": "BASKERVILLE",
       "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "BASKERVILLE",
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     }
   ]
 }

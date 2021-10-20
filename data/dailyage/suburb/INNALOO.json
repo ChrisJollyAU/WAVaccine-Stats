@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "postcode": "INNALOO",
   "data": [
     {
@@ -598,9 +598,9 @@
       "date": "2021-03-29",
       "locality": "INNALOO",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-03-29",
@@ -1446,9 +1446,9 @@
       "date": "2021-05-08",
       "locality": "INNALOO",
       "AgeGroup": "50 to 69",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 0,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-05-08",
@@ -1894,9 +1894,9 @@
       "date": "2021-05-28",
       "locality": "INNALOO",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 7,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-05-28",
@@ -3399,8 +3399,8 @@
       "locality": "INNALOO",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 11,
-      "vaccines": 14
+      "dose2": 12,
+      "vaccines": 15
     },
     {
       "date": "2021-07-31",
@@ -3957,14 +3957,6 @@
     {
       "date": "2021-08-24",
       "locality": "INNALOO",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-24",
-      "locality": "INNALOO",
       "AgeGroup": "16 to 49",
       "dose1": 32,
       "dose2": 17,
@@ -4342,9 +4334,9 @@
       "date": "2021-09-09",
       "locality": "INNALOO",
       "AgeGroup": "16 to 49",
-      "dose1": 40,
+      "dose1": 39,
       "dose2": 23,
-      "vaccines": 63
+      "vaccines": 62
     },
     {
       "date": "2021-09-09",
@@ -4487,8 +4479,8 @@
       "locality": "INNALOO",
       "AgeGroup": "12 to 15",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 0,
+      "vaccines": 5
     },
     {
       "date": "2021-09-15",
@@ -5063,8 +5055,8 @@
       "locality": "INNALOO",
       "AgeGroup": "16 to 49",
       "dose1": 25,
-      "dose2": 37,
-      "vaccines": 62
+      "dose2": 36,
+      "vaccines": 61
     },
     {
       "date": "2021-10-04",
@@ -5278,9 +5270,9 @@
       "date": "2021-10-11",
       "locality": "INNALOO",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 41,
-      "vaccines": 64
+      "vaccines": 65
     },
     {
       "date": "2021-10-11",
@@ -5343,8 +5335,8 @@
       "locality": "INNALOO",
       "AgeGroup": "16 to 49",
       "dose1": 21,
-      "dose2": 21,
-      "vaccines": 42
+      "dose2": 22,
+      "vaccines": 43
     },
     {
       "date": "2021-10-13",
@@ -5406,9 +5398,9 @@
       "date": "2021-10-15",
       "locality": "INNALOO",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 23,
       "dose2": 35,
-      "vaccines": 56
+      "vaccines": 58
     },
     {
       "date": "2021-10-15",
@@ -5521,6 +5513,38 @@
       "dose1": 3,
       "dose2": 9,
       "vaccines": 12
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "INNALOO",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "INNALOO",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 28,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "INNALOO",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "INNALOO",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

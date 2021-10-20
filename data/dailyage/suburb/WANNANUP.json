@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "postcode": "WANNANUP",
   "data": [
     {
@@ -1062,9 +1062,9 @@
       "date": "2021-05-20",
       "locality": "WANNANUP",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-05-20",
@@ -1158,17 +1158,17 @@
       "date": "2021-05-25",
       "locality": "WANNANUP",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-05-25",
       "locality": "WANNANUP",
       "AgeGroup": "70 and over",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-05-26",
@@ -2094,9 +2094,9 @@
       "date": "2021-07-13",
       "locality": "WANNANUP",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 2,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-07-13",
@@ -2118,9 +2118,9 @@
       "date": "2021-07-14",
       "locality": "WANNANUP",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-07-14",
@@ -2543,8 +2543,8 @@
       "locality": "WANNANUP",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 14,
-      "vaccines": 15
+      "dose2": 13,
+      "vaccines": 14
     },
     {
       "date": "2021-08-02",
@@ -2871,16 +2871,16 @@
       "locality": "WANNANUP",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-08-17",
       "locality": "WANNANUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 8,
-      "vaccines": 8
+      "dose2": 9,
+      "vaccines": 9
     },
     {
       "date": "2021-08-18",
@@ -2935,8 +2935,8 @@
       "locality": "WANNANUP",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose2": 5,
+      "vaccines": 12
     },
     {
       "date": "2021-08-20",
@@ -3047,8 +3047,8 @@
       "locality": "WANNANUP",
       "AgeGroup": "16 to 49",
       "dose1": 14,
-      "dose2": 6,
-      "vaccines": 20
+      "dose2": 7,
+      "vaccines": 21
     },
     {
       "date": "2021-08-25",
@@ -3941,18 +3941,10 @@
     {
       "date": "2021-10-01",
       "locality": "WANNANUP",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-01",
-      "locality": "WANNANUP",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 16,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-10-01",
@@ -4110,9 +4102,9 @@
       "date": "2021-10-07",
       "locality": "WANNANUP",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 16,
       "dose2": 12,
-      "vaccines": 30
+      "vaccines": 28
     },
     {
       "date": "2021-10-07",
@@ -4406,17 +4398,17 @@
       "date": "2021-10-18",
       "locality": "WANNANUP",
       "AgeGroup": "12 to 15",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-18",
       "locality": "WANNANUP",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 22,
       "dose2": 8,
-      "vaccines": 26
+      "vaccines": 30
     },
     {
       "date": "2021-10-18",
@@ -4425,6 +4417,38 @@
       "dose1": 3,
       "dose2": 5,
       "vaccines": 8
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "WANNANUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "WANNANUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 7,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "WANNANUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "WANNANUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

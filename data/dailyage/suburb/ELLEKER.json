@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "postcode": "ELLEKER",
   "data": [
     {
@@ -1363,6 +1363,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-15",
+      "locality": "ELLEKER",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-16",
       "locality": "ELLEKER",
       "AgeGroup": "16 to 49",
@@ -1374,8 +1382,32 @@
       "date": "2021-10-17",
       "locality": "ELLEKER",
       "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "ELLEKER",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "ELLEKER",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "ELLEKER",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

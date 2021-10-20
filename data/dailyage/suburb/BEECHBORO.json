@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-18T00:00:00",
+  "date_updated": "2021-10-19T00:00:00",
   "postcode": "BEECHBORO",
   "data": [
     {
@@ -1086,9 +1086,9 @@
       "date": "2021-04-27",
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-27",
@@ -1342,9 +1342,17 @@
       "date": "2021-05-09",
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
+    },
+    {
+      "date": "2021-05-09",
+      "locality": "BEECHBORO",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-10",
@@ -1942,9 +1950,9 @@
       "date": "2021-06-05",
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 0,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-06-05",
@@ -2671,8 +2679,8 @@
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 6,
-      "vaccines": 18
+      "dose2": 5,
+      "vaccines": 17
     },
     {
       "date": "2021-07-06",
@@ -3327,16 +3335,16 @@
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
       "dose1": 11,
-      "dose2": 14,
-      "vaccines": 25
+      "dose2": 13,
+      "vaccines": 24
     },
     {
       "date": "2021-08-03",
       "locality": "BEECHBORO",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-08-04",
@@ -4550,9 +4558,9 @@
       "date": "2021-09-20",
       "locality": "BEECHBORO",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 13,
-      "vaccines": 41
+      "vaccines": 40
     },
     {
       "date": "2021-09-20",
@@ -4679,8 +4687,8 @@
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
       "dose1": 15,
-      "dose2": 11,
-      "vaccines": 26
+      "dose2": 10,
+      "vaccines": 25
     },
     {
       "date": "2021-09-24",
@@ -5038,9 +5046,9 @@
       "date": "2021-10-06",
       "locality": "BEECHBORO",
       "AgeGroup": "16 to 49",
-      "dose1": 35,
+      "dose1": 34,
       "dose2": 20,
-      "vaccines": 55
+      "vaccines": 54
     },
     {
       "date": "2021-10-06",
@@ -5102,9 +5110,9 @@
       "date": "2021-10-08",
       "locality": "BEECHBORO",
       "AgeGroup": "16 to 49",
-      "dose1": 43,
+      "dose1": 44,
       "dose2": 27,
-      "vaccines": 70
+      "vaccines": 71
     },
     {
       "date": "2021-10-08",
@@ -5198,17 +5206,17 @@
       "date": "2021-10-11",
       "locality": "BEECHBORO",
       "AgeGroup": "16 to 49",
-      "dose1": 31,
+      "dose1": 32,
       "dose2": 34,
-      "vaccines": 65
+      "vaccines": 66
     },
     {
       "date": "2021-10-11",
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
       "dose1": 10,
-      "dose2": 19,
-      "vaccines": 29
+      "dose2": 20,
+      "vaccines": 30
     },
     {
       "date": "2021-10-11",
@@ -5262,9 +5270,9 @@
       "date": "2021-10-13",
       "locality": "BEECHBORO",
       "AgeGroup": "16 to 49",
-      "dose1": 27,
+      "dose1": 30,
       "dose2": 32,
-      "vaccines": 59
+      "vaccines": 62
     },
     {
       "date": "2021-10-13",
@@ -5294,57 +5302,57 @@
       "date": "2021-10-14",
       "locality": "BEECHBORO",
       "AgeGroup": "16 to 49",
-      "dose1": 30,
+      "dose1": 32,
       "dose2": 24,
-      "vaccines": 54
+      "vaccines": 56
     },
     {
       "date": "2021-10-14",
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
       "dose1": 15,
-      "dose2": 10,
-      "vaccines": 25
+      "dose2": 12,
+      "vaccines": 27
     },
     {
       "date": "2021-10-14",
       "locality": "BEECHBORO",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-10-15",
       "locality": "BEECHBORO",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-15",
       "locality": "BEECHBORO",
       "AgeGroup": "16 to 49",
-      "dose1": 37,
-      "dose2": 38,
-      "vaccines": 75
+      "dose1": 38,
+      "dose2": 39,
+      "vaccines": 77
     },
     {
       "date": "2021-10-15",
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
-      "dose1": 16,
-      "dose2": 21,
-      "vaccines": 37
+      "dose1": 17,
+      "dose2": 22,
+      "vaccines": 39
     },
     {
       "date": "2021-10-15",
       "locality": "BEECHBORO",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-16",
@@ -5414,25 +5422,57 @@
       "date": "2021-10-18",
       "locality": "BEECHBORO",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 20,
       "dose2": 16,
-      "vaccines": 32
+      "vaccines": 36
     },
     {
       "date": "2021-10-18",
       "locality": "BEECHBORO",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-10-18",
       "locality": "BEECHBORO",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "BEECHBORO",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "BEECHBORO",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 25,
+      "vaccines": 36
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "BEECHBORO",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 21,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "BEECHBORO",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

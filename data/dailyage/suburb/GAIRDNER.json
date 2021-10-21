@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "postcode": "GAIRDNER",
   "data": [
     {
@@ -667,6 +667,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-13",
+      "locality": "GAIRDNER",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-14",
       "locality": "GAIRDNER",
       "AgeGroup": "16 to 49",
@@ -696,6 +704,22 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "GAIRDNER",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "GAIRDNER",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "locality": "BROCKMAN",
   "data": [
     {
@@ -754,9 +754,9 @@
     {
       "date": "2021-09-24",
       "locality": "BROCKMAN",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-09-27",
@@ -860,8 +860,8 @@
       "date": "2021-10-15",
       "locality": "BROCKMAN",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-17",
@@ -873,9 +873,9 @@
     {
       "date": "2021-10-18",
       "locality": "BROCKMAN",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-19",
@@ -883,6 +883,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "BROCKMAN",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

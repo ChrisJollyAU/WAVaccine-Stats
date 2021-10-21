@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "locality": "WAGIN",
   "data": [
     {
@@ -1140,15 +1140,15 @@
       "date": "2021-10-15",
       "locality": "WAGIN",
       "dose1": 15,
-      "dose2": 6,
-      "vaccines": 21
+      "dose2": 7,
+      "vaccines": 22
     },
     {
       "date": "2021-10-16",
       "locality": "WAGIN",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-18",
@@ -1163,6 +1163,13 @@
       "dose1": 6,
       "dose2": 1,
       "vaccines": 7
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "WAGIN",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

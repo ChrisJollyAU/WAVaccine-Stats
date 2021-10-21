@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "locality": "COLLEGE GROVE",
   "data": [
     {
@@ -1013,9 +1013,9 @@
     {
       "date": "2021-09-02",
       "locality": "COLLEGE GROVE",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-09-03",
@@ -1182,8 +1182,8 @@
       "date": "2021-09-28",
       "locality": "COLLEGE GROVE",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-09-29",
@@ -1307,9 +1307,9 @@
     {
       "date": "2021-10-16",
       "locality": "COLLEGE GROVE",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-10-17",
@@ -1328,9 +1328,16 @@
     {
       "date": "2021-10-19",
       "locality": "COLLEGE GROVE",
-      "dose1": 4,
-      "dose2": 6,
+      "dose1": 3,
+      "dose2": 7,
       "vaccines": 10
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "COLLEGE GROVE",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

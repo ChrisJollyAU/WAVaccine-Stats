@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "locality": "COOLGARDIE",
   "data": [
     {
@@ -929,9 +929,9 @@
     {
       "date": "2021-10-14",
       "locality": "COOLGARDIE",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 20,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-10-15",
@@ -957,9 +957,16 @@
     {
       "date": "2021-10-19",
       "locality": "COOLGARDIE",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "COOLGARDIE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

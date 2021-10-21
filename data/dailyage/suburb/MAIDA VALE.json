@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "postcode": "MAIDA VALE",
   "data": [
     {
@@ -161,6 +161,14 @@
       "dose1": 5,
       "dose2": 0,
       "vaccines": 5
+    },
+    {
+      "date": "2021-03-12",
+      "locality": "MAIDA VALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-03-12",
@@ -1358,9 +1366,9 @@
       "date": "2021-05-21",
       "locality": "MAIDA VALE",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-05-21",
@@ -1958,8 +1966,8 @@
       "date": "2021-06-18",
       "locality": "MAIDA VALE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
-      "dose2": 3,
+      "dose1": 2,
+      "dose2": 5,
       "vaccines": 7
     },
     {
@@ -2975,8 +2983,8 @@
       "locality": "MAIDA VALE",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 16,
-      "vaccines": 22
+      "dose2": 17,
+      "vaccines": 23
     },
     {
       "date": "2021-07-31",
@@ -3727,8 +3735,8 @@
       "locality": "MAIDA VALE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 8,
-      "vaccines": 11
+      "dose2": 9,
+      "vaccines": 12
     },
     {
       "date": "2021-09-01",
@@ -4126,17 +4134,17 @@
       "date": "2021-09-17",
       "locality": "MAIDA VALE",
       "AgeGroup": "12 to 15",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-17",
       "locality": "MAIDA VALE",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 11,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-09-17",
@@ -4767,16 +4775,16 @@
       "locality": "MAIDA VALE",
       "AgeGroup": "12 to 15",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-10-08",
       "locality": "MAIDA VALE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 17,
-      "vaccines": 27
+      "dose2": 18,
+      "vaccines": 28
     },
     {
       "date": "2021-10-08",
@@ -5110,17 +5118,17 @@
       "date": "2021-10-19",
       "locality": "MAIDA VALE",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 19,
       "dose2": 16,
-      "vaccines": 32
+      "vaccines": 35
     },
     {
       "date": "2021-10-19",
       "locality": "MAIDA VALE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 7,
-      "vaccines": 11
+      "vaccines": 13
     },
     {
       "date": "2021-10-19",
@@ -5129,6 +5137,38 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "MAIDA VALE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "MAIDA VALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 21,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "MAIDA VALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "MAIDA VALE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

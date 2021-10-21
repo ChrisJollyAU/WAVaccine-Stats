@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "locality": "DALWALLINU",
   "data": [
     {
@@ -810,9 +810,9 @@
     {
       "date": "2021-09-24",
       "locality": "DALWALLINU",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-25",
@@ -946,6 +946,13 @@
       "dose1": 9,
       "dose2": 3,
       "vaccines": 12
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "DALWALLINU",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

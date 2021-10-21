@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "postcode": "BAYONET HEAD",
   "data": [
     {
@@ -1382,9 +1382,9 @@
       "date": "2021-06-03",
       "locality": "BAYONET HEAD",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-06-04",
@@ -3174,9 +3174,9 @@
       "date": "2021-08-26",
       "locality": "BAYONET HEAD",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 7,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-08-26",
@@ -3262,9 +3262,9 @@
       "date": "2021-08-30",
       "locality": "BAYONET HEAD",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-08-30",
@@ -3661,6 +3661,14 @@
     {
       "date": "2021-09-16",
       "locality": "BAYONET HEAD",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "BAYONET HEAD",
       "AgeGroup": "16 to 49",
       "dose1": 15,
       "dose2": 6,
@@ -3671,8 +3679,8 @@
       "locality": "BAYONET HEAD",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 0,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 7
     },
     {
       "date": "2021-09-16",
@@ -3943,16 +3951,16 @@
       "locality": "BAYONET HEAD",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-09-28",
       "locality": "BAYONET HEAD",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-09-29",
@@ -4173,6 +4181,14 @@
     {
       "date": "2021-10-07",
       "locality": "BAYONET HEAD",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "BAYONET HEAD",
       "AgeGroup": "16 to 49",
       "dose1": 4,
       "dose2": 14,
@@ -4326,9 +4342,9 @@
       "date": "2021-10-13",
       "locality": "BAYONET HEAD",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 8,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-10-13",
@@ -4390,9 +4406,9 @@
       "date": "2021-10-15",
       "locality": "BAYONET HEAD",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 11,
       "dose2": 3,
-      "vaccines": 12
+      "vaccines": 14
     },
     {
       "date": "2021-10-15",
@@ -4494,25 +4510,41 @@
       "date": "2021-10-19",
       "locality": "BAYONET HEAD",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-10-19",
       "locality": "BAYONET HEAD",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-10-19",
       "locality": "BAYONET HEAD",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "BAYONET HEAD",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 3,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "BAYONET HEAD",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "locality": "PARKLANDS",
   "data": [
     {
@@ -1056,15 +1056,22 @@
       "date": "2021-10-18",
       "locality": "PARKLANDS",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-19",
       "locality": "PARKLANDS",
       "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "PARKLANDS",
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 2
     }
   ]
 }

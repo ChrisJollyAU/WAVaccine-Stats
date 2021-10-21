@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-19T00:00:00",
+  "date_updated": "2021-10-20T00:00:00",
   "locality": "WEST BEACH",
   "data": [
     {
@@ -1133,8 +1133,15 @@
       "date": "2021-10-19",
       "locality": "WEST BEACH",
       "dose1": 9,
-      "dose2": 0,
-      "vaccines": 9
+      "dose2": 2,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "WEST BEACH",
+      "dose1": 2,
+      "dose2": 8,
+      "vaccines": 10
     }
   ]
 }

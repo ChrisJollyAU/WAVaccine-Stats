@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "locality": "WAGGRAKINE",
   "data": [
     {
@@ -194,9 +194,9 @@
     {
       "date": "2021-04-22",
       "locality": "WAGGRAKINE",
-      "dose1": 5,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 4
     },
     {
       "date": "2021-04-23",
@@ -355,9 +355,9 @@
     {
       "date": "2021-05-22",
       "locality": "WAGGRAKINE",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-05-24",
@@ -699,8 +699,8 @@
       "date": "2021-07-15",
       "locality": "WAGGRAKINE",
       "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose2": 2,
+      "vaccines": 10
     },
     {
       "date": "2021-07-16",
@@ -895,8 +895,8 @@
       "date": "2021-08-13",
       "locality": "WAGGRAKINE",
       "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose2": 7,
+      "vaccines": 12
     },
     {
       "date": "2021-08-14",
@@ -1090,9 +1090,9 @@
     {
       "date": "2021-09-12",
       "locality": "WAGGRAKINE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-13",
@@ -1111,9 +1111,9 @@
     {
       "date": "2021-09-15",
       "locality": "WAGGRAKINE",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 4,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-09-16",
@@ -1125,9 +1125,9 @@
     {
       "date": "2021-09-17",
       "locality": "WAGGRAKINE",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 10,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-09-18",
@@ -1238,8 +1238,8 @@
       "date": "2021-10-04",
       "locality": "WAGGRAKINE",
       "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-10-05",
@@ -1266,8 +1266,8 @@
       "date": "2021-10-08",
       "locality": "WAGGRAKINE",
       "dose1": 15,
-      "dose2": 10,
-      "vaccines": 25
+      "dose2": 12,
+      "vaccines": 27
     },
     {
       "date": "2021-10-09",
@@ -1335,9 +1335,9 @@
     {
       "date": "2021-10-18",
       "locality": "WAGGRAKINE",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 7,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-10-19",
@@ -1349,9 +1349,16 @@
     {
       "date": "2021-10-20",
       "locality": "WAGGRAKINE",
-      "dose1": 14,
-      "dose2": 18,
-      "vaccines": 32
+      "dose1": 18,
+      "dose2": 19,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "WAGGRAKINE",
+      "dose1": 19,
+      "dose2": 10,
+      "vaccines": 29
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "postcode": "HILBERT",
   "data": [
     {
@@ -3374,9 +3374,9 @@
       "date": "2021-09-24",
       "locality": "HILBERT",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 15,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-09-24",
@@ -3446,9 +3446,9 @@
       "date": "2021-09-27",
       "locality": "HILBERT",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 7,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-09-28",
@@ -3839,8 +3839,8 @@
       "locality": "HILBERT",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 13,
-      "vaccines": 25
+      "dose2": 14,
+      "vaccines": 26
     },
     {
       "date": "2021-10-13",
@@ -3975,8 +3975,8 @@
       "locality": "HILBERT",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 11,
-      "vaccines": 22
+      "dose2": 12,
+      "vaccines": 23
     },
     {
       "date": "2021-10-18",
@@ -3998,9 +3998,9 @@
       "date": "2021-10-19",
       "locality": "HILBERT",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 11,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-10-19",
@@ -4030,17 +4030,49 @@
       "date": "2021-10-20",
       "locality": "HILBERT",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 18,
-      "vaccines": 25
+      "dose1": 8,
+      "dose2": 19,
+      "vaccines": 27
     },
     {
       "date": "2021-10-20",
       "locality": "HILBERT",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "HILBERT",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "HILBERT",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 8,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "HILBERT",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 1,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "HILBERT",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

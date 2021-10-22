@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "postcode": "WELSHPOOL",
   "data": [
     {
@@ -731,6 +731,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-20",
+      "locality": "WELSHPOOL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-21",
       "locality": "WELSHPOOL",
       "AgeGroup": "50 to 69",
@@ -895,8 +903,8 @@
       "locality": "WELSHPOOL",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-12",
@@ -966,6 +974,22 @@
       "date": "2021-10-20",
       "locality": "WELSHPOOL",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "WELSHPOOL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "WELSHPOOL",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1

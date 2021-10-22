@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "locality": "MUMBALLUP",
   "data": [
     {
@@ -259,6 +259,13 @@
       "locality": "MUMBALLUP",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "MUMBALLUP",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "postcode": "6475",
   "data": [
     {
@@ -108,14 +108,6 @@
     },
     {
       "date": "2021-04-23",
-      "postcode": "6475",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-04",
       "postcode": "6475",
       "AgeGroup": "70 and over",
       "dose1": 1,
@@ -767,8 +759,8 @@
       "postcode": "6475",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-02",
@@ -1641,6 +1633,38 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-21",
+      "postcode": "6475",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-21",
+      "postcode": "6475",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-21",
+      "postcode": "6475",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-21",
+      "postcode": "6475",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

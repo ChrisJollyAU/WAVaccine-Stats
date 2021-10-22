@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "postcode": "6395",
   "data": [
     {
@@ -3111,8 +3111,8 @@
       "postcode": "6395",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 9,
-      "vaccines": 14
+      "dose2": 10,
+      "vaccines": 15
     },
     {
       "date": "2021-10-20",
@@ -3129,6 +3129,30 @@
       "dose1": 2,
       "dose2": 8,
       "vaccines": 10
+    },
+    {
+      "date": "2021-10-21",
+      "postcode": "6395",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 1,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-21",
+      "postcode": "6395",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-21",
+      "postcode": "6395",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

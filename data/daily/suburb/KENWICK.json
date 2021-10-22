@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "locality": "KENWICK",
   "data": [
     {
@@ -446,9 +446,9 @@
     {
       "date": "2021-05-12",
       "locality": "KENWICK",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 3,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-05-13",
@@ -747,9 +747,9 @@
     {
       "date": "2021-06-27",
       "locality": "KENWICK",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 3
     },
     {
       "date": "2021-06-28",
@@ -888,15 +888,15 @@
       "date": "2021-07-17",
       "locality": "KENWICK",
       "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose2": 4,
+      "vaccines": 10
     },
     {
       "date": "2021-07-18",
       "locality": "KENWICK",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 1,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-07-19",
@@ -908,9 +908,9 @@
     {
       "date": "2021-07-20",
       "locality": "KENWICK",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 11,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-07-21",
@@ -1112,8 +1112,8 @@
       "date": "2021-08-18",
       "locality": "KENWICK",
       "dose1": 31,
-      "dose2": 31,
-      "vaccines": 62
+      "dose2": 32,
+      "vaccines": 63
     },
     {
       "date": "2021-08-19",
@@ -1140,8 +1140,8 @@
       "date": "2021-08-22",
       "locality": "KENWICK",
       "dose1": 20,
-      "dose2": 13,
-      "vaccines": 33
+      "dose2": 12,
+      "vaccines": 32
     },
     {
       "date": "2021-08-23",
@@ -1476,8 +1476,8 @@
       "date": "2021-10-09",
       "locality": "KENWICK",
       "dose1": 33,
-      "dose2": 20,
-      "vaccines": 53
+      "dose2": 18,
+      "vaccines": 51
     },
     {
       "date": "2021-10-10",
@@ -1545,16 +1545,23 @@
     {
       "date": "2021-10-19",
       "locality": "KENWICK",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 28,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-10-20",
       "locality": "KENWICK",
-      "dose1": 13,
-      "dose2": 27,
-      "vaccines": 40
+      "dose1": 15,
+      "dose2": 29,
+      "vaccines": 44
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "KENWICK",
+      "dose1": 14,
+      "dose2": 20,
+      "vaccines": 34
     }
   ]
 }

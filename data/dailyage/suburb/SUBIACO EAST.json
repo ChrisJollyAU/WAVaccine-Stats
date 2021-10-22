@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "postcode": "SUBIACO EAST",
   "data": [
     {
@@ -76,6 +76,14 @@
     },
     {
       "date": "2021-03-29",
+      "locality": "SUBIACO EAST",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-30",
       "locality": "SUBIACO EAST",
       "AgeGroup": "70 and over",
       "dose1": 1,
@@ -175,8 +183,8 @@
       "locality": "SUBIACO EAST",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-04-21",
@@ -673,6 +681,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-09",
+      "locality": "SUBIACO EAST",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-10",
@@ -1463,8 +1479,8 @@
       "locality": "SUBIACO EAST",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-02",

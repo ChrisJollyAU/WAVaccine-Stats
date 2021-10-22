@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "locality": "CLACKLINE",
   "data": [
     {
@@ -600,9 +600,9 @@
     {
       "date": "2021-09-04",
       "locality": "CLACKLINE",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-06",
@@ -706,8 +706,8 @@
       "date": "2021-09-24",
       "locality": "CLACKLINE",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-09-25",
@@ -834,6 +834,13 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "CLACKLINE",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

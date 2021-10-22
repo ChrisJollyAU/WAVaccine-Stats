@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "locality": "MIDLAND",
   "data": [
     {
@@ -201,9 +201,9 @@
     {
       "date": "2021-03-28",
       "locality": "MIDLAND",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-29",
@@ -790,8 +790,8 @@
       "date": "2021-06-25",
       "locality": "MIDLAND",
       "dose1": 5,
-      "dose2": 10,
-      "vaccines": 15
+      "dose2": 11,
+      "vaccines": 16
     },
     {
       "date": "2021-06-26",
@@ -1321,9 +1321,9 @@
     {
       "date": "2021-09-09",
       "locality": "MIDLAND",
-      "dose1": 33,
+      "dose1": 32,
       "dose2": 26,
-      "vaccines": 59
+      "vaccines": 58
     },
     {
       "date": "2021-09-10",
@@ -1405,9 +1405,9 @@
     {
       "date": "2021-09-21",
       "locality": "MIDLAND",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 27,
-      "vaccines": 59
+      "vaccines": 60
     },
     {
       "date": "2021-09-22",
@@ -1510,9 +1510,9 @@
     {
       "date": "2021-10-06",
       "locality": "MIDLAND",
-      "dose1": 42,
+      "dose1": 41,
       "dose2": 31,
-      "vaccines": 73
+      "vaccines": 72
     },
     {
       "date": "2021-10-07",
@@ -1573,9 +1573,9 @@
     {
       "date": "2021-10-15",
       "locality": "MIDLAND",
-      "dose1": 53,
+      "dose1": 54,
       "dose2": 43,
-      "vaccines": 96
+      "vaccines": 97
     },
     {
       "date": "2021-10-16",
@@ -1587,30 +1587,37 @@
     {
       "date": "2021-10-17",
       "locality": "MIDLAND",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 11,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-10-18",
       "locality": "MIDLAND",
-      "dose1": 26,
-      "dose2": 30,
-      "vaccines": 56
+      "dose1": 28,
+      "dose2": 31,
+      "vaccines": 59
     },
     {
       "date": "2021-10-19",
       "locality": "MIDLAND",
-      "dose1": 23,
+      "dose1": 27,
       "dose2": 32,
-      "vaccines": 55
+      "vaccines": 59
     },
     {
       "date": "2021-10-20",
       "locality": "MIDLAND",
-      "dose1": 30,
+      "dose1": 38,
+      "dose2": 44,
+      "vaccines": 82
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "MIDLAND",
+      "dose1": 32,
       "dose2": 39,
-      "vaccines": 69
+      "vaccines": 71
     }
   ]
 }

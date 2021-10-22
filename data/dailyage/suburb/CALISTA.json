@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "postcode": "CALISTA",
   "data": [
     {
@@ -38,9 +38,9 @@
       "date": "2021-03-03",
       "locality": "CALISTA",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-03-03",
@@ -143,8 +143,8 @@
       "locality": "CALISTA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-03-24",
@@ -1414,9 +1414,9 @@
       "date": "2021-07-02",
       "locality": "CALISTA",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-02",
@@ -1967,8 +1967,8 @@
       "locality": "CALISTA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-08-03",
@@ -3086,9 +3086,9 @@
       "date": "2021-09-24",
       "locality": "CALISTA",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-09-24",
@@ -3622,9 +3622,9 @@
       "date": "2021-10-18",
       "locality": "CALISTA",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-10-18",
@@ -3647,8 +3647,8 @@
       "locality": "CALISTA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-10-19",
@@ -3669,10 +3669,18 @@
     {
       "date": "2021-10-20",
       "locality": "CALISTA",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "CALISTA",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-10-20",
@@ -3687,8 +3695,40 @@
       "locality": "CALISTA",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "CALISTA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "CALISTA",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "CALISTA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "CALISTA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

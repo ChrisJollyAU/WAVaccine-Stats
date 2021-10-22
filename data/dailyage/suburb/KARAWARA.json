@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "postcode": "KARAWARA",
   "data": [
     {
@@ -1606,9 +1606,9 @@
       "date": "2021-06-25",
       "locality": "KARAWARA",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-06-25",
@@ -2239,8 +2239,8 @@
       "locality": "KARAWARA",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-07-25",
@@ -3654,9 +3654,9 @@
       "date": "2021-09-28",
       "locality": "KARAWARA",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 10,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-09-28",
@@ -4198,25 +4198,57 @@
       "date": "2021-10-20",
       "locality": "KARAWARA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 10,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-10-20",
       "locality": "KARAWARA",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-20",
       "locality": "KARAWARA",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "KARAWARA",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "KARAWARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 10,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "KARAWARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "KARAWARA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

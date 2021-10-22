@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-20T00:00:00",
+  "date_updated": "2021-10-21T00:00:00",
   "locality": "MALAGA",
   "data": [
     {
@@ -75,9 +75,9 @@
     {
       "date": "2021-04-08",
       "locality": "MALAGA",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-04-10",
@@ -353,6 +353,13 @@
       "vaccines": 5
     },
     {
+      "date": "2021-06-08",
+      "locality": "MALAGA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-09",
       "locality": "MALAGA",
       "dose1": 4,
@@ -477,6 +484,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-02",
+      "locality": "MALAGA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-03",
@@ -776,8 +790,8 @@
       "date": "2021-08-17",
       "locality": "MALAGA",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-08-18",
@@ -999,9 +1013,9 @@
     {
       "date": "2021-09-19",
       "locality": "MALAGA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-09-20",
@@ -1083,9 +1097,9 @@
     {
       "date": "2021-10-01",
       "locality": "MALAGA",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-10-02",
@@ -1154,8 +1168,8 @@
       "date": "2021-10-12",
       "locality": "MALAGA",
       "dose1": 0,
-      "dose2": 6,
-      "vaccines": 6
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2021-10-13",
@@ -1201,6 +1215,13 @@
     },
     {
       "date": "2021-10-20",
+      "locality": "MALAGA",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-21",
       "locality": "MALAGA",
       "dose1": 3,
       "dose2": 2,

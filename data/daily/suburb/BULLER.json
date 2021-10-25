@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "BULLER",
   "data": [
     {
@@ -22,13 +22,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-04-06",
-      "locality": "BULLER",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-04-22",
@@ -113,13 +106,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-06-29",
-      "locality": "BULLER",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-02",
@@ -220,13 +206,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-20",
-      "locality": "BULLER",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-21",
       "locality": "BULLER",
       "dose1": 0,
@@ -264,9 +243,9 @@
     {
       "date": "2021-08-28",
       "locality": "BULLER",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-30",
@@ -356,14 +335,7 @@
       "date": "2021-09-24",
       "locality": "BULLER",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-25",
-      "locality": "BULLER",
-      "dose1": 0,
-      "dose2": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -399,13 +371,6 @@
       "locality": "BULLER",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-03",
-      "locality": "BULLER",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -483,6 +448,20 @@
       "locality": "BULLER",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "BULLER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "BULLER",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

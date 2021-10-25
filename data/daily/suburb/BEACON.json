@@ -1,16 +1,9 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "BEACON",
   "data": [
     {
       "date": "2021-03-19",
-      "locality": "BEACON",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-31",
       "locality": "BEACON",
       "dose1": 1,
       "dose2": 0,
@@ -38,6 +31,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-29",
+      "locality": "BEACON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-11",
       "locality": "BEACON",
       "dose1": 2,
@@ -46,6 +46,13 @@
     },
     {
       "date": "2021-05-14",
+      "locality": "BEACON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-25",
       "locality": "BEACON",
       "dose1": 0,
       "dose2": 1,
@@ -292,9 +299,9 @@
     {
       "date": "2021-08-20",
       "locality": "BEACON",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-08-22",
@@ -355,16 +362,9 @@
     {
       "date": "2021-09-07",
       "locality": "BEACON",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
-    },
-    {
-      "date": "2021-09-08",
-      "locality": "BEACON",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "vaccines": 5
     },
     {
       "date": "2021-09-09",
@@ -403,13 +403,6 @@
     },
     {
       "date": "2021-09-17",
-      "locality": "BEACON",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-21",
       "locality": "BEACON",
       "dose1": 1,
       "dose2": 0,
@@ -454,22 +447,22 @@
       "date": "2021-09-29",
       "locality": "BEACON",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-09-30",
       "locality": "BEACON",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-01",
       "locality": "BEACON",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 6
+      "vaccines": 8
     },
     {
       "date": "2021-10-04",
@@ -488,16 +481,16 @@
     {
       "date": "2021-10-07",
       "locality": "BEACON",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-08",
       "locality": "BEACON",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-09",
@@ -509,9 +502,9 @@
     {
       "date": "2021-10-11",
       "locality": "BEACON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-12",
@@ -538,8 +531,8 @@
       "date": "2021-10-15",
       "locality": "BEACON",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-16",
@@ -551,9 +544,9 @@
     {
       "date": "2021-10-17",
       "locality": "BEACON",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-19",
@@ -566,8 +559,22 @@
       "date": "2021-10-20",
       "locality": "BEACON",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "BEACON",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "BEACON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "SAWYERS VALLEY",
   "data": [
     {
@@ -30,17 +30,17 @@
       "date": "2021-03-07",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-03-07",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-08",
@@ -70,6 +70,14 @@
       "date": "2021-03-15",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-15",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -235,6 +243,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-07",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-08",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
@@ -273,14 +289,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-04-14",
-      "locality": "SAWYERS VALLEY",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-04-15",
@@ -390,25 +398,25 @@
       "date": "2021-05-04",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-05-04",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-05-05",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-05-05",
@@ -503,8 +511,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-05-15",
@@ -638,17 +646,17 @@
       "date": "2021-05-25",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-05-25",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "70 and over",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-26",
@@ -798,9 +806,9 @@
       "date": "2021-06-09",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-09",
@@ -861,18 +869,10 @@
     {
       "date": "2021-06-15",
       "locality": "SAWYERS VALLEY",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-15",
-      "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-15",
@@ -910,9 +910,9 @@
       "date": "2021-06-17",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-06-17",
@@ -1022,17 +1022,17 @@
       "date": "2021-06-25",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-25",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-25",
@@ -1207,8 +1207,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-07-07",
@@ -1238,9 +1238,9 @@
       "date": "2021-07-08",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-07-08",
@@ -1269,18 +1269,10 @@
     {
       "date": "2021-07-10",
       "locality": "SAWYERS VALLEY",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-10",
-      "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-11",
@@ -1343,16 +1335,16 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-14",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-14",
@@ -1367,8 +1359,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-16",
@@ -1501,18 +1493,10 @@
     {
       "date": "2021-07-25",
       "locality": "SAWYERS VALLEY",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-25",
-      "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-26",
@@ -1582,14 +1566,6 @@
       "date": "2021-07-28",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-29",
-      "locality": "SAWYERS VALLEY",
-      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1734,25 +1710,25 @@
       "date": "2021-08-05",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-08-05",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-06",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-06",
@@ -1966,25 +1942,25 @@
       "date": "2021-08-17",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-08-17",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-08-17",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-18",
@@ -2031,16 +2007,16 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-20",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-08-21",
@@ -2135,16 +2111,16 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-08-26",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-08-26",
@@ -2182,22 +2158,14 @@
       "date": "2021-08-28",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
       "date": "2021-08-28",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-29",
-      "locality": "SAWYERS VALLEY",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -2278,9 +2246,9 @@
       "date": "2021-09-02",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-02",
@@ -2342,9 +2310,9 @@
       "date": "2021-09-06",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-09-06",
@@ -2366,25 +2334,25 @@
       "date": "2021-09-07",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-07",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 5,
+      "dose1": 1,
+      "dose2": 4,
       "vaccines": 5
     },
     {
       "date": "2021-09-08",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-08",
@@ -2454,9 +2422,9 @@
       "date": "2021-09-11",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-11",
@@ -2526,9 +2494,9 @@
       "date": "2021-09-15",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-09-15",
@@ -2550,9 +2518,9 @@
       "date": "2021-09-16",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-09-17",
@@ -2566,9 +2534,9 @@
       "date": "2021-09-17",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-09-17",
@@ -2647,8 +2615,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-21",
@@ -2686,9 +2654,9 @@
       "date": "2021-09-23",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-23",
@@ -2742,9 +2710,9 @@
       "date": "2021-09-25",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-25",
@@ -2767,8 +2735,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-09-27",
@@ -2783,8 +2751,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-09-28",
@@ -2806,17 +2774,17 @@
       "date": "2021-09-29",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-09-29",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-09-29",
@@ -2831,8 +2799,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose2": 0,
+      "vaccines": 6
     },
     {
       "date": "2021-09-30",
@@ -2846,8 +2814,8 @@
       "date": "2021-10-01",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 2,
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     },
     {
@@ -2870,24 +2838,24 @@
       "date": "2021-10-02",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
-    },
-    {
-      "date": "2021-10-03",
-      "locality": "SAWYERS VALLEY",
-      "AgeGroup": "12 to 15",
-      "dose1": 3,
-      "dose2": 0,
       "vaccines": 3
     },
     {
       "date": "2021-10-03",
       "locality": "SAWYERS VALLEY",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 3,
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     },
     {
@@ -2942,9 +2910,9 @@
       "date": "2021-10-06",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-06",
@@ -2966,17 +2934,17 @@
       "date": "2021-10-07",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-10-08",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-08",
@@ -3055,8 +3023,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-12",
@@ -3078,25 +3046,25 @@
       "date": "2021-10-13",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-10-13",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-14",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-10-14",
@@ -3142,17 +3110,17 @@
       "date": "2021-10-16",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-10-17",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-10-18",
@@ -3166,17 +3134,17 @@
       "date": "2021-10-18",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 5,
+      "dose1": 0,
+      "dose2": 6,
       "vaccines": 6
     },
     {
       "date": "2021-10-18",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-18",
@@ -3207,8 +3175,8 @@
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
     },
     {
       "date": "2021-10-20",
@@ -3230,8 +3198,8 @@
       "date": "2021-10-21",
       "locality": "SAWYERS VALLEY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 4,
+      "dose1": 1,
+      "dose2": 5,
       "vaccines": 6
     },
     {
@@ -3249,6 +3217,62 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "SAWYERS VALLEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

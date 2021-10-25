@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "GWELUP DC",
   "data": [
     {
@@ -211,6 +211,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-08",
+      "locality": "GWELUP DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2021-06-09",
       "locality": "GWELUP DC",
       "AgeGroup": "50 to 69",
@@ -245,18 +253,10 @@
     {
       "date": "2021-06-14",
       "locality": "GWELUP DC",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-14",
-      "locality": "GWELUP DC",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-19",
@@ -635,6 +635,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-08-25",
+      "locality": "GWELUP DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-26",
       "locality": "GWELUP DC",
       "AgeGroup": "50 to 69",
@@ -683,6 +691,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-01",
+      "locality": "GWELUP DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-02",
       "locality": "GWELUP DC",
       "AgeGroup": "16 to 49",
@@ -707,11 +723,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-06",
+      "date": "2021-09-04",
       "locality": "GWELUP DC",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -719,8 +735,8 @@
       "locality": "GWELUP DC",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-07",
@@ -891,6 +907,22 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-05",
+      "locality": "GWELUP DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "GWELUP DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-07",
       "locality": "GWELUP DC",
       "AgeGroup": "16 to 49",
@@ -977,6 +1009,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "GWELUP DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

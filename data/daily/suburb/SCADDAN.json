@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "SCADDAN",
   "data": [
     {
@@ -11,13 +11,6 @@
     },
     {
       "date": "2021-04-17",
-      "locality": "SCADDAN",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-27",
       "locality": "SCADDAN",
       "dose1": 1,
       "dose2": 0,
@@ -101,13 +94,6 @@
       "vaccines": 3
     },
     {
-      "date": "2021-07-23",
-      "locality": "SCADDAN",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-31",
       "locality": "SCADDAN",
       "dose1": 0,
@@ -171,6 +157,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-01",
+      "locality": "SCADDAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-02",
       "locality": "SCADDAN",
       "dose1": 0,
@@ -215,16 +208,9 @@
     {
       "date": "2021-09-15",
       "locality": "SCADDAN",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
-    },
-    {
-      "date": "2021-09-16",
-      "locality": "SCADDAN",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-22",
@@ -258,8 +244,8 @@
       "date": "2021-10-06",
       "locality": "SCADDAN",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-07",
@@ -267,13 +253,6 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
-    },
-    {
-      "date": "2021-10-10",
-      "locality": "SCADDAN",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
     },
     {
       "date": "2021-10-12",
@@ -286,15 +265,8 @@
       "date": "2021-10-13",
       "locality": "SCADDAN",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-10-15",
-      "locality": "SCADDAN",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-16",
@@ -321,8 +293,15 @@
       "date": "2021-10-21",
       "locality": "SCADDAN",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "SCADDAN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "BULLER",
   "data": [
     {
@@ -25,14 +25,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-04-06",
-      "locality": "BULLER",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-04-22",
@@ -129,14 +121,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-06-29",
-      "locality": "BULLER",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-02",
@@ -259,14 +243,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-20",
-      "locality": "BULLER",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-21",
       "locality": "BULLER",
       "AgeGroup": "16 to 49",
@@ -318,9 +294,9 @@
       "date": "2021-08-28",
       "locality": "BULLER",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-30",
@@ -437,25 +413,9 @@
     {
       "date": "2021-09-24",
       "locality": "BULLER",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-24",
-      "locality": "BULLER",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-25",
-      "locality": "BULLER",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -512,14 +472,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-03",
-      "locality": "BULLER",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -616,6 +568,22 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "BULLER",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "BULLER",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

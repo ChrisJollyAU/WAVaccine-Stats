@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "KIRUP",
   "data": [
     {
@@ -117,18 +117,10 @@
     {
       "date": "2021-05-24",
       "locality": "KIRUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-24",
-      "locality": "KIRUP",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-05-28",
@@ -142,14 +134,6 @@
       "date": "2021-05-30",
       "locality": "KIRUP",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-03",
-      "locality": "KIRUP",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -307,14 +291,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-23",
-      "locality": "KIRUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-26",
       "locality": "KIRUP",
       "AgeGroup": "50 to 69",
@@ -334,14 +310,6 @@
       "date": "2021-07-27",
       "locality": "KIRUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-28",
-      "locality": "KIRUP",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -405,18 +373,10 @@
     {
       "date": "2021-08-09",
       "locality": "KIRUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-09",
-      "locality": "KIRUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-11",
@@ -467,14 +427,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-15",
-      "locality": "KIRUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-18",
       "locality": "KIRUP",
       "AgeGroup": "16 to 49",
@@ -487,15 +439,7 @@
       "locality": "KIRUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-08-21",
-      "locality": "KIRUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -526,6 +470,14 @@
       "date": "2021-08-31",
       "locality": "KIRUP",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "KIRUP",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -587,22 +539,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-06",
-      "locality": "KIRUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-07",
-      "locality": "KIRUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-07",
       "locality": "KIRUP",
       "AgeGroup": "50 to 69",
@@ -646,9 +582,9 @@
       "date": "2021-09-16",
       "locality": "KIRUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-16",
@@ -661,18 +597,10 @@
     {
       "date": "2021-09-22",
       "locality": "KIRUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-22",
-      "locality": "KIRUP",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-09-23",
@@ -743,8 +671,8 @@
       "locality": "KIRUP",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-02",
@@ -755,20 +683,12 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-05",
-      "locality": "KIRUP",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-06",
       "locality": "KIRUP",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-06",
@@ -777,22 +697,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-10-07",
-      "locality": "KIRUP",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-07",
-      "locality": "KIRUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-10-07",
@@ -819,14 +723,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-10-11",
-      "locality": "KIRUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-13",
       "locality": "KIRUP",
       "AgeGroup": "50 to 69",
@@ -847,8 +743,8 @@
       "locality": "KIRUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-19",
@@ -872,6 +768,22 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "KIRUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "KIRUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

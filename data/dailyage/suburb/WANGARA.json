@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "WANGARA",
   "data": [
     {
@@ -102,38 +102,30 @@
       "date": "2021-05-03",
       "locality": "WANGARA",
       "AgeGroup": "70 and over",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-05-04",
-      "locality": "WANGARA",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-05-04",
-      "locality": "WANGARA",
-      "AgeGroup": "70 and over",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-05-06",
-      "locality": "WANGARA",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
     },
     {
-      "date": "2021-05-06",
+      "date": "2021-05-04",
+      "locality": "WANGARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-05-04",
       "locality": "WANGARA",
       "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-05-06",
+      "locality": "WANGARA",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -235,14 +227,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-05-27",
-      "locality": "WANGARA",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-05-28",
       "locality": "WANGARA",
       "AgeGroup": "50 to 69",
@@ -310,14 +294,6 @@
       "date": "2021-06-16",
       "locality": "WANGARA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-17",
-      "locality": "WANGARA",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -419,14 +395,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-02",
-      "locality": "WANGARA",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-06",
       "locality": "WANGARA",
       "AgeGroup": "50 to 69",
@@ -454,14 +422,6 @@
       "date": "2021-07-08",
       "locality": "WANGARA",
       "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-09",
-      "locality": "WANGARA",
-      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -605,7 +565,7 @@
     {
       "date": "2021-07-26",
       "locality": "WANGARA",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -615,8 +575,8 @@
       "locality": "WANGARA",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-27",
@@ -646,9 +606,9 @@
       "date": "2021-07-29",
       "locality": "WANGARA",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-07-30",
@@ -750,17 +710,17 @@
       "date": "2021-08-12",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-12",
       "locality": "WANGARA",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-12",
@@ -797,14 +757,6 @@
     {
       "date": "2021-08-16",
       "locality": "WANGARA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-16",
-      "locality": "WANGARA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -815,8 +767,16 @@
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "WANGARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-18",
@@ -957,6 +917,14 @@
     {
       "date": "2021-08-31",
       "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-31",
+      "locality": "WANGARA",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
@@ -973,6 +941,14 @@
     {
       "date": "2021-09-02",
       "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "WANGARA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 1,
@@ -991,8 +967,8 @@
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-03",
@@ -1006,9 +982,9 @@
       "date": "2021-09-04",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-04",
@@ -1039,24 +1015,16 @@
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-08",
-      "locality": "WANGARA",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
       "date": "2021-09-09",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-09",
@@ -1078,9 +1046,9 @@
       "date": "2021-09-10",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-10",
@@ -1089,6 +1057,14 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-12",
@@ -1110,9 +1086,9 @@
       "date": "2021-09-14",
       "locality": "WANGARA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-14",
@@ -1143,8 +1119,8 @@
       "locality": "WANGARA",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-09-18",
@@ -1153,14 +1129,6 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
-    },
-    {
-      "date": "2021-09-20",
-      "locality": "WANGARA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-09-20",
@@ -1182,9 +1150,9 @@
       "date": "2021-09-21",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-21",
@@ -1195,12 +1163,20 @@
       "vaccines": 4
     },
     {
-      "date": "2021-09-23",
+      "date": "2021-09-22",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-23",
@@ -1303,48 +1279,56 @@
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "WANGARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "WANGARA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
       "dose2": 2,
       "vaccines": 3
     },
     {
-      "date": "2021-10-01",
+      "date": "2021-10-02",
       "locality": "WANGARA",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-01",
-      "locality": "WANGARA",
-      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
     },
     {
-      "date": "2021-10-02",
+      "date": "2021-10-03",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
-    },
-    {
-      "date": "2021-10-02",
-      "locality": "WANGARA",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-05",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-05",
@@ -1369,6 +1353,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-10",
@@ -1395,14 +1387,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-11",
-      "locality": "WANGARA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-12",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
@@ -1422,9 +1406,9 @@
       "date": "2021-10-13",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-13",
@@ -1439,8 +1423,8 @@
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-15",
@@ -1462,9 +1446,9 @@
       "date": "2021-10-17",
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-17",
@@ -1485,6 +1469,14 @@
     {
       "date": "2021-10-19",
       "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "WANGARA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -1495,8 +1487,8 @@
       "locality": "WANGARA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-20",
@@ -1512,6 +1504,62 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "WANGARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "WANGARA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "WANGARA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "WANGARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "WANGARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "WANGARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

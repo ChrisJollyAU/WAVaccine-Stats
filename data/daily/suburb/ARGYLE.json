@@ -1,12 +1,19 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "ARGYLE",
   "data": [
     {
-      "date": "2021-07-06",
+      "date": "2021-05-13",
       "locality": "ARGYLE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-10",
+      "locality": "ARGYLE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -15,6 +22,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "ARGYLE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-26",
@@ -27,21 +41,14 @@
       "date": "2021-08-30",
       "locality": "ARGYLE",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-01",
       "locality": "ARGYLE",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-02",
-      "locality": "ARGYLE",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -66,6 +73,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-21",
+      "locality": "ARGYLE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-23",
       "locality": "ARGYLE",
       "dose1": 0,
@@ -80,14 +94,14 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-29",
+      "date": "2021-09-30",
       "locality": "ARGYLE",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
-      "date": "2021-09-30",
+      "date": "2021-10-07",
       "locality": "ARGYLE",
       "dose1": 1,
       "dose2": 0,

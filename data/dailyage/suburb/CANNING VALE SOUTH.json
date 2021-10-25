@@ -1,9 +1,9 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "CANNING VALE SOUTH",
   "data": [
     {
-      "date": "2021-03-04",
+      "date": "2021-02-24",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -11,20 +11,28 @@
       "vaccines": 1
     },
     {
-      "date": "2021-03-08",
+      "date": "2021-02-26",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-03-04",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-03-11",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-15",
@@ -47,16 +55,40 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-03-19",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-21",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-24",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-03-25",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-26",
@@ -67,15 +99,7 @@
       "vaccines": 1
     },
     {
-      "date": "2021-03-29",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-03-30",
+      "date": "2021-03-26",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -83,7 +107,15 @@
       "vaccines": 1
     },
     {
-      "date": "2021-03-31",
+      "date": "2021-03-29",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-30",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -99,7 +131,7 @@
       "vaccines": 1
     },
     {
-      "date": "2021-04-09",
+      "date": "2021-04-07",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -107,12 +139,36 @@
       "vaccines": 1
     },
     {
-      "date": "2021-04-12",
+      "date": "2021-04-08",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-09",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-04-10",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-12",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-04-13",
@@ -121,6 +177,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-04-13",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-04-14",
@@ -147,6 +211,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-04-15",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-16",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "70 and over",
@@ -166,8 +238,16 @@
       "date": "2021-04-21",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-04-22",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -183,8 +263,8 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-04-23",
@@ -219,12 +299,44 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-29",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-02",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-05-04",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-05-05",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-05-05",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-05-06",
@@ -238,6 +350,14 @@
       "date": "2021-05-06",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-05-08",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
@@ -263,15 +383,31 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-11",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-12",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-05-13",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
       "vaccines": 2
     },
     {
@@ -283,12 +419,20 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-14",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-17",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-05-18",
@@ -302,9 +446,33 @@
       "date": "2021-05-18",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
+    },
+    {
+      "date": "2021-05-19",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-20",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-05-21",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-23",
@@ -312,6 +480,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-24",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -331,9 +507,25 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-27",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-28",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-28",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -347,12 +539,44 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-31",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-31",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-01",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-01",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-02",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-02",
@@ -367,7 +591,15 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-06-04",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -398,9 +630,9 @@
       "date": "2021-06-08",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-06-09",
@@ -443,6 +675,30 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-14",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-15",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-06-16",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
       "date": "2021-06-16",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
@@ -455,16 +711,16 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-17",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-06-17",
@@ -486,8 +742,40 @@
       "date": "2021-06-18",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-06-18",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-19",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-21",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-22",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -507,12 +795,20 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-24",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-25",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-06-26",
@@ -531,6 +827,22 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-29",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-29",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-06-30",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
@@ -542,6 +854,14 @@
       "date": "2021-06-30",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-06-30",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -558,9 +878,9 @@
       "date": "2021-07-02",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-02",
@@ -573,6 +893,14 @@
     {
       "date": "2021-07-03",
       "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-03",
+      "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -581,7 +909,7 @@
     {
       "date": "2021-07-04",
       "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -598,17 +926,49 @@
       "date": "2021-07-05",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
+    },
+    {
+      "date": "2021-07-05",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-06",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-06",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 5,
       "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-07-06",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-07",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-07",
@@ -625,6 +985,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-07-08",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-09",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-09",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-07-09",
@@ -635,7 +1019,15 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-11",
+      "date": "2021-07-10",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-10",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -643,9 +1035,25 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-13",
+      "date": "2021-07-11",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-11",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-13",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -663,8 +1071,8 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-07-14",
@@ -675,9 +1083,41 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-15",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-15",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-15",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-16",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-17",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -702,17 +1142,41 @@
       "date": "2021-07-19",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-07-20",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-20",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-21",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-07-21",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-07-21",
@@ -721,6 +1185,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-07-22",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-07-22",
@@ -734,17 +1206,25 @@
       "date": "2021-07-23",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-23",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-25",
@@ -758,22 +1238,22 @@
       "date": "2021-07-25",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-07-27",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-27",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-28",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -781,73 +1261,161 @@
     {
       "date": "2021-07-28",
       "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-07-29",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-30",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
       "date": "2021-07-30",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-07-30",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-07-31",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-01",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
     },
     {
-      "date": "2021-08-02",
+      "date": "2021-08-05",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-02",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-08-03",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-08-03",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-04",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-04",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -863,11 +1431,43 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-07",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-07",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-08",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
       "dose2": 1,
       "vaccines": 1
     },
     {
-      "date": "2021-08-07",
+      "date": "2021-08-08",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-09",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -875,23 +1475,55 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-07",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
       "date": "2021-08-09",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-08-10",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-08-10",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-12",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -899,28 +1531,20 @@
       "vaccines": 3
     },
     {
-      "date": "2021-08-10",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
       "date": "2021-08-13",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-13",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2021-08-14",
@@ -943,32 +1567,40 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-08-17",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-17",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-08-18",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-18",
@@ -981,18 +1613,42 @@
     {
       "date": "2021-08-19",
       "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
     },
     {
-      "date": "2021-08-20",
+      "date": "2021-08-21",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-21",
@@ -1005,6 +1661,14 @@
     {
       "date": "2021-08-22",
       "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 2,
@@ -1013,26 +1677,42 @@
     {
       "date": "2021-08-23",
       "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
     },
     {
+      "date": "2021-08-23",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-24",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-08-24",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-08-24",
@@ -1046,33 +1726,33 @@
       "date": "2021-08-25",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-25",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-26",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-08-26",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-26",
@@ -1086,17 +1766,17 @@
       "date": "2021-08-27",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
     },
     {
       "date": "2021-08-28",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-29",
@@ -1111,16 +1791,24 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
-      "date": "2021-08-31",
+      "date": "2021-08-30",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-31",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-08-31",
@@ -1134,33 +1822,41 @@
       "date": "2021-09-01",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-09-01",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-02",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-02",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-03",
@@ -1174,6 +1870,14 @@
       "date": "2021-09-04",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1182,9 +1886,9 @@
       "date": "2021-09-05",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-05",
@@ -1205,10 +1909,10 @@
     {
       "date": "2021-09-07",
       "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-08",
@@ -1219,7 +1923,71 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-08",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-09",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-10",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-11",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 2,
@@ -1227,52 +1995,44 @@
       "vaccines": 3
     },
     {
-      "date": "2021-09-09",
+      "date": "2021-09-11",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
-    },
-    {
-      "date": "2021-09-09",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-10",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
     },
     {
-      "date": "2021-09-10",
+      "date": "2021-09-12",
       "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "70 and over",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
       "date": "2021-09-14",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-15",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-15",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-15",
@@ -1287,8 +2047,8 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-16",
@@ -1302,17 +2062,17 @@
       "date": "2021-09-17",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-17",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose1": 2,
+      "dose2": 7,
+      "vaccines": 9
     },
     {
       "date": "2021-09-18",
@@ -1326,9 +2086,9 @@
       "date": "2021-09-18",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-19",
@@ -1342,9 +2102,9 @@
       "date": "2021-09-19",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-19",
@@ -1363,9 +2123,9 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-21",
+      "date": "2021-09-20",
       "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1373,10 +2133,18 @@
     {
       "date": "2021-09-21",
       "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-22",
@@ -1390,17 +2158,41 @@
       "date": "2021-09-23",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
       "vaccines": 2
     },
     {
       "date": "2021-09-24",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-25",
@@ -1445,15 +2237,7 @@
     {
       "date": "2021-09-29",
       "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-30",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1462,17 +2246,17 @@
       "date": "2021-10-01",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-01",
-      "locality": "CANNING VALE SOUTH",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-01",
@@ -1494,6 +2278,38 @@
       "date": "2021-10-02",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-03",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1509,6 +2325,14 @@
     {
       "date": "2021-10-05",
       "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -1518,16 +2342,24 @@
       "date": "2021-10-06",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-06",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 3,
       "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1551,16 +2383,32 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-09",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-10-10",
@@ -1575,8 +2423,8 @@
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-10-11",
@@ -1585,6 +2433,30 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-13",
@@ -1598,12 +2470,28 @@
       "date": "2021-10-14",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-15",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-16",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -1614,17 +2502,17 @@
       "date": "2021-10-18",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-10-18",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-19",
@@ -1651,9 +2539,57 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-20",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-21",
       "locality": "CANNING VALE SOUTH",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "CANNING VALE SOUTH",
+      "AgeGroup": "12 to 15",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1

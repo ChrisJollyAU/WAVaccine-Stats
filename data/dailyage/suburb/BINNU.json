@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "BINNU",
   "data": [
     {
@@ -11,9 +11,17 @@
       "vaccines": 1
     },
     {
-      "date": "2021-04-27",
+      "date": "2021-03-25",
       "locality": "BINNU",
-      "AgeGroup": "70 and over",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-16",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -24,6 +32,14 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-11",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -115,6 +131,22 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-04",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-05",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-16",
       "locality": "BINNU",
       "AgeGroup": "16 to 49",
@@ -131,6 +163,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-07-20",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-22",
       "locality": "BINNU",
       "AgeGroup": "50 to 69",
@@ -144,14 +184,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-27",
-      "locality": "BINNU",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -172,6 +204,14 @@
     },
     {
       "date": "2021-08-04",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-08",
       "locality": "BINNU",
       "AgeGroup": "16 to 49",
       "dose1": 0,
@@ -227,12 +267,28 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-22",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-23",
       "locality": "BINNU",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-26",
@@ -246,9 +302,9 @@
       "date": "2021-08-27",
       "locality": "BINNU",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-27",
@@ -299,6 +355,22 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-14",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-16",
       "locality": "BINNU",
       "AgeGroup": "50 to 69",
@@ -311,8 +383,8 @@
       "locality": "BINNU",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-17",
@@ -347,12 +419,28 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-25",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-28",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-30",
       "locality": "BINNU",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-01",
@@ -374,6 +462,22 @@
       "date": "2021-10-04",
       "locality": "BINNU",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-07",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "BINNU",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -389,10 +493,10 @@
     {
       "date": "2021-10-21",
       "locality": "BINNU",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

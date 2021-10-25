@@ -1,7 +1,21 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "GRANVILLE",
   "data": [
+    {
+      "date": "2021-07-13",
+      "locality": "GRANVILLE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "GRANVILLE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
     {
       "date": "2021-08-09",
       "locality": "GRANVILLE",
@@ -14,6 +28,34 @@
       "locality": "GRANVILLE",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-11",
+      "locality": "GRANVILLE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "GRANVILLE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "GRANVILLE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "GRANVILLE",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

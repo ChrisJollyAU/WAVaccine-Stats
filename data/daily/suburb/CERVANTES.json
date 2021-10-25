@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "CERVANTES",
   "data": [
     {
@@ -40,9 +40,9 @@
     {
       "date": "2021-03-31",
       "locality": "CERVANTES",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-06",
@@ -236,9 +236,9 @@
     {
       "date": "2021-05-25",
       "locality": "CERVANTES",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-05-26",
@@ -306,9 +306,9 @@
     {
       "date": "2021-06-05",
       "locality": "CERVANTES",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-06",
@@ -409,13 +409,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-25",
-      "locality": "CERVANTES",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-27",
       "locality": "CERVANTES",
       "dose1": 3,
@@ -496,8 +489,8 @@
       "date": "2021-07-12",
       "locality": "CERVANTES",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-07-13",
@@ -572,9 +565,9 @@
     {
       "date": "2021-07-23",
       "locality": "CERVANTES",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-07-26",
@@ -635,9 +628,9 @@
     {
       "date": "2021-08-04",
       "locality": "CERVANTES",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-05",
@@ -684,8 +677,8 @@
     {
       "date": "2021-08-13",
       "locality": "CERVANTES",
-      "dose1": 1,
-      "dose2": 2,
+      "dose1": 0,
+      "dose2": 3,
       "vaccines": 3
     },
     {
@@ -706,8 +699,8 @@
       "date": "2021-08-17",
       "locality": "CERVANTES",
       "dose1": 0,
-      "dose2": 8,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2021-08-18",
@@ -748,8 +741,8 @@
       "date": "2021-08-24",
       "locality": "CERVANTES",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-08-25",
@@ -761,37 +754,30 @@
     {
       "date": "2021-08-26",
       "locality": "CERVANTES",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 7,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-08-27",
-      "locality": "CERVANTES",
-      "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
-    },
-    {
-      "date": "2021-08-28",
-      "locality": "CERVANTES",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-30",
       "locality": "CERVANTES",
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
     },
     {
+      "date": "2021-08-30",
+      "locality": "CERVANTES",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
       "date": "2021-08-31",
       "locality": "CERVANTES",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-01",
@@ -815,13 +801,6 @@
       "vaccines": 5
     },
     {
-      "date": "2021-09-04",
-      "locality": "CERVANTES",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-06",
       "locality": "CERVANTES",
       "dose1": 4,
@@ -838,9 +817,9 @@
     {
       "date": "2021-09-08",
       "locality": "CERVANTES",
-      "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-09-09",
@@ -852,9 +831,9 @@
     {
       "date": "2021-09-10",
       "locality": "CERVANTES",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 5,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-09-11",
@@ -888,11 +867,18 @@
       "date": "2021-09-16",
       "locality": "CERVANTES",
       "dose1": 1,
-      "dose2": 7,
-      "vaccines": 8
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-09-17",
+      "locality": "CERVANTES",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-18",
       "locality": "CERVANTES",
       "dose1": 1,
       "dose2": 0,
@@ -916,8 +902,8 @@
       "date": "2021-09-22",
       "locality": "CERVANTES",
       "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose2": 2,
+      "vaccines": 10
     },
     {
       "date": "2021-09-23",
@@ -930,8 +916,8 @@
       "date": "2021-09-24",
       "locality": "CERVANTES",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-09-26",
@@ -958,15 +944,15 @@
       "date": "2021-09-29",
       "locality": "CERVANTES",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-30",
       "locality": "CERVANTES",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-01",
@@ -978,9 +964,9 @@
     {
       "date": "2021-10-02",
       "locality": "CERVANTES",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-04",
@@ -993,8 +979,8 @@
       "date": "2021-10-05",
       "locality": "CERVANTES",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-06",
@@ -1034,9 +1020,9 @@
     {
       "date": "2021-10-11",
       "locality": "CERVANTES",
-      "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-10-12",
@@ -1049,8 +1035,8 @@
       "date": "2021-10-13",
       "locality": "CERVANTES",
       "dose1": 1,
-      "dose2": 7,
-      "vaccines": 8
+      "dose2": 8,
+      "vaccines": 9
     },
     {
       "date": "2021-10-14",
@@ -1091,15 +1077,29 @@
       "date": "2021-10-20",
       "locality": "CERVANTES",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-10-21",
       "locality": "CERVANTES",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CERVANTES",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "CERVANTES",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

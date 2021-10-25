@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "BENCUBBIN",
   "data": [
     {
@@ -173,6 +173,14 @@
     {
       "date": "2021-07-07",
       "locality": "BENCUBBIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-07",
+      "locality": "BENCUBBIN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -254,9 +262,9 @@
       "date": "2021-07-28",
       "locality": "BENCUBBIN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-28",
@@ -270,9 +278,9 @@
       "date": "2021-07-29",
       "locality": "BENCUBBIN",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-07-29",
@@ -309,6 +317,14 @@
     {
       "date": "2021-08-03",
       "locality": "BENCUBBIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-03",
+      "locality": "BENCUBBIN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -321,6 +337,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-07",
+      "locality": "BENCUBBIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-09",
@@ -411,14 +435,6 @@
       "vaccines": 3
     },
     {
-      "date": "2021-08-21",
-      "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-23",
       "locality": "BENCUBBIN",
       "AgeGroup": "16 to 49",
@@ -435,14 +451,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-24",
-      "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-25",
       "locality": "BENCUBBIN",
       "AgeGroup": "50 to 69",
@@ -456,6 +464,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-29",
+      "locality": "BENCUBBIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -555,14 +571,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-12",
-      "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-13",
       "locality": "BENCUBBIN",
       "AgeGroup": "16 to 49",
@@ -587,20 +595,20 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-15",
+      "date": "2021-09-16",
       "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
       "date": "2021-09-16",
       "locality": "BENCUBBIN",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-17",
@@ -651,22 +659,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-28",
-      "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-29",
-      "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-29",
       "locality": "BENCUBBIN",
       "AgeGroup": "50 to 69",
@@ -694,9 +686,9 @@
       "date": "2021-10-01",
       "locality": "BENCUBBIN",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-04",
@@ -737,14 +729,6 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
-    },
-    {
-      "date": "2021-10-07",
-      "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-10-08",
@@ -782,17 +766,9 @@
       "date": "2021-10-11",
       "locality": "BENCUBBIN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-12",
-      "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-13",
@@ -800,6 +776,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "BENCUBBIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -814,14 +798,6 @@
       "date": "2021-10-15",
       "locality": "BENCUBBIN",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-10-18",
-      "locality": "BENCUBBIN",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -838,9 +814,9 @@
       "date": "2021-10-19",
       "locality": "BENCUBBIN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-20",
@@ -851,7 +827,15 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-20",
+      "date": "2021-10-21",
+      "locality": "BENCUBBIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
       "locality": "BENCUBBIN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
@@ -859,11 +843,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-21",
+      "date": "2021-10-23",
       "locality": "BENCUBBIN",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

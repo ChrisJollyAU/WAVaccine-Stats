@@ -1,7 +1,15 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "KINGSWAY",
   "data": [
+    {
+      "date": "2021-02-25",
+      "locality": "KINGSWAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-02-27",
       "locality": "KINGSWAY",
@@ -40,6 +48,14 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-01",
+      "locality": "KINGSWAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -155,6 +171,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-11",
+      "locality": "KINGSWAY",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-13",
       "locality": "KINGSWAY",
       "AgeGroup": "50 to 69",
@@ -237,18 +261,10 @@
     {
       "date": "2021-06-03",
       "locality": "KINGSWAY",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-03",
-      "locality": "KINGSWAY",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-04",
@@ -411,14 +427,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-07-03",
-      "locality": "KINGSWAY",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-04",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
@@ -495,8 +503,16 @@
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-13",
+      "locality": "KINGSWAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-14",
@@ -627,14 +643,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-01",
-      "locality": "KINGSWAY",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-02",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
@@ -750,8 +758,8 @@
       "date": "2021-08-11",
       "locality": "KINGSWAY",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 1,
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
@@ -806,9 +814,9 @@
       "date": "2021-08-17",
       "locality": "KINGSWAY",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-08-18",
@@ -886,9 +894,9 @@
       "date": "2021-08-26",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-26",
@@ -1046,9 +1054,9 @@
       "date": "2021-09-14",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-14",
@@ -1117,14 +1125,6 @@
     {
       "date": "2021-09-22",
       "locality": "KINGSWAY",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-22",
-      "locality": "KINGSWAY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -1134,16 +1134,24 @@
       "date": "2021-09-23",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
-      "date": "2021-09-23",
+      "date": "2021-09-24",
       "locality": "KINGSWAY",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "KINGSWAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1166,9 +1174,9 @@
       "date": "2021-09-28",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-29",
@@ -1198,9 +1206,9 @@
       "date": "2021-09-30",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-30",
@@ -1238,9 +1246,9 @@
       "date": "2021-10-02",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-03",
@@ -1270,9 +1278,9 @@
       "date": "2021-10-05",
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-10-06",
@@ -1312,14 +1320,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-09",
-      "locality": "KINGSWAY",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1391,8 +1391,8 @@
       "locality": "KINGSWAY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-17",
@@ -1433,6 +1433,22 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "KINGSWAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "KINGSWAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

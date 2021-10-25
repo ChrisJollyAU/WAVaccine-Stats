@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "GAIRDNER",
   "data": [
     {
@@ -141,14 +141,6 @@
     {
       "date": "2021-07-12",
       "locality": "GAIRDNER",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-12",
-      "locality": "GAIRDNER",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 2,
@@ -174,6 +166,14 @@
       "date": "2021-07-20",
       "locality": "GAIRDNER",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-21",
+      "locality": "GAIRDNER",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -229,14 +229,6 @@
     {
       "date": "2021-08-02",
       "locality": "GAIRDNER",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-02",
-      "locality": "GAIRDNER",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -272,6 +264,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "GAIRDNER",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -534,9 +534,9 @@
       "date": "2021-09-27",
       "locality": "GAIRDNER",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-27",
@@ -558,9 +558,9 @@
       "date": "2021-09-28",
       "locality": "GAIRDNER",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 6
     },
     {
       "date": "2021-09-28",
@@ -577,14 +577,6 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
-    },
-    {
-      "date": "2021-10-01",
-      "locality": "GAIRDNER",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-10-02",
@@ -721,6 +713,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "GAIRDNER",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "GAIRDNER",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

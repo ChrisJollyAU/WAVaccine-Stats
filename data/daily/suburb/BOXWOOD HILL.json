@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "BOXWOOD HILL",
   "data": [
     {
@@ -185,6 +185,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-20",
+      "locality": "BOXWOOD HILL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-23",
       "locality": "BOXWOOD HILL",
       "dose1": 1,
@@ -251,15 +258,15 @@
       "date": "2021-09-11",
       "locality": "BOXWOOD HILL",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-12",
       "locality": "BOXWOOD HILL",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-09-15",
@@ -290,18 +297,11 @@
       "vaccines": 2
     },
     {
-      "date": "2021-09-28",
-      "locality": "BOXWOOD HILL",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-03",
       "locality": "BOXWOOD HILL",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-04",
@@ -356,8 +356,8 @@
       "date": "2021-10-20",
       "locality": "BOXWOOD HILL",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-21",
@@ -365,6 +365,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "BOXWOOD HILL",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

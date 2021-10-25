@@ -1,9 +1,25 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "CLAREMONT NORTH",
   "data": [
     {
       "date": "2021-03-08",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-15",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-23",
       "locality": "CLAREMONT NORTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -43,11 +59,27 @@
       "vaccines": 2
     },
     {
+      "date": "2021-04-06",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-07",
       "locality": "CLAREMONT NORTH",
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-13",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -102,9 +134,17 @@
       "date": "2021-04-23",
       "locality": "CLAREMONT NORTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-23",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-25",
@@ -253,7 +293,7 @@
     {
       "date": "2021-05-25",
       "locality": "CLAREMONT NORTH",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -277,7 +317,7 @@
     {
       "date": "2021-05-27",
       "locality": "CLAREMONT NORTH",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -381,7 +421,7 @@
     {
       "date": "2021-06-24",
       "locality": "CLAREMONT NORTH",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -393,6 +433,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-06-25",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-28",
@@ -473,6 +521,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-08",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-09",
@@ -597,9 +653,25 @@
     {
       "date": "2021-07-23",
       "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-23",
+      "locality": "CLAREMONT NORTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-25",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -621,7 +693,7 @@
     {
       "date": "2021-07-27",
       "locality": "CLAREMONT NORTH",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -664,6 +736,14 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -745,6 +825,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-14",
@@ -1005,18 +1093,10 @@
     {
       "date": "2021-09-16",
       "locality": "CLAREMONT NORTH",
-      "AgeGroup": "12 to 15",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-16",
-      "locality": "CLAREMONT NORTH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-19",
@@ -1031,8 +1111,16 @@
       "locality": "CLAREMONT NORTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-21",
@@ -1061,18 +1149,10 @@
     {
       "date": "2021-09-30",
       "locality": "CLAREMONT NORTH",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-30",
-      "locality": "CLAREMONT NORTH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-02",
@@ -1103,16 +1183,8 @@
       "locality": "CLAREMONT NORTH",
       "AgeGroup": "12 to 15",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
-    },
-    {
-      "date": "2021-10-09",
-      "locality": "CLAREMONT NORTH",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-10",
@@ -1121,14 +1193,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-10-12",
-      "locality": "CLAREMONT NORTH",
-      "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-10-12",
@@ -1150,9 +1214,9 @@
       "date": "2021-10-14",
       "locality": "CLAREMONT NORTH",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-14",
@@ -1181,9 +1245,41 @@
     {
       "date": "2021-10-21",
       "locality": "CLAREMONT NORTH",
-      "AgeGroup": "12 to 15",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CLAREMONT NORTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

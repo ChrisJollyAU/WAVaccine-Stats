@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "LAKE CLIFTON",
   "data": [
     {
@@ -70,9 +70,9 @@
       "date": "2021-03-30",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-31",
@@ -142,6 +142,14 @@
       "date": "2021-04-29",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-03",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -310,9 +318,9 @@
       "date": "2021-05-31",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-01",
@@ -329,6 +337,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-06-02",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-06-02",
@@ -419,14 +435,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-18",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
       "date": "2021-06-20",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
@@ -447,8 +455,8 @@
       "locality": "LAKE CLIFTON",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-23",
@@ -645,26 +653,10 @@
     {
       "date": "2021-07-09",
       "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-09",
-      "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
-    },
-    {
-      "date": "2021-07-10",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-12",
@@ -907,6 +899,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-01",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-02",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
@@ -1046,9 +1046,9 @@
       "date": "2021-08-11",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-11",
@@ -1206,17 +1206,17 @@
       "date": "2021-08-23",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-23",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-08-23",
@@ -1254,9 +1254,9 @@
       "date": "2021-08-25",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-08-25",
@@ -1286,9 +1286,9 @@
       "date": "2021-08-29",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-30",
@@ -1327,8 +1327,8 @@
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-01",
@@ -1382,8 +1382,8 @@
       "date": "2021-09-04",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1446,9 +1446,9 @@
       "date": "2021-09-09",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-09",
@@ -1510,8 +1510,8 @@
       "date": "2021-09-14",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 2,
       "vaccines": 3
     },
     {
@@ -1535,138 +1535,138 @@
       "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
-    },
-    {
-      "date": "2021-09-16",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-16",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-16",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-17",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
-    },
-    {
-      "date": "2021-09-17",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
-    },
-    {
-      "date": "2021-09-17",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-18",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-18",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-20",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-20",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-21",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
-    },
-    {
-      "date": "2021-09-21",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-22",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-22",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
-    },
-    {
-      "date": "2021-09-22",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-23",
-      "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 2,
+      "dose2": 5,
       "vaccines": 5
     },
     {
+      "date": "2021-09-16",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-16",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
       "date": "2021-09-23",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "70 and over",
@@ -1702,6 +1702,14 @@
       "date": "2021-09-25",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1711,8 +1719,8 @@
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-28",
@@ -1781,6 +1789,14 @@
     {
       "date": "2021-10-02",
       "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-02",
+      "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -1830,17 +1846,17 @@
       "date": "2021-10-06",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "12 to 15",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-10-06",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-10-06",
@@ -1879,8 +1895,8 @@
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-08",
@@ -1918,9 +1934,9 @@
       "date": "2021-10-12",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-10-12",
@@ -1989,14 +2005,6 @@
     {
       "date": "2021-10-15",
       "locality": "LAKE CLIFTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-15",
-      "locality": "LAKE CLIFTON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 3,
@@ -2014,9 +2022,9 @@
       "date": "2021-10-16",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-16",
@@ -2027,20 +2035,28 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-17",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-18",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-10-19",
       "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-10-19",
@@ -2053,18 +2069,10 @@
     {
       "date": "2021-10-20",
       "locality": "LAKE CLIFTON",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-20",
-      "locality": "LAKE CLIFTON",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-20",
@@ -2081,6 +2089,38 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "LAKE CLIFTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

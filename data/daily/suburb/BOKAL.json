@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "BOKAL",
   "data": [
     {
@@ -38,6 +38,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-07-15",
+      "locality": "BOKAL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-30",
       "locality": "BOKAL",
       "dose1": 0,
@@ -62,8 +69,8 @@
       "date": "2021-08-16",
       "locality": "BOKAL",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-30",
@@ -119,6 +126,27 @@
       "locality": "BOKAL",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "BOKAL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "BOKAL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "BOKAL",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

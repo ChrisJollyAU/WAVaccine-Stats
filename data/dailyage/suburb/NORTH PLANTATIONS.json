@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "NORTH PLANTATIONS",
   "data": [
     {
@@ -46,9 +46,9 @@
       "date": "2021-07-15",
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-21",
@@ -63,16 +63,16 @@
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-11",
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-12",
@@ -91,9 +91,33 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-20",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-30",
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -103,16 +127,24 @@
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-02",
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-06",
@@ -123,12 +155,28 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-17",
+      "date": "2021-09-16",
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-17",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-09-22",
@@ -142,8 +190,16 @@
       "date": "2021-09-23",
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-09-23",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -155,28 +211,36 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-28",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-07",
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-08",
       "locality": "NORTH PLANTATIONS",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     },
     {
-      "date": "2021-10-09",
+      "date": "2021-10-08",
       "locality": "NORTH PLANTATIONS",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-13",
@@ -209,6 +273,22 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "NORTH PLANTATIONS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

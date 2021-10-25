@@ -316,9 +316,13 @@ namespace WAVaccine
                         int postint = 0;
                         if (int.TryParse(po.postcode, out postint))
                         {
-                            if (postint < 6000)
+                            if (postint < d0.Count())
                             {
-                                po.postcode = d0[postint].ToString();
+                                try
+                                {
+                                    po.postcode = d0[postint].ToString();
+                                }
+                                catch { }
                             }
                         }
                         i++;
@@ -370,9 +374,13 @@ namespace WAVaccine
                     int postint;
                     if (int.TryParse(po.postcode, out postint))
                     {
-                        if (postint < 6000)
-{
-                            po.postcode = d0[postint].ToString();
+                        if (postint < d0.Count())
+                        {
+                            try 
+                            {
+                                po.postcode = d0[postint].ToString();
+                            }
+                            catch { }
                         }
                     }
                     po.AgeGroup = it[1].ToString();

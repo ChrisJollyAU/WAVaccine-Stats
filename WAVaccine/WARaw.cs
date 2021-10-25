@@ -159,7 +159,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -171,7 +171,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Dose 1""
+@"                                            ""Property"": ""dose_one""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -181,7 +181,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -193,7 +193,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Dose 2""
+@"                                            ""Property"": ""dose_two""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -203,7 +203,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -215,7 +215,29 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Doses administered""
+@"                                            ""Property"": ""dose_3""
+" + "\n" +
+@"                                        },
+" + "\n" +
+@"                                        ""Name"": ""AIR.dose_3""
+" + "\n" +
+@"                                    },
+" + "\n" +
+@"                                    {
+" + "\n" +
+@"                                        ""Column"": {
+" + "\n" +
+@"                                            ""Expression"": {
+" + "\n" +
+@"                                                ""SourceRef"": {
+" + "\n" +
+@"                                                    ""Source"": ""a1""
+" + "\n" +
+@"                                                }
+" + "\n" +
+@"                                            },
+" + "\n" +
+@"                                            ""Property"": ""vaccines""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -331,7 +353,9 @@ namespace WAVaccine
 " + "\n" +
 @"                                                5,
 " + "\n" +
-@"                                                6
+@"                                                6,
+" + "\n" +
+@"                                                7
 " + "\n" +
 @"                                            ]
 " + "\n" +
@@ -464,9 +488,13 @@ namespace WAVaccine
                             int postint = 0;
                             if (int.TryParse(so.postcode, out postint))
                             {
-                                if (postint < 6000)
+                                if (postint < d1.Count())
                                 {
-                                    so.postcode = d1[postint].ToString();
+                                    try
+                                    {
+                                        so.postcode = d1[postint].ToString();
+                                    }
+                                    catch { }
                                 }
                             }
                             i++;
@@ -504,6 +532,15 @@ namespace WAVaccine
                         }
                         if ((rVal & 64) == 64)
                         {
+                            so.dose3 = to.Last().dose3;
+                        }
+                        else
+                        {
+                            so.dose3 = Convert.ToInt32(it[i]);
+                            i++;
+                        }
+                        if ((rVal & 128) == 128)
+                        {
                             so.vaccines = to.Last().vaccines;
                         }
                         else
@@ -529,9 +566,13 @@ namespace WAVaccine
                         int postint = 0;
                         if (int.TryParse(so.postcode, out postint))
                         {
-                            if (postint < 6000)
+                            if (postint < d1.Count())
                             {
-                                so.postcode = d1[postint].ToString();
+                                try
+                                {
+                                    so.postcode = d1[postint].ToString();
+                                }
+                                catch { }
                             }
                         }
                         so.AgeGroup = Convert.ToString(it[3]);
@@ -541,7 +582,8 @@ namespace WAVaccine
                         }
                         so.dose1 = Convert.ToInt32(it[4]);
                         so.dose2 = Convert.ToInt32(it[5]);
-                        so.vaccines = Convert.ToInt32(it[6]);
+                        so.dose3 = Convert.ToInt32(it[6]);
+                        so.vaccines = Convert.ToInt32(it[7]);
                     }
                     to.Add(so);
                 }
@@ -569,6 +611,7 @@ namespace WAVaccine
                 no.AgeGroup = it.Key.AgeGroup;
                 no.dose1 = it.Sum(v => v.dose1);
                 no.dose2 = it.Sum(v => v.dose2);
+                no.dose3 = it.Sum(v => v.dose3);
                 no.vaccines = it.Sum(v => v.vaccines);
                 results.Add(no);
             }
@@ -623,7 +666,29 @@ namespace WAVaccine
             {
                 GCCSADetail sdet = new GCCSADetail();
                 sdet.Name = it.Key;
-                var s2pop = poplist.SingleOrDefault(sp => sp.name == it.Key);
+                var s2popa = poplist.Where(sp => sp.name == it.Key);
+                PostcodePop s2pop = new PostcodePop();
+                s2pop.name = it.Key;
+                s2pop.c12_plus = s2popa.Sum(a => a.c12_plus);
+                s2pop.c16_plus = s2popa.Sum(a => a.c16_plus);
+                s2pop.c_0_4 = s2popa.Sum(a => a.c_0_4);
+                s2pop.c_5_11 = s2popa.Sum(a => a.c_5_11);
+                s2pop.c_12_15 = s2popa.Sum(a => a.c_12_15);
+                s2pop.c_16_19 = s2popa.Sum(a => a.c_16_19);
+                s2pop.c_20_24 = s2popa.Sum(a => a.c_20_24);
+                s2pop.c_25_29 = s2popa.Sum(a => a.c_25_29);
+                s2pop.c_30_34 = s2popa.Sum(a => a.c_30_34);
+                s2pop.c_35_39 = s2popa.Sum(a => a.c_35_39);
+                s2pop.c_40_44 = s2popa.Sum(a => a.c_40_44);
+                s2pop.c_45_49 = s2popa.Sum(a => a.c_45_49);
+                s2pop.c_50_54 = s2popa.Sum(a => a.c_50_54);
+                s2pop.c_55_59 = s2popa.Sum(a => a.c_55_59);
+                s2pop.c_60_64 = s2popa.Sum(a => a.c_60_64);
+                s2pop.c_65_69 = s2popa.Sum(a => a.c_65_69);
+                s2pop.c_70_74 = s2popa.Sum(a => a.c_70_74);
+                s2pop.c_75_79 = s2popa.Sum(a => a.c_75_79);
+                s2pop.c_80_84 = s2popa.Sum(a => a.c_80_84);
+                s2pop.c_85p = s2popa.Sum(a => a.c_85p);
                 if (s2pop != null)
                 {
                     sdet.c16_plus = (int)s2pop.c16_plus;
@@ -633,6 +698,7 @@ namespace WAVaccine
                 {
                     sdet.dose1 += it2.dose1;
                     sdet.dose2 += it2.dose2;
+                    sdet.dose3 += it2.dose3;
                     sdet.total_doses += it2.vaccines;
                 }
                 if (sdet.c12_plus > 0)
@@ -691,7 +757,29 @@ namespace WAVaccine
             {
                 GCCSADetailAge sdet = new GCCSADetailAge();
                 sdet.Name = it.Key;
-                var s2pop = poplist.SingleOrDefault(sp => sp.name == it.Key);
+                var s2popa = poplist.Where(sp => sp.name == it.Key);
+                PostcodePop s2pop = new PostcodePop();
+                s2pop.name = it.Key;
+                s2pop.c12_plus = s2popa.Sum(a => a.c12_plus);
+                s2pop.c16_plus = s2popa.Sum(a => a.c16_plus);
+                s2pop.c_0_4 = s2popa.Sum(a => a.c_0_4);
+                s2pop.c_5_11 = s2popa.Sum(a => a.c_5_11);
+                s2pop.c_12_15 = s2popa.Sum(a => a.c_12_15);
+                s2pop.c_16_19 = s2popa.Sum(a => a.c_16_19);
+                s2pop.c_20_24 = s2popa.Sum(a => a.c_20_24);
+                s2pop.c_25_29 = s2popa.Sum(a => a.c_25_29);
+                s2pop.c_30_34 = s2popa.Sum(a => a.c_30_34);
+                s2pop.c_35_39 = s2popa.Sum(a => a.c_35_39);
+                s2pop.c_40_44 = s2popa.Sum(a => a.c_40_44);
+                s2pop.c_45_49 = s2popa.Sum(a => a.c_45_49);
+                s2pop.c_50_54 = s2popa.Sum(a => a.c_50_54);
+                s2pop.c_55_59 = s2popa.Sum(a => a.c_55_59);
+                s2pop.c_60_64 = s2popa.Sum(a => a.c_60_64);
+                s2pop.c_65_69 = s2popa.Sum(a => a.c_65_69);
+                s2pop.c_70_74 = s2popa.Sum(a => a.c_70_74);
+                s2pop.c_75_79 = s2popa.Sum(a => a.c_75_79);
+                s2pop.c_80_84 = s2popa.Sum(a => a.c_80_84);
+                s2pop.c_85p = s2popa.Sum(a => a.c_85p);
                 if (s2pop != null)
                 {
                     sdet.c16_plus = (int)s2pop.c16_plus;
@@ -714,24 +802,28 @@ namespace WAVaccine
                     {
                         sdet.dose1_12_15 += it2.dose1;
                         sdet.dose2_12_15 += it2.dose2;
+                        sdet.dose3_12_15 += it2.dose3;
                         sdet.total_doses += it2.vaccines;
                     }
                     else if (it2.AgeGroup == "16 to 49")
                     {
                         sdet.dose1_16_49 += it2.dose1;
                         sdet.dose2_16_49 += it2.dose2;
+                        sdet.dose3_16_49 += it2.dose3;
                         sdet.total_doses += it2.vaccines;
                     }
                     else if (it2.AgeGroup == "50 to 69")
                     {
                         sdet.dose1_50_69 += it2.dose1;
                         sdet.dose2_50_69 += it2.dose2;
+                        sdet.dose3_50_69 += it2.dose3;
                         sdet.total_doses += it2.vaccines;
                     }
                     else if (it2.AgeGroup == "70 and over")
                     {
                         sdet.dose1_70p += it2.dose1;
                         sdet.dose2_70p += it2.dose2;
+                        sdet.dose3_70p += it2.dose3;
                         sdet.total_doses += it2.vaccines;
                     }
                 }
@@ -833,6 +925,7 @@ namespace WAVaccine
                     {
                         sdet.dose1 += items1.dose1;
                         sdet.dose2 += items1.dose2;
+                        sdet.dose3 += items1.dose3;
                         sdet.total_doses += items1.vaccines;
                     }
                 }
@@ -922,24 +1015,28 @@ namespace WAVaccine
                         {
                             sdet.dose1_12_15 += items1.dose1;
                             sdet.dose2_12_15 += items1.dose2;
+                            sdet.dose3_12_15 += items1.dose3;
                             sdet.total_doses += items1.vaccines;
                         }
                         else if (items1.AgeGroup == "16 to 49")
                         {
                             sdet.dose1_16_49 += items1.dose1;
                             sdet.dose2_16_49 += items1.dose2;
+                            sdet.dose3_16_49 += items1.dose3;
                             sdet.total_doses += items1.vaccines;
                         }
                         else if (items1.AgeGroup == "50 to 69")
                         {
                             sdet.dose1_50_69 += items1.dose1;
                             sdet.dose2_50_69 += items1.dose2;
+                            sdet.dose3_50_69 += items1.dose3;
                             sdet.total_doses += items1.vaccines;
                         }
                         else if (items1.AgeGroup == "70 and over")
                         {
                             sdet.dose1_70p += items1.dose1;
                             sdet.dose2_70p += items1.dose2;
+                            sdet.dose3_70p += items1.dose3;
                             sdet.total_doses += items1.vaccines;
                         }
                     }
@@ -992,6 +1089,7 @@ namespace WAVaccine
         public string postcode { get; set; }
         public int dose1 { get; set; }
         public int dose2 { get; set; }
+        public int dose3 { get; set; }
         public int vaccines { get; set; }
         public string AgeGroup { get; set; }
     }

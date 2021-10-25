@@ -117,7 +117,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -129,7 +129,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Doses administered""
+@"                                            ""Property"": ""vaccines""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -139,7 +139,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -151,7 +151,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Dose 1""
+@"                                            ""Property"": ""dose_one""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -161,7 +161,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -173,11 +173,33 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Dose 2""
+@"                                            ""Property"": ""dose_two""
 " + "\n" +
 @"                                        },
 " + "\n" +
 @"                                        ""Name"": ""AIR.Dose 2""
+" + "\n" +
+@"                                    },
+" + "\n" +
+@"                                    {
+" + "\n" +
+@"                                        ""Column"": {
+" + "\n" +
+@"                                            ""Expression"": {
+" + "\n" +
+@"                                                ""SourceRef"": {
+" + "\n" +
+@"                                                    ""Source"": ""a1""
+" + "\n" +
+@"                                                }
+" + "\n" +
+@"                                            },
+" + "\n" +
+@"                                            ""Property"": ""dose_3""
+" + "\n" +
+@"                                        },
+" + "\n" +
+@"                                        ""Name"": ""AIR.Dose 3""
 " + "\n" +
 @"                                    }
 " + "\n" +
@@ -203,7 +225,9 @@ namespace WAVaccine
 " + "\n" +
 @"                                                3,
 " + "\n" +
-@"                                                4
+@"                                                4,
+" + "\n" +
+@"                                                5
 " + "\n" +
 @"                                            ]
 " + "\n" +
@@ -340,6 +364,15 @@ namespace WAVaccine
                         so.dose_2 = Convert.ToInt32(it[i]);
                         i++;
                     }
+                    if ((rVal & 32) == 32)
+                    {
+                        so.dose_3 = to.Last().dose_3;
+                    }
+                    else
+                    {
+                        so.dose_3 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
                 }
                 else
                 {
@@ -355,6 +388,7 @@ namespace WAVaccine
                     so.total_administered = Convert.ToInt32(it[2]);
                     so.dose_1 = Convert.ToInt32(it[3]);
                     so.dose_2 = Convert.ToInt32(it[4]);
+                    so.dose_3 = Convert.ToInt32(it[5]);
                 }
                 to.Add(so);
             }
@@ -398,6 +432,7 @@ namespace WAVaccine
                 doo.AgeGroup = it.Key.AgeGroup;
                 doo.dose_1 = queue.Average(qq => qq.dose_1);
                 doo.dose_2 = queue.Average(qq => qq.dose_2);
+                doo.dose_3 = queue.Average(qq => qq.dose_3);
                 doo.total_administered = queue.Average(qq => qq.total_administered);
                 rollavg.Add(doo);
             }
@@ -415,5 +450,6 @@ namespace WAVaccine
         public decimal total_administered { get; set; }
         public decimal dose_1 { get; set; }
         public decimal dose_2 { get; set; }
+        public decimal dose_3 { get; set; }
     }
 }

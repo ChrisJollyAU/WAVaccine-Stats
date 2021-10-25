@@ -61,7 +61,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -73,7 +73,29 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Doses administered""
+@"                                            ""Property"": ""locality""
+" + "\n" +
+@"                                        },
+" + "\n" +
+@"                                        ""Name"": ""AIR.locality""
+" + "\n" +
+@"                                    },
+" + "\n" +
+@"                                    {
+" + "\n" +
+@"                                        ""Column"": {
+" + "\n" +
+@"                                            ""Expression"": {
+" + "\n" +
+@"                                                ""SourceRef"": {
+" + "\n" +
+@"                                                    ""Source"": ""a""
+" + "\n" +
+@"                                                }
+" + "\n" +
+@"                                            },
+" + "\n" +
+@"                                            ""Property"": ""vaccines""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -83,7 +105,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -95,7 +117,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Dose 1""
+@"                                            ""Property"": ""dose_one""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -105,7 +127,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -117,7 +139,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Dose 2""
+@"                                            ""Property"": ""dose_two""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -139,11 +161,11 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""locality""
+@"                                            ""Property"": ""dose_3""
 " + "\n" +
 @"                                        },
 " + "\n" +
-@"                                        ""Name"": ""AIR.locality""
+@"                                        ""Name"": ""AIR.Dose 3""
 " + "\n" +
 @"                                    }
 " + "\n" +
@@ -199,6 +221,8 @@ namespace WAVaccine
 " + "\n" +
 @"                                                3,
 " + "\n" +
+@"                                                4
+" + "\n" +
 @"                                            ]
 " + "\n" +
 @"                                        }
@@ -209,7 +233,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                ""DataReduction"": {
 " + "\n" +
-@"                                    ""DataVolume"": 4,
+@"                                    ""DataVolume"": 6,
 " + "\n" +
 @"                                    ""Primary"": {
 " + "\n" +
@@ -278,8 +302,17 @@ namespace WAVaccine
                 {
                     var sRval = ((JValue)R.First()).Value.ToString();
                     var rVal = Convert.ToInt32(sRval);
-                    so.suburb_name = it[0].ToString();
-                    var i = 1;
+                    
+                    var i = 0;
+                    if ((rVal & 1) == 1)
+                    {
+                        so.suburb_name = to.Last().suburb_name;
+                    }
+                    else
+                    {
+                        so.suburb_name = it[0].ToString();
+                        i++;
+                    }
                     if ((rVal & 2) == 2)
                     {
                         so.total_dose = to.Last().total_dose;
@@ -307,6 +340,15 @@ namespace WAVaccine
                         so.dose_2 = Convert.ToInt32(it[i]);
                         i++;
                     }
+                    if ((rVal & 16) == 16)
+                    {
+                        so.dose_3 = to.Last().dose_3;
+                    }
+                    else
+                    {
+                        so.dose_3 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
                 }
                 else
                 {
@@ -314,6 +356,7 @@ namespace WAVaccine
                     so.total_dose = Convert.ToInt32(it[1]);
                     so.dose_1 = Convert.ToInt32(it[2]);
                     so.dose_2 = Convert.ToInt32(it[3]);
+                    so.dose_3 = Convert.ToInt32(it[4]);
                 }
                 to.Add(so);
             }
@@ -393,11 +436,13 @@ namespace WAVaccine
                 }
                 foreach (var it2 in it)
                 {
-                    SuburbObject ob = to.SingleOrDefault(tt => tt.suburb_name == it2.name);
+                    var ob1 = to.Where(tt => tt.suburb_name == it2.name);
+                    foreach (var ob in ob1)
                     if (ob != null)
                     {
                         sdet.dose1 += ob.dose_1;
                         sdet.dose2 += ob.dose_2;
+                        sdet.dose3 += ob.dose_3;
                         sdet.total_doses += ob.total_dose;
                         used.Add(ob);
                     }
@@ -406,6 +451,7 @@ namespace WAVaccine
                 {
                     sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
                     sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
+                    sdet.D3_vaccinated_percent = (decimal)sdet.dose3 / (decimal)sdet.c12_plus * 100;
                 }
                 sa2det.Add(sdet);
             }
@@ -451,6 +497,7 @@ namespace WAVaccine
                         sdet.total_doses += s2det.total_doses;
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
+                        sdet.dose3 += s2det.dose3;
                         sdet.c16_plus += s2det.c16_plus;
                         sdet.c12_plus += s2det.c12_plus;
                         used.Add(s2det);
@@ -460,6 +507,7 @@ namespace WAVaccine
                 {
                     sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
                     sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
+                    sdet.D3_vaccinated_percent = (decimal)sdet.dose3 / (decimal)sdet.c12_plus * 100;
                 }
                 sa3det.Add(sdet);
             }
@@ -502,6 +550,7 @@ namespace WAVaccine
                         sdet.total_doses += s2det.total_doses;
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
+                        sdet.dose3 += s2det.dose3;
                         sdet.c16_plus += s2det.c16_plus;
                         sdet.c12_plus += s2det.c12_plus;
                     }
@@ -510,6 +559,7 @@ namespace WAVaccine
                 {
                     sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
                     sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
+                    sdet.D3_vaccinated_percent = (decimal)sdet.dose3 / (decimal)sdet.c12_plus * 100;
                 }
                 sa4det.Add(sdet);
             }
@@ -552,6 +602,7 @@ namespace WAVaccine
                         sdet.total_doses += s2det.total_doses;
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
+                        sdet.dose3 += s2det.dose3;
                         sdet.c16_plus += s2det.c16_plus;
                         sdet.c12_plus += s2det.c12_plus;
                     }
@@ -560,6 +611,7 @@ namespace WAVaccine
                 {
                     sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
                     sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
+                    sdet.D3_vaccinated_percent = (decimal)sdet.dose3 / (decimal)sdet.c12_plus * 100;
                 }
                 gccsadet.Add(sdet);
             }
@@ -602,6 +654,7 @@ namespace WAVaccine
                         sdet.total_doses += s2det.total_doses;
                         sdet.dose1 += s2det.dose1;
                         sdet.dose2 += s2det.dose2;
+                        sdet.dose3 += s2det.dose3;
                         sdet.c16_plus += s2det.c16_plus;
                         sdet.c12_plus += s2det.c12_plus;
                     }
@@ -610,6 +663,7 @@ namespace WAVaccine
                 {
                     sdet.atleast_1dose_percent = (decimal)sdet.dose1 / (decimal)sdet.c12_plus * 100;
                     sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
+                    sdet.D3_vaccinated_percent = (decimal)sdet.dose3 / (decimal)sdet.c12_plus * 100;
                 }
                 gccsadet.Add(sdet);
             }
@@ -637,6 +691,7 @@ namespace WAVaccine
         public int total_dose { get; set; }
         public int dose_1 { get; set; }
         public int dose_2 { get; set; }
+        public int dose_3 { get; internal set; }
     }
 
     class SA2Detail
@@ -649,6 +704,8 @@ namespace WAVaccine
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
         public int c12_plus { get; set; }
+        public int dose3 { get; internal set; }
+        public decimal D3_vaccinated_percent { get; internal set; }
     }
     class SA3Detail
     {
@@ -660,6 +717,7 @@ namespace WAVaccine
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
         public int c12_plus { get; set; }
+        public int dose3 { get; internal set; }
     }
     class SA4Detail
     {
@@ -671,6 +729,7 @@ namespace WAVaccine
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
         public int c12_plus { get; set; }
+        public int dose3 { get; internal set; }
     }
     class GCCSADetail
     {
@@ -682,5 +741,6 @@ namespace WAVaccine
         public decimal atleast_1dose_percent { get; set; }
         public decimal full_vaccinated_percent { get; set; }
         public int c12_plus { get; set; }
+        public int dose3 { get; set; }
     }
 }

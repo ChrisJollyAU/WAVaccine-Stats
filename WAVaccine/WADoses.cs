@@ -95,7 +95,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -107,7 +107,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Doses administered""
+@"                                            ""Property"": ""vaccines""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -117,7 +117,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -129,7 +129,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Dose 1""
+@"                                            ""Property"": ""dose_one""
 " + "\n" +
 @"                                        },
 " + "\n" +
@@ -139,7 +139,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Measure"": {
+@"                                        ""Column"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
@@ -151,11 +151,33 @@ namespace WAVaccine
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""Dose 2""
+@"                                            ""Property"": ""dose_two""
 " + "\n" +
 @"                                        },
 " + "\n" +
 @"                                        ""Name"": ""AIR.Dose 2""
+" + "\n" +
+@"                                    },
+" + "\n" +
+@"                                    {
+" + "\n" +
+@"                                        ""Column"": {
+" + "\n" +
+@"                                            ""Expression"": {
+" + "\n" +
+@"                                                ""SourceRef"": {
+" + "\n" +
+@"                                                    ""Source"": ""a1""
+" + "\n" +
+@"                                                }
+" + "\n" +
+@"                                            },
+" + "\n" +
+@"                                            ""Property"": ""dose_3""
+" + "\n" +
+@"                                        },
+" + "\n" +
+@"                                        ""Name"": ""AIR.Dose 3""
 " + "\n" +
 @"                                    }
 " + "\n" +
@@ -179,7 +201,9 @@ namespace WAVaccine
 " + "\n" +
 @"                                                2,
 " + "\n" +
-@"                                                3
+@"                                                3,
+" + "\n" +
+@"                                                4
 " + "\n" +
 @"                                            ]
 " + "\n" +
@@ -191,7 +215,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                ""DataReduction"": {
 " + "\n" +
-@"                                    ""DataVolume"": 4,
+@"                                    ""DataVolume"": 6,
 " + "\n" +
 @"                                    ""Primary"": {
 " + "\n" +
@@ -263,9 +287,17 @@ namespace WAVaccine
                 if (R?.Name == "R")
                 {
                     var sRval = ((JValue)R.First()).Value.ToString();
+                    var i = 0;
                     var rVal = Convert.ToInt32(sRval);
-                    so.date = itdate.ToString("yyyy-MM-dd");
-                    var i = 1;
+                    if ((rVal & 1) == 1)
+                    {
+                        so.date = to.Last().date;
+                    }
+                    else
+                    {
+                        so.date = itdate.ToString("yyyy-MM-dd");
+                        i++;
+                    }
                     if ((rVal & 2) == 2)
                     {
                         so.total_administered = to.Last().total_administered;
@@ -293,6 +325,15 @@ namespace WAVaccine
                         so.dose_2 = Convert.ToInt32(it[i]);
                         i++;
                     }
+                    if ((rVal & 16) == 16)
+                    {
+                        so.dose_3 = to.Last().dose_3;
+                    }
+                    else
+                    {
+                        so.dose_3 = Convert.ToInt32(it[i]);
+                        i++;
+                    }
                 }
                 else
                 {
@@ -300,9 +341,11 @@ namespace WAVaccine
                     so.total_administered = Convert.ToInt32(it[1]);
                     so.dose_1 = Convert.ToInt32(it[2]);
                     so.dose_2 = Convert.ToInt32(it[3]);
+                    so.dose_3 = Convert.ToInt32(it[4]);
                 }
                 to.Add(so);
             }
+            var xxx = to.GroupBy(x => x.date);
             JsonObject item = new JsonObject();
             item.Add("date_updated", latestdate.ToString("yyyy-MM-dd"));
             item.Add("data", to);
@@ -318,6 +361,7 @@ namespace WAVaccine
                 doo.date = it.Key;
                 doo.dose_1 = queue.Average(qq => qq.dose_1);
                 doo.dose_2 = queue.Average(qq => qq.dose_2);
+                doo.dose_3 = queue.Average(qq => qq.dose_3);
                 doo.total_administered = queue.Average(qq => qq.total_administered);
                 rollavg.Add(doo);
             }
@@ -334,5 +378,6 @@ namespace WAVaccine
         public decimal total_administered { get; set; }
         public decimal dose_1 { get; set; }
         public decimal dose_2 { get; set; }
+        public decimal dose_3 { get; set; }
     }
 }

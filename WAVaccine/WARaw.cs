@@ -159,91 +159,131 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Aggregation"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
-@"                                                ""SourceRef"": {
+@"                                                ""Column"": {
 " + "\n" +
-@"                                                    ""Source"": ""a1""
+@"                                                    ""Expression"": {
 " + "\n" +
-@"                                                }
+@"                                                        ""SourceRef"": {
+" + "\n" +
+@"                                                            ""Source"": ""a1""
+" + "\n" +
+@"                                                        }
+" + "\n" +
+@"                                                    },
+" + "\n" +
+@"                                                    ""Property"": ""dose_one""
+" + "\n" +
+@"                                                },
+" + "\n" +
+@"                                                ""Name"": ""AIR.dose_one""
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""dose_one""
+@"                                            ""Function"": 0
 " + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.dose_one""
+@"                                        }
 " + "\n" +
 @"                                    },
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Aggregation"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
-@"                                                ""SourceRef"": {
+@"                                                ""Column"": {
 " + "\n" +
-@"                                                    ""Source"": ""a1""
+@"                                                    ""Expression"": {
 " + "\n" +
-@"                                                }
+@"                                                        ""SourceRef"": {
+" + "\n" +
+@"                                                            ""Source"": ""a1""
+" + "\n" +
+@"                                                        }
+" + "\n" +
+@"                                                    },
+" + "\n" +
+@"                                                    ""Property"": ""dose_two""
+" + "\n" +
+@"                                                },
+" + "\n" +
+@"                                                ""Name"": ""AIR.dose_two""
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""dose_two""
+@"                                            ""Function"": 0
 " + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.dose_two""
+@"                                        }
 " + "\n" +
 @"                                    },
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Aggregation"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
-@"                                                ""SourceRef"": {
+@"                                                ""Column"": {
 " + "\n" +
-@"                                                    ""Source"": ""a1""
+@"                                                    ""Expression"": {
 " + "\n" +
-@"                                                }
+@"                                                        ""SourceRef"": {
+" + "\n" +
+@"                                                            ""Source"": ""a1""
+" + "\n" +
+@"                                                        }
+" + "\n" +
+@"                                                    },
+" + "\n" +
+@"                                                    ""Property"": ""dose_3""
+" + "\n" +
+@"                                                },
+" + "\n" +
+@"                                                ""Name"": ""AIR.dose_3""
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""dose_3""
+@"                                            ""Function"": 0
 " + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.dose_3""
+@"                                        }
 " + "\n" +
 @"                                    },
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Aggregation"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
-@"                                                ""SourceRef"": {
+@"                                                ""Column"": {
 " + "\n" +
-@"                                                    ""Source"": ""a1""
+@"                                                    ""Expression"": {
 " + "\n" +
-@"                                                }
+@"                                                        ""SourceRef"": {
+" + "\n" +
+@"                                                            ""Source"": ""a1""
+" + "\n" +
+@"                                                        }
+" + "\n" +
+@"                                                    },
+" + "\n" +
+@"                                                    ""Property"": ""vaccines""
+" + "\n" +
+@"                                                },
+" + "\n" +
+@"                                                ""Name"": ""AIR.vaccines""
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""vaccines""
+@"                                            ""Function"": 0
 " + "\n" +
-@"                                        },
+@"                                        }
 " + "\n" +
-@"                                        ""Name"": ""AIR.vaccines""
-" + "\n" +
-@"                                    }
+@"                                    },
 " + "\n" +
 @"                                ],
 " + "\n" +
@@ -373,7 +413,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                        ""Window"": {
 " + "\n" +
-@"                                            ""Count"":30000,
+@"                                            ""Count"": 30000,
 " + "\n" +
 @"                                            ""RestartTokens"": []
 " + "\n" +
@@ -601,6 +641,10 @@ namespace WAVaccine
             }
             while (hasmore);
             var grpitems = to.GroupBy(a => new { a.date, a.locality, a.postcode, a.AgeGroup }).ToList();
+            var do1 = to.Sum(x => x.dose1);
+            var do2 = to.Sum(x => x.dose2);
+            var do3 = to.Sum(x => x.dose3);
+            var vac = to.Sum(x => x.vaccines);
             List<WARawOb> results = new List<WARawOb>();
             foreach (var it in grpitems)
             {

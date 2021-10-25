@@ -117,89 +117,129 @@ namespace WAVaccine
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Aggregation"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
-@"                                                ""SourceRef"": {
+@"                                                ""Column"": {
 " + "\n" +
-@"                                                    ""Source"": ""a1""
+@"                                                    ""Expression"": {
 " + "\n" +
-@"                                                }
+@"                                                        ""SourceRef"": {
+" + "\n" +
+@"                                                            ""Source"": ""a1""
+" + "\n" +
+@"                                                        }
+" + "\n" +
+@"                                                    },
+" + "\n" +
+@"                                                    ""Property"": ""vaccines""
+" + "\n" +
+@"                                                },
+" + "\n" +
+@"                                                ""Name"": ""AIR.vaccines""
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""vaccines""
+@"                                            ""Function"": 0
 " + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.Doses administered""
+@"                                        }
 " + "\n" +
 @"                                    },
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Aggregation"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
-@"                                                ""SourceRef"": {
+@"                                                ""Column"": {
 " + "\n" +
-@"                                                    ""Source"": ""a1""
+@"                                                    ""Expression"": {
 " + "\n" +
-@"                                                }
+@"                                                        ""SourceRef"": {
+" + "\n" +
+@"                                                            ""Source"": ""a1""
+" + "\n" +
+@"                                                        }
+" + "\n" +
+@"                                                    },
+" + "\n" +
+@"                                                    ""Property"": ""dose_one""
+" + "\n" +
+@"                                                },
+" + "\n" +
+@"                                                ""Name"": ""AIR.dose_one""
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""dose_one""
+@"                                            ""Function"": 0
 " + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.Dose 1""
+@"                                        }
 " + "\n" +
 @"                                    },
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Aggregation"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
-@"                                                ""SourceRef"": {
+@"                                                ""Column"": {
 " + "\n" +
-@"                                                    ""Source"": ""a1""
+@"                                                    ""Expression"": {
 " + "\n" +
-@"                                                }
+@"                                                        ""SourceRef"": {
+" + "\n" +
+@"                                                            ""Source"": ""a1""
+" + "\n" +
+@"                                                        }
+" + "\n" +
+@"                                                    },
+" + "\n" +
+@"                                                    ""Property"": ""dose_two""
+" + "\n" +
+@"                                                },
+" + "\n" +
+@"                                                ""Name"": ""AIR.dose_two""
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""dose_two""
+@"                                            ""Function"": 0
 " + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.Dose 2""
+@"                                        }
 " + "\n" +
 @"                                    },
 " + "\n" +
 @"                                    {
 " + "\n" +
-@"                                        ""Column"": {
+@"                                        ""Aggregation"": {
 " + "\n" +
 @"                                            ""Expression"": {
 " + "\n" +
-@"                                                ""SourceRef"": {
+@"                                                ""Column"": {
 " + "\n" +
-@"                                                    ""Source"": ""a1""
+@"                                                    ""Expression"": {
 " + "\n" +
-@"                                                }
+@"                                                        ""SourceRef"": {
+" + "\n" +
+@"                                                            ""Source"": ""a1""
+" + "\n" +
+@"                                                        }
+" + "\n" +
+@"                                                    },
+" + "\n" +
+@"                                                    ""Property"": ""dose_3""
+" + "\n" +
+@"                                                },
+" + "\n" +
+@"                                                ""Name"": ""AIR.dose_3""
 " + "\n" +
 @"                                            },
 " + "\n" +
-@"                                            ""Property"": ""dose_3""
+@"                                            ""Function"": 0
 " + "\n" +
-@"                                        },
-" + "\n" +
-@"                                        ""Name"": ""AIR.Dose 3""
+@"                                        }
 " + "\n" +
 @"                                    }
 " + "\n" +

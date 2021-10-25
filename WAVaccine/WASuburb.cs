@@ -718,6 +718,7 @@ namespace WAVaccine
         public decimal full_vaccinated_percent { get; set; }
         public int c12_plus { get; set; }
         public int dose3 { get; internal set; }
+        public decimal D3_vaccinated_percent { get; internal set; }
     }
     class SA4Detail
     {
@@ -730,6 +731,7 @@ namespace WAVaccine
         public decimal full_vaccinated_percent { get; set; }
         public int c12_plus { get; set; }
         public int dose3 { get; internal set; }
+        public decimal D3_vaccinated_percent { get; internal set; }
     }
     class GCCSADetail
     {
@@ -742,5 +744,6 @@ namespace WAVaccine
         public decimal full_vaccinated_percent { get; set; }
         public int c12_plus { get; set; }
         public int dose3 { get; set; }
+        public decimal D3_vaccinated_percent { get; internal set; }
     }
 }

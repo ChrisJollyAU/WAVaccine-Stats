@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "CROSSMAN",
   "data": [
     {
@@ -341,8 +341,8 @@
     {
       "date": "2021-08-17",
       "locality": "CROSSMAN",
-      "dose1": 2,
-      "dose2": 1,
+      "dose1": 3,
+      "dose2": 0,
       "vaccines": 3
     },
     {
@@ -404,9 +404,9 @@
     {
       "date": "2021-09-02",
       "locality": "CROSSMAN",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-09-06",
@@ -572,9 +572,9 @@
     {
       "date": "2021-10-14",
       "locality": "CROSSMAN",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-10-15",
@@ -602,6 +602,13 @@
       "locality": "CROSSMAN",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CROSSMAN",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

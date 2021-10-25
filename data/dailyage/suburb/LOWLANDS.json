@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "LOWLANDS",
   "data": [
     {
@@ -301,6 +301,14 @@
     {
       "date": "2021-08-05",
       "locality": "LOWLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "LOWLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -395,6 +403,22 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-24",
+      "locality": "LOWLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "LOWLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-26",
       "locality": "LOWLANDS",
       "AgeGroup": "50 to 69",
@@ -422,14 +446,6 @@
       "date": "2021-08-28",
       "locality": "LOWLANDS",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-30",
-      "locality": "LOWLANDS",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -472,6 +488,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "LOWLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -542,9 +566,9 @@
       "date": "2021-09-15",
       "locality": "LOWLANDS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-15",
@@ -555,11 +579,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-16",
+      "date": "2021-09-17",
       "locality": "LOWLANDS",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -653,6 +677,14 @@
     {
       "date": "2021-10-06",
       "locality": "LOWLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "LOWLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -697,14 +729,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-10-11",
-      "locality": "LOWLANDS",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-10-12",
@@ -758,8 +782,16 @@
       "date": "2021-10-21",
       "locality": "LOWLANDS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "LOWLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

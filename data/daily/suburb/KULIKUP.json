@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "KULIKUP",
   "data": [
     {
@@ -159,9 +159,9 @@
     {
       "date": "2021-09-01",
       "locality": "KULIKUP",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-02",
@@ -227,6 +227,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-30",
+      "locality": "KULIKUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-02",
       "locality": "KULIKUP",
       "dose1": 1,
@@ -238,13 +245,6 @@
       "locality": "KULIKUP",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-07",
-      "locality": "KULIKUP",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "DUMBLEYUNG",
   "data": [
     {
@@ -14,6 +14,14 @@
       "date": "2021-03-16",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-22",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -92,14 +100,6 @@
     },
     {
       "date": "2021-04-14",
-      "locality": "DUMBLEYUNG",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-15",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "70 and over",
       "dose1": 1,
@@ -341,6 +341,14 @@
     {
       "date": "2021-05-31",
       "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-31",
+      "locality": "DUMBLEYUNG",
       "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 0,
@@ -374,6 +382,14 @@
       "date": "2021-06-08",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-09",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -483,14 +499,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-22",
-      "locality": "DUMBLEYUNG",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-23",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "50 to 69",
@@ -551,8 +559,8 @@
       "locality": "DUMBLEYUNG",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-30",
@@ -733,14 +741,6 @@
     {
       "date": "2021-07-26",
       "locality": "DUMBLEYUNG",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-26",
-      "locality": "DUMBLEYUNG",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -793,6 +793,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-07-31",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-02",
@@ -859,11 +867,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-07",
+      "date": "2021-08-08",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -887,8 +895,8 @@
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-10",
@@ -910,9 +918,9 @@
       "date": "2021-08-11",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-08-11",
@@ -1078,9 +1086,9 @@
       "date": "2021-08-23",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-23",
@@ -1155,12 +1163,20 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-30",
+      "date": "2021-08-29",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-30",
@@ -1182,9 +1198,9 @@
       "date": "2021-08-31",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-31",
@@ -1199,8 +1215,8 @@
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-09-01",
@@ -1270,9 +1286,9 @@
       "date": "2021-09-07",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-09-07",
@@ -1302,9 +1318,9 @@
       "date": "2021-09-09",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-09",
@@ -1335,8 +1351,8 @@
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-09-13",
@@ -1454,17 +1470,17 @@
       "date": "2021-09-22",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-22",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-22",
@@ -1493,17 +1509,17 @@
     {
       "date": "2021-09-24",
       "locality": "DUMBLEYUNG",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-24",
-      "locality": "DUMBLEYUNG",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1534,17 +1550,17 @@
       "date": "2021-09-28",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-29",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-09-29",
@@ -1589,7 +1605,23 @@
     {
       "date": "2021-10-05",
       "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "DUMBLEYUNG",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "12 to 15",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1599,8 +1631,8 @@
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-06",
@@ -1633,30 +1665,6 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
-    },
-    {
-      "date": "2021-10-08",
-      "locality": "DUMBLEYUNG",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-09",
-      "locality": "DUMBLEYUNG",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-09",
-      "locality": "DUMBLEYUNG",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-10-10",
@@ -1711,15 +1719,15 @@
       "locality": "DUMBLEYUNG",
       "AgeGroup": "12 to 15",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-13",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 2,
+      "dose1": 1,
+      "dose2": 3,
       "vaccines": 4
     },
     {
@@ -1734,9 +1742,9 @@
       "date": "2021-10-14",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-14",
@@ -1755,6 +1763,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-16",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-19",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "70 and over",
@@ -1766,9 +1782,33 @@
       "date": "2021-10-21",
       "locality": "DUMBLEYUNG",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

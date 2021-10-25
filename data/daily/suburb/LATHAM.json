@@ -1,13 +1,20 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "LATHAM",
   "data": [
     {
-      "date": "2021-04-13",
+      "date": "2021-03-17",
       "locality": "LATHAM",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-04-13",
+      "locality": "LATHAM",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-04-15",
@@ -31,6 +38,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-11",
+      "locality": "LATHAM",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-24",
       "locality": "LATHAM",
       "dose1": 2,
@@ -48,8 +62,8 @@
       "date": "2021-07-06",
       "locality": "LATHAM",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-07",
@@ -117,9 +131,9 @@
     {
       "date": "2021-08-16",
       "locality": "LATHAM",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-08-18",
@@ -134,6 +148,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "LATHAM",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2021-08-24",
@@ -160,8 +181,8 @@
       "date": "2021-09-06",
       "locality": "LATHAM",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-07",
@@ -185,11 +206,32 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-13",
+      "locality": "LATHAM",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-14",
+      "locality": "LATHAM",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-16",
       "locality": "LATHAM",
       "dose1": 3,
       "dose2": 3,
       "vaccines": 6
+    },
+    {
+      "date": "2021-09-20",
+      "locality": "LATHAM",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-21",
@@ -217,6 +259,13 @@
       "locality": "LATHAM",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "LATHAM",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -256,6 +305,13 @@
     },
     {
       "date": "2021-10-19",
+      "locality": "LATHAM",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
       "locality": "LATHAM",
       "dose1": 1,
       "dose2": 0,

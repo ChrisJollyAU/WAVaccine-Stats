@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "COOKERNUP",
   "data": [
     {
@@ -197,7 +197,7 @@
     {
       "date": "2021-05-27",
       "locality": "COOKERNUP",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -350,9 +350,17 @@
       "date": "2021-07-06",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-06",
+      "locality": "COOKERNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-06",
@@ -557,7 +565,7 @@
     {
       "date": "2021-08-04",
       "locality": "COOKERNUP",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -735,8 +743,16 @@
       "locality": "COOKERNUP",
       "AgeGroup": "50 to 69",
       "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "COOKERNUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 1
     },
     {
       "date": "2021-08-20",
@@ -854,9 +870,9 @@
       "date": "2021-08-27",
       "locality": "COOKERNUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-08-27",
@@ -870,17 +886,17 @@
       "date": "2021-08-30",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-08-31",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-08-31",
@@ -1014,9 +1030,9 @@
       "date": "2021-09-09",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-09-09",
@@ -1135,8 +1151,8 @@
       "locality": "COOKERNUP",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-09-18",
@@ -1150,17 +1166,17 @@
       "date": "2021-09-19",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-20",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-20",
@@ -1183,16 +1199,16 @@
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-09-22",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-22",
@@ -1206,9 +1222,9 @@
       "date": "2021-09-23",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-09-23",
@@ -1287,8 +1303,8 @@
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-09-30",
@@ -1319,8 +1335,8 @@
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-05",
@@ -1334,9 +1350,9 @@
       "date": "2021-10-05",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-05",
@@ -1349,18 +1365,10 @@
     {
       "date": "2021-10-06",
       "locality": "COOKERNUP",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-06",
-      "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-10-06",
@@ -1374,9 +1382,9 @@
       "date": "2021-10-07",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-07",
@@ -1398,25 +1406,33 @@
       "date": "2021-10-08",
       "locality": "COOKERNUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-08",
+      "locality": "COOKERNUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-09",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-10",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-11",
@@ -1446,17 +1462,17 @@
       "date": "2021-10-12",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-13",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-13",
@@ -1478,8 +1494,8 @@
       "date": "2021-10-14",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     },
     {
@@ -1550,14 +1566,38 @@
       "date": "2021-10-21",
       "locality": "COOKERNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-21",
       "locality": "COOKERNUP",
       "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "COOKERNUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "COOKERNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "COOKERNUP",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1

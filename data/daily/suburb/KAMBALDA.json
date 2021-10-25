@@ -1,14 +1,7 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "KAMBALDA",
   "data": [
-    {
-      "date": "2021-04-29",
-      "locality": "KAMBALDA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
     {
       "date": "2021-05-06",
       "locality": "KAMBALDA",
@@ -38,20 +31,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-04",
-      "locality": "KAMBALDA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-09",
-      "locality": "KAMBALDA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-11",
       "locality": "KAMBALDA",
       "dose1": 1,
@@ -66,18 +45,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-25",
-      "locality": "KAMBALDA",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-30",
       "locality": "KAMBALDA",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-07-01",
@@ -113,13 +85,6 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
-    },
-    {
-      "date": "2021-07-22",
-      "locality": "KAMBALDA",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-28",
@@ -243,9 +208,9 @@
     {
       "date": "2021-09-01",
       "locality": "KAMBALDA",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-03",
@@ -285,16 +250,9 @@
     {
       "date": "2021-09-16",
       "locality": "KAMBALDA",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-17",
-      "locality": "KAMBALDA",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-19",
@@ -356,14 +314,7 @@
       "date": "2021-10-08",
       "locality": "KAMBALDA",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-10-10",
-      "locality": "KAMBALDA",
-      "dose1": 0,
-      "dose2": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -372,13 +323,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-10-12",
-      "locality": "KAMBALDA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-10-13",
@@ -393,13 +337,6 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
-    },
-    {
-      "date": "2021-10-15",
-      "locality": "KAMBALDA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-10-16",
@@ -417,6 +354,20 @@
     },
     {
       "date": "2021-10-19",
+      "locality": "KAMBALDA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "KAMBALDA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
       "locality": "KAMBALDA",
       "dose1": 1,
       "dose2": 0,

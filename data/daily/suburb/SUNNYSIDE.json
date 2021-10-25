@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "SUNNYSIDE",
   "data": [
     {
@@ -66,13 +66,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-10",
-      "locality": "SUNNYSIDE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-18",
       "locality": "SUNNYSIDE",
       "dose1": 0,
@@ -87,6 +80,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-25",
+      "locality": "SUNNYSIDE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-27",
       "locality": "SUNNYSIDE",
       "dose1": 1,
@@ -94,18 +94,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-31",
-      "locality": "SUNNYSIDE",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-15",
       "locality": "SUNNYSIDE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-17",
@@ -122,11 +115,25 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-29",
+      "locality": "SUNNYSIDE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-11",
       "locality": "SUNNYSIDE",
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "SUNNYSIDE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

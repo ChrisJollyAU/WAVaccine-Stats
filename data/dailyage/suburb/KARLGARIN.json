@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "KARLGARIN",
   "data": [
     {
@@ -83,12 +83,28 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-14",
+      "locality": "KARLGARIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-20",
       "locality": "KARLGARIN",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-20",
+      "locality": "KARLGARIN",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-26",
@@ -110,6 +126,14 @@
       "date": "2021-08-02",
       "locality": "KARLGARIN",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "KARLGARIN",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -139,6 +163,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-07",
+      "locality": "KARLGARIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-10",
       "locality": "KARLGARIN",
       "AgeGroup": "50 to 69",
@@ -158,9 +190,9 @@
       "date": "2021-08-14",
       "locality": "KARLGARIN",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-16",
@@ -243,6 +275,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-10",
+      "locality": "KARLGARIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-13",
       "locality": "KARLGARIN",
       "AgeGroup": "16 to 49",
@@ -271,8 +311,8 @@
       "locality": "KARLGARIN",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-20",
@@ -281,14 +321,6 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
-    },
-    {
-      "date": "2021-09-21",
-      "locality": "KARLGARIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-09-27",
@@ -319,8 +351,16 @@
       "locality": "KARLGARIN",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "KARLGARIN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-07",
@@ -347,14 +387,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-12",
-      "locality": "KARLGARIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
       "date": "2021-10-13",
       "locality": "KARLGARIN",
       "AgeGroup": "70 and over",
@@ -364,6 +396,14 @@
     },
     {
       "date": "2021-10-20",
+      "locality": "KARLGARIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
       "locality": "KARLGARIN",
       "AgeGroup": "50 to 69",
       "dose1": 0,

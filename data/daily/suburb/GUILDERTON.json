@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "GUILDERTON",
   "data": [
     {
@@ -78,13 +78,6 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
-    },
-    {
-      "date": "2021-04-23",
-      "locality": "GUILDERTON",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-04-27",
@@ -180,9 +173,9 @@
     {
       "date": "2021-05-22",
       "locality": "GUILDERTON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-05-24",
@@ -276,6 +269,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-13",
+      "locality": "GUILDERTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-17",
       "locality": "GUILDERTON",
       "dose1": 1,
@@ -339,6 +339,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-07",
+      "locality": "GUILDERTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-09",
       "locality": "GUILDERTON",
       "dose1": 0,
@@ -377,8 +384,8 @@
       "date": "2021-07-20",
       "locality": "GUILDERTON",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-21",
@@ -446,9 +453,9 @@
     {
       "date": "2021-08-06",
       "locality": "GUILDERTON",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-10",
@@ -479,11 +486,18 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-17",
+      "date": "2021-08-16",
       "locality": "GUILDERTON",
       "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-17",
+      "locality": "GUILDERTON",
+      "dose1": 0,
       "dose2": 5,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-08-18",
@@ -531,8 +545,8 @@
       "date": "2021-08-25",
       "locality": "GUILDERTON",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-26",
@@ -565,9 +579,9 @@
     {
       "date": "2021-09-01",
       "locality": "GUILDERTON",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-02",
@@ -649,9 +663,9 @@
     {
       "date": "2021-09-21",
       "locality": "GUILDERTON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-22",
@@ -720,8 +734,8 @@
       "date": "2021-10-04",
       "locality": "GUILDERTON",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-05",
@@ -740,9 +754,9 @@
     {
       "date": "2021-10-07",
       "locality": "GUILDERTON",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-08",
@@ -818,8 +832,8 @@
       "date": "2021-10-19",
       "locality": "GUILDERTON",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-20",
@@ -830,6 +844,27 @@
     },
     {
       "date": "2021-10-21",
+      "locality": "GUILDERTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "GUILDERTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "GUILDERTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
       "locality": "GUILDERTON",
       "dose1": 0,
       "dose2": 1,

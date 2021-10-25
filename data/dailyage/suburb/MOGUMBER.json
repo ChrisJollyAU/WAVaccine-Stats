@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "MOGUMBER",
   "data": [
     {
@@ -149,14 +149,6 @@
     {
       "date": "2021-08-04",
       "locality": "MOGUMBER",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-04",
-      "locality": "MOGUMBER",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -223,8 +215,8 @@
       "locality": "MOGUMBER",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-01",
@@ -291,6 +283,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-22",
+      "locality": "MOGUMBER",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-09-24",
       "locality": "MOGUMBER",
       "AgeGroup": "16 to 49",
@@ -347,7 +347,23 @@
       "vaccines": 3
     },
     {
+      "date": "2021-10-17",
+      "locality": "MOGUMBER",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-18",
+      "locality": "MOGUMBER",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-19",
       "locality": "MOGUMBER",
       "AgeGroup": "16 to 49",
       "dose1": 0,

@@ -1,7 +1,21 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "PERTH ST GEORGES TCE",
   "data": [
+    {
+      "date": "2021-03-07",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-14",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-22",
       "locality": "PERTH ST GEORGES TCE",
@@ -17,21 +31,42 @@
       "vaccines": 1
     },
     {
-      "date": "2021-04-28",
+      "date": "2021-04-07",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-04-27",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-28",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-05-04",
       "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-05-12",
+      "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
     },
     {
-      "date": "2021-05-12",
+      "date": "2021-05-13",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 0,
@@ -45,24 +80,59 @@
       "vaccines": 1
     },
     {
-      "date": "2021-05-18",
-      "locality": "PERTH ST GEORGES TCE",
-      "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
-    },
-    {
-      "date": "2021-05-26",
+      "date": "2021-05-17",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
     },
     {
+      "date": "2021-05-18",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-05-19",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-05-24",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-26",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-05-29",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-30",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-04",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -87,6 +157,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-12",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-14",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 0,
@@ -94,11 +171,32 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-17",
+      "date": "2021-06-15",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-17",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2021-06-18",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-19",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-23",
@@ -138,6 +236,13 @@
     {
       "date": "2021-07-03",
       "locality": "PERTH ST GEORGES TCE",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-07-04",
+      "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -152,9 +257,9 @@
     {
       "date": "2021-07-09",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-12",
@@ -167,8 +272,8 @@
       "date": "2021-07-14",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-15",
@@ -178,11 +283,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-19",
+      "date": "2021-07-18",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-07-21",
@@ -194,23 +299,23 @@
     {
       "date": "2021-07-22",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-26",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-07-27",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-07-28",
@@ -220,14 +325,35 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-30",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-31",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-04",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
     },
     {
-      "date": "2021-08-04",
+      "date": "2021-08-05",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 1,
@@ -241,11 +367,18 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-08",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-09",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-08-10",
@@ -257,9 +390,9 @@
     {
       "date": "2021-08-11",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-12",
@@ -269,18 +402,39 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-18",
+      "date": "2021-08-13",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-14",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
     },
     {
+      "date": "2021-08-16",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
       "date": "2021-08-19",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-20",
@@ -295,6 +449,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-08-22",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-08-23",
@@ -314,8 +475,8 @@
       "date": "2021-08-28",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-30",
@@ -334,12 +495,26 @@
     {
       "date": "2021-09-02",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-03",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-05",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 0,
@@ -356,8 +531,8 @@
       "date": "2021-09-08",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-09",
@@ -388,6 +563,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-13",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-15",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
@@ -395,7 +577,21 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-20",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-21",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-22",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
       "dose2": 0,
@@ -409,32 +605,32 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-24",
-      "locality": "PERTH ST GEORGES TCE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-26",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-28",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-30",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-02",
@@ -453,9 +649,9 @@
     {
       "date": "2021-10-04",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-05",
@@ -465,11 +661,18 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-06",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-07",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-08",
@@ -479,18 +682,18 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-10",
+      "date": "2021-10-12",
       "locality": "PERTH ST GEORGES TCE",
-      "dose1": 2,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
       "date": "2021-10-13",
       "locality": "PERTH ST GEORGES TCE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-14",
@@ -502,8 +705,22 @@
     {
       "date": "2021-10-21",
       "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "PERTH ST GEORGES TCE",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "PERTH ST GEORGES TCE",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "BIG GROVE",
   "data": [
     {
@@ -66,13 +66,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-04-23",
-      "locality": "BIG GROVE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-04-27",
       "locality": "BIG GROVE",
       "dose1": 1,
@@ -103,9 +96,9 @@
     {
       "date": "2021-05-04",
       "locality": "BIG GROVE",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-09",
@@ -222,13 +215,6 @@
     {
       "date": "2021-06-26",
       "locality": "BIG GROVE",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-06-30",
-      "locality": "BIG GROVE",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -272,8 +258,8 @@
       "date": "2021-07-13",
       "locality": "BIG GROVE",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-19",
@@ -475,8 +461,8 @@
       "date": "2021-08-29",
       "locality": "BIG GROVE",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-30",
@@ -530,9 +516,9 @@
     {
       "date": "2021-09-08",
       "locality": "BIG GROVE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-09",
@@ -544,16 +530,16 @@
     {
       "date": "2021-09-10",
       "locality": "BIG GROVE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-12",
       "locality": "BIG GROVE",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-15",
@@ -563,11 +549,18 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-17",
+      "locality": "BIG GROVE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-18",
       "locality": "BIG GROVE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-19",
@@ -612,18 +605,11 @@
       "vaccines": 2
     },
     {
-      "date": "2021-09-27",
-      "locality": "BIG GROVE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-28",
       "locality": "BIG GROVE",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-10-01",
@@ -657,8 +643,8 @@
       "date": "2021-10-06",
       "locality": "BIG GROVE",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-08",
@@ -671,8 +657,15 @@
       "date": "2021-10-10",
       "locality": "BIG GROVE",
       "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "BIG GROVE",
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-13",
@@ -703,18 +696,18 @@
       "vaccines": 6
     },
     {
-      "date": "2021-10-18",
-      "locality": "BIG GROVE",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-21",
       "locality": "BIG GROVE",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "BIG GROVE",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

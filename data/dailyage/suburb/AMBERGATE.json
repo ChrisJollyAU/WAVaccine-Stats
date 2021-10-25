@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "AMBERGATE",
   "data": [
     {
@@ -70,14 +70,30 @@
       "date": "2021-04-19",
       "locality": "AMBERGATE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-19",
+      "locality": "AMBERGATE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-21",
       "locality": "AMBERGATE",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-24",
+      "locality": "AMBERGATE",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -112,6 +128,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-14",
+      "locality": "AMBERGATE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -363,14 +387,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-01",
-      "locality": "AMBERGATE",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-03",
       "locality": "AMBERGATE",
       "AgeGroup": "70 and over",
@@ -469,7 +485,7 @@
     {
       "date": "2021-07-20",
       "locality": "AMBERGATE",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -515,6 +531,14 @@
       "vaccines": 7
     },
     {
+      "date": "2021-07-25",
+      "locality": "AMBERGATE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-26",
       "locality": "AMBERGATE",
       "AgeGroup": "50 to 69",
@@ -535,8 +559,8 @@
       "locality": "AMBERGATE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-31",
@@ -564,14 +588,6 @@
     },
     {
       "date": "2021-08-04",
-      "locality": "AMBERGATE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-05",
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -687,8 +703,8 @@
       "locality": "AMBERGATE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-13",
@@ -758,9 +774,17 @@
       "date": "2021-08-19",
       "locality": "AMBERGATE",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-19",
+      "locality": "AMBERGATE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-20",
@@ -776,6 +800,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "AMBERGATE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -831,8 +863,8 @@
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-27",
@@ -894,9 +926,9 @@
       "date": "2021-09-01",
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-01",
@@ -918,9 +950,9 @@
       "date": "2021-09-04",
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-09-05",
@@ -958,9 +990,9 @@
       "date": "2021-09-10",
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-10",
@@ -1102,9 +1134,9 @@
       "date": "2021-09-23",
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-24",
@@ -1215,8 +1247,8 @@
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-10-02",
@@ -1231,16 +1263,16 @@
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-05",
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-05",
@@ -1334,9 +1366,9 @@
       "date": "2021-10-12",
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-12",
@@ -1358,9 +1390,9 @@
       "date": "2021-10-15",
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-15",
@@ -1431,8 +1463,8 @@
       "locality": "AMBERGATE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-10-21",
@@ -1441,6 +1473,14 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "AMBERGATE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "VICTORIA PK EAST",
   "data": [
     {
@@ -75,9 +75,9 @@
     {
       "date": "2021-05-10",
       "locality": "VICTORIA PK EAST",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-05-17",
@@ -119,13 +119,6 @@
       "locality": "VICTORIA PK EAST",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-31",
-      "locality": "VICTORIA PK EAST",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -278,8 +271,8 @@
     {
       "date": "2021-07-28",
       "locality": "VICTORIA PK EAST",
-      "dose1": 1,
-      "dose2": 2,
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     },
     {
@@ -307,8 +300,8 @@
       "date": "2021-08-03",
       "locality": "VICTORIA PK EAST",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-05",
@@ -334,9 +327,9 @@
     {
       "date": "2021-08-08",
       "locality": "VICTORIA PK EAST",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-08-10",
@@ -355,9 +348,9 @@
     {
       "date": "2021-08-13",
       "locality": "VICTORIA PK EAST",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-14",
@@ -454,8 +447,8 @@
       "date": "2021-08-29",
       "locality": "VICTORIA PK EAST",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-30",
@@ -488,9 +481,9 @@
     {
       "date": "2021-09-03",
       "locality": "VICTORIA PK EAST",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-09-04",
@@ -549,6 +542,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-18",
+      "locality": "VICTORIA PK EAST",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-20",
       "locality": "VICTORIA PK EAST",
       "dose1": 0,
@@ -601,8 +601,8 @@
       "date": "2021-10-01",
       "locality": "VICTORIA PK EAST",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-02",
@@ -614,9 +614,9 @@
     {
       "date": "2021-10-03",
       "locality": "VICTORIA PK EAST",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-04",
@@ -685,8 +685,8 @@
       "date": "2021-10-16",
       "locality": "VICTORIA PK EAST",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-19",
@@ -697,6 +697,13 @@
     },
     {
       "date": "2021-10-21",
+      "locality": "VICTORIA PK EAST",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
       "locality": "VICTORIA PK EAST",
       "dose1": 0,
       "dose2": 2,

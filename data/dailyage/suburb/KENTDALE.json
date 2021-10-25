@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "KENTDALE",
   "data": [
     {
@@ -115,14 +115,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-25",
-      "locality": "KENTDALE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-28",
       "locality": "KENTDALE",
       "AgeGroup": "16 to 49",
@@ -151,8 +143,8 @@
       "locality": "KENTDALE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-17",
@@ -299,6 +291,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-02",
+      "locality": "KENTDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-03",
       "locality": "KENTDALE",
       "AgeGroup": "50 to 69",
@@ -316,6 +316,14 @@
     },
     {
       "date": "2021-09-15",
+      "locality": "KENTDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-18",
       "locality": "KENTDALE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -355,6 +363,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-23",
+      "locality": "KENTDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-27",
       "locality": "KENTDALE",
       "AgeGroup": "16 to 49",
@@ -389,14 +405,6 @@
     {
       "date": "2021-10-13",
       "locality": "KENTDALE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-13",
-      "locality": "KENTDALE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -423,8 +431,8 @@
       "locality": "KENTDALE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-20",
@@ -432,6 +440,30 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "KENTDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "KENTDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "KENTDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

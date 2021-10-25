@@ -1,14 +1,30 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "MILLBROOK",
   "data": [
     {
-      "date": "2021-03-17",
+      "date": "2021-03-04",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-12",
+      "locality": "MILLBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-17",
+      "locality": "MILLBROOK",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-03-18",
@@ -181,6 +197,14 @@
     {
       "date": "2021-05-13",
       "locality": "MILLBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-13",
+      "locality": "MILLBROOK",
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
@@ -198,9 +222,9 @@
       "date": "2021-05-21",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-21",
@@ -227,6 +251,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-27",
+      "locality": "MILLBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-28",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
@@ -238,9 +270,9 @@
       "date": "2021-05-28",
       "locality": "MILLBROOK",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-29",
@@ -261,6 +293,14 @@
     {
       "date": "2021-06-03",
       "locality": "MILLBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-03",
+      "locality": "MILLBROOK",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
@@ -277,18 +317,10 @@
     {
       "date": "2021-06-09",
       "locality": "MILLBROOK",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-06-09",
-      "locality": "MILLBROOK",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-06-10",
@@ -309,15 +341,7 @@
     {
       "date": "2021-06-12",
       "locality": "MILLBROOK",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-14",
-      "locality": "MILLBROOK",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -390,25 +414,33 @@
       "date": "2021-06-23",
       "locality": "MILLBROOK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-23",
+      "locality": "MILLBROOK",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-25",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-26",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-26",
@@ -453,7 +485,7 @@
     {
       "date": "2021-07-03",
       "locality": "MILLBROOK",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -551,8 +583,8 @@
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-20",
@@ -671,8 +703,8 @@
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-31",
@@ -839,8 +871,8 @@
       "locality": "MILLBROOK",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-21",
@@ -872,14 +904,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-23",
-      "locality": "MILLBROOK",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -998,9 +1022,9 @@
       "date": "2021-09-05",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-05",
@@ -1031,16 +1055,16 @@
       "locality": "MILLBROOK",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-07",
       "locality": "MILLBROOK",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-09",
@@ -1062,9 +1086,9 @@
       "date": "2021-09-10",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-10",
@@ -1103,8 +1127,8 @@
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-17",
@@ -1231,8 +1255,8 @@
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-10-02",
@@ -1295,8 +1319,8 @@
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-10",
@@ -1310,9 +1334,9 @@
       "date": "2021-10-10",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-10-11",
@@ -1357,14 +1381,6 @@
     {
       "date": "2021-10-15",
       "locality": "MILLBROOK",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-15",
-      "locality": "MILLBROOK",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -1390,9 +1406,9 @@
       "date": "2021-10-18",
       "locality": "MILLBROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-19",
@@ -1401,14 +1417,6 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
-    },
-    {
-      "date": "2021-10-20",
-      "locality": "MILLBROOK",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
     },
     {
       "date": "2021-10-21",
@@ -1425,6 +1433,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "MILLBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "MILLBROOK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "MILLBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

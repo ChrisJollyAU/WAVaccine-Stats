@@ -1,9 +1,17 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "CLACKLINE",
   "data": [
     {
       "date": "2021-03-04",
+      "locality": "CLACKLINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-09",
       "locality": "CLACKLINE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -49,6 +57,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-03-30",
+      "locality": "CLACKLINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-03-31",
@@ -102,9 +118,17 @@
       "date": "2021-04-21",
       "locality": "CLACKLINE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-21",
+      "locality": "CLACKLINE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-23",
@@ -223,8 +247,16 @@
       "locality": "CLACKLINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-19",
+      "locality": "CLACKLINE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-20",
@@ -414,9 +446,9 @@
       "date": "2021-06-26",
       "locality": "CLACKLINE",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-28",
@@ -446,9 +478,9 @@
       "date": "2021-07-06",
       "locality": "CLACKLINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-08",
@@ -615,8 +647,8 @@
       "locality": "CLACKLINE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-03",
@@ -669,26 +701,10 @@
     {
       "date": "2021-08-09",
       "locality": "CLACKLINE",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-09",
-      "locality": "CLACKLINE",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-08-10",
-      "locality": "CLACKLINE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-08-10",
@@ -917,18 +933,10 @@
     {
       "date": "2021-09-06",
       "locality": "CLACKLINE",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-06",
-      "locality": "CLACKLINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-07",
@@ -991,8 +999,8 @@
       "locality": "CLACKLINE",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-13",
@@ -1030,9 +1038,9 @@
       "date": "2021-09-16",
       "locality": "CLACKLINE",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-17",
@@ -1041,14 +1049,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-09-20",
-      "locality": "CLACKLINE",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-09-21",
@@ -1086,9 +1086,9 @@
       "date": "2021-09-23",
       "locality": "CLACKLINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-23",
@@ -1261,18 +1261,18 @@
     {
       "date": "2021-10-07",
       "locality": "CLACKLINE",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "AgeGroup": "70 and over",
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
-      "date": "2021-10-07",
+      "date": "2021-10-08",
       "locality": "CLACKLINE",
-      "AgeGroup": "70 and over",
-      "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-09",
@@ -1280,14 +1280,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-11",
-      "locality": "CLACKLINE",
-      "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1342,9 +1334,9 @@
       "date": "2021-10-15",
       "locality": "CLACKLINE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-10-15",
@@ -1355,9 +1347,9 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-18",
+      "date": "2021-10-15",
       "locality": "CLACKLINE",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1420,6 +1412,62 @@
     },
     {
       "date": "2021-10-21",
+      "locality": "CLACKLINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "CLACKLINE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CLACKLINE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CLACKLINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CLACKLINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "CLACKLINE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "CLACKLINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
       "locality": "CLACKLINE",
       "AgeGroup": "50 to 69",
       "dose1": 0,

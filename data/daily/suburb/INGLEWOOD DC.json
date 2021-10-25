@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "INGLEWOOD DC",
   "data": [
     {
@@ -108,6 +108,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-05-28",
+      "locality": "INGLEWOOD DC",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-31",
       "locality": "INGLEWOOD DC",
       "dose1": 0,
@@ -192,13 +199,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-29",
-      "locality": "INGLEWOOD DC",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-30",
       "locality": "INGLEWOOD DC",
       "dose1": 2,
@@ -207,6 +207,13 @@
     },
     {
       "date": "2021-07-02",
+      "locality": "INGLEWOOD DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-12",
       "locality": "INGLEWOOD DC",
       "dose1": 0,
       "dose2": 1,
@@ -239,13 +246,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-07-21",
-      "locality": "INGLEWOOD DC",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-22",
@@ -353,13 +353,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-23",
-      "locality": "INGLEWOOD DC",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-27",
       "locality": "INGLEWOOD DC",
       "dose1": 3,
@@ -383,9 +376,9 @@
     {
       "date": "2021-09-03",
       "locality": "INGLEWOOD DC",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-09-04",
@@ -454,8 +447,8 @@
       "date": "2021-09-16",
       "locality": "INGLEWOOD DC",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-18",
@@ -514,6 +507,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-02",
+      "locality": "INGLEWOOD DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-04",
       "locality": "INGLEWOOD DC",
       "dose1": 1,
@@ -551,8 +551,8 @@
     {
       "date": "2021-10-13",
       "locality": "INGLEWOOD DC",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "JENNACUBBINE",
   "data": [
     {
@@ -45,7 +45,21 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-01",
+      "locality": "JENNACUBBINE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-08",
+      "locality": "JENNACUBBINE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-27",
       "locality": "JENNACUBBINE",
       "dose1": 1,
       "dose2": 0,
@@ -71,6 +85,20 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-19",
+      "locality": "JENNACUBBINE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "JENNACUBBINE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-04",
@@ -129,6 +157,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-25",
+      "locality": "JENNACUBBINE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-30",
       "locality": "JENNACUBBINE",
       "dose1": 0,
@@ -139,8 +174,8 @@
       "date": "2021-09-06",
       "locality": "JENNACUBBINE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-07",
@@ -224,6 +259,13 @@
       "locality": "JENNACUBBINE",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "JENNACUBBINE",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

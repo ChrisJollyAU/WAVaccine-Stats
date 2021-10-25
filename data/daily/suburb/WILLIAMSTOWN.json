@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "WILLIAMSTOWN",
   "data": [
     {
@@ -82,9 +82,9 @@
     {
       "date": "2021-06-08",
       "locality": "WILLIAMSTOWN",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-17",
@@ -257,9 +257,9 @@
     {
       "date": "2021-08-23",
       "locality": "WILLIAMSTOWN",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-08-24",
@@ -281,13 +281,6 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
-    },
-    {
-      "date": "2021-08-31",
-      "locality": "WILLIAMSTOWN",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-09-02",
@@ -346,24 +339,38 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-12",
+      "locality": "WILLIAMSTOWN",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-09-14",
       "locality": "WILLIAMSTOWN",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-16",
       "locality": "WILLIAMSTOWN",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-17",
       "locality": "WILLIAMSTOWN",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "WILLIAMSTOWN",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -402,18 +409,32 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-06",
+      "date": "2021-10-03",
       "locality": "WILLIAMSTOWN",
       "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "WILLIAMSTOWN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "WILLIAMSTOWN",
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-07",
       "locality": "WILLIAMSTOWN",
-      "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-10-08",
@@ -432,16 +453,16 @@
     {
       "date": "2021-10-12",
       "locality": "WILLIAMSTOWN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-13",
       "locality": "WILLIAMSTOWN",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-14",
@@ -451,7 +472,28 @@
       "vaccines": 3
     },
     {
+      "date": "2021-10-15",
+      "locality": "WILLIAMSTOWN",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-10-21",
+      "locality": "WILLIAMSTOWN",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "WILLIAMSTOWN",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
       "locality": "WILLIAMSTOWN",
       "dose1": 1,
       "dose2": 0,

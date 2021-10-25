@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "ROSA BROOK",
   "data": [
     {
@@ -318,6 +318,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-25",
+      "locality": "ROSA BROOK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-27",
       "locality": "ROSA BROOK",
       "dose1": 2,
@@ -327,9 +334,9 @@
     {
       "date": "2021-08-28",
       "locality": "ROSA BROOK",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-08-30",
@@ -479,18 +486,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-26",
-      "locality": "ROSA BROOK",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-28",
       "locality": "ROSA BROOK",
-      "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-30",
@@ -500,18 +500,11 @@
       "vaccines": 3
     },
     {
-      "date": "2021-10-02",
-      "locality": "ROSA BROOK",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-05",
       "locality": "ROSA BROOK",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-10-06",
@@ -596,6 +589,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "ROSA BROOK",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

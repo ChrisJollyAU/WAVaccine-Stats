@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "OSBORNE PARK DC",
   "data": [
     {
@@ -12,14 +12,6 @@
     },
     {
       "date": "2021-03-19",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-29",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -259,25 +251,9 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-03",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-04",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-08",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -328,22 +304,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-24",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-25",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -437,6 +397,14 @@
     {
       "date": "2021-07-19",
       "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-19",
+      "locality": "OSBORNE PARK DC",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -515,14 +483,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-02",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-03",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "50 to 69",
@@ -572,6 +532,14 @@
     },
     {
       "date": "2021-08-07",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-09",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
       "dose1": 0,
@@ -686,9 +654,9 @@
       "date": "2021-08-23",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-08-23",
@@ -717,6 +685,14 @@
     {
       "date": "2021-08-26",
       "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-26",
+      "locality": "OSBORNE PARK DC",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -741,14 +717,6 @@
     {
       "date": "2021-08-30",
       "locality": "OSBORNE PARK DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-30",
-      "locality": "OSBORNE PARK DC",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -758,17 +726,17 @@
       "date": "2021-08-31",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-31",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-31",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-01",
@@ -791,8 +759,8 @@
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-04",
@@ -814,8 +782,16 @@
       "date": "2021-09-07",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -863,8 +839,8 @@
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-15",
@@ -905,6 +881,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-21",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-21",
@@ -963,6 +947,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-28",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-29",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
@@ -975,8 +967,8 @@
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-02",
@@ -1006,9 +998,9 @@
       "date": "2021-10-03",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-05",
@@ -1047,8 +1039,8 @@
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-10-11",
@@ -1065,14 +1057,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-10-13",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-10-14",
@@ -1104,14 +1088,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-19",
-      "locality": "OSBORNE PARK DC",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1152,6 +1128,38 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

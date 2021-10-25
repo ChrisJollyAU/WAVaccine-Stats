@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "BEECHINA",
   "data": [
     {
@@ -17,10 +17,24 @@
       "vaccines": 1
     },
     {
+      "date": "2021-03-22",
+      "locality": "BEECHINA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-06",
       "locality": "BEECHINA",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-12",
+      "locality": "BEECHINA",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -180,9 +194,9 @@
     {
       "date": "2021-08-17",
       "locality": "BEECHINA",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-18",
@@ -276,10 +290,10 @@
       "vaccines": 4
     },
     {
-      "date": "2021-09-17",
+      "date": "2021-09-19",
       "locality": "BEECHINA",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -342,8 +356,8 @@
       "date": "2021-10-15",
       "locality": "BEECHINA",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-19",
@@ -361,6 +375,13 @@
     },
     {
       "date": "2021-10-21",
+      "locality": "BEECHINA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
       "locality": "BEECHINA",
       "dose1": 1,
       "dose2": 0,

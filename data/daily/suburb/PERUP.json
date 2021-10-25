@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "PERUP",
   "data": [
     {
@@ -250,9 +250,9 @@
     {
       "date": "2021-09-03",
       "locality": "PERUP",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-08",
@@ -264,16 +264,9 @@
     {
       "date": "2021-09-09",
       "locality": "PERUP",
-      "dose1": 2,
+      "dose1": 0,
       "dose2": 5,
-      "vaccines": 7
-    },
-    {
-      "date": "2021-09-13",
-      "locality": "PERUP",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "vaccines": 5
     },
     {
       "date": "2021-09-14",
@@ -297,6 +290,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-23",
+      "locality": "PERUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-28",
       "locality": "PERUP",
       "dose1": 1,
@@ -307,15 +307,22 @@
       "date": "2021-09-30",
       "locality": "PERUP",
       "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "PERUP",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-05",
       "locality": "PERUP",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-06",
@@ -327,9 +334,9 @@
     {
       "date": "2021-10-07",
       "locality": "PERUP",
-      "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-08",
@@ -337,6 +344,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-19",
+      "locality": "PERUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-20",

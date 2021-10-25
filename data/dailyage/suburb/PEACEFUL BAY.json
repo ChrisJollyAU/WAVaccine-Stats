@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "PEACEFUL BAY",
   "data": [
     {
@@ -78,17 +78,17 @@
       "date": "2021-06-05",
       "locality": "PEACEFUL BAY",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-05",
       "locality": "PEACEFUL BAY",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-11",
@@ -237,14 +237,6 @@
     {
       "date": "2021-08-02",
       "locality": "PEACEFUL BAY",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-02",
-      "locality": "PEACEFUL BAY",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -293,18 +285,10 @@
     {
       "date": "2021-08-23",
       "locality": "PEACEFUL BAY",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
-    },
-    {
-      "date": "2021-08-23",
-      "locality": "PEACEFUL BAY",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
     },
     {
       "date": "2021-08-25",
@@ -334,14 +318,6 @@
       "date": "2021-08-30",
       "locality": "PEACEFUL BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-03",
-      "locality": "PEACEFUL BAY",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -387,14 +363,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-13",
-      "locality": "PEACEFUL BAY",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-14",
       "locality": "PEACEFUL BAY",
       "AgeGroup": "50 to 69",
@@ -422,9 +390,9 @@
       "date": "2021-09-29",
       "locality": "PEACEFUL BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-01",
@@ -433,14 +401,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-10-01",
-      "locality": "PEACEFUL BAY",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-10-02",
@@ -481,6 +441,38 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-20",
+      "locality": "PEACEFUL BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "PEACEFUL BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "PEACEFUL BAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "PEACEFUL BAY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

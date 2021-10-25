@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "locality": "LUMEAH",
   "data": [
     {
@@ -26,16 +26,16 @@
     {
       "date": "2021-06-16",
       "locality": "LUMEAH",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-19",
       "locality": "LUMEAH",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-21",
@@ -108,10 +108,24 @@
       "vaccines": 5
     },
     {
+      "date": "2021-09-09",
+      "locality": "LUMEAH",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-09-21",
       "locality": "LUMEAH",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-22",
+      "locality": "LUMEAH",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -122,18 +136,32 @@
       "vaccines": 3
     },
     {
-      "date": "2021-10-06",
+      "date": "2021-10-03",
       "locality": "LUMEAH",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
     },
     {
+      "date": "2021-10-05",
+      "locality": "LUMEAH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "LUMEAH",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
       "date": "2021-10-13",
       "locality": "LUMEAH",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-15",

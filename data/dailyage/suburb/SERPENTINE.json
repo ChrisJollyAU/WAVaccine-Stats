@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-21T00:00:00",
+  "date_updated": "2021-10-24T00:00:00",
   "postcode": "SERPENTINE",
   "data": [
     {
@@ -27,9 +27,17 @@
       "vaccines": 1
     },
     {
+      "date": "2021-03-03",
+      "locality": "SERPENTINE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-03-04",
       "locality": "SERPENTINE",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -101,14 +109,6 @@
     {
       "date": "2021-03-13",
       "locality": "SERPENTINE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-13",
-      "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -118,9 +118,9 @@
       "date": "2021-03-15",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-16",
@@ -206,25 +206,17 @@
       "date": "2021-03-23",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-03-24",
-      "locality": "SERPENTINE",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-03-24",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
       "dose1": 5,
-      "dose2": 0,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 6
     },
     {
       "date": "2021-03-25",
@@ -254,9 +246,9 @@
       "date": "2021-03-26",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-27",
@@ -310,9 +302,9 @@
       "date": "2021-04-01",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-04-01",
@@ -398,8 +390,8 @@
       "date": "2021-04-08",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -429,7 +421,7 @@
     {
       "date": "2021-04-12",
       "locality": "SERPENTINE",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -487,8 +479,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-04-17",
@@ -550,9 +542,9 @@
       "date": "2021-04-21",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-22",
@@ -566,9 +558,9 @@
       "date": "2021-04-22",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-04-24",
@@ -590,17 +582,17 @@
       "date": "2021-04-27",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-04-27",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 0,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-04-28",
@@ -622,9 +614,9 @@
       "date": "2021-04-28",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-04-29",
@@ -655,8 +647,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-04-30",
@@ -718,17 +710,17 @@
       "date": "2021-05-05",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-05-05",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-05-06",
@@ -1031,8 +1023,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-05-25",
@@ -1134,17 +1126,17 @@
       "date": "2021-05-31",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-05-31",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-05-31",
@@ -1190,17 +1182,9 @@
       "date": "2021-06-02",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 7
-    },
-    {
-      "date": "2021-06-02",
-      "locality": "SERPENTINE",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "vaccines": 5
     },
     {
       "date": "2021-06-03",
@@ -1254,9 +1238,17 @@
       "date": "2021-06-05",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 7
+    },
+    {
+      "date": "2021-06-05",
+      "locality": "SERPENTINE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-07",
@@ -1295,8 +1287,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-09",
@@ -1342,17 +1334,17 @@
       "date": "2021-06-11",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-11",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-06-12",
@@ -1382,9 +1374,9 @@
       "date": "2021-06-14",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-06-14",
@@ -1398,9 +1390,9 @@
       "date": "2021-06-15",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-15",
@@ -1430,9 +1422,9 @@
       "date": "2021-06-16",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-06-16",
@@ -1469,6 +1461,14 @@
     {
       "date": "2021-06-18",
       "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-18",
+      "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 3,
@@ -1486,9 +1486,9 @@
       "date": "2021-06-19",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-19",
@@ -1504,6 +1504,14 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-21",
+      "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1526,17 +1534,17 @@
       "date": "2021-06-22",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-22",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-22",
@@ -1575,8 +1583,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-06-24",
@@ -1654,9 +1662,9 @@
       "date": "2021-06-29",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 4
     },
     {
       "date": "2021-06-29",
@@ -1694,9 +1702,9 @@
       "date": "2021-07-01",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-07-01",
@@ -1765,6 +1773,14 @@
     {
       "date": "2021-07-05",
       "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-05",
+      "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 0,
@@ -1782,33 +1798,33 @@
       "date": "2021-07-06",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 73,
-      "dose2": 0,
-      "vaccines": 73
+      "dose1": 51,
+      "dose2": 1,
+      "vaccines": 52
     },
     {
       "date": "2021-07-06",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 27,
+      "dose1": 17,
       "dose2": 0,
-      "vaccines": 27
+      "vaccines": 17
     },
     {
       "date": "2021-07-06",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 8,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-07-07",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-07",
@@ -1855,8 +1871,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-07-09",
@@ -1897,14 +1913,6 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
-    },
-    {
-      "date": "2021-07-11",
-      "locality": "SERPENTINE",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-07-12",
@@ -1935,16 +1943,16 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-07-13",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-07-13",
@@ -1966,17 +1974,17 @@
       "date": "2021-07-14",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-07-15",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-07-15",
@@ -1991,8 +1999,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-07-16",
@@ -2045,14 +2053,6 @@
     {
       "date": "2021-07-18",
       "locality": "SERPENTINE",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-18",
-      "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -2070,9 +2070,9 @@
       "date": "2021-07-19",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-07-19",
@@ -2103,32 +2103,32 @@
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-07-20",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 13,
-      "vaccines": 14
+      "dose2": 14,
+      "vaccines": 15
     },
     {
       "date": "2021-07-21",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 2,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-07-21",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-07-21",
@@ -2142,17 +2142,17 @@
       "date": "2021-07-22",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-07-22",
+      "locality": "SERPENTINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
       "vaccines": 6
-    },
-    {
-      "date": "2021-07-22",
-      "locality": "SERPENTINE",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
     },
     {
       "date": "2021-07-22",
@@ -2214,9 +2214,9 @@
       "date": "2021-07-26",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 3
     },
     {
       "date": "2021-07-26",
@@ -2238,9 +2238,9 @@
       "date": "2021-07-27",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-27",
@@ -2262,17 +2262,17 @@
       "date": "2021-07-28",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-07-28",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 5,
-      "vaccines": 11
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-07-28",
@@ -2286,9 +2286,9 @@
       "date": "2021-07-29",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-07-29",
@@ -2310,25 +2310,25 @@
       "date": "2021-07-30",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-30",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-07-30",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-07-31",
@@ -2390,33 +2390,33 @@
       "date": "2021-08-03",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 67,
-      "vaccines": 71
+      "dose1": 3,
+      "dose2": 48,
+      "vaccines": 51
     },
     {
       "date": "2021-08-03",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 33,
-      "vaccines": 38
+      "dose2": 23,
+      "vaccines": 28
     },
     {
       "date": "2021-08-03",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
       "dose1": 4,
-      "dose2": 9,
-      "vaccines": 13
+      "dose2": 10,
+      "vaccines": 14
     },
     {
       "date": "2021-08-04",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-08-04",
@@ -2470,9 +2470,9 @@
       "date": "2021-08-07",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-07",
@@ -2489,14 +2489,6 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
-    },
-    {
-      "date": "2021-08-08",
-      "locality": "SERPENTINE",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-08-09",
@@ -2526,17 +2518,17 @@
       "date": "2021-08-10",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-10",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 13,
-      "vaccines": 16
+      "dose2": 12,
+      "vaccines": 15
     },
     {
       "date": "2021-08-10",
@@ -2574,9 +2566,9 @@
       "date": "2021-08-12",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 8,
       "dose2": 2,
-      "vaccines": 12
+      "vaccines": 10
     },
     {
       "date": "2021-08-12",
@@ -2590,9 +2582,9 @@
       "date": "2021-08-13",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-13",
@@ -2607,8 +2599,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 2,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 10
     },
     {
       "date": "2021-08-14",
@@ -2646,17 +2638,17 @@
       "date": "2021-08-16",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose1": 6,
+      "dose2": 4,
+      "vaccines": 10
     },
     {
       "date": "2021-08-16",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 14,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-08-16",
@@ -2694,9 +2686,9 @@
       "date": "2021-08-18",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
-      "dose2": 7,
-      "vaccines": 18
+      "dose1": 12,
+      "dose2": 5,
+      "vaccines": 17
     },
     {
       "date": "2021-08-18",
@@ -2718,9 +2710,9 @@
       "date": "2021-08-19",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
-      "dose2": 5,
-      "vaccines": 18
+      "dose1": 12,
+      "dose2": 4,
+      "vaccines": 16
     },
     {
       "date": "2021-08-19",
@@ -2750,9 +2742,9 @@
       "date": "2021-08-20",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
+      "dose1": 7,
       "dose2": 9,
-      "vaccines": 18
+      "vaccines": 16
     },
     {
       "date": "2021-08-20",
@@ -2766,8 +2758,8 @@
       "date": "2021-08-21",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 0,
+      "dose1": 6,
+      "dose2": 1,
       "vaccines": 7
     },
     {
@@ -2790,9 +2782,9 @@
       "date": "2021-08-22",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-08-22",
@@ -2806,9 +2798,9 @@
       "date": "2021-08-23",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-08-23",
@@ -2830,8 +2822,8 @@
       "date": "2021-08-24",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 4,
+      "dose1": 9,
+      "dose2": 3,
       "vaccines": 12
     },
     {
@@ -2847,32 +2839,32 @@
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-08-25",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 5,
-      "vaccines": 14
+      "dose2": 4,
+      "vaccines": 13
     },
     {
       "date": "2021-08-25",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 3,
-      "vaccines": 10
+      "dose2": 2,
+      "vaccines": 9
     },
     {
       "date": "2021-08-26",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 5,
-      "vaccines": 13
+      "dose2": 4,
+      "vaccines": 12
     },
     {
       "date": "2021-08-26",
@@ -2998,25 +2990,25 @@
       "date": "2021-09-01",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 18,
       "dose2": 3,
-      "vaccines": 19
+      "vaccines": 21
     },
     {
       "date": "2021-09-01",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 11,
-      "dose2": 10,
-      "vaccines": 21
+      "dose2": 9,
+      "vaccines": 20
     },
     {
       "date": "2021-09-02",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 4,
-      "vaccines": 19
+      "dose2": 3,
+      "vaccines": 18
     },
     {
       "date": "2021-09-02",
@@ -3038,17 +3030,17 @@
       "date": "2021-09-03",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 7
     },
     {
       "date": "2021-09-03",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-09-04",
@@ -3094,17 +3086,17 @@
       "date": "2021-09-06",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-09-06",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 10,
-      "vaccines": 14
+      "dose2": 9,
+      "vaccines": 13
     },
     {
       "date": "2021-09-06",
@@ -3119,8 +3111,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-09-07",
@@ -3142,24 +3134,24 @@
       "date": "2021-09-08",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 9,
-      "vaccines": 16
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     },
     {
       "date": "2021-09-08",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 10,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-09-08",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 3,
+      "dose1": 1,
+      "dose2": 2,
       "vaccines": 3
     },
     {
@@ -3223,24 +3215,24 @@
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 11,
-      "vaccines": 12
+      "dose2": 10,
+      "vaccines": 11
     },
     {
       "date": "2021-09-11",
       "locality": "SERPENTINE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-12",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-09-12",
@@ -3271,8 +3263,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-13",
@@ -3302,9 +3294,9 @@
       "date": "2021-09-14",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
-      "dose2": 10,
-      "vaccines": 20
+      "dose1": 8,
+      "dose2": 9,
+      "vaccines": 17
     },
     {
       "date": "2021-09-14",
@@ -3327,16 +3319,16 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 14,
-      "dose2": 8,
-      "vaccines": 22
+      "dose2": 10,
+      "vaccines": 24
     },
     {
       "date": "2021-09-15",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 4,
+      "vaccines": 9
     },
     {
       "date": "2021-09-15",
@@ -3351,8 +3343,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 10
     },
     {
       "date": "2021-09-16",
@@ -3375,16 +3367,16 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 16,
-      "vaccines": 20
+      "dose2": 15,
+      "vaccines": 19
     },
     {
       "date": "2021-09-17",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-09-17",
@@ -3415,8 +3407,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-19",
@@ -3430,9 +3422,9 @@
       "date": "2021-09-20",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-09-20",
@@ -3462,9 +3454,9 @@
       "date": "2021-09-21",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-09-21",
@@ -3494,9 +3486,9 @@
       "date": "2021-09-22",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 17,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-09-22",
@@ -3526,9 +3518,9 @@
       "date": "2021-09-23",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 10,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-09-23",
@@ -3550,8 +3542,8 @@
       "date": "2021-09-24",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
-      "dose2": 10,
+      "dose1": 13,
+      "dose2": 9,
       "vaccines": 22
     },
     {
@@ -3574,8 +3566,8 @@
       "date": "2021-09-25",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 3,
+      "dose1": 2,
+      "dose2": 2,
       "vaccines": 4
     },
     {
@@ -3605,6 +3597,14 @@
     {
       "date": "2021-09-27",
       "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -3623,16 +3623,16 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-09-28",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-09-28",
@@ -3646,25 +3646,25 @@
       "date": "2021-09-29",
       "locality": "SERPENTINE",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-09-29",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-09-29",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-09-29",
@@ -3686,9 +3686,9 @@
       "date": "2021-09-30",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 11,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-09-30",
@@ -3718,9 +3718,9 @@
       "date": "2021-10-01",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 7,
-      "vaccines": 15
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
     },
     {
       "date": "2021-10-01",
@@ -3734,9 +3734,9 @@
       "date": "2021-10-02",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 0,
-      "vaccines": 7
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
     },
     {
       "date": "2021-10-02",
@@ -3791,8 +3791,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose2": 2,
+      "vaccines": 10
     },
     {
       "date": "2021-10-04",
@@ -3830,9 +3830,9 @@
       "date": "2021-10-05",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-10-05",
@@ -3846,8 +3846,8 @@
       "date": "2021-10-06",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
-      "dose2": 6,
+      "dose1": 12,
+      "dose2": 7,
       "vaccines": 19
     },
     {
@@ -3878,9 +3878,9 @@
       "date": "2021-10-07",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 10,
       "dose2": 6,
-      "vaccines": 18
+      "vaccines": 16
     },
     {
       "date": "2021-10-07",
@@ -3903,8 +3903,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 21,
-      "vaccines": 25
+      "dose2": 17,
+      "vaccines": 21
     },
     {
       "date": "2021-10-08",
@@ -3918,25 +3918,25 @@
       "date": "2021-10-09",
       "locality": "SERPENTINE",
       "AgeGroup": "12 to 15",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-09",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 8,
-      "vaccines": 15
+      "dose2": 7,
+      "vaccines": 14
     },
     {
       "date": "2021-10-09",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-09",
@@ -3950,9 +3950,9 @@
       "date": "2021-10-10",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-10-10",
@@ -3974,9 +3974,9 @@
       "date": "2021-10-11",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
-      "dose2": 8,
-      "vaccines": 20
+      "dose1": 10,
+      "dose2": 9,
+      "vaccines": 19
     },
     {
       "date": "2021-10-11",
@@ -3998,9 +3998,9 @@
       "date": "2021-10-12",
       "locality": "SERPENTINE",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-12",
@@ -4029,13 +4029,37 @@
     {
       "date": "2021-10-13",
       "locality": "SERPENTINE",
-      "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 6,
+      "vaccines": 17
     },
     {
       "date": "2021-10-13",
+      "locality": "SERPENTINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-13",
+      "locality": "SERPENTINE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-14",
+      "locality": "SERPENTINE",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-14",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
@@ -4043,68 +4067,36 @@
       "vaccines": 17
     },
     {
-      "date": "2021-10-13",
-      "locality": "SERPENTINE",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
-    },
-    {
-      "date": "2021-10-13",
-      "locality": "SERPENTINE",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
-    },
-    {
       "date": "2021-10-14",
       "locality": "SERPENTINE",
-      "AgeGroup": "12 to 15",
+      "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
-    },
-    {
-      "date": "2021-10-14",
-      "locality": "SERPENTINE",
-      "AgeGroup": "16 to 49",
-      "dose1": 11,
-      "dose2": 6,
-      "vaccines": 17
-    },
-    {
-      "date": "2021-10-14",
-      "locality": "SERPENTINE",
-      "AgeGroup": "50 to 69",
-      "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2021-10-15",
       "locality": "SERPENTINE",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-15",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
-      "dose2": 8,
-      "vaccines": 17
+      "dose1": 7,
+      "dose2": 9,
+      "vaccines": 16
     },
     {
       "date": "2021-10-15",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 2,
-      "vaccines": 10
+      "dose2": 1,
+      "vaccines": 9
     },
     {
       "date": "2021-10-15",
@@ -4134,9 +4126,9 @@
       "date": "2021-10-17",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 4
     },
     {
       "date": "2021-10-17",
@@ -4158,17 +4150,17 @@
       "date": "2021-10-18",
       "locality": "SERPENTINE",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-18",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-18",
@@ -4199,8 +4191,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 6,
-      "vaccines": 16
+      "dose2": 7,
+      "vaccines": 17
     },
     {
       "date": "2021-10-19",
@@ -4222,17 +4214,17 @@
       "date": "2021-10-20",
       "locality": "SERPENTINE",
       "AgeGroup": "12 to 15",
-      "dose1": 12,
-      "dose2": 1,
+      "dose1": 10,
+      "dose2": 3,
       "vaccines": 13
     },
     {
       "date": "2021-10-20",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 5,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-10-20",
@@ -4253,18 +4245,26 @@
     {
       "date": "2021-10-21",
       "locality": "SERPENTINE",
-      "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
     },
     {
       "date": "2021-10-21",
       "locality": "SERPENTINE",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-10-21",
@@ -4273,6 +4273,78 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "SERPENTINE",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "SERPENTINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "SERPENTINE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "SERPENTINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "SERPENTINE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "SERPENTINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

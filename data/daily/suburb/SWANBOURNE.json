@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-25T00:00:00",
   "locality": "SWANBOURNE",
   "data": [
     {
@@ -1686,8 +1686,15 @@
       "date": "2021-10-24",
       "locality": "SWANBOURNE",
       "dose1": 1,
-      "dose2": 15,
-      "vaccines": 16
+      "dose2": 16,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "SWANBOURNE",
+      "dose1": 5,
+      "dose2": 13,
+      "vaccines": 18
     }
   ]
 }

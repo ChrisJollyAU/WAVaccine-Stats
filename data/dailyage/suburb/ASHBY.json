@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-25T00:00:00",
   "postcode": "ASHBY",
   "data": [
     {
@@ -3262,9 +3262,9 @@
       "date": "2021-08-25",
       "locality": "ASHBY",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-26",
@@ -3822,9 +3822,9 @@
       "date": "2021-09-18",
       "locality": "ASHBY",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-09-18",
@@ -4487,8 +4487,8 @@
       "locality": "ASHBY",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-14",
@@ -4622,9 +4622,9 @@
       "date": "2021-10-20",
       "locality": "ASHBY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 11,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-10-20",
@@ -4695,8 +4695,8 @@
       "locality": "ASHBY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-10-22",
@@ -4753,6 +4753,38 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "ASHBY",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "ASHBY",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 13,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "ASHBY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "ASHBY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

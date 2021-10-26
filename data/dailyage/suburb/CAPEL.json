@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-25T00:00:00",
   "postcode": "CAPEL",
   "data": [
     {
@@ -4430,17 +4430,17 @@
       "date": "2021-10-22",
       "locality": "CAPEL",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 17,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-10-22",
       "locality": "CAPEL",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 8,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-22",
@@ -4454,17 +4454,25 @@
       "date": "2021-10-23",
       "locality": "CAPEL",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
-      "dose2": 6,
-      "vaccines": 16
+      "dose1": 11,
+      "dose2": 7,
+      "vaccines": 18
     },
     {
       "date": "2021-10-23",
       "locality": "CAPEL",
       "AgeGroup": "50 to 69",
       "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "CAPEL",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-24",
@@ -4481,6 +4489,30 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "CAPEL",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "CAPEL",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 4,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "CAPEL",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

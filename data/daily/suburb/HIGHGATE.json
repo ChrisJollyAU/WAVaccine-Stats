@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-25T00:00:00",
   "locality": "HIGHGATE",
   "data": [
     {
@@ -26,9 +26,9 @@
     {
       "date": "2021-03-02",
       "locality": "HIGHGATE",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-03",
@@ -129,13 +129,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-03-21",
-      "locality": "HIGHGATE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-03-22",
       "locality": "HIGHGATE",
       "dose1": 2,
@@ -167,8 +160,8 @@
       "date": "2021-03-26",
       "locality": "HIGHGATE",
       "dose1": 8,
-      "dose2": 2,
-      "vaccines": 10
+      "dose2": 3,
+      "vaccines": 11
     },
     {
       "date": "2021-03-27",
@@ -265,8 +258,8 @@
       "date": "2021-04-11",
       "locality": "HIGHGATE",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-04-12",
@@ -460,9 +453,9 @@
     {
       "date": "2021-05-12",
       "locality": "HIGHGATE",
-      "dose1": 23,
+      "dose1": 22,
       "dose2": 0,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-05-13",
@@ -1042,8 +1035,8 @@
       "date": "2021-08-04",
       "locality": "HIGHGATE",
       "dose1": 8,
-      "dose2": 20,
-      "vaccines": 28
+      "dose2": 19,
+      "vaccines": 27
     },
     {
       "date": "2021-08-05",
@@ -1300,9 +1293,9 @@
     {
       "date": "2021-09-10",
       "locality": "HIGHGATE",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 14,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-09-11",
@@ -1433,9 +1426,9 @@
     {
       "date": "2021-09-29",
       "locality": "HIGHGATE",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 12,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-09-30",
@@ -1497,8 +1490,8 @@
       "date": "2021-10-08",
       "locality": "HIGHGATE",
       "dose1": 11,
-      "dose2": 11,
-      "vaccines": 22
+      "dose2": 12,
+      "vaccines": 23
     },
     {
       "date": "2021-10-09",
@@ -1588,15 +1581,15 @@
       "date": "2021-10-21",
       "locality": "HIGHGATE",
       "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose2": 11,
+      "vaccines": 19
     },
     {
       "date": "2021-10-22",
       "locality": "HIGHGATE",
       "dose1": 4,
-      "dose2": 15,
-      "vaccines": 19
+      "dose2": 16,
+      "vaccines": 20
     },
     {
       "date": "2021-10-23",
@@ -1611,6 +1604,13 @@
       "dose1": 5,
       "dose2": 7,
       "vaccines": 12
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "HIGHGATE",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     }
   ]
 }

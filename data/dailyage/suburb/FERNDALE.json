@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-25T00:00:00",
   "postcode": "FERNDALE",
   "data": [
     {
@@ -694,9 +694,9 @@
       "date": "2021-04-13",
       "locality": "FERNDALE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-04-13",
@@ -2607,8 +2607,8 @@
       "locality": "FERNDALE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-07-13",
@@ -4486,9 +4486,9 @@
       "date": "2021-09-28",
       "locality": "FERNDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 15,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-09-28",
@@ -5142,9 +5142,9 @@
       "date": "2021-10-20",
       "locality": "FERNDALE",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-20",
@@ -5215,8 +5215,8 @@
       "locality": "FERNDALE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 14,
-      "vaccines": 24
+      "dose2": 16,
+      "vaccines": 26
     },
     {
       "date": "2021-10-22",
@@ -5238,25 +5238,25 @@
       "date": "2021-10-23",
       "locality": "FERNDALE",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 5
     },
     {
       "date": "2021-10-23",
       "locality": "FERNDALE",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 6,
-      "vaccines": 15
+      "dose2": 8,
+      "vaccines": 17
     },
     {
       "date": "2021-10-23",
       "locality": "FERNDALE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-10-23",
@@ -5271,16 +5271,16 @@
       "locality": "FERNDALE",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-24",
       "locality": "FERNDALE",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose2": 7,
+      "vaccines": 12
     },
     {
       "date": "2021-10-24",
@@ -5289,6 +5289,30 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "FERNDALE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "FERNDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "FERNDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

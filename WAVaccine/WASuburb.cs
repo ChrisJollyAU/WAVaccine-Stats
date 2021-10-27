@@ -464,6 +464,7 @@ namespace WAVaccine
 
             var grpsa2sub = sa2sub.GroupBy(ss => ss.SA2_Name);
             List<SuburbObject> used = new List<SuburbObject>();
+            List<SA2PopOb> usedsa2 = new List<SA2PopOb>();
             List<SA2Detail> sa2det = new List<SA2Detail>();
             foreach (var it in grpsa2sub)
             {
@@ -473,6 +474,7 @@ namespace WAVaccine
                 if (s2pop != null) {
                     sdet.c16_plus = (int)s2pop.c16_plus;
                     sdet.c12_plus = (int)s2pop.c12_plus;
+                    usedsa2.Add(s2pop);
                 }
                 foreach (var it2 in it)
                 {
@@ -493,6 +495,15 @@ namespace WAVaccine
                     sdet.full_vaccinated_percent = (decimal)sdet.dose2 / (decimal)sdet.c12_plus * 100;
                     sdet.D3_vaccinated_percent = (decimal)sdet.dose3 / (decimal)sdet.c12_plus * 100;
                 }
+                sa2det.Add(sdet);
+            }
+            var xyz = sa2pop.Where(x => x.State == "Western Australia").Except(usedsa2).ToList();
+            foreach (var it in xyz)
+            {
+                SA2Detail sdet = new SA2Detail();
+                sdet.SA2Name = it.SA2;
+                sdet.c16_plus = (int)it.c16_plus;
+                sdet.c12_plus = (int)it.c12_plus;
                 sa2det.Add(sdet);
             }
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");

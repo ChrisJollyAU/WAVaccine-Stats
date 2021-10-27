@@ -520,6 +520,7 @@ namespace WAVaccine
 
             var grpsa2sub = sa2sub.GroupBy(ss => ss.SA2_Name);
             List<SA2DetailAge> sa2det = new List<SA2DetailAge>();
+            List<SA2PopOb> usedsa2 = new List<SA2PopOb>();
             foreach (var it in grpsa2sub)
             {
                 SA2DetailAge sdet = new SA2DetailAge();
@@ -539,6 +540,7 @@ namespace WAVaccine
                     sdet.c_16_49 = ct_16_49;
                     sdet.c_50_69 = ct_50_69;
                     sdet.c_70p = ct_70p;
+                    usedsa2.Add(s2pop);
                 }
 
                 foreach (var it2 in it)
@@ -612,6 +614,25 @@ namespace WAVaccine
                     sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
                     sdet.D3_70p_pc = (sdet.dose3_70p) / (decimal)sdet.c_70p * 100;
                 }
+                sa2det.Add(sdet);
+            }
+            var xyz = sa2pop.Where(x => x.State == "Western Australia").Except(usedsa2).ToList();
+            foreach (var it in xyz)
+            {
+                SA2DetailAge sdet = new SA2DetailAge();
+                sdet.SA2Name = it.SA2;
+                sdet.c16_plus = (int)it.c16_plus;
+                sdet.c12_plus = (int)it.c12_plus;
+                int ct_50_69 = 0;
+                int ct_70p = 0;
+                int ct_16_49 = 0;
+                ct_50_69 = (int)(it.c_50_54 + it.c_55_59 + it.c_60_64 + it.c_60_64);
+                ct_70p = (int)(it.c_70_74 + it.c_75_79 + it.c_80_84 + it.c_85p);
+                ct_16_49 = (int)(it.c_16_19 + it.c_20_24 + it.c_25_29 + it.c_30_34 + it.c_35_39 + it.c_40_44 + it.c_45_49);
+                sdet.c_12_15 = (int)it.c_12_15;
+                sdet.c_16_49 = ct_16_49;
+                sdet.c_50_69 = ct_50_69;
+                sdet.c_70p = ct_70p;
                 sa2det.Add(sdet);
             }
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");

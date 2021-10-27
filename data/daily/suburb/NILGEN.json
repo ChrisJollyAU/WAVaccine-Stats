@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "NILGEN",
   "data": [
     {
@@ -437,6 +437,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-09",
+      "locality": "NILGEN",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-10-11",
       "locality": "NILGEN",
       "dose1": 0,
@@ -483,6 +490,13 @@
       "locality": "NILGEN",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "NILGEN",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

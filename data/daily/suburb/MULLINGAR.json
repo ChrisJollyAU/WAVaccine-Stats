@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "MULLINGAR",
   "data": [
     {
@@ -612,6 +612,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-09-22",
+      "locality": "MULLINGAR",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-23",
       "locality": "MULLINGAR",
       "dose1": 0,
@@ -792,6 +799,13 @@
       "dose1": 0,
       "dose2": 6,
       "vaccines": 6
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "MULLINGAR",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

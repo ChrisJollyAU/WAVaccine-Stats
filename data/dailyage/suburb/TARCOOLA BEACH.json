@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "postcode": "TARCOOLA BEACH",
   "data": [
     {
@@ -3375,8 +3375,8 @@
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-10-22",
@@ -3465,6 +3465,22 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

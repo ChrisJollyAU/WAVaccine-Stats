@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "postcode": "KOJONUP",
   "data": [
     {
@@ -174,9 +174,9 @@
       "date": "2021-04-06",
       "locality": "KOJONUP",
       "AgeGroup": "70 and over",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-04-07",
@@ -822,8 +822,8 @@
       "date": "2021-06-15",
       "locality": "KOJONUP",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 3,
+      "dose1": 0,
+      "dose2": 4,
       "vaccines": 4
     },
     {
@@ -2350,9 +2350,9 @@
       "date": "2021-09-14",
       "locality": "KOJONUP",
       "AgeGroup": "16 to 49",
-      "dose1": 41,
+      "dose1": 42,
       "dose2": 35,
-      "vaccines": 76
+      "vaccines": 77
     },
     {
       "date": "2021-09-14",
@@ -2510,9 +2510,9 @@
       "date": "2021-09-22",
       "locality": "KOJONUP",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 11,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-09-23",
@@ -2711,8 +2711,8 @@
       "locality": "KOJONUP",
       "AgeGroup": "16 to 49",
       "dose1": 26,
-      "dose2": 31,
-      "vaccines": 57
+      "dose2": 32,
+      "vaccines": 58
     },
     {
       "date": "2021-10-05",
@@ -3014,8 +3014,8 @@
       "date": "2021-10-20",
       "locality": "KOJONUP",
       "AgeGroup": "70 and over",
-      "dose1": 2,
-      "dose2": 8,
+      "dose1": 1,
+      "dose2": 9,
       "vaccines": 10
     },
     {
@@ -3081,6 +3081,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "KOJONUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "KOJONUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "KOJONUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

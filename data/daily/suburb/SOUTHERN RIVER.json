@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "SOUTHERN RIVER",
   "data": [
     {
@@ -12,9 +12,9 @@
     {
       "date": "2021-02-23",
       "locality": "SOUTHERN RIVER",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-02-24",
@@ -139,8 +139,8 @@
       "date": "2021-03-17",
       "locality": "SOUTHERN RIVER",
       "dose1": 12,
-      "dose2": 3,
-      "vaccines": 15
+      "dose2": 4,
+      "vaccines": 16
     },
     {
       "date": "2021-03-18",
@@ -733,9 +733,9 @@
     {
       "date": "2021-06-14",
       "locality": "SOUTHERN RIVER",
-      "dose1": 16,
+      "dose1": 18,
       "dose2": 10,
-      "vaccines": 26
+      "vaccines": 28
     },
     {
       "date": "2021-06-15",
@@ -782,9 +782,9 @@
     {
       "date": "2021-06-21",
       "locality": "SOUTHERN RIVER",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 7,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-06-22",
@@ -950,9 +950,9 @@
     {
       "date": "2021-07-15",
       "locality": "SOUTHERN RIVER",
-      "dose1": 52,
+      "dose1": 51,
       "dose2": 23,
-      "vaccines": 75
+      "vaccines": 74
     },
     {
       "date": "2021-07-16",
@@ -1161,8 +1161,8 @@
       "date": "2021-08-14",
       "locality": "SOUTHERN RIVER",
       "dose1": 43,
-      "dose2": 53,
-      "vaccines": 96
+      "dose2": 54,
+      "vaccines": 97
     },
     {
       "date": "2021-08-15",
@@ -1322,8 +1322,8 @@
       "date": "2021-09-06",
       "locality": "SOUTHERN RIVER",
       "dose1": 57,
-      "dose2": 37,
-      "vaccines": 94
+      "dose2": 39,
+      "vaccines": 96
     },
     {
       "date": "2021-09-07",
@@ -1371,8 +1371,8 @@
       "date": "2021-09-13",
       "locality": "SOUTHERN RIVER",
       "dose1": 40,
-      "dose2": 41,
-      "vaccines": 81
+      "dose2": 42,
+      "vaccines": 82
     },
     {
       "date": "2021-09-14",
@@ -1426,16 +1426,16 @@
     {
       "date": "2021-09-21",
       "locality": "SOUTHERN RIVER",
-      "dose1": 67,
+      "dose1": 66,
       "dose2": 55,
-      "vaccines": 122
+      "vaccines": 121
     },
     {
       "date": "2021-09-22",
       "locality": "SOUTHERN RIVER",
-      "dose1": 70,
+      "dose1": 69,
       "dose2": 54,
-      "vaccines": 124
+      "vaccines": 123
     },
     {
       "date": "2021-09-23",
@@ -1482,9 +1482,9 @@
     {
       "date": "2021-09-29",
       "locality": "SOUTHERN RIVER",
-      "dose1": 75,
+      "dose1": 77,
       "dose2": 52,
-      "vaccines": 127
+      "vaccines": 129
     },
     {
       "date": "2021-09-30",
@@ -1539,8 +1539,8 @@
       "date": "2021-10-07",
       "locality": "SOUTHERN RIVER",
       "dose1": 49,
-      "dose2": 63,
-      "vaccines": 112
+      "dose2": 62,
+      "vaccines": 111
     },
     {
       "date": "2021-10-08",
@@ -1574,8 +1574,8 @@
       "date": "2021-10-12",
       "locality": "SOUTHERN RIVER",
       "dose1": 65,
-      "dose2": 75,
-      "vaccines": 140
+      "dose2": 76,
+      "vaccines": 141
     },
     {
       "date": "2021-10-13",
@@ -1594,9 +1594,9 @@
     {
       "date": "2021-10-15",
       "locality": "SOUTHERN RIVER",
-      "dose1": 58,
+      "dose1": 59,
       "dose2": 72,
-      "vaccines": 130
+      "vaccines": 131
     },
     {
       "date": "2021-10-16",
@@ -1615,9 +1615,9 @@
     {
       "date": "2021-10-18",
       "locality": "SOUTHERN RIVER",
-      "dose1": 41,
-      "dose2": 62,
-      "vaccines": 103
+      "dose1": 40,
+      "dose2": 61,
+      "vaccines": 101
     },
     {
       "date": "2021-10-19",
@@ -1630,8 +1630,8 @@
       "date": "2021-10-20",
       "locality": "SOUTHERN RIVER",
       "dose1": 41,
-      "dose2": 63,
-      "vaccines": 104
+      "dose2": 62,
+      "vaccines": 103
     },
     {
       "date": "2021-10-21",
@@ -1643,9 +1643,9 @@
     {
       "date": "2021-10-22",
       "locality": "SOUTHERN RIVER",
-      "dose1": 60,
-      "dose2": 63,
-      "vaccines": 123
+      "dose1": 62,
+      "dose2": 64,
+      "vaccines": 126
     },
     {
       "date": "2021-10-23",
@@ -1664,9 +1664,16 @@
     {
       "date": "2021-10-25",
       "locality": "SOUTHERN RIVER",
-      "dose1": 36,
-      "dose2": 55,
-      "vaccines": 91
+      "dose1": 42,
+      "dose2": 63,
+      "vaccines": 105
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "SOUTHERN RIVER",
+      "dose1": 62,
+      "dose2": 51,
+      "vaccines": 113
     }
   ]
 }

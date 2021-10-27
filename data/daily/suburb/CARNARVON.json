@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "CARNARVON",
   "data": [
     {
@@ -1021,8 +1021,8 @@
       "date": "2021-09-29",
       "locality": "CARNARVON",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-09-30",
@@ -1203,8 +1203,15 @@
       "date": "2021-10-25",
       "locality": "CARNARVON",
       "dose1": 19,
-      "dose2": 6,
-      "vaccines": 25
+      "dose2": 7,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "CARNARVON",
+      "dose1": 10,
+      "dose2": 5,
+      "vaccines": 15
     }
   ]
 }

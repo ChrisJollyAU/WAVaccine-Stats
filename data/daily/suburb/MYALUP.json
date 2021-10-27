@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "MYALUP",
   "data": [
     {
@@ -894,9 +894,9 @@
     {
       "date": "2021-10-16",
       "locality": "MYALUP",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-18",
@@ -938,6 +938,13 @@
       "locality": "MYALUP",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "MYALUP",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

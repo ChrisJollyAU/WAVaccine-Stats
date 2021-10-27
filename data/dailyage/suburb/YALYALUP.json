@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "postcode": "YALYALUP",
   "data": [
     {
@@ -3893,18 +3893,26 @@
     {
       "date": "2021-10-25",
       "locality": "YALYALUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "YALYALUP",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose1": 7,
+      "dose2": 11,
+      "vaccines": 18
     },
     {
       "date": "2021-10-25",
       "locality": "YALYALUP",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-10-25",
@@ -3913,6 +3921,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "YALYALUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 14,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "YALYALUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "postcode": "CABLE BEACH",
   "data": [
     {
@@ -2254,9 +2254,9 @@
       "date": "2021-09-07",
       "locality": "CABLE BEACH",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-07",
@@ -2318,9 +2318,9 @@
       "date": "2021-09-09",
       "locality": "CABLE BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 54,
+      "dose1": 55,
       "dose2": 13,
-      "vaccines": 67
+      "vaccines": 68
     },
     {
       "date": "2021-09-09",
@@ -2461,18 +2461,10 @@
     {
       "date": "2021-09-17",
       "locality": "CABLE BEACH",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-17",
-      "locality": "CABLE BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 11,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-09-17",
@@ -2734,9 +2726,9 @@
       "date": "2021-10-04",
       "locality": "CABLE BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-10-04",
@@ -2911,8 +2903,8 @@
       "locality": "CABLE BEACH",
       "AgeGroup": "12 to 15",
       "dose1": 6,
-      "dose2": 7,
-      "vaccines": 13
+      "dose2": 8,
+      "vaccines": 14
     },
     {
       "date": "2021-10-12",
@@ -3150,9 +3142,9 @@
       "date": "2021-10-25",
       "locality": "CABLE BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-10-25",
@@ -3161,6 +3153,22 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "CABLE BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 9,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "CABLE BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

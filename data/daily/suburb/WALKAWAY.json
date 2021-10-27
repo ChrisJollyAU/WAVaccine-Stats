@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-25T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "WALKAWAY",
   "data": [
     {
@@ -1077,8 +1077,8 @@
       "date": "2021-10-19",
       "locality": "WALKAWAY",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-20",
@@ -1121,6 +1121,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "WALKAWAY",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

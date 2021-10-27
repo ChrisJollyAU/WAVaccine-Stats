@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "postcode": "KENDENUP",
   "data": [
     {
@@ -12,6 +12,14 @@
     },
     {
       "date": "2021-03-11",
+      "locality": "KENDENUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-16",
       "locality": "KENDENUP",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -832,6 +840,14 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-28",
+      "locality": "KENDENUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -2150,9 +2166,9 @@
       "date": "2021-09-20",
       "locality": "KENDENUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-20",
@@ -2343,8 +2359,8 @@
       "locality": "KENDENUP",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-10-01",
@@ -2535,8 +2551,8 @@
       "locality": "KENDENUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-11",
@@ -2718,9 +2734,9 @@
       "date": "2021-10-20",
       "locality": "KENDENUP",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-21",
@@ -2733,26 +2749,34 @@
     {
       "date": "2021-10-22",
       "locality": "KENDENUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "KENDENUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-10-22",
       "locality": "KENDENUP",
       "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-23",
       "locality": "KENDENUP",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-10-23",
@@ -2765,9 +2789,73 @@
     {
       "date": "2021-10-24",
       "locality": "KENDENUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "KENDENUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "KENDENUP",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "KENDENUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "KENDENUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "KENDENUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "KENDENUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "KENDENUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "KENDENUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

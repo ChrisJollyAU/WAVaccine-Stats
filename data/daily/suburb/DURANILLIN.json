@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "DURANILLIN",
   "data": [
     {
@@ -360,6 +360,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-07",
+      "locality": "DURANILLIN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-12",
       "locality": "DURANILLIN",
       "dose1": 2,
@@ -393,6 +400,13 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "DURANILLIN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

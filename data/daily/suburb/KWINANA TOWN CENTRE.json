@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "KWINANA TOWN CENTRE",
   "data": [
     {
@@ -1099,6 +1099,20 @@
       "locality": "KWINANA TOWN CENTRE",
       "dose1": 1,
       "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "KWINANA TOWN CENTRE",
+      "dose1": 0,
+      "dose2": 7,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "KWINANA TOWN CENTRE",
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     }
   ]

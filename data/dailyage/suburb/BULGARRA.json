@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "postcode": "BULGARRA",
   "data": [
     {
@@ -1167,8 +1167,8 @@
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-07-23",
@@ -1423,8 +1423,8 @@
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-08-12",
@@ -1726,9 +1726,9 @@
       "date": "2021-09-03",
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 2,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-09-04",
@@ -2046,9 +2046,9 @@
       "date": "2021-09-23",
       "locality": "BULGARRA",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 7
     },
     {
       "date": "2021-09-23",
@@ -2151,8 +2151,8 @@
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 3,
-      "vaccines": 13
+      "dose2": 4,
+      "vaccines": 14
     },
     {
       "date": "2021-09-29",
@@ -2366,9 +2366,9 @@
       "date": "2021-10-11",
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 8,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-10-11",
@@ -2462,9 +2462,9 @@
       "date": "2021-10-15",
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 5,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-10-15",
@@ -2543,8 +2543,8 @@
       "locality": "BULGARRA",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-18",
@@ -2598,9 +2598,9 @@
       "date": "2021-10-20",
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 7,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-10-20",
@@ -2622,41 +2622,49 @@
       "date": "2021-10-21",
       "locality": "BULGARRA",
       "AgeGroup": "12 to 15",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-10-21",
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 22,
-      "dose2": 10,
-      "vaccines": 32
+      "dose1": 23,
+      "dose2": 11,
+      "vaccines": 34
     },
     {
       "date": "2021-10-21",
       "locality": "BULGARRA",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-21",
+      "locality": "BULGARRA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-22",
       "locality": "BULGARRA",
       "AgeGroup": "12 to 15",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-22",
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 24,
       "dose2": 7,
-      "vaccines": 27
+      "vaccines": 31
     },
     {
       "date": "2021-10-22",
@@ -2670,9 +2678,9 @@
       "date": "2021-10-23",
       "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose1": 19,
+      "dose2": 4,
+      "vaccines": 23
     },
     {
       "date": "2021-10-23",
@@ -2685,18 +2693,82 @@
     {
       "date": "2021-10-24",
       "locality": "BULGARRA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-24",
+      "locality": "BULGARRA",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose1": 13,
+      "dose2": 5,
+      "vaccines": 18
     },
     {
       "date": "2021-10-24",
       "locality": "BULGARRA",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "BULGARRA",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "BULGARRA",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 7,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "BULGARRA",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "BULGARRA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "BULGARRA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "BULGARRA",
+      "AgeGroup": "16 to 49",
+      "dose1": 13,
+      "dose2": 8,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "BULGARRA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

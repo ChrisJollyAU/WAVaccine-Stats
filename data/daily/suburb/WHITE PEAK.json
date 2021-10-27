@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "WHITE PEAK",
   "data": [
     {
@@ -916,8 +916,8 @@
       "date": "2021-10-21",
       "locality": "WHITE PEAK",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-22",
@@ -929,9 +929,23 @@
     {
       "date": "2021-10-23",
       "locality": "WHITE PEAK",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "WHITE PEAK",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "WHITE PEAK",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

@@ -1,13 +1,53 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "postcode": "WILLASTON",
   "data": [
+    {
+      "date": "2021-09-04",
+      "locality": "WILLASTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-09-14",
       "locality": "WILLASTON",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "WILLASTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-25",
+      "locality": "WILLASTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-05",
+      "locality": "WILLASTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "WILLASTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

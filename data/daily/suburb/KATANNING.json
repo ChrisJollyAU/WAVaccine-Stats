@@ -1,7 +1,14 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "KATANNING",
   "data": [
+    {
+      "date": "2021-02-23",
+      "locality": "KATANNING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-02-26",
       "locality": "KATANNING",
@@ -48,8 +55,8 @@
       "date": "2021-03-18",
       "locality": "KATANNING",
       "dose1": 30,
-      "dose2": 0,
-      "vaccines": 30
+      "dose2": 1,
+      "vaccines": 31
     },
     {
       "date": "2021-03-19",
@@ -523,9 +530,9 @@
     {
       "date": "2021-06-29",
       "locality": "KATANNING",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 14,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-06-30",
@@ -677,9 +684,9 @@
     {
       "date": "2021-07-21",
       "locality": "KATANNING",
-      "dose1": 13,
-      "dose2": 1,
-      "vaccines": 14
+      "dose1": 14,
+      "dose2": 2,
+      "vaccines": 16
     },
     {
       "date": "2021-07-22",
@@ -726,9 +733,9 @@
     {
       "date": "2021-07-28",
       "locality": "KATANNING",
-      "dose1": 9,
-      "dose2": 22,
-      "vaccines": 31
+      "dose1": 10,
+      "dose2": 23,
+      "vaccines": 33
     },
     {
       "date": "2021-07-29",
@@ -999,9 +1006,9 @@
     {
       "date": "2021-09-06",
       "locality": "KATANNING",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 6,
-      "vaccines": 42
+      "vaccines": 43
     },
     {
       "date": "2021-09-07",
@@ -1112,8 +1119,8 @@
       "date": "2021-09-22",
       "locality": "KATANNING",
       "dose1": 22,
-      "dose2": 25,
-      "vaccines": 47
+      "dose2": 26,
+      "vaccines": 48
     },
     {
       "date": "2021-09-23",
@@ -1161,15 +1168,15 @@
       "date": "2021-09-29",
       "locality": "KATANNING",
       "dose1": 46,
-      "dose2": 51,
-      "vaccines": 97
+      "dose2": 52,
+      "vaccines": 98
     },
     {
       "date": "2021-09-30",
       "locality": "KATANNING",
-      "dose1": 29,
+      "dose1": 30,
       "dose2": 40,
-      "vaccines": 69
+      "vaccines": 70
     },
     {
       "date": "2021-10-01",
@@ -1217,8 +1224,8 @@
       "date": "2021-10-07",
       "locality": "KATANNING",
       "dose1": 18,
-      "dose2": 22,
-      "vaccines": 40
+      "dose2": 23,
+      "vaccines": 41
     },
     {
       "date": "2021-10-08",
@@ -1252,8 +1259,8 @@
       "date": "2021-10-12",
       "locality": "KATANNING",
       "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose2": 5,
+      "vaccines": 13
     },
     {
       "date": "2021-10-13",
@@ -1308,29 +1315,29 @@
       "date": "2021-10-20",
       "locality": "KATANNING",
       "dose1": 17,
-      "dose2": 17,
-      "vaccines": 34
+      "dose2": 16,
+      "vaccines": 33
     },
     {
       "date": "2021-10-21",
       "locality": "KATANNING",
       "dose1": 13,
-      "dose2": 12,
-      "vaccines": 25
+      "dose2": 13,
+      "vaccines": 26
     },
     {
       "date": "2021-10-22",
       "locality": "KATANNING",
-      "dose1": 34,
-      "dose2": 2,
-      "vaccines": 36
+      "dose1": 38,
+      "dose2": 3,
+      "vaccines": 41
     },
     {
       "date": "2021-10-23",
       "locality": "KATANNING",
-      "dose1": 16,
-      "dose2": 2,
-      "vaccines": 18
+      "dose1": 26,
+      "dose2": 4,
+      "vaccines": 30
     },
     {
       "date": "2021-10-24",
@@ -1338,6 +1345,20 @@
       "dose1": 16,
       "dose2": 1,
       "vaccines": 17
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "KATANNING",
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "KATANNING",
+      "dose1": 20,
+      "dose2": 32,
+      "vaccines": 52
     }
   ]
 }

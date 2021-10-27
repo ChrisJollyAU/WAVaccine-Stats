@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "postcode": "JANDAKOT",
   "data": [
     {
@@ -694,9 +694,9 @@
       "date": "2021-04-20",
       "locality": "JANDAKOT",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 8
     },
     {
       "date": "2021-04-20",
@@ -2719,8 +2719,8 @@
       "locality": "JANDAKOT",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-08-03",
@@ -2894,9 +2894,9 @@
       "date": "2021-08-11",
       "locality": "JANDAKOT",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 12,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-08-11",
@@ -2918,9 +2918,9 @@
       "date": "2021-08-12",
       "locality": "JANDAKOT",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 7,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-08-12",
@@ -2953,6 +2953,14 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "JANDAKOT",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-14",
@@ -3422,8 +3430,8 @@
       "date": "2021-09-04",
       "locality": "JANDAKOT",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -3486,9 +3494,9 @@
       "date": "2021-09-07",
       "locality": "JANDAKOT",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-09-07",
@@ -3662,9 +3670,9 @@
       "date": "2021-09-14",
       "locality": "JANDAKOT",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 8,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-09-14",
@@ -4639,8 +4647,8 @@
       "locality": "JANDAKOT",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose2": 12,
+      "vaccines": 16
     },
     {
       "date": "2021-10-21",
@@ -4662,9 +4670,9 @@
       "date": "2021-10-22",
       "locality": "JANDAKOT",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-10-22",
@@ -4685,18 +4693,26 @@
     {
       "date": "2021-10-23",
       "locality": "JANDAKOT",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-23",
+      "locality": "JANDAKOT",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-10-23",
       "locality": "JANDAKOT",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-10-24",
@@ -4711,13 +4727,77 @@
       "locality": "JANDAKOT",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-10-24",
       "locality": "JANDAKOT",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "JANDAKOT",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "JANDAKOT",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 7,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "JANDAKOT",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "JANDAKOT",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "JANDAKOT",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "JANDAKOT",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 9,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "JANDAKOT",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "JANDAKOT",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1

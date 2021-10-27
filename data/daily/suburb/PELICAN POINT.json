@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-24T00:00:00",
+  "date_updated": "2021-10-26T00:00:00",
   "locality": "PELICAN POINT",
   "data": [
     {
@@ -1343,15 +1343,29 @@
       "date": "2021-10-22",
       "locality": "PELICAN POINT",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-10-23",
       "locality": "PELICAN POINT",
       "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-25",
+      "locality": "PELICAN POINT",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "PELICAN POINT",
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     }
   ]
 }

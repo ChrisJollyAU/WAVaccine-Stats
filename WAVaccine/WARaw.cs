@@ -283,7 +283,7 @@ namespace WAVaccine
 " + "\n" +
 @"                                        }
 " + "\n" +
-@"                                    },
+@"                                    }
 " + "\n" +
 @"                                ],
 " + "\n" +
@@ -645,6 +645,7 @@ namespace WAVaccine
             var do2 = to.Sum(x => x.dose2);
             var do3 = to.Sum(x => x.dose3);
             var vac = to.Sum(x => x.vaccines);
+            var tt = to.Where(a => a.postcode != "~" && a.postcode != "-").Where(x => int.Parse(x.postcode) < 6000 || int.Parse(x.postcode) >= 7000).Sum(y => y.vaccines);
             List<WARawOb> results = new List<WARawOb>();
             foreach (var it in grpitems)
             {

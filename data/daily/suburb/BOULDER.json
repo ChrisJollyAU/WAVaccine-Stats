@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "locality": "BOULDER",
   "data": [
     {
@@ -120,6 +120,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-04-11",
+      "locality": "BOULDER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-13",
@@ -587,8 +594,8 @@
       "date": "2021-07-05",
       "locality": "BOULDER",
       "dose1": 8,
-      "dose2": 1,
-      "vaccines": 9
+      "dose2": 2,
+      "vaccines": 10
     },
     {
       "date": "2021-07-06",
@@ -635,9 +642,9 @@
     {
       "date": "2021-07-13",
       "locality": "BOULDER",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 8,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-07-14",
@@ -804,8 +811,8 @@
       "date": "2021-08-10",
       "locality": "BOULDER",
       "dose1": 20,
-      "dose2": 6,
-      "vaccines": 26
+      "dose2": 7,
+      "vaccines": 27
     },
     {
       "date": "2021-08-11",
@@ -888,8 +895,8 @@
       "date": "2021-08-23",
       "locality": "BOULDER",
       "dose1": 11,
-      "dose2": 8,
-      "vaccines": 19
+      "dose2": 9,
+      "vaccines": 20
     },
     {
       "date": "2021-08-24",
@@ -1286,9 +1293,9 @@
     {
       "date": "2021-10-20",
       "locality": "BOULDER",
-      "dose1": 39,
-      "dose2": 9,
-      "vaccines": 48
+      "dose1": 40,
+      "dose2": 11,
+      "vaccines": 51
     },
     {
       "date": "2021-10-21",
@@ -1321,16 +1328,23 @@
     {
       "date": "2021-10-25",
       "locality": "BOULDER",
-      "dose1": 16,
+      "dose1": 21,
       "dose2": 17,
-      "vaccines": 33
+      "vaccines": 38
     },
     {
       "date": "2021-10-26",
       "locality": "BOULDER",
-      "dose1": 44,
-      "dose2": 14,
-      "vaccines": 58
+      "dose1": 45,
+      "dose2": 17,
+      "vaccines": 62
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "BOULDER",
+      "dose1": 22,
+      "dose2": 10,
+      "vaccines": 32
     }
   ]
 }

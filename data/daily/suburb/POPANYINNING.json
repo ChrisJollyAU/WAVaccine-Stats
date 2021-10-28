@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "locality": "POPANYINNING",
   "data": [
     {
@@ -290,6 +290,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-14",
+      "locality": "POPANYINNING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-15",
       "locality": "POPANYINNING",
       "dose1": 1,
@@ -454,8 +461,8 @@
       "date": "2021-08-24",
       "locality": "POPANYINNING",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-08-25",
@@ -813,6 +820,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "POPANYINNING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

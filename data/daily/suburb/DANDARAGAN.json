@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "locality": "DANDARAGAN",
   "data": [
     {
@@ -841,6 +841,20 @@
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "DANDARAGAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "DANDARAGAN",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "locality": "LOCKYER",
   "data": [
     {
@@ -1357,8 +1357,15 @@
       "date": "2021-10-26",
       "locality": "LOCKYER",
       "dose1": 6,
+      "dose2": 7,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "LOCKYER",
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 11
+      "vaccines": 9
     }
   ]
 }

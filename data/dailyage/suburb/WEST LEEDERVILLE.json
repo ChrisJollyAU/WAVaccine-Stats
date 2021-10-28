@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "postcode": "WEST LEEDERVILLE",
   "data": [
     {
@@ -558,9 +558,9 @@
       "date": "2021-03-26",
       "locality": "WEST LEEDERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-03-26",
@@ -1013,6 +1013,14 @@
     {
       "date": "2021-04-17",
       "locality": "WEST LEEDERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-04-17",
+      "locality": "WEST LEEDERVILLE",
       "AgeGroup": "70 and over",
       "dose1": 5,
       "dose2": 0,
@@ -1087,8 +1095,8 @@
       "locality": "WEST LEEDERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-04-21",
@@ -1457,6 +1465,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-05-08",
+      "locality": "WEST LEEDERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-05-08",
@@ -3646,9 +3662,9 @@
       "date": "2021-08-15",
       "locality": "WEST LEEDERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 16,
-      "vaccines": 29
+      "vaccines": 28
     },
     {
       "date": "2021-08-15",
@@ -4287,8 +4303,8 @@
       "locality": "WEST LEEDERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 17,
-      "vaccines": 28
+      "dose2": 16,
+      "vaccines": 27
     },
     {
       "date": "2021-09-12",
@@ -5575,16 +5591,40 @@
       "locality": "WEST LEEDERVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-10-26",
       "locality": "WEST LEEDERVILLE",
       "AgeGroup": "70 and over",
       "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "WEST LEEDERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "WEST LEEDERVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "WEST LEEDERVILLE",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "postcode": "BEACHLANDS",
   "data": [
     {
@@ -341,6 +341,14 @@
     {
       "date": "2021-04-22",
       "locality": "BEACHLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-22",
+      "locality": "BEACHLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -577,6 +585,14 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
+    },
+    {
+      "date": "2021-05-17",
+      "locality": "BEACHLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-05-17",
@@ -1583,8 +1599,8 @@
       "locality": "BEACHLANDS",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-07-21",
@@ -3374,17 +3390,17 @@
       "date": "2021-10-26",
       "locality": "BEACHLANDS",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-10-26",
       "locality": "BEACHLANDS",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-26",
@@ -3393,6 +3409,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "BEACHLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "BEACHLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

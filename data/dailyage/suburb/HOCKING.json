@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "postcode": "HOCKING",
   "data": [
     {
@@ -1094,6 +1094,14 @@
       "date": "2021-05-02",
       "locality": "HOCKING",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-02",
+      "locality": "HOCKING",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -2671,8 +2679,8 @@
       "locality": "HOCKING",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-07-15",
@@ -4862,9 +4870,9 @@
       "date": "2021-10-12",
       "locality": "HOCKING",
       "AgeGroup": "16 to 49",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 23,
-      "vaccines": 45
+      "vaccines": 44
     },
     {
       "date": "2021-10-12",
@@ -5127,8 +5135,8 @@
       "locality": "HOCKING",
       "AgeGroup": "16 to 49",
       "dose1": 19,
-      "dose2": 30,
-      "vaccines": 49
+      "dose2": 31,
+      "vaccines": 50
     },
     {
       "date": "2021-10-21",
@@ -5246,17 +5254,17 @@
       "date": "2021-10-25",
       "locality": "HOCKING",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 19,
       "dose2": 24,
-      "vaccines": 41
+      "vaccines": 43
     },
     {
       "date": "2021-10-25",
       "locality": "HOCKING",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-10-25",
@@ -5278,17 +5286,49 @@
       "date": "2021-10-26",
       "locality": "HOCKING",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 8,
       "dose2": 14,
-      "vaccines": 20
+      "vaccines": 22
     },
     {
       "date": "2021-10-26",
       "locality": "HOCKING",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "HOCKING",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "HOCKING",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 21,
+      "vaccines": 36
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "HOCKING",
+      "AgeGroup": "50 to 69",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "HOCKING",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

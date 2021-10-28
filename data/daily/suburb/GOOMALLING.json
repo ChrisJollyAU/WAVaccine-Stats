@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "locality": "GOOMALLING",
   "data": [
     {
@@ -951,8 +951,8 @@
       "date": "2021-10-20",
       "locality": "GOOMALLING",
       "dose1": 2,
-      "dose2": 20,
-      "vaccines": 22
+      "dose2": 21,
+      "vaccines": 23
     },
     {
       "date": "2021-10-21",
@@ -988,6 +988,13 @@
       "dose1": 3,
       "dose2": 3,
       "vaccines": 6
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "GOOMALLING",
+      "dose1": 4,
+      "dose2": 10,
+      "vaccines": 14
     }
   ]
 }

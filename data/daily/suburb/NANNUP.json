@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "locality": "NANNUP",
   "data": [
     {
@@ -1210,8 +1210,8 @@
       "date": "2021-10-11",
       "locality": "NANNUP",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-10-12",
@@ -1308,8 +1308,15 @@
       "date": "2021-10-26",
       "locality": "NANNUP",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "NANNUP",
+      "dose1": 7,
+      "dose2": 3,
+      "vaccines": 10
     }
   ]
 }

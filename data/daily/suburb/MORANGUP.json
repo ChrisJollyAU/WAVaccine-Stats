@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-27T00:00:00",
   "locality": "MORANGUP",
   "data": [
     {
@@ -1238,15 +1238,22 @@
       "date": "2021-10-25",
       "locality": "MORANGUP",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-10-26",
       "locality": "MORANGUP",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 7,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "MORANGUP",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

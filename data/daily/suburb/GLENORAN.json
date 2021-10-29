@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-27T00:00:00",
+  "date_updated": "2021-10-28T00:00:00",
   "locality": "GLENORAN",
   "data": [
     {
@@ -281,6 +281,20 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "GLENORAN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "GLENORAN",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

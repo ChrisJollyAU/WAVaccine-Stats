@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-27T00:00:00",
+  "date_updated": "2021-10-28T00:00:00",
   "locality": "HILLMAN",
   "data": [
     {
@@ -1412,9 +1412,16 @@
     {
       "date": "2021-10-27",
       "locality": "HILLMAN",
-      "dose1": 13,
+      "dose1": 15,
       "dose2": 14,
-      "vaccines": 27
+      "vaccines": 29
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "HILLMAN",
+      "dose1": 10,
+      "dose2": 14,
+      "vaccines": 24
     }
   ]
 }

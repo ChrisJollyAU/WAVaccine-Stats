@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-27T00:00:00",
+  "date_updated": "2021-10-28T00:00:00",
   "locality": "KOONGAMIA",
   "data": [
     {
@@ -1223,9 +1223,16 @@
     {
       "date": "2021-10-27",
       "locality": "KOONGAMIA",
+      "dose1": 7,
+      "dose2": 6,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "KOONGAMIA",
       "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose2": 7,
+      "vaccines": 11
     }
   ]
 }

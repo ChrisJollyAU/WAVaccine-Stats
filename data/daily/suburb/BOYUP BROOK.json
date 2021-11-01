@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "BOYUP BROOK",
   "data": [
     {
@@ -33,9 +33,9 @@
     {
       "date": "2021-03-22",
       "locality": "BOYUP BROOK",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-24",
@@ -68,9 +68,9 @@
     {
       "date": "2021-04-06",
       "locality": "BOYUP BROOK",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-07",
@@ -272,8 +272,8 @@
       "date": "2021-06-01",
       "locality": "BOYUP BROOK",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-06-02",
@@ -374,6 +374,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-06-25",
+      "locality": "BOYUP BROOK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-26",
       "locality": "BOYUP BROOK",
       "dose1": 0,
@@ -384,8 +391,8 @@
       "date": "2021-06-29",
       "locality": "BOYUP BROOK",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-30",
@@ -531,8 +538,8 @@
       "date": "2021-07-24",
       "locality": "BOYUP BROOK",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-25",
@@ -1163,6 +1170,27 @@
       "dose1": 5,
       "dose2": 4,
       "vaccines": 9
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "BOYUP BROOK",
+      "dose1": 10,
+      "dose2": 6,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "BOYUP BROOK",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "BOYUP BROOK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

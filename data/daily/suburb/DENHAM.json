@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "DENHAM",
   "data": [
     {
@@ -262,18 +262,11 @@
       "vaccines": 12
     },
     {
-      "date": "2021-06-28",
-      "locality": "DENHAM",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-29",
       "locality": "DENHAM",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-05",
@@ -468,8 +461,8 @@
       "date": "2021-08-24",
       "locality": "DENHAM",
       "dose1": 19,
-      "dose2": 10,
-      "vaccines": 29
+      "dose2": 11,
+      "vaccines": 30
     },
     {
       "date": "2021-08-25",
@@ -544,9 +537,9 @@
     {
       "date": "2021-09-05",
       "locality": "DENHAM",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-06",
@@ -580,8 +573,8 @@
       "date": "2021-09-13",
       "locality": "DENHAM",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-14",
@@ -712,8 +705,8 @@
     {
       "date": "2021-10-10",
       "locality": "DENHAM",
-      "dose1": 1,
-      "dose2": 3,
+      "dose1": 0,
+      "dose2": 4,
       "vaccines": 4
     },
     {
@@ -811,7 +804,21 @@
       "date": "2021-10-28",
       "locality": "DENHAM",
       "dose1": 1,
-      "dose2": 0,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "DENHAM",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "DENHAM",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

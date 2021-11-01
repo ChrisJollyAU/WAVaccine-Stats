@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "SANDSTONE",
   "data": [
     {
@@ -270,6 +270,20 @@
     },
     {
       "date": "2021-10-15",
+      "locality": "SANDSTONE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "SANDSTONE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-31",
       "locality": "SANDSTONE",
       "dose1": 0,
       "dose2": 1,

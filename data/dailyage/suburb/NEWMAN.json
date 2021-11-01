@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "NEWMAN",
   "data": [
     {
@@ -54,6 +54,14 @@
       "date": "2021-03-17",
       "locality": "NEWMAN",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-18",
+      "locality": "NEWMAN",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -646,9 +654,9 @@
       "date": "2021-06-02",
       "locality": "NEWMAN",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-06-02",
@@ -843,14 +851,6 @@
       "vaccines": 3
     },
     {
-      "date": "2021-06-19",
-      "locality": "NEWMAN",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-20",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
@@ -927,8 +927,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-25",
@@ -1086,9 +1086,9 @@
       "date": "2021-07-05",
       "locality": "NEWMAN",
       "AgeGroup": "50 to 69",
-      "dose1": 20,
+      "dose1": 18,
       "dose2": 2,
-      "vaccines": 22
+      "vaccines": 20
     },
     {
       "date": "2021-07-06",
@@ -1359,8 +1359,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 15,
-      "vaccines": 17
+      "dose2": 14,
+      "vaccines": 16
     },
     {
       "date": "2021-07-27",
@@ -1455,8 +1455,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 5,
-      "vaccines": 17
+      "dose2": 4,
+      "vaccines": 16
     },
     {
       "date": "2021-08-02",
@@ -1558,9 +1558,9 @@
       "date": "2021-08-06",
       "locality": "NEWMAN",
       "AgeGroup": "50 to 69",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 3,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-08-06",
@@ -1638,9 +1638,9 @@
       "date": "2021-08-12",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
+      "dose1": 22,
       "dose2": 20,
-      "vaccines": 43
+      "vaccines": 42
     },
     {
       "date": "2021-08-12",
@@ -1662,9 +1662,9 @@
       "date": "2021-08-13",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 24,
-      "vaccines": 34
+      "vaccines": 33
     },
     {
       "date": "2021-08-13",
@@ -1871,8 +1871,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-08-25",
@@ -1975,8 +1975,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "50 to 69",
       "dose1": 14,
-      "dose2": 10,
-      "vaccines": 24
+      "dose2": 11,
+      "vaccines": 25
     },
     {
       "date": "2021-08-30",
@@ -1990,9 +1990,9 @@
       "date": "2021-08-31",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 40,
+      "dose1": 39,
       "dose2": 41,
-      "vaccines": 81
+      "vaccines": 80
     },
     {
       "date": "2021-08-31",
@@ -2014,9 +2014,9 @@
       "date": "2021-09-01",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 46,
+      "dose1": 47,
       "dose2": 17,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-09-01",
@@ -2215,8 +2215,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 6,
-      "vaccines": 17
+      "dose2": 4,
+      "vaccines": 15
     },
     {
       "date": "2021-09-11",
@@ -2350,17 +2350,17 @@
       "date": "2021-09-18",
       "locality": "NEWMAN",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-18",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-09-19",
@@ -2470,9 +2470,9 @@
       "date": "2021-09-24",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 18,
       "dose2": 21,
-      "vaccines": 41
+      "vaccines": 39
     },
     {
       "date": "2021-09-24",
@@ -2599,8 +2599,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 21,
-      "vaccines": 30
+      "dose2": 20,
+      "vaccines": 29
     },
     {
       "date": "2021-10-01",
@@ -2631,8 +2631,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-10-02",
@@ -2838,9 +2838,9 @@
       "date": "2021-10-12",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 59,
+      "dose1": 60,
       "dose2": 21,
-      "vaccines": 80
+      "vaccines": 81
     },
     {
       "date": "2021-10-12",
@@ -2863,8 +2863,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
       "dose1": 45,
-      "dose2": 18,
-      "vaccines": 63
+      "dose2": 19,
+      "vaccines": 64
     },
     {
       "date": "2021-10-13",
@@ -2894,9 +2894,9 @@
       "date": "2021-10-14",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 62,
+      "dose1": 63,
       "dose2": 11,
-      "vaccines": 73
+      "vaccines": 74
     },
     {
       "date": "2021-10-14",
@@ -2918,9 +2918,9 @@
       "date": "2021-10-15",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 44,
+      "dose1": 45,
       "dose2": 43,
-      "vaccines": 87
+      "vaccines": 88
     },
     {
       "date": "2021-10-15",
@@ -2935,16 +2935,16 @@
       "locality": "NEWMAN",
       "AgeGroup": "12 to 15",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-10-16",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
       "dose1": 32,
-      "dose2": 14,
-      "vaccines": 46
+      "dose2": 13,
+      "vaccines": 45
     },
     {
       "date": "2021-10-16",
@@ -3079,8 +3079,8 @@
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 10,
-      "vaccines": 17
+      "dose2": 8,
+      "vaccines": 15
     },
     {
       "date": "2021-10-22",
@@ -3150,9 +3150,9 @@
       "date": "2021-10-26",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 7,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-10-26",
@@ -3174,17 +3174,17 @@
       "date": "2021-10-27",
       "locality": "NEWMAN",
       "AgeGroup": "12 to 15",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-27",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 10,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-10-27",
@@ -3198,9 +3198,9 @@
       "date": "2021-10-28",
       "locality": "NEWMAN",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 13,
       "dose2": 3,
-      "vaccines": 9
+      "vaccines": 16
     },
     {
       "date": "2021-10-28",
@@ -3209,6 +3209,54 @@
       "dose1": 3,
       "dose2": 7,
       "vaccines": 10
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "NEWMAN",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "NEWMAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 17,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "NEWMAN",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "NEWMAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "NEWMAN",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "NEWMAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

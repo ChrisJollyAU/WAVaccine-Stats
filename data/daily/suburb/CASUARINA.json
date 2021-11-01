@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "CASUARINA",
   "data": [
     {
@@ -374,13 +374,6 @@
       "vaccines": 4
     },
     {
-      "date": "2021-06-12",
-      "locality": "CASUARINA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-14",
       "locality": "CASUARINA",
       "dose1": 1,
@@ -566,8 +559,8 @@
       "date": "2021-07-17",
       "locality": "CASUARINA",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-19",
@@ -1232,6 +1225,27 @@
       "locality": "CASUARINA",
       "dose1": 3,
       "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "CASUARINA",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "CASUARINA",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "CASUARINA",
+      "dose1": 0,
+      "dose2": 5,
       "vaccines": 5
     }
   ]

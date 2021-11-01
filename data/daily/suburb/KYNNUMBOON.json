@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "KYNNUMBOON",
   "data": [
     {
@@ -7,6 +7,13 @@
       "locality": "KYNNUMBOON",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "KYNNUMBOON",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

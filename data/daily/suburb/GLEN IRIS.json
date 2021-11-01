@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "GLEN IRIS",
   "data": [
     {
@@ -236,9 +236,9 @@
     {
       "date": "2021-04-19",
       "locality": "GLEN IRIS",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-04-20",
@@ -832,8 +832,8 @@
       "date": "2021-07-22",
       "locality": "GLEN IRIS",
       "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose2": 3,
+      "vaccines": 11
     },
     {
       "date": "2021-07-23",
@@ -1293,9 +1293,9 @@
     {
       "date": "2021-09-30",
       "locality": "GLEN IRIS",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 20,
-      "vaccines": 42
+      "vaccines": 43
     },
     {
       "date": "2021-10-01",
@@ -1391,9 +1391,9 @@
     {
       "date": "2021-10-14",
       "locality": "GLEN IRIS",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 19,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-10-15",
@@ -1468,9 +1468,9 @@
     {
       "date": "2021-10-25",
       "locality": "GLEN IRIS",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 17,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-10-26",
@@ -1489,9 +1489,30 @@
     {
       "date": "2021-10-28",
       "locality": "GLEN IRIS",
-      "dose1": 12,
+      "dose1": 14,
       "dose2": 10,
-      "vaccines": 22
+      "vaccines": 24
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "GLEN IRIS",
+      "dose1": 16,
+      "dose2": 17,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "GLEN IRIS",
+      "dose1": 7,
+      "dose2": 19,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "GLEN IRIS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

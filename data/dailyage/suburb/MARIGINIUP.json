@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "MARIGINIUP",
   "data": [
     {
@@ -2470,9 +2470,9 @@
       "date": "2021-09-18",
       "locality": "MARIGINIUP",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-19",
@@ -2558,9 +2558,9 @@
       "date": "2021-09-23",
       "locality": "MARIGINIUP",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 4,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-09-23",
@@ -2855,8 +2855,8 @@
       "locality": "MARIGINIUP",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-10",
@@ -2991,8 +2991,8 @@
       "locality": "MARIGINIUP",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-10-18",
@@ -3173,14 +3173,6 @@
     {
       "date": "2021-10-26",
       "locality": "MARIGINIUP",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-26",
-      "locality": "MARIGINIUP",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
@@ -3199,16 +3191,16 @@
       "locality": "MARIGINIUP",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-28",
       "locality": "MARIGINIUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-28",
@@ -3225,6 +3217,54 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "MARIGINIUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "MARIGINIUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "MARIGINIUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "MARIGINIUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "MARIGINIUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "MARIGINIUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

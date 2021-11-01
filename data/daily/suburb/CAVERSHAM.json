@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "CAVERSHAM",
   "data": [
     {
@@ -131,9 +131,9 @@
     {
       "date": "2021-03-19",
       "locality": "CAVERSHAM",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 1,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-03-21",
@@ -699,8 +699,8 @@
       "date": "2021-06-11",
       "locality": "CAVERSHAM",
       "dose1": 15,
-      "dose2": 10,
-      "vaccines": 25
+      "dose2": 11,
+      "vaccines": 26
     },
     {
       "date": "2021-06-12",
@@ -1342,9 +1342,9 @@
     {
       "date": "2021-09-11",
       "locality": "CAVERSHAM",
-      "dose1": 54,
+      "dose1": 55,
       "dose2": 26,
-      "vaccines": 80
+      "vaccines": 81
     },
     {
       "date": "2021-09-12",
@@ -1545,8 +1545,8 @@
     {
       "date": "2021-10-10",
       "locality": "CAVERSHAM",
-      "dose1": 22,
-      "dose2": 28,
+      "dose1": 21,
+      "dose2": 29,
       "vaccines": 50
     },
     {
@@ -1602,8 +1602,8 @@
       "date": "2021-10-18",
       "locality": "CAVERSHAM",
       "dose1": 21,
-      "dose2": 35,
-      "vaccines": 56
+      "dose2": 36,
+      "vaccines": 57
     },
     {
       "date": "2021-10-19",
@@ -1664,16 +1664,37 @@
     {
       "date": "2021-10-27",
       "locality": "CAVERSHAM",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 28,
-      "vaccines": 60
+      "vaccines": 59
     },
     {
       "date": "2021-10-28",
       "locality": "CAVERSHAM",
-      "dose1": 23,
-      "dose2": 43,
-      "vaccines": 66
+      "dose1": 26,
+      "dose2": 45,
+      "vaccines": 71
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "CAVERSHAM",
+      "dose1": 21,
+      "dose2": 47,
+      "vaccines": 68
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "CAVERSHAM",
+      "dose1": 27,
+      "dose2": 46,
+      "vaccines": 73
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "CAVERSHAM",
+      "dose1": 5,
+      "dose2": 19,
+      "vaccines": 24
     }
   ]
 }

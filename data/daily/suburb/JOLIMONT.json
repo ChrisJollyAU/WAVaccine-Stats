@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-28T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "JOLIMONT",
   "data": [
     {
@@ -992,9 +992,9 @@
     {
       "date": "2021-07-24",
       "locality": "JOLIMONT",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 14,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-07-25",
@@ -1161,8 +1161,8 @@
       "date": "2021-08-17",
       "locality": "JOLIMONT",
       "dose1": 11,
-      "dose2": 11,
-      "vaccines": 22
+      "dose2": 10,
+      "vaccines": 21
     },
     {
       "date": "2021-08-18",
@@ -1667,6 +1667,27 @@
       "dose1": 0,
       "dose2": 6,
       "vaccines": 6
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "JOLIMONT",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "JOLIMONT",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "JOLIMONT",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

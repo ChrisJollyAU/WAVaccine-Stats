@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "MIDDLETON BEACH",
   "data": [
     {
@@ -805,14 +805,6 @@
     {
       "date": "2021-06-05",
       "locality": "MIDDLETON BEACH",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-05",
-      "locality": "MIDDLETON BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 0,
@@ -990,9 +982,9 @@
       "date": "2021-06-19",
       "locality": "MIDDLETON BEACH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-20",
@@ -1223,8 +1215,8 @@
       "locality": "MIDDLETON BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-03",
@@ -1367,8 +1359,8 @@
       "locality": "MIDDLETON BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-07-10",
@@ -1686,9 +1678,9 @@
       "date": "2021-07-29",
       "locality": "MIDDLETON BEACH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-07-29",
@@ -2469,6 +2461,14 @@
     {
       "date": "2021-09-12",
       "locality": "MIDDLETON BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "MIDDLETON BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -2550,9 +2550,9 @@
       "date": "2021-09-17",
       "locality": "MIDDLETON BEACH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-18",
@@ -2879,8 +2879,8 @@
       "locality": "MIDDLETON BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-09",
@@ -3165,9 +3165,105 @@
     {
       "date": "2021-10-26",
       "locality": "MIDDLETON BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "MIDDLETON BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "MIDDLETON BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

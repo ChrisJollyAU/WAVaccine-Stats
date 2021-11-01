@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "DEEPDALE",
   "data": [
     {
@@ -201,9 +201,9 @@
     {
       "date": "2021-05-21",
       "locality": "DEEPDALE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-22",
@@ -295,6 +295,13 @@
       "dose1": 6,
       "dose2": 2,
       "vaccines": 8
+    },
+    {
+      "date": "2021-06-10",
+      "locality": "DEEPDALE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-06-11",
@@ -950,9 +957,9 @@
     {
       "date": "2021-09-29",
       "locality": "DEEPDALE",
-      "dose1": 16,
+      "dose1": 19,
       "dose2": 3,
-      "vaccines": 19
+      "vaccines": 22
     },
     {
       "date": "2021-09-30",
@@ -964,9 +971,9 @@
     {
       "date": "2021-10-01",
       "locality": "DEEPDALE",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 7,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-02",
@@ -1135,6 +1142,41 @@
       "dose1": 6,
       "dose2": 2,
       "vaccines": 8
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "DEEPDALE",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "DEEPDALE",
+      "dose1": 5,
+      "dose2": 8,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "DEEPDALE",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "DEEPDALE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "DEEPDALE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

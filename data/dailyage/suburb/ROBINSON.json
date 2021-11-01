@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "ROBINSON",
   "data": [
     {
@@ -235,14 +235,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-04-15",
-      "locality": "ROBINSON",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-04-20",
       "locality": "ROBINSON",
       "AgeGroup": "70 and over",
@@ -286,6 +278,14 @@
       "date": "2021-05-06",
       "locality": "ROBINSON",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-06",
+      "locality": "ROBINSON",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -853,14 +853,6 @@
     {
       "date": "2021-07-08",
       "locality": "ROBINSON",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-08",
-      "locality": "ROBINSON",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
@@ -1105,6 +1097,14 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "ROBINSON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-29",
@@ -2503,8 +2503,8 @@
       "locality": "ROBINSON",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-26",
@@ -2513,6 +2513,86 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "ROBINSON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "ROBINSON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "ROBINSON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "ROBINSON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "ROBINSON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "ROBINSON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "ROBINSON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "ROBINSON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "ROBINSON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "ROBINSON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

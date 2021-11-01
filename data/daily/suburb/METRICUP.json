@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "METRICUP",
   "data": [
     {
@@ -346,6 +346,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-02",
+      "locality": "METRICUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-04",
       "locality": "METRICUP",
       "dose1": 2,
@@ -442,6 +449,27 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "METRICUP",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "METRICUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "METRICUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

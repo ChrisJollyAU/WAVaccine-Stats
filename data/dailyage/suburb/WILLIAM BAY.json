@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "WILLIAM BAY",
   "data": [
     {
@@ -507,6 +507,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-20",
+      "locality": "WILLIAM BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-22",
       "locality": "WILLIAM BAY",
       "AgeGroup": "16 to 49",
@@ -600,6 +608,30 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "WILLIAM BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "WILLIAM BAY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "WILLIAM BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

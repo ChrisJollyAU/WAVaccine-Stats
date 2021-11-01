@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "LESCHENAULT",
   "data": [
     {
@@ -628,9 +628,9 @@
     {
       "date": "2021-06-19",
       "locality": "LESCHENAULT",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-06-21",
@@ -806,13 +806,6 @@
       "dose1": 10,
       "dose2": 2,
       "vaccines": 12
-    },
-    {
-      "date": "2021-07-18",
-      "locality": "LESCHENAULT",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-19",
@@ -1076,9 +1069,9 @@
     {
       "date": "2021-08-27",
       "locality": "LESCHENAULT",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 21,
-      "vaccines": 34
+      "vaccines": 33
     },
     {
       "date": "2021-08-28",
@@ -1097,9 +1090,9 @@
     {
       "date": "2021-08-30",
       "locality": "LESCHENAULT",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 11,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-08-31",
@@ -1111,9 +1104,9 @@
     {
       "date": "2021-09-01",
       "locality": "LESCHENAULT",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 10,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-09-02",
@@ -1265,9 +1258,9 @@
     {
       "date": "2021-09-23",
       "locality": "LESCHENAULT",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 24,
-      "vaccines": 39
+      "vaccines": 38
     },
     {
       "date": "2021-09-24",
@@ -1490,8 +1483,43 @@
       "date": "2021-10-26",
       "locality": "LESCHENAULT",
       "dose1": 14,
+      "dose2": 25,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "LESCHENAULT",
+      "dose1": 7,
+      "dose2": 11,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "LESCHENAULT",
+      "dose1": 11,
       "dose2": 21,
-      "vaccines": 35
+      "vaccines": 32
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "LESCHENAULT",
+      "dose1": 13,
+      "dose2": 15,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "LESCHENAULT",
+      "dose1": 6,
+      "dose2": 8,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "LESCHENAULT",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

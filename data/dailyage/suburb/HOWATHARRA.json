@@ -1,7 +1,15 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "HOWATHARRA",
   "data": [
+    {
+      "date": "2021-03-31",
+      "locality": "HOWATHARRA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-05-14",
       "locality": "HOWATHARRA",
@@ -22,6 +30,14 @@
       "date": "2021-06-08",
       "locality": "HOWATHARRA",
       "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-23",
+      "locality": "HOWATHARRA",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -102,6 +118,14 @@
       "date": "2021-10-22",
       "locality": "HOWATHARRA",
       "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "HOWATHARRA",
+      "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2

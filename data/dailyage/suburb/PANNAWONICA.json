@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "PANNAWONICA",
   "data": [
     {
@@ -195,14 +195,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-06",
-      "locality": "PANNAWONICA",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-07",
       "locality": "PANNAWONICA",
       "AgeGroup": "16 to 49",
@@ -311,19 +303,11 @@
       "locality": "PANNAWONICA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-30",
-      "locality": "PANNAWONICA",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-01",
       "locality": "PANNAWONICA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
@@ -337,6 +321,14 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-06",
@@ -639,8 +631,8 @@
       "locality": "PANNAWONICA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-10",
@@ -939,14 +931,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-10-10",
-      "locality": "PANNAWONICA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-12",
       "locality": "PANNAWONICA",
       "AgeGroup": "16 to 49",
@@ -1118,22 +1102,126 @@
       "date": "2021-10-25",
       "locality": "PANNAWONICA",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 14,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 16
     },
     {
       "date": "2021-10-25",
       "locality": "PANNAWONICA",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 6
     },
     {
       "date": "2021-10-26",
       "locality": "PANNAWONICA",
       "AgeGroup": "16 to 49",
+      "dose1": 21,
+      "dose2": 0,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "16 to 49",
+      "dose1": 15,
+      "dose2": 0,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "16 to 49",
+      "dose1": 19,
+      "dose2": 3,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "16 to 49",
+      "dose1": 14,
+      "dose2": 3,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 1,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "PANNAWONICA",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1

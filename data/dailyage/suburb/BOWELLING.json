@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "BOWELLING",
   "data": [
     {
@@ -131,14 +131,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-24",
-      "locality": "BOWELLING",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-26",
       "locality": "BOWELLING",
       "AgeGroup": "50 to 69",
@@ -199,8 +191,8 @@
       "locality": "BOWELLING",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-16",
@@ -328,6 +320,22 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "BOWELLING",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "BOWELLING",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

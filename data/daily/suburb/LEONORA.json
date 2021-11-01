@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "LEONORA",
   "data": [
     {
@@ -229,9 +229,9 @@
     {
       "date": "2021-07-28",
       "locality": "LEONORA",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-03",
@@ -300,8 +300,8 @@
       "date": "2021-08-18",
       "locality": "LEONORA",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-19",
@@ -397,9 +397,9 @@
     {
       "date": "2021-09-14",
       "locality": "LEONORA",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 13,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-09-15",
@@ -425,9 +425,9 @@
     {
       "date": "2021-09-23",
       "locality": "LEONORA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-26",
@@ -524,8 +524,8 @@
       "date": "2021-10-12",
       "locality": "LEONORA",
       "dose1": 8,
-      "dose2": 11,
-      "vaccines": 19
+      "dose2": 12,
+      "vaccines": 20
     },
     {
       "date": "2021-10-13",
@@ -579,16 +579,37 @@
     {
       "date": "2021-10-25",
       "locality": "LEONORA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-26",
       "locality": "LEONORA",
       "dose1": 17,
-      "dose2": 10,
-      "vaccines": 27
+      "dose2": 11,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "LEONORA",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "LEONORA",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "LEONORA",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

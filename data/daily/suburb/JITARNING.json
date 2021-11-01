@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "JITARNING",
   "data": [
     {
@@ -38,6 +38,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-04",
+      "locality": "JITARNING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-05",
       "locality": "JITARNING",
       "dose1": 1,
@@ -55,8 +62,8 @@
       "date": "2021-10-26",
       "locality": "JITARNING",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

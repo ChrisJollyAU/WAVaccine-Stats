@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "locality": "NORTH BOYANUP",
   "data": [
     {
@@ -629,8 +629,22 @@
       "date": "2021-10-26",
       "locality": "NORTH BOYANUP",
       "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "NORTH BOYANUP",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "NORTH BOYANUP",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     }
   ]
 }

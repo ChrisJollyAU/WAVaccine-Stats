@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "MYAREE BC",
   "data": [
     {
@@ -44,14 +44,6 @@
     },
     {
       "date": "2021-03-22",
-      "locality": "MYAREE BC",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-25",
       "locality": "MYAREE BC",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -220,14 +212,6 @@
     },
     {
       "date": "2021-05-06",
-      "locality": "MYAREE BC",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-07",
       "locality": "MYAREE BC",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -505,14 +489,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-06-17",
-      "locality": "MYAREE BC",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-06-18",
@@ -1079,8 +1055,8 @@
       "locality": "MYAREE BC",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-08-18",
@@ -1557,14 +1533,6 @@
     {
       "date": "2021-09-28",
       "locality": "MYAREE BC",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-28",
-      "locality": "MYAREE BC",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
@@ -1851,14 +1819,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-10-19",
-      "locality": "MYAREE BC",
-      "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-20",
       "locality": "MYAREE BC",
       "AgeGroup": "12 to 15",
@@ -1953,6 +1913,94 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "MYAREE BC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "MYAREE BC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "MYAREE BC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "MYAREE BC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "MYAREE BC",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "MYAREE BC",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "MYAREE BC",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "MYAREE BC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "MYAREE BC",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "MYAREE BC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "MYAREE BC",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

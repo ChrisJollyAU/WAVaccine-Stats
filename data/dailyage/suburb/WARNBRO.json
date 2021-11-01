@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-26T00:00:00",
+  "date_updated": "2021-10-31T00:00:00",
   "postcode": "WARNBRO",
   "data": [
     {
@@ -877,6 +877,14 @@
     {
       "date": "2021-04-20",
       "locality": "WARNBRO",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-20",
+      "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 8,
       "dose2": 0,
@@ -1415,8 +1423,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-05-19",
@@ -1558,9 +1566,9 @@
       "date": "2021-05-26",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 5,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-05-26",
@@ -2350,9 +2358,9 @@
       "date": "2021-07-02",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 6,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-07-02",
@@ -2414,9 +2422,9 @@
       "date": "2021-07-05",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
-      "dose1": 24,
+      "dose1": 22,
       "dose2": 12,
-      "vaccines": 36
+      "vaccines": 34
     },
     {
       "date": "2021-07-05",
@@ -2686,9 +2694,9 @@
       "date": "2021-07-17",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-07-17",
@@ -3070,9 +3078,9 @@
       "date": "2021-08-03",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 10,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-08-03",
@@ -3103,8 +3111,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 29,
-      "vaccines": 41
+      "dose2": 28,
+      "vaccines": 40
     },
     {
       "date": "2021-08-04",
@@ -3127,16 +3135,16 @@
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 18,
-      "dose2": 12,
-      "vaccines": 30
+      "dose2": 11,
+      "vaccines": 29
     },
     {
       "date": "2021-08-05",
       "locality": "WARNBRO",
       "AgeGroup": "70 and over",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 24,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-08-06",
@@ -3167,8 +3175,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 2,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 10
     },
     {
       "date": "2021-08-07",
@@ -3262,9 +3270,9 @@
       "date": "2021-08-11",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 27,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-08-11",
@@ -3398,9 +3406,9 @@
       "date": "2021-08-17",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 31,
-      "vaccines": 51
+      "vaccines": 52
     },
     {
       "date": "2021-08-17",
@@ -3414,17 +3422,17 @@
       "date": "2021-08-18",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 34,
+      "dose1": 33,
       "dose2": 7,
-      "vaccines": 41
+      "vaccines": 40
     },
     {
       "date": "2021-08-18",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 18,
-      "dose2": 25,
-      "vaccines": 43
+      "dose2": 26,
+      "vaccines": 44
     },
     {
       "date": "2021-08-18",
@@ -3438,9 +3446,9 @@
       "date": "2021-08-19",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 42,
+      "dose1": 40,
       "dose2": 13,
-      "vaccines": 55
+      "vaccines": 53
     },
     {
       "date": "2021-08-19",
@@ -3502,9 +3510,9 @@
       "date": "2021-08-22",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 34,
+      "dose1": 33,
       "dose2": 5,
-      "vaccines": 39
+      "vaccines": 38
     },
     {
       "date": "2021-08-22",
@@ -3543,8 +3551,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
       "dose1": 36,
-      "dose2": 7,
-      "vaccines": 43
+      "dose2": 8,
+      "vaccines": 44
     },
     {
       "date": "2021-08-24",
@@ -3894,17 +3902,17 @@
       "date": "2021-09-08",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
-      "dose2": 21,
-      "vaccines": 45
+      "dose1": 23,
+      "dose2": 20,
+      "vaccines": 43
     },
     {
       "date": "2021-09-08",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 24,
-      "vaccines": 36
+      "dose2": 25,
+      "vaccines": 37
     },
     {
       "date": "2021-09-08",
@@ -3951,8 +3959,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 17,
-      "vaccines": 29
+      "dose2": 16,
+      "vaccines": 28
     },
     {
       "date": "2021-09-10",
@@ -3967,8 +3975,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 15,
-      "vaccines": 27
+      "dose2": 13,
+      "vaccines": 25
     },
     {
       "date": "2021-09-11",
@@ -3991,8 +3999,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 28,
-      "vaccines": 43
+      "dose2": 27,
+      "vaccines": 42
     },
     {
       "date": "2021-09-12",
@@ -4023,8 +4031,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 17,
-      "vaccines": 25
+      "dose2": 18,
+      "vaccines": 26
     },
     {
       "date": "2021-09-13",
@@ -4222,9 +4230,9 @@
       "date": "2021-09-20",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 17,
-      "vaccines": 45
+      "vaccines": 44
     },
     {
       "date": "2021-09-20",
@@ -4254,9 +4262,9 @@
       "date": "2021-09-21",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 34,
+      "dose1": 33,
       "dose2": 20,
-      "vaccines": 54
+      "vaccines": 53
     },
     {
       "date": "2021-09-21",
@@ -4382,9 +4390,9 @@
       "date": "2021-09-25",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 5,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-09-25",
@@ -4494,8 +4502,8 @@
       "date": "2021-09-29",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 39,
-      "dose2": 25,
+      "dose1": 40,
+      "dose2": 24,
       "vaccines": 64
     },
     {
@@ -4590,9 +4598,9 @@
       "date": "2021-10-02",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 38,
+      "dose1": 37,
       "dose2": 15,
-      "vaccines": 53
+      "vaccines": 52
     },
     {
       "date": "2021-10-02",
@@ -4687,8 +4695,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
       "dose1": 34,
-      "dose2": 26,
-      "vaccines": 60
+      "dose2": 27,
+      "vaccines": 61
     },
     {
       "date": "2021-10-05",
@@ -4718,9 +4726,9 @@
       "date": "2021-10-06",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 39,
+      "dose1": 38,
       "dose2": 38,
-      "vaccines": 77
+      "vaccines": 76
     },
     {
       "date": "2021-10-06",
@@ -4782,9 +4790,9 @@
       "date": "2021-10-08",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 53,
+      "dose1": 51,
       "dose2": 25,
-      "vaccines": 78
+      "vaccines": 76
     },
     {
       "date": "2021-10-08",
@@ -4846,9 +4854,9 @@
       "date": "2021-10-10",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 15,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-10-10",
@@ -4886,9 +4894,9 @@
       "date": "2021-10-11",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 19,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-10-11",
@@ -4942,17 +4950,17 @@
       "date": "2021-10-13",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 39,
+      "dose1": 40,
       "dose2": 29,
-      "vaccines": 68
+      "vaccines": 69
     },
     {
       "date": "2021-10-13",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 17,
-      "dose2": 22,
-      "vaccines": 39
+      "dose2": 23,
+      "vaccines": 40
     },
     {
       "date": "2021-10-13",
@@ -5039,8 +5047,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
       "dose1": 32,
-      "dose2": 33,
-      "vaccines": 65
+      "dose2": 31,
+      "vaccines": 63
     },
     {
       "date": "2021-10-16",
@@ -5094,9 +5102,9 @@
       "date": "2021-10-18",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 38,
+      "dose1": 39,
       "dose2": 24,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-10-18",
@@ -5143,8 +5151,8 @@
       "locality": "WARNBRO",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-10-20",
@@ -5254,9 +5262,9 @@
       "date": "2021-10-23",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 29,
+      "dose1": 30,
       "dose2": 33,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-10-23",
@@ -5286,9 +5294,9 @@
       "date": "2021-10-24",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 21,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-10-24",
@@ -5310,9 +5318,9 @@
       "date": "2021-10-25",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 37,
-      "dose2": 30,
-      "vaccines": 67
+      "dose1": 39,
+      "dose2": 32,
+      "vaccines": 71
     },
     {
       "date": "2021-10-25",
@@ -5342,17 +5350,17 @@
       "date": "2021-10-26",
       "locality": "WARNBRO",
       "AgeGroup": "16 to 49",
-      "dose1": 35,
-      "dose2": 26,
-      "vaccines": 61
+      "dose1": 38,
+      "dose2": 30,
+      "vaccines": 68
     },
     {
       "date": "2021-10-26",
       "locality": "WARNBRO",
       "AgeGroup": "50 to 69",
       "dose1": 11,
-      "dose2": 7,
-      "vaccines": 18
+      "dose2": 11,
+      "vaccines": 22
     },
     {
       "date": "2021-10-26",
@@ -5361,6 +5369,158 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "WARNBRO",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "WARNBRO",
+      "AgeGroup": "16 to 49",
+      "dose1": 40,
+      "dose2": 30,
+      "vaccines": 70
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "WARNBRO",
+      "AgeGroup": "50 to 69",
+      "dose1": 7,
+      "dose2": 18,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-10-27",
+      "locality": "WARNBRO",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "WARNBRO",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "WARNBRO",
+      "AgeGroup": "16 to 49",
+      "dose1": 32,
+      "dose2": 37,
+      "vaccines": 69
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "WARNBRO",
+      "AgeGroup": "50 to 69",
+      "dose1": 10,
+      "dose2": 22,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "WARNBRO",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "WARNBRO",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "WARNBRO",
+      "AgeGroup": "16 to 49",
+      "dose1": 28,
+      "dose2": 35,
+      "vaccines": 63
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "WARNBRO",
+      "AgeGroup": "50 to 69",
+      "dose1": 5,
+      "dose2": 15,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "WARNBRO",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "WARNBRO",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "WARNBRO",
+      "AgeGroup": "16 to 49",
+      "dose1": 18,
+      "dose2": 23,
+      "vaccines": 41
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "WARNBRO",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "WARNBRO",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "WARNBRO",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 32,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "WARNBRO",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "WARNBRO",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

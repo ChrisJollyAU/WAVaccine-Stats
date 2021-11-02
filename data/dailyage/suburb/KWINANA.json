@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-01T00:00:00",
   "postcode": "KWINANA",
   "data": [
     {
@@ -126,8 +126,8 @@
       "date": "2021-03-29",
       "locality": "KWINANA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -263,8 +263,8 @@
       "locality": "KWINANA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2021-04-28",
@@ -638,8 +638,8 @@
       "date": "2021-06-21",
       "locality": "KWINANA",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -679,8 +679,8 @@
       "locality": "KWINANA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-23",
@@ -999,8 +999,8 @@
       "locality": "KWINANA",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-07-19",
@@ -2751,8 +2751,8 @@
       "locality": "KWINANA",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2021-10-29",
@@ -2777,6 +2777,14 @@
       "dose1": 1,
       "dose2": 4,
       "vaccines": 5
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "KWINANA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

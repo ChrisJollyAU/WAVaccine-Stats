@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-01T00:00:00",
   "postcode": "BERESFORD",
   "data": [
     {
@@ -782,8 +782,8 @@
       "date": "2021-05-27",
       "locality": "BERESFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 0,
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     },
     {
@@ -1303,8 +1303,8 @@
       "locality": "BERESFORD",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-06-30",
@@ -1718,9 +1718,9 @@
       "date": "2021-07-23",
       "locality": "BERESFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-07-23",
@@ -2551,8 +2551,8 @@
       "locality": "BERESFORD",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-09-03",
@@ -2918,8 +2918,8 @@
       "date": "2021-09-21",
       "locality": "BERESFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 6,
+      "dose1": 5,
+      "dose2": 7,
       "vaccines": 12
     },
     {
@@ -3422,17 +3422,17 @@
       "date": "2021-10-16",
       "locality": "BERESFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-16",
       "locality": "BERESFORD",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-17",
@@ -3646,9 +3646,9 @@
       "date": "2021-10-26",
       "locality": "BERESFORD",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 0
     },
     {
       "date": "2021-10-27",
@@ -3702,9 +3702,9 @@
       "date": "2021-10-29",
       "locality": "BERESFORD",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-29",
@@ -3717,10 +3717,18 @@
     {
       "date": "2021-10-30",
       "locality": "BERESFORD",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "BERESFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-10-30",
@@ -3729,6 +3737,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "BERESFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "BERESFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-01T00:00:00",
   "postcode": "VICTORY HEIGHTS",
   "data": [
     {
@@ -1718,9 +1718,9 @@
       "date": "2021-10-13",
       "locality": "VICTORY HEIGHTS",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-13",
@@ -1949,10 +1949,18 @@
     {
       "date": "2021-10-29",
       "locality": "VICTORY HEIGHTS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-29",
+      "locality": "VICTORY HEIGHTS",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-29",
@@ -1961,6 +1969,14 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "VICTORY HEIGHTS",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-01T00:00:00",
   "locality": "LATHLAIN",
   "data": [
     {
@@ -12,9 +12,9 @@
     {
       "date": "2021-02-23",
       "locality": "LATHLAIN",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-02-24",
@@ -167,8 +167,8 @@
       "date": "2021-03-19",
       "locality": "LATHLAIN",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-03-20",
@@ -1090,9 +1090,9 @@
     {
       "date": "2021-07-31",
       "locality": "LATHLAIN",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 18,
-      "vaccines": 32
+      "vaccines": 31
     },
     {
       "date": "2021-08-01",
@@ -1238,8 +1238,8 @@
       "date": "2021-08-21",
       "locality": "LATHLAIN",
       "dose1": 18,
-      "dose2": 22,
-      "vaccines": 40
+      "dose2": 21,
+      "vaccines": 39
     },
     {
       "date": "2021-08-22",
@@ -1251,8 +1251,8 @@
     {
       "date": "2021-08-23",
       "locality": "LATHLAIN",
-      "dose1": 31,
-      "dose2": 15,
+      "dose1": 30,
+      "dose2": 16,
       "vaccines": 46
     },
     {
@@ -1356,8 +1356,8 @@
     {
       "date": "2021-09-07",
       "locality": "LATHLAIN",
-      "dose1": 19,
-      "dose2": 18,
+      "dose1": 18,
+      "dose2": 19,
       "vaccines": 37
     },
     {
@@ -1545,9 +1545,9 @@
     {
       "date": "2021-10-04",
       "locality": "LATHLAIN",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 18,
-      "vaccines": 29
+      "vaccines": 28
     },
     {
       "date": "2021-10-05",
@@ -1678,9 +1678,9 @@
     {
       "date": "2021-10-23",
       "locality": "LATHLAIN",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 22,
-      "vaccines": 31
+      "vaccines": 30
     },
     {
       "date": "2021-10-24",
@@ -1728,15 +1728,22 @@
       "date": "2021-10-30",
       "locality": "LATHLAIN",
       "dose1": 6,
-      "dose2": 23,
-      "vaccines": 29
+      "dose2": 24,
+      "vaccines": 30
     },
     {
       "date": "2021-10-31",
       "locality": "LATHLAIN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 14,
-      "vaccines": 15
+      "vaccines": 16
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "LATHLAIN",
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
     }
   ]
 }

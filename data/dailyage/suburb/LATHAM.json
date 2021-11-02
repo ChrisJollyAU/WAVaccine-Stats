@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-01T00:00:00",
   "postcode": "LATHAM",
   "data": [
     {
@@ -422,8 +422,8 @@
       "date": "2021-10-22",
       "locality": "LATHAM",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -436,6 +436,14 @@
     },
     {
       "date": "2021-10-29",
+      "locality": "LATHAM",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-01",
       "locality": "LATHAM",
       "AgeGroup": "16 to 49",
       "dose1": 0,

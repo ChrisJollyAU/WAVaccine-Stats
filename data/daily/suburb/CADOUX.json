@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-01T00:00:00",
   "locality": "CADOUX",
   "data": [
     {
@@ -376,9 +376,16 @@
     {
       "date": "2021-10-28",
       "locality": "CADOUX",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "CADOUX",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

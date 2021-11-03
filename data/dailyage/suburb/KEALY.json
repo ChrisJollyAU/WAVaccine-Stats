@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-01T00:00:00",
+  "date_updated": "2021-11-02T00:00:00",
   "postcode": "KEALY",
   "data": [
     {
@@ -2174,9 +2174,9 @@
       "date": "2021-10-22",
       "locality": "KEALY",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 4,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-10-22",
@@ -2335,16 +2335,16 @@
       "locality": "KEALY",
       "AgeGroup": "12 to 15",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-11-01",
       "locality": "KEALY",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-11-01",
@@ -2353,6 +2353,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "KEALY",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 5,
+      "vaccines": 12
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-01T00:00:00",
+  "date_updated": "2021-11-02T00:00:00",
   "locality": "BOORAGOON",
   "data": [
     {
@@ -1727,9 +1727,16 @@
     {
       "date": "2021-11-01",
       "locality": "BOORAGOON",
-      "dose1": 10,
+      "dose1": 11,
+      "dose2": 21,
+      "vaccines": 32
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "BOORAGOON",
+      "dose1": 9,
       "dose2": 18,
-      "vaccines": 28
+      "vaccines": 27
     }
   ]
 }

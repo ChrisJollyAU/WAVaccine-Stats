@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-01T00:00:00",
+  "date_updated": "2021-11-02T00:00:00",
   "locality": "GABBADAH",
   "data": [
     {
@@ -1210,8 +1210,8 @@
       "date": "2021-10-28",
       "locality": "GABBADAH",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-10-29",
@@ -1240,6 +1240,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "GABBADAH",
+      "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
     }
   ]
 }

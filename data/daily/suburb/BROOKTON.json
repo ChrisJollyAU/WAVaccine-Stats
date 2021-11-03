@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-01T00:00:00",
+  "date_updated": "2021-11-02T00:00:00",
   "locality": "BROOKTON",
   "data": [
     {
@@ -1196,8 +1196,8 @@
       "date": "2021-10-28",
       "locality": "BROOKTON",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-29",
@@ -1223,9 +1223,16 @@
     {
       "date": "2021-11-01",
       "locality": "BROOKTON",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "BROOKTON",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

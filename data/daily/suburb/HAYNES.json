@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-01T00:00:00",
+  "date_updated": "2021-11-02T00:00:00",
   "locality": "HAYNES",
   "data": [
     {
@@ -117,9 +117,9 @@
     {
       "date": "2021-03-24",
       "locality": "HAYNES",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-03-25",
@@ -1245,8 +1245,8 @@
       "date": "2021-09-20",
       "locality": "HAYNES",
       "dose1": 10,
-      "dose2": 6,
-      "vaccines": 16
+      "dose2": 7,
+      "vaccines": 17
     },
     {
       "date": "2021-09-21",
@@ -1518,8 +1518,8 @@
       "date": "2021-10-29",
       "locality": "HAYNES",
       "dose1": 11,
-      "dose2": 24,
-      "vaccines": 35
+      "dose2": 25,
+      "vaccines": 36
     },
     {
       "date": "2021-10-30",
@@ -1538,9 +1538,16 @@
     {
       "date": "2021-11-01",
       "locality": "HAYNES",
-      "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "HAYNES",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
     }
   ]
 }

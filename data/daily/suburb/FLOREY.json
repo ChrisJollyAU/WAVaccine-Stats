@@ -1,12 +1,26 @@
 {
-  "date_updated": "2021-11-01T00:00:00",
+  "date_updated": "2021-11-02T00:00:00",
   "locality": "FLOREY",
   "data": [
+    {
+      "date": "2021-10-11",
+      "locality": "FLOREY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-10-30",
       "locality": "FLOREY",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "FLOREY",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-01T00:00:00",
+  "date_updated": "2021-11-02T00:00:00",
   "locality": "LESCHENAULT",
   "data": [
     {
@@ -1524,8 +1524,15 @@
     {
       "date": "2021-11-01",
       "locality": "LESCHENAULT",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 7,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "LESCHENAULT",
+      "dose1": 9,
+      "dose2": 10,
       "vaccines": 19
     }
   ]

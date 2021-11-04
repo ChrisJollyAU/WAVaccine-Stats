@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "RIVERTON",
   "data": [
     {
@@ -1734,16 +1734,23 @@
     {
       "date": "2021-11-01",
       "locality": "RIVERTON",
-      "dose1": 5,
-      "dose2": 17,
-      "vaccines": 22
+      "dose1": 7,
+      "dose2": 18,
+      "vaccines": 25
     },
     {
       "date": "2021-11-02",
       "locality": "RIVERTON",
-      "dose1": 5,
-      "dose2": 14,
-      "vaccines": 19
+      "dose1": 7,
+      "dose2": 17,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "RIVERTON",
+      "dose1": 4,
+      "dose2": 26,
+      "vaccines": 30
     }
   ]
 }

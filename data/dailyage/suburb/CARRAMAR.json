@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "CARRAMAR",
   "data": [
     {
@@ -5679,16 +5679,16 @@
       "locality": "CARRAMAR",
       "AgeGroup": "12 to 15",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-11-02",
       "locality": "CARRAMAR",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
-      "dose2": 19,
-      "vaccines": 32
+      "dose1": 14,
+      "dose2": 21,
+      "vaccines": 35
     },
     {
       "date": "2021-11-02",
@@ -5705,6 +5705,22 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "CARRAMAR",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 15,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "CARRAMAR",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

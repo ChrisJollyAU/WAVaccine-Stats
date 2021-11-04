@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "MIDVALE",
   "data": [
     {
@@ -1545,9 +1545,16 @@
     {
       "date": "2021-11-02",
       "locality": "MIDVALE",
-      "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose1": 9,
+      "dose2": 6,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "MIDVALE",
+      "dose1": 2,
+      "dose2": 7,
+      "vaccines": 9
     }
   ]
 }

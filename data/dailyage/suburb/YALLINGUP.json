@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "YALLINGUP",
   "data": [
     {
@@ -3182,17 +3182,17 @@
       "date": "2021-10-28",
       "locality": "YALLINGUP",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-10-28",
       "locality": "YALLINGUP",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-10-29",
@@ -3253,10 +3253,18 @@
     {
       "date": "2021-11-02",
       "locality": "YALLINGUP",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "12 to 15",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "YALLINGUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-11-02",
@@ -3271,8 +3279,16 @@
       "locality": "YALLINGUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "YALLINGUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

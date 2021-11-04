@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "WILLIAMSTOWN",
   "data": [
     {
@@ -229,6 +229,14 @@
     {
       "date": "2021-08-02",
       "locality": "WILLIAMSTOWN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "WILLIAMSTOWN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 1,
@@ -323,14 +331,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-17",
-      "locality": "WILLIAMSTOWN",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-18",
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "50 to 69",
@@ -358,8 +358,8 @@
       "date": "2021-08-23",
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     },
     {
@@ -623,8 +623,8 @@
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-11",
@@ -632,14 +632,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-12",
-      "locality": "WILLIAMSTOWN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -686,9 +678,9 @@
       "date": "2021-10-15",
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-21",
@@ -702,9 +694,9 @@
       "date": "2021-10-22",
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-23",

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "MILPARA",
   "data": [
     {
@@ -1490,8 +1490,15 @@
       "date": "2021-11-02",
       "locality": "MILPARA",
       "dose1": 1,
-      "dose2": 11,
-      "vaccines": 12
+      "dose2": 12,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "MILPARA",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

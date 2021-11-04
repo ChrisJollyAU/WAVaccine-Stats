@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "BUSSELTON",
   "data": [
     {
@@ -47,9 +47,9 @@
     {
       "date": "2021-03-11",
       "locality": "BUSSELTON",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-03-12",
@@ -64,6 +64,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-03-14",
+      "locality": "BUSSELTON",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-03-16",
@@ -160,8 +167,8 @@
       "date": "2021-04-01",
       "locality": "BUSSELTON",
       "dose1": 33,
-      "dose2": 8,
-      "vaccines": 41
+      "dose2": 7,
+      "vaccines": 40
     },
     {
       "date": "2021-04-02",
@@ -461,8 +468,8 @@
       "date": "2021-05-19",
       "locality": "BUSSELTON",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-05-20",
@@ -1104,9 +1111,9 @@
     {
       "date": "2021-08-23",
       "locality": "BUSSELTON",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 15,
-      "vaccines": 40
+      "vaccines": 39
     },
     {
       "date": "2021-08-24",
@@ -1377,9 +1384,9 @@
     {
       "date": "2021-10-01",
       "locality": "BUSSELTON",
-      "dose1": 33,
+      "dose1": 32,
       "dose2": 14,
-      "vaccines": 47
+      "vaccines": 46
     },
     {
       "date": "2021-10-02",
@@ -1566,9 +1573,9 @@
     {
       "date": "2021-10-28",
       "locality": "BUSSELTON",
-      "dose1": 28,
-      "dose2": 35,
-      "vaccines": 63
+      "dose1": 29,
+      "dose2": 40,
+      "vaccines": 69
     },
     {
       "date": "2021-10-29",
@@ -1595,15 +1602,22 @@
       "date": "2021-11-01",
       "locality": "BUSSELTON",
       "dose1": 14,
-      "dose2": 28,
-      "vaccines": 42
+      "dose2": 29,
+      "vaccines": 43
     },
     {
       "date": "2021-11-02",
       "locality": "BUSSELTON",
-      "dose1": 15,
-      "dose2": 18,
-      "vaccines": 33
+      "dose1": 16,
+      "dose2": 27,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "BUSSELTON",
+      "dose1": 4,
+      "dose2": 11,
+      "vaccines": 15
     }
   ]
 }

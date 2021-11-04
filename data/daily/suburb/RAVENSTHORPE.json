@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "RAVENSTHORPE",
   "data": [
     {
@@ -678,8 +678,8 @@
       "date": "2021-10-08",
       "locality": "RAVENSTHORPE",
       "dose1": 7,
-      "dose2": 31,
-      "vaccines": 38
+      "dose2": 32,
+      "vaccines": 39
     },
     {
       "date": "2021-10-09",
@@ -820,6 +820,13 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "RAVENSTHORPE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

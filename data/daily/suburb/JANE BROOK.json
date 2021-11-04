@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "JANE BROOK",
   "data": [
     {
@@ -334,9 +334,9 @@
     {
       "date": "2021-04-27",
       "locality": "JANE BROOK",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 1,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-04-28",
@@ -468,8 +468,8 @@
       "date": "2021-05-18",
       "locality": "JANE BROOK",
       "dose1": 16,
-      "dose2": 2,
-      "vaccines": 18
+      "dose2": 1,
+      "vaccines": 17
     },
     {
       "date": "2021-05-19",
@@ -978,9 +978,9 @@
     {
       "date": "2021-07-30",
       "locality": "JANE BROOK",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-07-31",
@@ -1126,8 +1126,8 @@
       "date": "2021-08-20",
       "locality": "JANE BROOK",
       "dose1": 17,
-      "dose2": 27,
-      "vaccines": 44
+      "dose2": 26,
+      "vaccines": 43
     },
     {
       "date": "2021-08-21",
@@ -1300,9 +1300,9 @@
     {
       "date": "2021-09-14",
       "locality": "JANE BROOK",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 16,
-      "vaccines": 38
+      "vaccines": 37
     },
     {
       "date": "2021-09-15",
@@ -1377,9 +1377,9 @@
     {
       "date": "2021-09-25",
       "locality": "JANE BROOK",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 4,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-09-26",
@@ -1455,8 +1455,8 @@
       "date": "2021-10-06",
       "locality": "JANE BROOK",
       "dose1": 33,
-      "dose2": 22,
-      "vaccines": 55
+      "dose2": 21,
+      "vaccines": 54
     },
     {
       "date": "2021-10-07",
@@ -1637,15 +1637,22 @@
       "date": "2021-11-01",
       "locality": "JANE BROOK",
       "dose1": 12,
-      "dose2": 30,
-      "vaccines": 42
+      "dose2": 31,
+      "vaccines": 43
     },
     {
       "date": "2021-11-02",
       "locality": "JANE BROOK",
-      "dose1": 5,
+      "dose1": 8,
       "dose2": 19,
-      "vaccines": 24
+      "vaccines": 27
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "JANE BROOK",
+      "dose1": 4,
+      "dose2": 21,
+      "vaccines": 25
     }
   ]
 }

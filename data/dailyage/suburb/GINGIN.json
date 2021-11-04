@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "GINGIN",
   "data": [
     {
@@ -878,9 +878,9 @@
       "date": "2021-06-11",
       "locality": "GINGIN",
       "AgeGroup": "70 and over",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-13",
@@ -934,9 +934,9 @@
       "date": "2021-06-16",
       "locality": "GINGIN",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-18",
@@ -2198,9 +2198,9 @@
       "date": "2021-08-25",
       "locality": "GINGIN",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-25",
@@ -2427,14 +2427,6 @@
       "vaccines": 7
     },
     {
-      "date": "2021-09-03",
-      "locality": "GINGIN",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-04",
       "locality": "GINGIN",
       "AgeGroup": "16 to 49",
@@ -2535,8 +2527,8 @@
       "locality": "GINGIN",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-09",
@@ -3070,9 +3062,9 @@
       "date": "2021-10-01",
       "locality": "GINGIN",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-01",
@@ -3119,8 +3111,8 @@
       "locality": "GINGIN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-10-04",
@@ -3679,8 +3671,8 @@
       "locality": "GINGIN",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose2": 12,
+      "vaccines": 16
     },
     {
       "date": "2021-10-26",
@@ -3775,8 +3767,8 @@
       "locality": "GINGIN",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-10-31",
@@ -3831,8 +3823,16 @@
       "locality": "GINGIN",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "GINGIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-11-02",
@@ -3840,6 +3840,30 @@
       "AgeGroup": "70 and over",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "GINGIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "GINGIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "GINGIN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

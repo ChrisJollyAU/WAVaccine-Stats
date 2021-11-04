@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "DARLINGTON",
   "data": [
     {
@@ -1686,15 +1686,22 @@
       "date": "2021-11-01",
       "locality": "DARLINGTON",
       "dose1": 3,
-      "dose2": 10,
-      "vaccines": 13
+      "dose2": 12,
+      "vaccines": 15
     },
     {
       "date": "2021-11-02",
       "locality": "DARLINGTON",
+      "dose1": 5,
+      "dose2": 14,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "DARLINGTON",
       "dose1": 4,
-      "dose2": 13,
-      "vaccines": 17
+      "dose2": 14,
+      "vaccines": 18
     }
   ]
 }

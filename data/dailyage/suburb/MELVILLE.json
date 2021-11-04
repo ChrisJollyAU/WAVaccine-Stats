@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-02T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "MELVILLE",
   "data": [
     {
@@ -566,9 +566,9 @@
       "date": "2021-03-31",
       "locality": "MELVILLE",
       "AgeGroup": "70 and over",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-04-01",
@@ -943,8 +943,8 @@
       "locality": "MELVILLE",
       "AgeGroup": "70 and over",
       "dose1": 8,
-      "dose2": 1,
-      "vaccines": 9
+      "dose2": 0,
+      "vaccines": 8
     },
     {
       "date": "2021-04-22",
@@ -4134,9 +4134,9 @@
       "date": "2021-09-08",
       "locality": "MELVILLE",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-09",
@@ -4550,9 +4550,9 @@
       "date": "2021-09-23",
       "locality": "MELVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 26,
+      "dose1": 27,
       "dose2": 20,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-09-23",
@@ -4838,9 +4838,9 @@
       "date": "2021-10-04",
       "locality": "MELVILLE",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-04",
@@ -5057,14 +5057,6 @@
       "dose1": 3,
       "dose2": 11,
       "vaccines": 14
-    },
-    {
-      "date": "2021-10-11",
-      "locality": "MELVILLE",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-10-12",
@@ -5551,8 +5543,8 @@
       "locality": "MELVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 17,
-      "vaccines": 24
+      "dose2": 18,
+      "vaccines": 25
     },
     {
       "date": "2021-10-28",
@@ -5695,24 +5687,24 @@
       "locality": "MELVILLE",
       "AgeGroup": "12 to 15",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-11-02",
       "locality": "MELVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 17,
-      "vaccines": 25
+      "dose2": 18,
+      "vaccines": 26
     },
     {
       "date": "2021-11-02",
       "locality": "MELVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 10,
+      "vaccines": 14
     },
     {
       "date": "2021-11-02",
@@ -5720,6 +5712,38 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "MELVILLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "MELVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 7,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "MELVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "MELVILLE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

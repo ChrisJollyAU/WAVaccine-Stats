@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "ROBINSON",
   "data": [
     {
@@ -1231,15 +1231,15 @@
       "date": "2021-10-28",
       "locality": "ROBINSON",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-10-29",
       "locality": "ROBINSON",
       "dose1": 0,
-      "dose2": 6,
-      "vaccines": 6
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2021-10-30",
@@ -1252,8 +1252,22 @@
       "date": "2021-10-31",
       "locality": "ROBINSON",
       "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "ROBINSON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "ROBINSON",
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 5
     }
   ]
 }

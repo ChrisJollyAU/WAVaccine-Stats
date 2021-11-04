@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "MARYBROOK",
   "data": [
     {
@@ -36,13 +36,6 @@
       "dose1": 6,
       "dose2": 0,
       "vaccines": 6
-    },
-    {
-      "date": "2021-04-13",
-      "locality": "MARYBROOK",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-04-14",
@@ -298,13 +291,6 @@
     },
     {
       "date": "2021-07-10",
-      "locality": "MARYBROOK",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-13",
       "locality": "MARYBROOK",
       "dose1": 0,
       "dose2": 1,
@@ -593,9 +579,9 @@
     {
       "date": "2021-10-02",
       "locality": "MARYBROOK",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-05",
@@ -634,13 +620,6 @@
     },
     {
       "date": "2021-10-13",
-      "locality": "MARYBROOK",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-15",
       "locality": "MARYBROOK",
       "dose1": 1,
       "dose2": 0,
@@ -686,6 +665,27 @@
       "locality": "MARYBROOK",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "MARYBROOK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "MARYBROOK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "MARYBROOK",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

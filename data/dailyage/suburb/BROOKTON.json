@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "BROOKTON",
   "data": [
     {
@@ -2038,8 +2038,8 @@
       "date": "2021-09-13",
       "locality": "BROOKTON",
       "AgeGroup": "70 and over",
-      "dose1": 3,
-      "dose2": 0,
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     },
     {
@@ -2575,8 +2575,8 @@
       "locality": "BROOKTON",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-12",
@@ -2726,8 +2726,8 @@
       "date": "2021-10-19",
       "locality": "BROOKTON",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 1,
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
@@ -2917,6 +2917,14 @@
     {
       "date": "2021-10-28",
       "locality": "BROOKTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-28",
+      "locality": "BROOKTON",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 2,
@@ -2926,25 +2934,25 @@
       "date": "2021-10-28",
       "locality": "BROOKTON",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-29",
       "locality": "BROOKTON",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-29",
       "locality": "BROOKTON",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-10-30",
@@ -2955,6 +2963,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-30",
+      "locality": "BROOKTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-31",
       "locality": "BROOKTON",
       "AgeGroup": "12 to 15",
@@ -2968,6 +2984,46 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "BROOKTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "BROOKTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "BROOKTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "BROOKTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "BROOKTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

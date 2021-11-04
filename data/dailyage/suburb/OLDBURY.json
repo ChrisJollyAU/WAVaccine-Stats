@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "OLDBURY",
   "data": [
     {
@@ -1590,8 +1590,8 @@
       "date": "2021-10-19",
       "locality": "OLDBURY",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1763,6 +1763,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-28",
+      "locality": "OLDBURY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-29",
       "locality": "OLDBURY",
       "AgeGroup": "16 to 49",
@@ -1808,6 +1816,30 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "OLDBURY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "OLDBURY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "OLDBURY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

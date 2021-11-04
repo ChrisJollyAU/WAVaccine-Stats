@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "GLENFIELD",
   "data": [
     {
@@ -158,9 +158,9 @@
       "date": "2021-04-08",
       "locality": "GLENFIELD",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-04-10",
@@ -703,8 +703,8 @@
       "locality": "GLENFIELD",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-07-02",
@@ -1126,17 +1126,17 @@
       "date": "2021-08-02",
       "locality": "GLENFIELD",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-02",
       "locality": "GLENFIELD",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-03",
@@ -1262,9 +1262,9 @@
       "date": "2021-08-11",
       "locality": "GLENFIELD",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-08-11",
@@ -1358,9 +1358,9 @@
       "date": "2021-08-16",
       "locality": "GLENFIELD",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-08-17",
@@ -1430,9 +1430,9 @@
       "date": "2021-08-21",
       "locality": "GLENFIELD",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-21",
@@ -1943,8 +1943,8 @@
       "locality": "GLENFIELD",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-27",
@@ -1974,8 +1974,8 @@
       "date": "2021-09-29",
       "locality": "GLENFIELD",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 0,
+      "dose1": 7,
+      "dose2": 1,
       "vaccines": 8
     },
     {
@@ -2179,14 +2179,6 @@
       "vaccines": 4
     },
     {
-      "date": "2021-10-11",
-      "locality": "GLENFIELD",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-12",
       "locality": "GLENFIELD",
       "AgeGroup": "12 to 15",
@@ -2343,8 +2335,8 @@
       "locality": "GLENFIELD",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-20",
@@ -2527,8 +2519,8 @@
       "locality": "GLENFIELD",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-10-31",
@@ -2537,6 +2529,46 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "GLENFIELD",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "GLENFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "GLENFIELD",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "GLENFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "GLENFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

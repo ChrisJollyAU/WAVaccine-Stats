@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "locality": "REDGATE",
   "data": [
     {
@@ -73,6 +73,27 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-24",
+      "locality": "REDGATE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-27",
+      "locality": "REDGATE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-28",
+      "locality": "REDGATE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-05",
       "locality": "REDGATE",
       "dose1": 1,
@@ -80,7 +101,21 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-06",
+      "locality": "REDGATE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-08",
+      "locality": "REDGATE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-17",
       "locality": "REDGATE",
       "dose1": 0,
       "dose2": 1,
@@ -108,6 +143,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-02",
+      "locality": "REDGATE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-04",
       "locality": "REDGATE",
       "dose1": 1,
@@ -122,18 +164,32 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-11",
+      "date": "2021-10-08",
       "locality": "REDGATE",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
     },
     {
-      "date": "2021-10-26",
+      "date": "2021-10-11",
       "locality": "REDGATE",
       "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-26",
+      "locality": "REDGATE",
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "REDGATE",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

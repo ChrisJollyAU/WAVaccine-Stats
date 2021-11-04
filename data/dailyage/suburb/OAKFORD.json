@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "OAKFORD",
   "data": [
     {
@@ -966,9 +966,9 @@
       "date": "2021-05-17",
       "locality": "OAKFORD",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-05-17",
@@ -2622,9 +2622,9 @@
       "date": "2021-08-09",
       "locality": "OAKFORD",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-08-09",
@@ -3055,8 +3055,8 @@
       "locality": "OAKFORD",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-08-28",
@@ -3279,8 +3279,8 @@
       "locality": "OAKFORD",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 10,
-      "vaccines": 11
+      "dose2": 9,
+      "vaccines": 10
     },
     {
       "date": "2021-09-07",
@@ -3686,9 +3686,9 @@
       "date": "2021-09-22",
       "locality": "OAKFORD",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-23",
@@ -4022,9 +4022,9 @@
       "date": "2021-10-05",
       "locality": "OAKFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 9,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-10-05",
@@ -4206,9 +4206,9 @@
       "date": "2021-10-12",
       "locality": "OAKFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 12,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-10-12",
@@ -4511,8 +4511,8 @@
       "locality": "OAKFORD",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-10-23",
@@ -4710,17 +4710,17 @@
       "date": "2021-10-29",
       "locality": "OAKFORD",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-10-29",
       "locality": "OAKFORD",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 7
     },
     {
       "date": "2021-10-29",
@@ -4743,8 +4743,8 @@
       "locality": "OAKFORD",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 10,
-      "vaccines": 19
+      "dose2": 11,
+      "vaccines": 20
     },
     {
       "date": "2021-10-30",
@@ -4757,10 +4757,106 @@
     {
       "date": "2021-10-31",
       "locality": "OAKFORD",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "OAKFORD",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 6,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "OAKFORD",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "OAKFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-01",
+      "locality": "OAKFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "OAKFORD",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "OAKFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 2,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "OAKFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "OAKFORD",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "OAKFORD",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "OAKFORD",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "OAKFORD",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "OAKFORD",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

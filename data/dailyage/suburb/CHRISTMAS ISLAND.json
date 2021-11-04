@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-10-31T00:00:00",
+  "date_updated": "2021-11-03T00:00:00",
   "postcode": "CHRISTMAS ISLAND",
   "data": [
     {
@@ -374,8 +374,8 @@
       "date": "2021-07-01",
       "locality": "CHRISTMAS ISLAND",
       "AgeGroup": "50 to 69",
-      "dose1": 21,
-      "dose2": 0,
+      "dose1": 20,
+      "dose2": 1,
       "vaccines": 21
     },
     {
@@ -574,8 +574,8 @@
       "date": "2021-07-14",
       "locality": "CHRISTMAS ISLAND",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
-      "dose2": 6,
+      "dose1": 4,
+      "dose2": 7,
       "vaccines": 11
     },
     {
@@ -622,8 +622,8 @@
       "date": "2021-07-16",
       "locality": "CHRISTMAS ISLAND",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
-      "dose2": 6,
+      "dose1": 3,
+      "dose2": 7,
       "vaccines": 10
     },
     {
@@ -878,9 +878,9 @@
       "date": "2021-07-30",
       "locality": "CHRISTMAS ISLAND",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 8,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-07-31",
@@ -910,8 +910,8 @@
       "date": "2021-08-02",
       "locality": "CHRISTMAS ISLAND",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 2,
+      "dose1": 1,
+      "dose2": 3,
       "vaccines": 4
     },
     {
@@ -1263,8 +1263,8 @@
       "locality": "CHRISTMAS ISLAND",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-08-21",
@@ -2149,6 +2149,14 @@
     {
       "date": "2021-10-30",
       "locality": "CHRISTMAS ISLAND",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "CHRISTMAS ISLAND",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -2160,6 +2168,30 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "CHRISTMAS ISLAND",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "CHRISTMAS ISLAND",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "CHRISTMAS ISLAND",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
       "vaccines": 2
     }
   ]

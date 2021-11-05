@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-03T00:00:00",
+  "date_updated": "2021-11-04T00:00:00",
   "locality": "HILBERT",
   "data": [
     {
@@ -54,9 +54,9 @@
     {
       "date": "2021-03-11",
       "locality": "HILBERT",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-03-12",
@@ -159,16 +159,16 @@
     {
       "date": "2021-03-31",
       "locality": "HILBERT",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-04-01",
       "locality": "HILBERT",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-04-03",
@@ -300,8 +300,8 @@
       "date": "2021-04-29",
       "locality": "HILBERT",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-04-30",
@@ -614,9 +614,9 @@
     {
       "date": "2021-06-17",
       "locality": "HILBERT",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 5,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-06-18",
@@ -656,8 +656,8 @@
     {
       "date": "2021-06-23",
       "locality": "HILBERT",
-      "dose1": 15,
-      "dose2": 7,
+      "dose1": 14,
+      "dose2": 8,
       "vaccines": 22
     },
     {
@@ -762,8 +762,8 @@
       "date": "2021-07-08",
       "locality": "HILBERT",
       "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose2": 3,
+      "vaccines": 10
     },
     {
       "date": "2021-07-09",
@@ -1125,9 +1125,9 @@
     {
       "date": "2021-08-29",
       "locality": "HILBERT",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 5,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-08-30",
@@ -1349,9 +1349,9 @@
     {
       "date": "2021-09-30",
       "locality": "HILBERT",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 17,
-      "vaccines": 39
+      "vaccines": 40
     },
     {
       "date": "2021-10-01",
@@ -1413,8 +1413,8 @@
       "date": "2021-10-09",
       "locality": "HILBERT",
       "dose1": 30,
-      "dose2": 12,
-      "vaccines": 42
+      "dose2": 13,
+      "vaccines": 43
     },
     {
       "date": "2021-10-10",
@@ -1497,8 +1497,8 @@
       "date": "2021-10-21",
       "locality": "HILBERT",
       "dose1": 20,
-      "dose2": 13,
-      "vaccines": 33
+      "dose2": 14,
+      "vaccines": 34
     },
     {
       "date": "2021-10-22",
@@ -1587,9 +1587,16 @@
     {
       "date": "2021-11-03",
       "locality": "HILBERT",
-      "dose1": 4,
-      "dose2": 14,
-      "vaccines": 18
+      "dose1": 6,
+      "dose2": 17,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-11-04",
+      "locality": "HILBERT",
+      "dose1": 13,
+      "dose2": 19,
+      "vaccines": 32
     }
   ]
 }

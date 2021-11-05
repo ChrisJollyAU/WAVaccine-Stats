@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-03T00:00:00",
+  "date_updated": "2021-11-04T00:00:00",
   "locality": "GLENFIELD",
   "data": [
     {
@@ -1245,8 +1245,15 @@
       "date": "2021-11-03",
       "locality": "GLENFIELD",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-04",
+      "locality": "GLENFIELD",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
     }
   ]
 }

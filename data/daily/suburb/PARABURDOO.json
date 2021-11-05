@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-03T00:00:00",
+  "date_updated": "2021-11-04T00:00:00",
   "locality": "PARABURDOO",
   "data": [
     {
@@ -271,9 +271,9 @@
     {
       "date": "2021-07-20",
       "locality": "PARABURDOO",
-      "dose1": 6,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 10
+      "vaccines": 8
     },
     {
       "date": "2021-07-22",
@@ -404,9 +404,9 @@
     {
       "date": "2021-08-14",
       "locality": "PARABURDOO",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-15",
@@ -426,8 +426,8 @@
       "date": "2021-08-17",
       "locality": "PARABURDOO",
       "dose1": 17,
-      "dose2": 19,
-      "vaccines": 36
+      "dose2": 17,
+      "vaccines": 34
     },
     {
       "date": "2021-08-18",
@@ -558,16 +558,16 @@
     {
       "date": "2021-09-08",
       "locality": "PARABURDOO",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 23,
-      "vaccines": 48
+      "vaccines": 49
     },
     {
       "date": "2021-09-09",
       "locality": "PARABURDOO",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-09-10",
@@ -817,9 +817,9 @@
     {
       "date": "2021-10-18",
       "locality": "PARABURDOO",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-10-19",
@@ -832,8 +832,8 @@
       "date": "2021-10-20",
       "locality": "PARABURDOO",
       "dose1": 73,
-      "dose2": 150,
-      "vaccines": 223
+      "dose2": 151,
+      "vaccines": 224
     },
     {
       "date": "2021-10-21",
@@ -899,6 +899,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-30",
+      "locality": "PARABURDOO",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-01",
       "locality": "PARABURDOO",
       "dose1": 1,
@@ -918,6 +925,13 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-04",
+      "locality": "PARABURDOO",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
     }
   ]
 }

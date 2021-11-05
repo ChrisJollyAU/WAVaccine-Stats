@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-03T00:00:00",
+  "date_updated": "2021-11-04T00:00:00",
   "locality": "BOYA",
   "data": [
     {
@@ -1405,9 +1405,16 @@
     {
       "date": "2021-11-03",
       "locality": "BOYA",
-      "dose1": 5,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-04",
+      "locality": "BOYA",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

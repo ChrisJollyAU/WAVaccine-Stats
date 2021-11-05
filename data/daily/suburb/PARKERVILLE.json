@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-03T00:00:00",
+  "date_updated": "2021-11-04T00:00:00",
   "locality": "PARKERVILLE",
   "data": [
     {
@@ -1574,15 +1574,22 @@
       "date": "2021-11-02",
       "locality": "PARKERVILLE",
       "dose1": 6,
-      "dose2": 12,
-      "vaccines": 18
+      "dose2": 13,
+      "vaccines": 19
     },
     {
       "date": "2021-11-03",
       "locality": "PARKERVILLE",
-      "dose1": 1,
-      "dose2": 19,
-      "vaccines": 20
+      "dose1": 2,
+      "dose2": 20,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-11-04",
+      "locality": "PARKERVILLE",
+      "dose1": 12,
+      "dose2": 12,
+      "vaccines": 24
     }
   ]
 }

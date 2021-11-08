@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-04T00:00:00",
+  "date_updated": "2021-11-07T00:00:00",
   "locality": "WILLIAMSTOWN",
   "data": [
     {
@@ -474,9 +474,9 @@
     {
       "date": "2021-10-21",
       "locality": "WILLIAMSTOWN",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-22",
@@ -533,6 +533,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "WILLIAMSTOWN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-04T00:00:00",
+  "date_updated": "2021-11-07T00:00:00",
   "locality": "COWARAMUP",
   "data": [
     {
@@ -159,9 +159,9 @@
     {
       "date": "2021-04-10",
       "locality": "COWARAMUP",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 0,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-04-12",
@@ -432,9 +432,9 @@
     {
       "date": "2021-05-31",
       "locality": "COWARAMUP",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-06-01",
@@ -657,8 +657,8 @@
       "date": "2021-07-06",
       "locality": "COWARAMUP",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-07-07",
@@ -678,8 +678,8 @@
       "date": "2021-07-09",
       "locality": "COWARAMUP",
       "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose2": 0,
+      "vaccines": 6
     },
     {
       "date": "2021-07-10",
@@ -1153,9 +1153,9 @@
     {
       "date": "2021-09-18",
       "locality": "COWARAMUP",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-09-19",
@@ -1343,8 +1343,8 @@
       "date": "2021-10-15",
       "locality": "COWARAMUP",
       "dose1": 19,
-      "dose2": 13,
-      "vaccines": 32
+      "dose2": 14,
+      "vaccines": 33
     },
     {
       "date": "2021-10-16",
@@ -1476,15 +1476,36 @@
       "date": "2021-11-03",
       "locality": "COWARAMUP",
       "dose1": 3,
-      "dose2": 12,
-      "vaccines": 15
+      "dose2": 13,
+      "vaccines": 16
     },
     {
       "date": "2021-11-04",
       "locality": "COWARAMUP",
-      "dose1": 8,
-      "dose2": 12,
-      "vaccines": 20
+      "dose1": 10,
+      "dose2": 14,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "COWARAMUP",
+      "dose1": 4,
+      "dose2": 15,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "COWARAMUP",
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-11-07",
+      "locality": "COWARAMUP",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

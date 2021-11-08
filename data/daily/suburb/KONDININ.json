@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-04T00:00:00",
+  "date_updated": "2021-11-07T00:00:00",
   "locality": "KONDININ",
   "data": [
     {
@@ -283,13 +283,6 @@
       "vaccines": 5
     },
     {
-      "date": "2021-07-22",
-      "locality": "KONDININ",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-23",
       "locality": "KONDININ",
       "dose1": 1,
@@ -482,8 +475,8 @@
       "date": "2021-08-31",
       "locality": "KONDININ",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-09-01",
@@ -778,6 +771,27 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "KONDININ",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "KONDININ",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-07",
+      "locality": "KONDININ",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-04T00:00:00",
+  "date_updated": "2021-11-07T00:00:00",
   "postcode": "EXMOUTH",
   "data": [
     {
@@ -261,6 +261,14 @@
     {
       "date": "2021-05-11",
       "locality": "EXMOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-11",
+      "locality": "EXMOUTH",
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
@@ -289,6 +297,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-05-19",
+      "locality": "EXMOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-19",
@@ -471,8 +487,8 @@
       "locality": "EXMOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-09",
@@ -670,9 +686,9 @@
       "date": "2021-06-28",
       "locality": "EXMOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-28",
@@ -943,8 +959,8 @@
       "locality": "EXMOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-23",
@@ -1065,6 +1081,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-02",
+      "locality": "EXMOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-02",
@@ -1278,9 +1302,9 @@
       "date": "2021-08-17",
       "locality": "EXMOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 4,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-08-18",
@@ -1691,6 +1715,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-12",
+      "locality": "EXMOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-13",
       "locality": "EXMOUTH",
       "AgeGroup": "16 to 49",
@@ -1734,9 +1766,9 @@
       "date": "2021-09-15",
       "locality": "EXMOUTH",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-09-15",
@@ -1863,8 +1895,8 @@
       "locality": "EXMOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-09-24",
@@ -2087,8 +2119,8 @@
       "locality": "EXMOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose2": 2,
+      "vaccines": 8
     },
     {
       "date": "2021-10-06",
@@ -2631,8 +2663,56 @@
       "locality": "EXMOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 4,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "EXMOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "EXMOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "EXMOUTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "EXMOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "EXMOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-07",
+      "locality": "EXMOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

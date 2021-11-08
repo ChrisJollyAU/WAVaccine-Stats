@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-04T00:00:00",
+  "date_updated": "2021-11-07T00:00:00",
   "locality": "GAIRDNER",
   "data": [
     {
@@ -87,13 +87,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-22",
-      "locality": "GAIRDNER",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-23",
       "locality": "GAIRDNER",
       "dose1": 1,
@@ -154,13 +147,6 @@
       "locality": "GAIRDNER",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-26",
-      "locality": "GAIRDNER",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -260,13 +246,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-08-18",
-      "locality": "GAIRDNER",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-08-21",
@@ -370,8 +349,8 @@
       "date": "2021-09-15",
       "locality": "GAIRDNER",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-09-16",
@@ -602,6 +581,13 @@
       "locality": "GAIRDNER",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "GAIRDNER",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

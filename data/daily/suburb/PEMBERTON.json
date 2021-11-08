@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-04T00:00:00",
+  "date_updated": "2021-11-07T00:00:00",
   "locality": "PEMBERTON",
   "data": [
     {
@@ -1279,9 +1279,30 @@
     {
       "date": "2021-11-04",
       "locality": "PEMBERTON",
-      "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "PEMBERTON",
+      "dose1": 11,
+      "dose2": 2,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "PEMBERTON",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-07",
+      "locality": "PEMBERTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

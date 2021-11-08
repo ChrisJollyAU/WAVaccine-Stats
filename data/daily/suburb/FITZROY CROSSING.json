@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-04T00:00:00",
+  "date_updated": "2021-11-07T00:00:00",
   "locality": "FITZROY CROSSING",
   "data": [
     {
@@ -236,9 +236,9 @@
     {
       "date": "2021-06-08",
       "locality": "FITZROY CROSSING",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 10,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-06-09",
@@ -363,8 +363,8 @@
       "date": "2021-07-01",
       "locality": "FITZROY CROSSING",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-07-02",
@@ -817,9 +817,9 @@
     {
       "date": "2021-09-20",
       "locality": "FITZROY CROSSING",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 4,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-09-21",
@@ -887,9 +887,9 @@
     {
       "date": "2021-10-04",
       "locality": "FITZROY CROSSING",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 18,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-10-05",
@@ -930,15 +930,15 @@
       "date": "2021-10-11",
       "locality": "FITZROY CROSSING",
       "dose1": 43,
-      "dose2": 6,
-      "vaccines": 49
+      "dose2": 7,
+      "vaccines": 50
     },
     {
       "date": "2021-10-12",
       "locality": "FITZROY CROSSING",
-      "dose1": 48,
+      "dose1": 47,
       "dose2": 8,
-      "vaccines": 56
+      "vaccines": 55
     },
     {
       "date": "2021-10-13",
@@ -950,9 +950,9 @@
     {
       "date": "2021-10-14",
       "locality": "FITZROY CROSSING",
-      "dose1": 42,
+      "dose1": 41,
       "dose2": 22,
-      "vaccines": 64
+      "vaccines": 63
     },
     {
       "date": "2021-10-15",
@@ -1035,8 +1035,8 @@
       "date": "2021-10-28",
       "locality": "FITZROY CROSSING",
       "dose1": 10,
-      "dose2": 3,
-      "vaccines": 13
+      "dose2": 4,
+      "vaccines": 14
     },
     {
       "date": "2021-10-29",
@@ -1069,16 +1069,30 @@
     {
       "date": "2021-11-03",
       "locality": "FITZROY CROSSING",
-      "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose1": 19,
+      "dose2": 26,
+      "vaccines": 45
     },
     {
       "date": "2021-11-04",
       "locality": "FITZROY CROSSING",
-      "dose1": 20,
-      "dose2": 19,
-      "vaccines": 39
+      "dose1": 25,
+      "dose2": 25,
+      "vaccines": 50
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "FITZROY CROSSING",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-07",
+      "locality": "FITZROY CROSSING",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

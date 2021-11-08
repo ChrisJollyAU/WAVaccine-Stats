@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-04T00:00:00",
+  "date_updated": "2021-11-07T00:00:00",
   "postcode": "COCKBURN CENTRAL",
   "data": [
     {
@@ -438,9 +438,9 @@
       "date": "2021-04-30",
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-05-03",
@@ -719,8 +719,8 @@
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-05-24",
@@ -1358,9 +1358,9 @@
       "date": "2021-07-06",
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-07-06",
@@ -1854,9 +1854,9 @@
       "date": "2021-08-06",
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-08-06",
@@ -2011,6 +2011,14 @@
       "vaccines": 6
     },
     {
+      "date": "2021-08-14",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-15",
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "16 to 49",
@@ -2023,8 +2031,8 @@
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-08-16",
@@ -3438,9 +3446,9 @@
       "date": "2021-10-29",
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-29",
@@ -3526,17 +3534,17 @@
       "date": "2021-11-03",
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2021-11-03",
       "locality": "COCKBURN CENTRAL",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-04",
@@ -3561,6 +3569,70 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-11-06",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-07",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-07",
+      "locality": "COCKBURN CENTRAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

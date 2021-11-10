@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-08T00:00:00",
+  "date_updated": "2021-11-09T00:00:00",
   "locality": "NEEDILUP",
   "data": [
     {
@@ -24,6 +24,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-28",
+      "locality": "NEEDILUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-29",
       "locality": "NEEDILUP",
       "dose1": 2,
@@ -36,6 +43,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "NEEDILUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

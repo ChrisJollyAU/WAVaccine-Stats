@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-09T00:00:00",
+  "date_updated": "2021-11-10T00:00:00",
   "locality": "FORRESTDALE",
   "data": [
     {
@@ -1475,9 +1475,16 @@
     {
       "date": "2021-11-09",
       "locality": "FORRESTDALE",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "FORRESTDALE",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

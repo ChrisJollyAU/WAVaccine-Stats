@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-09T00:00:00",
+  "date_updated": "2021-11-10T00:00:00",
   "locality": "JANE BROOK",
   "data": [
     {
@@ -1496,9 +1496,9 @@
     {
       "date": "2021-10-12",
       "locality": "JANE BROOK",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 31,
-      "vaccines": 53
+      "vaccines": 54
     },
     {
       "date": "2021-10-13",
@@ -1693,8 +1693,15 @@
       "date": "2021-11-09",
       "locality": "JANE BROOK",
       "dose1": 4,
-      "dose2": 12,
-      "vaccines": 16
+      "dose2": 13,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "JANE BROOK",
+      "dose1": 12,
+      "dose2": 16,
+      "vaccines": 28
     }
   ]
 }

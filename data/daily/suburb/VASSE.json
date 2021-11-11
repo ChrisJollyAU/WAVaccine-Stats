@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-09T00:00:00",
+  "date_updated": "2021-11-10T00:00:00",
   "locality": "VASSE",
   "data": [
     {
@@ -656,9 +656,9 @@
     {
       "date": "2021-07-07",
       "locality": "VASSE",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-07-08",
@@ -797,8 +797,8 @@
       "date": "2021-07-29",
       "locality": "VASSE",
       "dose1": 8,
-      "dose2": 16,
-      "vaccines": 24
+      "dose2": 15,
+      "vaccines": 23
     },
     {
       "date": "2021-07-30",
@@ -1189,8 +1189,8 @@
       "date": "2021-09-28",
       "locality": "VASSE",
       "dose1": 20,
-      "dose2": 29,
-      "vaccines": 49
+      "dose2": 30,
+      "vaccines": 50
     },
     {
       "date": "2021-09-29",
@@ -1237,9 +1237,9 @@
     {
       "date": "2021-10-05",
       "locality": "VASSE",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 26,
-      "vaccines": 38
+      "vaccines": 37
     },
     {
       "date": "2021-10-06",
@@ -1266,8 +1266,8 @@
       "date": "2021-10-09",
       "locality": "VASSE",
       "dose1": 21,
-      "dose2": 10,
-      "vaccines": 31
+      "dose2": 11,
+      "vaccines": 32
     },
     {
       "date": "2021-10-10",
@@ -1405,9 +1405,9 @@
     {
       "date": "2021-10-29",
       "locality": "VASSE",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 15,
-      "vaccines": 28
+      "vaccines": 27
     },
     {
       "date": "2021-10-30",
@@ -1427,8 +1427,8 @@
       "date": "2021-11-02",
       "locality": "VASSE",
       "dose1": 10,
-      "dose2": 27,
-      "vaccines": 37
+      "dose2": 26,
+      "vaccines": 36
     },
     {
       "date": "2021-11-03",
@@ -1475,9 +1475,16 @@
     {
       "date": "2021-11-09",
       "locality": "VASSE",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "VASSE",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

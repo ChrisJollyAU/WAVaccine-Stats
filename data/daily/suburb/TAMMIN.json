@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-09T00:00:00",
+  "date_updated": "2021-11-10T00:00:00",
   "locality": "TAMMIN",
   "data": [
     {
@@ -944,7 +944,14 @@
       "date": "2021-11-09",
       "locality": "TAMMIN",
       "dose1": 1,
-      "dose2": 3,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "TAMMIN",
+      "dose1": 3,
+      "dose2": 1,
       "vaccines": 4
     }
   ]

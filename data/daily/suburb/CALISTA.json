@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-09T00:00:00",
+  "date_updated": "2021-11-10T00:00:00",
   "locality": "CALISTA",
   "data": [
     {
@@ -1559,9 +1559,16 @@
     {
       "date": "2021-11-09",
       "locality": "CALISTA",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 12
+      "vaccines": 11
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "CALISTA",
+      "dose1": 9,
+      "dose2": 7,
+      "vaccines": 16
     }
   ]
 }

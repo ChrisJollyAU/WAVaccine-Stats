@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-09T00:00:00",
+  "date_updated": "2021-11-10T00:00:00",
   "locality": "MILLARS WELL",
   "data": [
     {
@@ -430,13 +430,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-19",
-      "locality": "MILLARS WELL",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-21",
       "locality": "MILLARS WELL",
       "dose1": 1,
@@ -608,8 +601,8 @@
       "date": "2021-07-22",
       "locality": "MILLARS WELL",
       "dose1": 8,
-      "dose2": 6,
-      "vaccines": 14
+      "dose2": 5,
+      "vaccines": 13
     },
     {
       "date": "2021-07-23",
@@ -705,9 +698,9 @@
     {
       "date": "2021-08-10",
       "locality": "MILLARS WELL",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-08-11",
@@ -937,8 +930,8 @@
       "date": "2021-09-15",
       "locality": "MILLARS WELL",
       "dose1": 16,
-      "dose2": 8,
-      "vaccines": 24
+      "dose2": 7,
+      "vaccines": 23
     },
     {
       "date": "2021-09-16",
@@ -1013,9 +1006,9 @@
     {
       "date": "2021-09-28",
       "locality": "MILLARS WELL",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 2,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-09-29",
@@ -1097,9 +1090,9 @@
     {
       "date": "2021-10-11",
       "locality": "MILLARS WELL",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 11,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-10-12",
@@ -1118,9 +1111,9 @@
     {
       "date": "2021-10-14",
       "locality": "MILLARS WELL",
-      "dose1": 44,
+      "dose1": 45,
       "dose2": 5,
-      "vaccines": 49
+      "vaccines": 50
     },
     {
       "date": "2021-10-15",
@@ -1293,16 +1286,23 @@
     {
       "date": "2021-11-08",
       "locality": "MILLARS WELL",
-      "dose1": 15,
-      "dose2": 12,
-      "vaccines": 27
+      "dose1": 16,
+      "dose2": 22,
+      "vaccines": 38
     },
     {
       "date": "2021-11-09",
       "locality": "MILLARS WELL",
-      "dose1": 3,
+      "dose1": 4,
+      "dose2": 14,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "MILLARS WELL",
+      "dose1": 6,
       "dose2": 10,
-      "vaccines": 13
+      "vaccines": 16
     }
   ]
 }

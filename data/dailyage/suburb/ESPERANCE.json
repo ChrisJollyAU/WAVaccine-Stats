@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "postcode": "ESPERANCE",
   "data": [
     {
@@ -30,9 +30,9 @@
       "date": "2021-03-03",
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-03-05",
@@ -853,14 +853,6 @@
     {
       "date": "2021-05-13",
       "locality": "ESPERANCE",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-13",
-      "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
       "dose1": 10,
       "dose2": 0,
@@ -1222,9 +1214,9 @@
       "date": "2021-05-31",
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
-      "dose1": 20,
+      "dose1": 22,
       "dose2": 0,
-      "vaccines": 20
+      "vaccines": 22
     },
     {
       "date": "2021-05-31",
@@ -2711,8 +2703,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
       "dose1": 14,
-      "dose2": 13,
-      "vaccines": 27
+      "dose2": 15,
+      "vaccines": 29
     },
     {
       "date": "2021-08-14",
@@ -3222,9 +3214,9 @@
       "date": "2021-09-07",
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
-      "dose1": 58,
+      "dose1": 57,
       "dose2": 4,
-      "vaccines": 62
+      "vaccines": 61
     },
     {
       "date": "2021-09-07",
@@ -3751,8 +3743,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
       "dose1": 47,
-      "dose2": 8,
-      "vaccines": 55
+      "dose2": 7,
+      "vaccines": 54
     },
     {
       "date": "2021-09-28",
@@ -3838,9 +3830,9 @@
       "date": "2021-10-01",
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 5,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-10-01",
@@ -4455,8 +4447,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
       "dose1": 25,
-      "dose2": 18,
-      "vaccines": 43
+      "dose2": 17,
+      "vaccines": 42
     },
     {
       "date": "2021-10-22",
@@ -4862,17 +4854,17 @@
       "date": "2021-11-06",
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 19,
-      "vaccines": 41
+      "vaccines": 42
     },
     {
       "date": "2021-11-06",
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 13,
-      "vaccines": 18
+      "dose2": 17,
+      "vaccines": 22
     },
     {
       "date": "2021-11-06",
@@ -4943,8 +4935,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
       "dose1": 24,
-      "dose2": 14,
-      "vaccines": 38
+      "dose2": 15,
+      "vaccines": 39
     },
     {
       "date": "2021-11-09",
@@ -4975,16 +4967,16 @@
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 35,
-      "vaccines": 48
+      "dose2": 36,
+      "vaccines": 49
     },
     {
       "date": "2021-11-10",
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 12,
-      "vaccines": 15
+      "dose2": 13,
+      "vaccines": 16
     },
     {
       "date": "2021-11-10",
@@ -4993,6 +4985,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "ESPERANCE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "ESPERANCE",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 40,
+      "vaccines": 50
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "ESPERANCE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

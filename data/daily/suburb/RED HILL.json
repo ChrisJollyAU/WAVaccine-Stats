@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "locality": "RED HILL",
   "data": [
     {
@@ -250,9 +250,9 @@
     {
       "date": "2021-08-11",
       "locality": "RED HILL",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-14",
@@ -348,9 +348,9 @@
     {
       "date": "2021-09-06",
       "locality": "RED HILL",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-07",
@@ -372,13 +372,6 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
-    },
-    {
-      "date": "2021-09-10",
-      "locality": "RED HILL",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-09-12",
@@ -449,13 +442,6 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
-    },
-    {
-      "date": "2021-10-09",
-      "locality": "RED HILL",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
     },
     {
       "date": "2021-10-10",
@@ -556,13 +542,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-11-04",
-      "locality": "RED HILL",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-05",
       "locality": "RED HILL",
       "dose1": 2,
@@ -589,6 +568,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "RED HILL",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

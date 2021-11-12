@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "postcode": "6728",
   "data": [
     {
@@ -47,9 +47,9 @@
     {
       "date": "2021-03-23",
       "postcode": "6728",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-25",
@@ -117,16 +117,16 @@
     {
       "date": "2021-04-06",
       "postcode": "6728",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-04-07",
       "postcode": "6728",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 1,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-04-08",
@@ -176,6 +176,13 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2021-04-19",
+      "postcode": "6728",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-04-20",
@@ -530,9 +537,9 @@
     {
       "date": "2021-06-30",
       "postcode": "6728",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 5,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-07-01",
@@ -587,8 +594,8 @@
       "date": "2021-07-10",
       "postcode": "6728",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-07-12",
@@ -671,8 +678,8 @@
       "date": "2021-07-26",
       "postcode": "6728",
       "dose1": 9,
-      "dose2": 24,
-      "vaccines": 33
+      "dose2": 23,
+      "vaccines": 32
     },
     {
       "date": "2021-07-27",
@@ -685,8 +692,8 @@
       "date": "2021-07-28",
       "postcode": "6728",
       "dose1": 8,
-      "dose2": 22,
-      "vaccines": 30
+      "dose2": 21,
+      "vaccines": 29
     },
     {
       "date": "2021-07-29",
@@ -824,9 +831,9 @@
     {
       "date": "2021-08-18",
       "postcode": "6728",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 11,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2021-08-19",
@@ -943,9 +950,9 @@
     {
       "date": "2021-09-04",
       "postcode": "6728",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-06",
@@ -965,8 +972,8 @@
       "date": "2021-09-08",
       "postcode": "6728",
       "dose1": 18,
-      "dose2": 14,
-      "vaccines": 32
+      "dose2": 13,
+      "vaccines": 31
     },
     {
       "date": "2021-09-09",
@@ -1097,9 +1104,9 @@
     {
       "date": "2021-09-28",
       "postcode": "6728",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 26,
-      "vaccines": 43
+      "vaccines": 44
     },
     {
       "date": "2021-09-29",
@@ -1121,13 +1128,6 @@
       "dose1": 14,
       "dose2": 10,
       "vaccines": 24
-    },
-    {
-      "date": "2021-10-02",
-      "postcode": "6728",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-10-03",
@@ -1384,23 +1384,30 @@
     {
       "date": "2021-11-08",
       "postcode": "6728",
-      "dose1": 4,
-      "dose2": 10,
-      "vaccines": 14
+      "dose1": 7,
+      "dose2": 13,
+      "vaccines": 20
     },
     {
       "date": "2021-11-09",
       "postcode": "6728",
-      "dose1": 8,
-      "dose2": 11,
-      "vaccines": 19
+      "dose1": 12,
+      "dose2": 13,
+      "vaccines": 25
     },
     {
       "date": "2021-11-10",
       "postcode": "6728",
-      "dose1": 13,
-      "dose2": 2,
-      "vaccines": 15
+      "dose1": 16,
+      "dose2": 5,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-11-11",
+      "postcode": "6728",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

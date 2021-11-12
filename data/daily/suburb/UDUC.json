@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "locality": "UDUC",
   "data": [
     {
@@ -474,9 +474,9 @@
     {
       "date": "2021-09-29",
       "locality": "UDUC",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-09-30",
@@ -579,8 +579,8 @@
     {
       "date": "2021-10-19",
       "locality": "UDUC",
-      "dose1": 1,
-      "dose2": 1,
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
@@ -659,6 +659,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "UDUC",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "postcode": "WARAWARRUP",
   "data": [
     {
@@ -203,6 +203,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-03",
+      "locality": "WARAWARRUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-05",
       "locality": "WARAWARRUP",
       "AgeGroup": "50 to 69",
@@ -307,9 +315,25 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-12",
+      "locality": "WARAWARRUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-13",
       "locality": "WARAWARRUP",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "WARAWARRUP",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -745,6 +769,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "WARAWARRUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "WARAWARRUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

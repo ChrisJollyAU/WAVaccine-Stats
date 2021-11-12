@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "locality": "DALKEITH",
   "data": [
     {
@@ -1048,9 +1048,9 @@
     {
       "date": "2021-07-22",
       "locality": "DALKEITH",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 27,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-07-23",
@@ -1279,9 +1279,9 @@
     {
       "date": "2021-08-24",
       "locality": "DALKEITH",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 35,
-      "vaccines": 55
+      "vaccines": 54
     },
     {
       "date": "2021-08-25",
@@ -1427,8 +1427,8 @@
       "date": "2021-09-14",
       "locality": "DALKEITH",
       "dose1": 21,
-      "dose2": 15,
-      "vaccines": 36
+      "dose2": 14,
+      "vaccines": 35
     },
     {
       "date": "2021-09-15",
@@ -1671,8 +1671,8 @@
     {
       "date": "2021-10-19",
       "locality": "DALKEITH",
-      "dose1": 3,
-      "dose2": 18,
+      "dose1": 2,
+      "dose2": 19,
       "vaccines": 21
     },
     {
@@ -1825,9 +1825,16 @@
     {
       "date": "2021-11-10",
       "locality": "DALKEITH",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 7,
-      "vaccines": 11
+      "vaccines": 12
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "DALKEITH",
+      "dose1": 0,
+      "dose2": 17,
+      "vaccines": 17
     }
   ]
 }

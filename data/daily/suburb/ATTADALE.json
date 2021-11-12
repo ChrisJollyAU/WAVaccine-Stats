@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "locality": "ATTADALE",
   "data": [
     {
@@ -1818,9 +1818,16 @@
     {
       "date": "2021-11-10",
       "locality": "ATTADALE",
-      "dose1": 7,
-      "dose2": 20,
-      "vaccines": 27
+      "dose1": 8,
+      "dose2": 23,
+      "vaccines": 31
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "ATTADALE",
+      "dose1": 10,
+      "dose2": 22,
+      "vaccines": 32
     }
   ]
 }

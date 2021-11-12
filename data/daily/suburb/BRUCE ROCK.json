@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "locality": "BRUCE ROCK",
   "data": [
     {
@@ -1105,8 +1105,15 @@
       "date": "2021-11-10",
       "locality": "BRUCE ROCK",
       "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "BRUCE ROCK",
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 2
     }
   ]
 }

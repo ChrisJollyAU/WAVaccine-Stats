@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "postcode": "NYABING",
   "data": [
     {
@@ -1107,6 +1107,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-11-04",
+      "locality": "NYABING",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
       "date": "2021-11-09",
       "locality": "NYABING",
       "AgeGroup": "16 to 49",
@@ -1121,6 +1129,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "NYABING",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "NYABING",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

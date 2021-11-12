@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-10T00:00:00",
+  "date_updated": "2021-11-11T00:00:00",
   "postcode": "4077",
   "data": [
     {
@@ -21,6 +21,13 @@
       "postcode": "4077",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-02",
+      "postcode": "4077",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -49,6 +56,13 @@
       "postcode": "4077",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "postcode": "4077",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -92,6 +106,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "postcode": "4077",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

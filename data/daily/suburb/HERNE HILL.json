@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-11T00:00:00",
+  "date_updated": "2021-11-14T00:00:00",
   "locality": "HERNE HILL",
   "data": [
     {
@@ -260,13 +260,6 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
-    },
-    {
-      "date": "2021-05-05",
-      "locality": "HERNE HILL",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-05-06",
@@ -804,8 +797,8 @@
       "date": "2021-07-28",
       "locality": "HERNE HILL",
       "dose1": 6,
-      "dose2": 8,
-      "vaccines": 14
+      "dose2": 7,
+      "vaccines": 13
     },
     {
       "date": "2021-07-29",
@@ -1546,8 +1539,29 @@
       "date": "2021-11-11",
       "locality": "HERNE HILL",
       "dose1": 8,
-      "dose2": 10,
+      "dose2": 11,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "HERNE HILL",
+      "dose1": 6,
+      "dose2": 12,
       "vaccines": 18
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "HERNE HILL",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "HERNE HILL",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

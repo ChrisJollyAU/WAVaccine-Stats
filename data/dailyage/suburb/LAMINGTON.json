@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-11T00:00:00",
+  "date_updated": "2021-11-14T00:00:00",
   "postcode": "LAMINGTON",
   "data": [
     {
@@ -1862,9 +1862,9 @@
       "date": "2021-08-17",
       "locality": "LAMINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-08-17",
@@ -2238,9 +2238,9 @@
       "date": "2021-09-05",
       "locality": "LAMINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-06",
@@ -2343,8 +2343,8 @@
       "locality": "LAMINGTON",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 9,
-      "vaccines": 11
+      "dose2": 8,
+      "vaccines": 10
     },
     {
       "date": "2021-09-10",
@@ -2843,6 +2843,14 @@
       "vaccines": 4
     },
     {
+      "date": "2021-10-02",
+      "locality": "LAMINGTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-03",
       "locality": "LAMINGTON",
       "AgeGroup": "16 to 49",
@@ -2990,8 +2998,8 @@
       "date": "2021-10-09",
       "locality": "LAMINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 6,
+      "dose1": 3,
+      "dose2": 7,
       "vaccines": 10
     },
     {
@@ -3375,8 +3383,8 @@
       "locality": "LAMINGTON",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2021-10-28",
@@ -3472,14 +3480,6 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-11-02",
-      "locality": "LAMINGTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
       "vaccines": 2
     },
     {
@@ -3662,8 +3662,8 @@
       "date": "2021-11-10",
       "locality": "LAMINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 4,
+      "dose1": 7,
+      "dose2": 3,
       "vaccines": 10
     },
     {
@@ -3703,8 +3703,8 @@
       "locality": "LAMINGTON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-11-11",
@@ -3713,6 +3713,38 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "LAMINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "LAMINGTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "LAMINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "LAMINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

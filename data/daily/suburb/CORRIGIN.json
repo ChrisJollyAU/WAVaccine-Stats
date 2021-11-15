@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-11T00:00:00",
+  "date_updated": "2021-11-14T00:00:00",
   "locality": "CORRIGIN",
   "data": [
     {
@@ -626,6 +626,13 @@
       "vaccines": 5
     },
     {
+      "date": "2021-09-04",
+      "locality": "CORRIGIN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-05",
       "locality": "CORRIGIN",
       "dose1": 4,
@@ -659,13 +666,6 @@
       "dose1": 4,
       "dose2": 2,
       "vaccines": 6
-    },
-    {
-      "date": "2021-09-10",
-      "locality": "CORRIGIN",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-09-13",
@@ -726,9 +726,9 @@
     {
       "date": "2021-09-22",
       "locality": "CORRIGIN",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 12,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-09-23",
@@ -783,8 +783,8 @@
       "date": "2021-10-02",
       "locality": "CORRIGIN",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-10-04",
@@ -818,8 +818,8 @@
       "date": "2021-10-08",
       "locality": "CORRIGIN",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-09",
@@ -930,8 +930,8 @@
       "date": "2021-10-25",
       "locality": "CORRIGIN",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2021-10-26",
@@ -1034,9 +1034,23 @@
     {
       "date": "2021-11-11",
       "locality": "CORRIGIN",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "CORRIGIN",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "CORRIGIN",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

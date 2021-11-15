@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-11T00:00:00",
+  "date_updated": "2021-11-14T00:00:00",
   "postcode": "NORSEMAN",
   "data": [
     {
@@ -1403,6 +1403,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-27",
+      "locality": "NORSEMAN",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-28",
       "locality": "NORSEMAN",
       "AgeGroup": "16 to 49",
@@ -1606,8 +1614,8 @@
       "date": "2021-10-18",
       "locality": "NORSEMAN",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 3,
+      "dose1": 0,
+      "dose2": 4,
       "vaccines": 4
     },
     {
@@ -1904,6 +1912,14 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "NORSEMAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

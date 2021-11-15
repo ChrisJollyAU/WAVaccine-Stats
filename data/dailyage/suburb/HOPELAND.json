@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-11T00:00:00",
+  "date_updated": "2021-11-14T00:00:00",
   "postcode": "HOPELAND",
   "data": [
     {
@@ -118,6 +118,14 @@
       "date": "2021-04-21",
       "locality": "HOPELAND",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-22",
+      "locality": "HOPELAND",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -452,6 +460,14 @@
     },
     {
       "date": "2021-07-07",
+      "locality": "HOPELAND",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-08",
       "locality": "HOPELAND",
       "AgeGroup": "50 to 69",
       "dose1": 0,
@@ -1743,8 +1759,8 @@
       "locality": "HOPELAND",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-11-10",
@@ -1766,6 +1782,22 @@
       "date": "2021-11-11",
       "locality": "HOPELAND",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "HOPELAND",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "HOPELAND",
+      "AgeGroup": "12 to 15",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1

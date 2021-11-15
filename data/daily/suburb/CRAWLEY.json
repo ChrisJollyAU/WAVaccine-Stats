@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-11T00:00:00",
+  "date_updated": "2021-11-14T00:00:00",
   "locality": "CRAWLEY",
   "data": [
     {
@@ -614,9 +614,9 @@
     {
       "date": "2021-05-31",
       "locality": "CRAWLEY",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-01",
@@ -1111,9 +1111,9 @@
     {
       "date": "2021-08-10",
       "locality": "CRAWLEY",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 12,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-08-11",
@@ -1224,8 +1224,8 @@
       "date": "2021-08-26",
       "locality": "CRAWLEY",
       "dose1": 31,
-      "dose2": 9,
-      "vaccines": 40
+      "dose2": 8,
+      "vaccines": 39
     },
     {
       "date": "2021-08-27",
@@ -1251,16 +1251,16 @@
     {
       "date": "2021-08-30",
       "locality": "CRAWLEY",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 15,
-      "vaccines": 35
+      "vaccines": 34
     },
     {
       "date": "2021-08-31",
       "locality": "CRAWLEY",
       "dose1": 26,
-      "dose2": 6,
-      "vaccines": 32
+      "dose2": 5,
+      "vaccines": 31
     },
     {
       "date": "2021-09-01",
@@ -1272,16 +1272,16 @@
     {
       "date": "2021-09-02",
       "locality": "CRAWLEY",
-      "dose1": 38,
+      "dose1": 37,
       "dose2": 11,
-      "vaccines": 49
+      "vaccines": 48
     },
     {
       "date": "2021-09-03",
       "locality": "CRAWLEY",
-      "dose1": 35,
+      "dose1": 34,
       "dose2": 11,
-      "vaccines": 46
+      "vaccines": 45
     },
     {
       "date": "2021-09-04",
@@ -1406,28 +1406,28 @@
       "date": "2021-09-21",
       "locality": "CRAWLEY",
       "dose1": 12,
-      "dose2": 19,
-      "vaccines": 31
+      "dose2": 20,
+      "vaccines": 32
     },
     {
       "date": "2021-09-22",
       "locality": "CRAWLEY",
       "dose1": 13,
-      "dose2": 10,
-      "vaccines": 23
+      "dose2": 9,
+      "vaccines": 22
     },
     {
       "date": "2021-09-23",
       "locality": "CRAWLEY",
       "dose1": 15,
-      "dose2": 15,
-      "vaccines": 30
+      "dose2": 14,
+      "vaccines": 29
     },
     {
       "date": "2021-09-24",
       "locality": "CRAWLEY",
-      "dose1": 29,
-      "dose2": 23,
+      "dose1": 28,
+      "dose2": 24,
       "vaccines": 52
     },
     {
@@ -1454,9 +1454,9 @@
     {
       "date": "2021-09-28",
       "locality": "CRAWLEY",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 23,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-09-29",
@@ -1518,8 +1518,8 @@
       "date": "2021-10-07",
       "locality": "CRAWLEY",
       "dose1": 23,
-      "dose2": 14,
-      "vaccines": 37
+      "dose2": 13,
+      "vaccines": 36
     },
     {
       "date": "2021-10-08",
@@ -1650,8 +1650,8 @@
     {
       "date": "2021-10-26",
       "locality": "CRAWLEY",
-      "dose1": 8,
-      "dose2": 11,
+      "dose1": 7,
+      "dose2": 12,
       "vaccines": 19
     },
     {
@@ -1762,9 +1762,30 @@
     {
       "date": "2021-11-11",
       "locality": "CRAWLEY",
-      "dose1": 4,
+      "dose1": 7,
       "dose2": 10,
-      "vaccines": 14
+      "vaccines": 17
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "CRAWLEY",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "CRAWLEY",
+      "dose1": 2,
+      "dose2": 7,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "CRAWLEY",
+      "dose1": 0,
+      "dose2": 11,
+      "vaccines": 11
     }
   ]
 }

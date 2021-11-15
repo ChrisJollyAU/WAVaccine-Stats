@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-11T00:00:00",
+  "date_updated": "2021-11-14T00:00:00",
   "locality": "CALISTA",
   "data": [
     {
@@ -1573,9 +1573,30 @@
     {
       "date": "2021-11-11",
       "locality": "CALISTA",
-      "dose1": 6,
-      "dose2": 13,
-      "vaccines": 19
+      "dose1": 8,
+      "dose2": 14,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "CALISTA",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "CALISTA",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "CALISTA",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

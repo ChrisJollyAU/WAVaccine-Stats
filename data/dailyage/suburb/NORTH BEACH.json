@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-11T00:00:00",
+  "date_updated": "2021-11-14T00:00:00",
   "postcode": "NORTH BEACH",
   "data": [
     {
@@ -60,6 +60,14 @@
     },
     {
       "date": "2021-03-03",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-05",
       "locality": "NORTH BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -449,6 +457,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-03-28",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-03-29",
@@ -4782,9 +4798,9 @@
       "date": "2021-10-07",
       "locality": "NORTH BEACH",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 14,
-      "vaccines": 25
+      "vaccines": 24
     },
     {
       "date": "2021-10-07",
@@ -5791,16 +5807,16 @@
       "locality": "NORTH BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 12
     },
     {
       "date": "2021-11-10",
       "locality": "NORTH BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-11-10",
@@ -5814,17 +5830,17 @@
       "date": "2021-11-11",
       "locality": "NORTH BEACH",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-11-11",
       "locality": "NORTH BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 11,
-      "vaccines": 14
+      "dose2": 15,
+      "vaccines": 18
     },
     {
       "date": "2021-11-11",
@@ -5836,6 +5852,86 @@
     },
     {
       "date": "2021-11-11",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 14,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-14",
       "locality": "NORTH BEACH",
       "AgeGroup": "70 and over",
       "dose1": 0,

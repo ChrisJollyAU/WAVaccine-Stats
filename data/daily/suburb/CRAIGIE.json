@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-14T00:00:00",
+  "date_updated": "2021-11-15T00:00:00",
   "locality": "CRAIGIE",
   "data": [
     {
@@ -390,9 +390,9 @@
     {
       "date": "2021-05-01",
       "locality": "CRAIGIE",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-02",
@@ -531,8 +531,8 @@
       "date": "2021-05-22",
       "locality": "CRAIGIE",
       "dose1": 6,
-      "dose2": 0,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 7
     },
     {
       "date": "2021-05-23",
@@ -754,9 +754,9 @@
     {
       "date": "2021-06-23",
       "locality": "CRAIGIE",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 8,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-06-24",
@@ -874,8 +874,8 @@
       "date": "2021-07-10",
       "locality": "CRAIGIE",
       "dose1": 11,
-      "dose2": 4,
-      "vaccines": 15
+      "dose2": 3,
+      "vaccines": 14
     },
     {
       "date": "2021-07-11",
@@ -1727,9 +1727,9 @@
     {
       "date": "2021-11-09",
       "locality": "CRAIGIE",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 30,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-11-10",
@@ -1749,8 +1749,8 @@
       "date": "2021-11-12",
       "locality": "CRAIGIE",
       "dose1": 4,
-      "dose2": 19,
-      "vaccines": 23
+      "dose2": 21,
+      "vaccines": 25
     },
     {
       "date": "2021-11-13",
@@ -1762,9 +1762,16 @@
     {
       "date": "2021-11-14",
       "locality": "CRAIGIE",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 17,
-      "vaccines": 27
+      "vaccines": 26
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "CRAIGIE",
+      "dose1": 10,
+      "dose2": 13,
+      "vaccines": 23
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-14T00:00:00",
+  "date_updated": "2021-11-15T00:00:00",
   "locality": "UTAKARRA",
   "data": [
     {
@@ -1385,22 +1385,29 @@
       "date": "2021-11-11",
       "locality": "UTAKARRA",
       "dose1": 12,
-      "dose2": 11,
-      "vaccines": 23
+      "dose2": 13,
+      "vaccines": 25
     },
     {
       "date": "2021-11-12",
       "locality": "UTAKARRA",
-      "dose1": 9,
-      "dose2": 6,
-      "vaccines": 15
+      "dose1": 10,
+      "dose2": 9,
+      "vaccines": 19
     },
     {
       "date": "2021-11-13",
       "locality": "UTAKARRA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "UTAKARRA",
+      "dose1": 8,
+      "dose2": 6,
+      "vaccines": 14
     }
   ]
 }

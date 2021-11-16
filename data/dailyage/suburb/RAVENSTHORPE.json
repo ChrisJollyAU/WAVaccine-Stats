@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-14T00:00:00",
+  "date_updated": "2021-11-15T00:00:00",
   "postcode": "RAVENSTHORPE",
   "data": [
     {
@@ -1803,6 +1803,22 @@
       "vaccines": 3
     },
     {
+      "date": "2021-11-12",
+      "locality": "RAVENSTHORPE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "RAVENSTHORPE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-13",
       "locality": "RAVENSTHORPE",
       "AgeGroup": "16 to 49",
@@ -1817,6 +1833,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "RAVENSTHORPE",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

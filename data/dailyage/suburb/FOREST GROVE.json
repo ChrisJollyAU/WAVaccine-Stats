@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-14T00:00:00",
+  "date_updated": "2021-11-15T00:00:00",
   "postcode": "FOREST GROVE",
   "data": [
     {
@@ -915,6 +915,14 @@
       "vaccines": 4
     },
     {
+      "date": "2021-10-15",
+      "locality": "FOREST GROVE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-18",
       "locality": "FOREST GROVE",
       "AgeGroup": "70 and over",
@@ -1062,8 +1070,8 @@
       "date": "2021-11-11",
       "locality": "FOREST GROVE",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1088,6 +1096,14 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "FOREST GROVE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

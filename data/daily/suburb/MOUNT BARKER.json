@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-14T00:00:00",
+  "date_updated": "2021-11-15T00:00:00",
   "locality": "MOUNT BARKER",
   "data": [
     {
@@ -1336,8 +1336,8 @@
       "date": "2021-10-01",
       "locality": "MOUNT BARKER",
       "dose1": 37,
-      "dose2": 15,
-      "vaccines": 52
+      "dose2": 16,
+      "vaccines": 53
     },
     {
       "date": "2021-10-02",
@@ -1636,16 +1636,23 @@
     {
       "date": "2021-11-13",
       "locality": "MOUNT BARKER",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 9,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-11-14",
       "locality": "MOUNT BARKER",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "MOUNT BARKER",
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
     }
   ]
 }

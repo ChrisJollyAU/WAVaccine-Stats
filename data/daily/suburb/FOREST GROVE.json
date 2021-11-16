@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-14T00:00:00",
+  "date_updated": "2021-11-15T00:00:00",
   "locality": "FOREST GROVE",
   "data": [
     {
@@ -593,9 +593,9 @@
     {
       "date": "2021-10-15",
       "locality": "FOREST GROVE",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-18",
@@ -691,8 +691,8 @@
     {
       "date": "2021-11-11",
       "locality": "FOREST GROVE",
-      "dose1": 1,
-      "dose2": 1,
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
@@ -701,6 +701,13 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "FOREST GROVE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

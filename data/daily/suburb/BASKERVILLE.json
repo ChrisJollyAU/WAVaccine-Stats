@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "BASKERVILLE",
   "data": [
     {
@@ -1133,8 +1133,50 @@
       "date": "2021-11-06",
       "locality": "BASKERVILLE",
       "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "BASKERVILLE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "BASKERVILLE",
+      "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "BASKERVILLE",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "BASKERVILLE",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "BASKERVILLE",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "BASKERVILLE",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

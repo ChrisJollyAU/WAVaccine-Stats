@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "O'CONNOR",
   "data": [
     {
@@ -1525,6 +1525,14 @@
     {
       "date": "2021-08-24",
       "locality": "O'CONNOR",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "O'CONNOR",
       "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 1,
@@ -1758,9 +1766,9 @@
       "date": "2021-09-07",
       "locality": "O'CONNOR",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-07",
@@ -2095,8 +2103,8 @@
       "locality": "O'CONNOR",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-09-28",
@@ -2215,8 +2223,8 @@
       "locality": "O'CONNOR",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-05",
@@ -2710,9 +2718,9 @@
       "date": "2021-11-06",
       "locality": "O'CONNOR",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-11-07",
@@ -2721,6 +2729,110 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "O'CONNOR",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "O'CONNOR",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "O'CONNOR",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "O'CONNOR",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "O'CONNOR",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "O'CONNOR",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "O'CONNOR",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "O'CONNOR",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "O'CONNOR",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "O'CONNOR",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "O'CONNOR",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "O'CONNOR",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "O'CONNOR",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

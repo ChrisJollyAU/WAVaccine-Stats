@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "DANDARAGAN",
   "data": [
     {
@@ -307,14 +307,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-10",
-      "locality": "DANDARAGAN",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-15",
       "locality": "DANDARAGAN",
       "AgeGroup": "50 to 69",
@@ -337,14 +329,6 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
-    },
-    {
-      "date": "2021-06-17",
-      "locality": "DANDARAGAN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-06-17",
@@ -459,14 +443,6 @@
       "vaccines": 4
     },
     {
-      "date": "2021-07-08",
-      "locality": "DANDARAGAN",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-14",
       "locality": "DANDARAGAN",
       "AgeGroup": "16 to 49",
@@ -495,8 +471,8 @@
       "locality": "DANDARAGAN",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-16",
@@ -705,14 +681,6 @@
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
-    },
-    {
-      "date": "2021-08-05",
-      "locality": "DANDARAGAN",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-08-06",
@@ -1367,8 +1335,8 @@
       "locality": "DANDARAGAN",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-22",
@@ -1894,9 +1862,9 @@
       "date": "2021-11-06",
       "locality": "DANDARAGAN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-11-07",
@@ -1905,6 +1873,54 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "DANDARAGAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "DANDARAGAN",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "DANDARAGAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "DANDARAGAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "DANDARAGAN",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "DANDARAGAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

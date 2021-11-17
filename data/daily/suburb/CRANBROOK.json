@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "CRANBROOK",
   "data": [
     {
@@ -481,9 +481,9 @@
     {
       "date": "2021-07-26",
       "locality": "CRANBROOK",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-28",
@@ -593,9 +593,9 @@
     {
       "date": "2021-08-16",
       "locality": "CRANBROOK",
-      "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose1": 6,
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-08-17",
@@ -712,8 +712,8 @@
     {
       "date": "2021-09-06",
       "locality": "CRANBROOK",
-      "dose1": 5,
-      "dose2": 6,
+      "dose1": 4,
+      "dose2": 7,
       "vaccines": 11
     },
     {
@@ -768,9 +768,9 @@
     {
       "date": "2021-09-14",
       "locality": "CRANBROOK",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 6,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-09-15",
@@ -936,8 +936,8 @@
     {
       "date": "2021-10-08",
       "locality": "CRANBROOK",
-      "dose1": 4,
-      "dose2": 4,
+      "dose1": 3,
+      "dose2": 5,
       "vaccines": 8
     },
     {
@@ -1125,16 +1125,16 @@
     {
       "date": "2021-11-04",
       "locality": "CRANBROOK",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-11-05",
       "locality": "CRANBROOK",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-11-06",
@@ -1149,6 +1149,48 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "CRANBROOK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "CRANBROOK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "CRANBROOK",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "CRANBROOK",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "CRANBROOK",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "CRANBROOK",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

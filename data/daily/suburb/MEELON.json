@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "MEELON",
   "data": [
     {
@@ -148,6 +148,27 @@
       "dose1": 42,
       "dose2": 0,
       "vaccines": 42
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "MEELON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "MEELON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "MEELON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

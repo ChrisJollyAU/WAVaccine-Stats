@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "WOKALUP",
   "data": [
     {
@@ -18,6 +18,13 @@
     },
     {
       "date": "2021-05-18",
+      "locality": "WOKALUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-31",
       "locality": "WOKALUP",
       "dose1": 1,
       "dose2": 0,
@@ -45,25 +52,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-09",
-      "locality": "WOKALUP",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-20",
       "locality": "WOKALUP",
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
-    },
-    {
-      "date": "2021-07-30",
-      "locality": "WOKALUP",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-08-11",
@@ -132,8 +125,8 @@
       "date": "2021-09-06",
       "locality": "WOKALUP",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-11",
@@ -235,6 +228,13 @@
     },
     {
       "date": "2021-10-22",
+      "locality": "WOKALUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
       "locality": "WOKALUP",
       "dose1": 0,
       "dose2": 1,

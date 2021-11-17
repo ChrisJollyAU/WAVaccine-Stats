@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "VIRGINIA",
   "data": [
     {
@@ -59,12 +59,28 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-09",
+      "locality": "VIRGINIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-23",
       "locality": "VIRGINIA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "VIRGINIA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

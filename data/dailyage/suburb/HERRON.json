@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "HERRON",
   "data": [
     {
@@ -62,6 +62,14 @@
       "date": "2021-03-30",
       "locality": "HERRON",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-31",
+      "locality": "HERRON",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -406,9 +414,9 @@
       "date": "2021-06-04",
       "locality": "HERRON",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-04",
@@ -599,8 +607,8 @@
       "locality": "HERRON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-01",
@@ -1158,9 +1166,9 @@
       "date": "2021-08-18",
       "locality": "HERRON",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-19",
@@ -1279,8 +1287,8 @@
       "locality": "HERRON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-27",
@@ -1398,9 +1406,9 @@
       "date": "2021-09-05",
       "locality": "HERRON",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-06",
@@ -1670,9 +1678,9 @@
       "date": "2021-09-23",
       "locality": "HERRON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-23",
@@ -1942,9 +1950,9 @@
       "date": "2021-10-12",
       "locality": "HERRON",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-13",
@@ -2021,9 +2029,25 @@
     {
       "date": "2021-10-17",
       "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "HERRON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -2222,9 +2246,9 @@
       "date": "2021-10-29",
       "locality": "HERRON",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-30",
@@ -2263,8 +2287,8 @@
       "locality": "HERRON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-11-03",
@@ -2329,6 +2353,150 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "HERRON",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "HERRON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "HERRON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "HERRON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "HERRON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "HERRON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "HERRON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "HERRON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "HERRON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "HERRON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "HERRON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "HERRON",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

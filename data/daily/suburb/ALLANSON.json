@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "ALLANSON",
   "data": [
     {
@@ -614,9 +614,9 @@
     {
       "date": "2021-09-10",
       "locality": "ALLANSON",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 3
     },
     {
       "date": "2021-09-11",
@@ -656,9 +656,9 @@
     {
       "date": "2021-09-20",
       "locality": "ALLANSON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-21",
@@ -724,13 +724,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-10-01",
-      "locality": "ALLANSON",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
       "date": "2021-10-02",
       "locality": "ALLANSON",
       "dose1": 3,
@@ -776,8 +769,8 @@
       "date": "2021-10-12",
       "locality": "ALLANSON",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-10-14",
@@ -817,9 +810,9 @@
     {
       "date": "2021-10-21",
       "locality": "ALLANSON",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-23",
@@ -890,6 +883,62 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "ALLANSON",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "ALLANSON",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "ALLANSON",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "ALLANSON",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "ALLANSON",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "ALLANSON",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "ALLANSON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "ALLANSON",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

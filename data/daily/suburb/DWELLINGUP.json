@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "DWELLINGUP",
   "data": [
     {
@@ -390,9 +390,9 @@
     {
       "date": "2021-07-01",
       "locality": "DWELLINGUP",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-07-02",
@@ -517,8 +517,8 @@
       "date": "2021-07-27",
       "locality": "DWELLINGUP",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-07-28",
@@ -670,9 +670,9 @@
     {
       "date": "2021-08-25",
       "locality": "DWELLINGUP",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-26",
@@ -936,9 +936,9 @@
     {
       "date": "2021-10-08",
       "locality": "DWELLINGUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 8,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-10-11",
@@ -1049,8 +1049,8 @@
       "date": "2021-10-27",
       "locality": "DWELLINGUP",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-10-28",
@@ -1091,15 +1091,15 @@
       "date": "2021-11-04",
       "locality": "DWELLINGUP",
       "dose1": 2,
-      "dose2": 11,
-      "vaccines": 13
+      "dose2": 12,
+      "vaccines": 14
     },
     {
       "date": "2021-11-05",
       "locality": "DWELLINGUP",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-11-06",
@@ -1111,9 +1111,65 @@
     {
       "date": "2021-11-07",
       "locality": "DWELLINGUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "DWELLINGUP",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "DWELLINGUP",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "DWELLINGUP",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "DWELLINGUP",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "DWELLINGUP",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "DWELLINGUP",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "DWELLINGUP",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "DWELLINGUP",
+      "dose1": 7,
+      "dose2": 4,
+      "vaccines": 11
     }
   ]
 }

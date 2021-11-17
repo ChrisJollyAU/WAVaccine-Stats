@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "MOORINE ROCK",
   "data": [
     {
@@ -507,11 +507,18 @@
       "vaccines": 6
     },
     {
+      "date": "2021-10-26",
+      "locality": "MOORINE ROCK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-28",
       "locality": "MOORINE ROCK",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-29",
@@ -540,6 +547,41 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "MOORINE ROCK",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "MOORINE ROCK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "MOORINE ROCK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "MOORINE ROCK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "MOORINE ROCK",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

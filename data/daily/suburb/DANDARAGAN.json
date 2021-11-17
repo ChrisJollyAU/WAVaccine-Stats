@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "DANDARAGAN",
   "data": [
     {
@@ -173,9 +173,9 @@
     {
       "date": "2021-06-10",
       "locality": "DANDARAGAN",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-15",
@@ -194,9 +194,9 @@
     {
       "date": "2021-06-17",
       "locality": "DANDARAGAN",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-18",
@@ -262,13 +262,6 @@
       "vaccines": 8
     },
     {
-      "date": "2021-07-08",
-      "locality": "DANDARAGAN",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-14",
       "locality": "DANDARAGAN",
       "dose1": 5,
@@ -279,8 +272,8 @@
       "date": "2021-07-16",
       "locality": "DANDARAGAN",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-07-18",
@@ -372,13 +365,6 @@
       "dose1": 0,
       "dose2": 7,
       "vaccines": 7
-    },
-    {
-      "date": "2021-08-05",
-      "locality": "DANDARAGAN",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-08-06",
@@ -650,8 +636,8 @@
       "date": "2021-09-22",
       "locality": "DANDARAGAN",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-09-24",
@@ -908,9 +894,9 @@
     {
       "date": "2021-11-06",
       "locality": "DANDARAGAN",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-11-07",
@@ -918,6 +904,41 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "DANDARAGAN",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "DANDARAGAN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "DANDARAGAN",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "DANDARAGAN",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "DANDARAGAN",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

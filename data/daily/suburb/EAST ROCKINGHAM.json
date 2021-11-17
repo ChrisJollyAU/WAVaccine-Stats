@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "EAST ROCKINGHAM",
   "data": [
     {
@@ -131,9 +131,9 @@
     {
       "date": "2021-05-06",
       "locality": "EAST ROCKINGHAM",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-05-10",
@@ -353,13 +353,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-07-17",
-      "locality": "EAST ROCKINGHAM",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
       "date": "2021-07-19",
       "locality": "EAST ROCKINGHAM",
       "dose1": 1,
@@ -377,8 +370,8 @@
       "date": "2021-07-22",
       "locality": "EAST ROCKINGHAM",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-07-23",
@@ -727,8 +720,8 @@
       "date": "2021-10-09",
       "locality": "EAST ROCKINGHAM",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-11",
@@ -761,9 +754,9 @@
     {
       "date": "2021-10-15",
       "locality": "EAST ROCKINGHAM",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-16",
@@ -825,6 +818,13 @@
       "date": "2021-11-04",
       "locality": "EAST ROCKINGHAM",
       "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "EAST ROCKINGHAM",
+      "dose1": 0,
       "dose2": 2,
       "vaccines": 2
     },
@@ -834,6 +834,48 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-07",
+      "locality": "EAST ROCKINGHAM",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "EAST ROCKINGHAM",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "EAST ROCKINGHAM",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "EAST ROCKINGHAM",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "EAST ROCKINGHAM",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "EAST ROCKINGHAM",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

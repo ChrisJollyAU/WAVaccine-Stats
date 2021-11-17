@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "RANDWICK",
   "data": [
     {
@@ -7,6 +7,20 @@
       "locality": "RANDWICK",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-18",
+      "locality": "RANDWICK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-08",
+      "locality": "RANDWICK",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -63,6 +77,20 @@
       "locality": "RANDWICK",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "RANDWICK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "RANDWICK",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

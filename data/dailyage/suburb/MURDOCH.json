@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "MURDOCH",
   "data": [
     {
@@ -1093,6 +1093,14 @@
     {
       "date": "2021-05-12",
       "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-12",
+      "locality": "MURDOCH",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 0,
@@ -1631,8 +1639,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-06-08",
@@ -1918,9 +1926,9 @@
       "date": "2021-06-21",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-21",
@@ -2222,9 +2230,9 @@
       "date": "2021-07-04",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-04",
@@ -2262,9 +2270,9 @@
       "date": "2021-07-06",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-07-06",
@@ -2399,8 +2407,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-07-12",
@@ -2870,9 +2878,9 @@
       "date": "2021-08-01",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 8,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-08-01",
@@ -2911,8 +2919,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-08-03",
@@ -2982,9 +2990,9 @@
       "date": "2021-08-06",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-08-06",
@@ -3031,8 +3039,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-08-08",
@@ -3102,9 +3110,9 @@
       "date": "2021-08-11",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 5,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-08-11",
@@ -3158,9 +3166,9 @@
       "date": "2021-08-13",
       "locality": "MURDOCH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 10,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-08-13",
@@ -3366,9 +3374,9 @@
       "date": "2021-08-22",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 4,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-08-22",
@@ -3391,8 +3399,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 1,
-      "vaccines": 13
+      "dose2": 0,
+      "vaccines": 12
     },
     {
       "date": "2021-08-23",
@@ -3414,9 +3422,9 @@
       "date": "2021-08-24",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-08-24",
@@ -3487,8 +3495,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 9,
-      "vaccines": 21
+      "dose2": 8,
+      "vaccines": 20
     },
     {
       "date": "2021-08-27",
@@ -3510,9 +3518,9 @@
       "date": "2021-08-28",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 1,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-08-28",
@@ -3598,9 +3606,9 @@
       "date": "2021-09-01",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 2,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-09-01",
@@ -3694,9 +3702,9 @@
       "date": "2021-09-05",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 17,
       "dose2": 2,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-09-05",
@@ -3734,9 +3742,9 @@
       "date": "2021-09-07",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-07",
@@ -3967,8 +3975,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 13,
-      "vaccines": 17
+      "dose2": 12,
+      "vaccines": 16
     },
     {
       "date": "2021-09-17",
@@ -4014,9 +4022,9 @@
       "date": "2021-09-19",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
     },
     {
       "date": "2021-09-19",
@@ -4030,8 +4038,8 @@
       "date": "2021-09-20",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 9,
+      "dose1": 6,
+      "dose2": 10,
       "vaccines": 16
     },
     {
@@ -4087,8 +4095,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 10,
-      "vaccines": 22
+      "dose2": 11,
+      "vaccines": 23
     },
     {
       "date": "2021-09-22",
@@ -4110,9 +4118,9 @@
       "date": "2021-09-23",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 10,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-09-23",
@@ -4262,8 +4270,8 @@
       "date": "2021-09-29",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
-      "dose2": 9,
+      "dose1": 8,
+      "dose2": 10,
       "vaccines": 18
     },
     {
@@ -4294,8 +4302,8 @@
       "date": "2021-09-30",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 11,
+      "dose1": 5,
+      "dose2": 12,
       "vaccines": 17
     },
     {
@@ -4422,9 +4430,9 @@
       "date": "2021-10-05",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 10,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-10-05",
@@ -4567,8 +4575,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 9,
-      "vaccines": 14
+      "dose2": 7,
+      "vaccines": 12
     },
     {
       "date": "2021-10-10",
@@ -4590,9 +4598,9 @@
       "date": "2021-10-11",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 7,
-      "vaccines": 11
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-10-11",
@@ -4767,8 +4775,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 8,
-      "vaccines": 10
+      "dose2": 9,
+      "vaccines": 11
     },
     {
       "date": "2021-10-17",
@@ -4878,17 +4886,17 @@
       "date": "2021-10-21",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-10-21",
       "locality": "MURDOCH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-21",
@@ -5158,8 +5166,8 @@
       "date": "2021-11-01",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 8,
+      "dose1": 1,
+      "dose2": 7,
       "vaccines": 8
     },
     {
@@ -5247,8 +5255,8 @@
       "locality": "MURDOCH",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-11-04",
@@ -5262,9 +5270,9 @@
       "date": "2021-11-05",
       "locality": "MURDOCH",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-11-05",
@@ -5313,6 +5321,230 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "MURDOCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "MURDOCH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "MURDOCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "MURDOCH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "MURDOCH",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 9,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "MURDOCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "MURDOCH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "MURDOCH",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "MURDOCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "MURDOCH",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "MURDOCH",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "MURDOCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "MURDOCH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "MURDOCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "MURDOCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "MURDOCH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "MURDOCH",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "MURDOCH",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "MURDOCH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "MURDOCH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

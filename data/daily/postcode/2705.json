@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "2705",
   "data": [
     {
@@ -12,9 +12,9 @@
     {
       "date": "2021-09-22",
       "postcode": "2705",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-28",
@@ -31,6 +31,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-01",
+      "postcode": "2705",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-12",
       "postcode": "2705",
       "dose1": 0,
@@ -41,8 +48,8 @@
       "date": "2021-10-13",
       "postcode": "2705",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-19",
@@ -61,8 +68,8 @@
     {
       "date": "2021-10-22",
       "postcode": "2705",
-      "dose1": 3,
-      "dose2": 0,
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     },
     {
@@ -84,6 +91,27 @@
       "postcode": "2705",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "postcode": "2705",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "postcode": "2705",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "postcode": "2705",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

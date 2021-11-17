@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "WONNERUP",
   "data": [
     {
@@ -458,6 +458,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-07",
+      "locality": "WONNERUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-08",
       "locality": "WONNERUP",
       "dose1": 1,
@@ -629,8 +636,8 @@
       "date": "2021-10-19",
       "locality": "WONNERUP",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-21",
@@ -673,6 +680,41 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "WONNERUP",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "WONNERUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "WONNERUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
+      "locality": "WONNERUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "WONNERUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

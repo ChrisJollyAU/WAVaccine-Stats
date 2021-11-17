@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-07T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "WEST END",
   "data": [
     {
@@ -515,6 +515,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-26",
+      "locality": "WEST END",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-27",
       "locality": "WEST END",
       "AgeGroup": "50 to 69",
@@ -630,9 +638,9 @@
       "date": "2021-06-12",
       "locality": "WEST END",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-06-14",
@@ -673,6 +681,14 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-06-17",
+      "locality": "WEST END",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-06-17",
@@ -792,14 +808,6 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-29",
-      "locality": "WEST END",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1427,14 +1435,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-18",
-      "locality": "WEST END",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-19",
       "locality": "WEST END",
       "AgeGroup": "16 to 49",
@@ -1619,14 +1619,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-09-06",
-      "locality": "WEST END",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-07",
       "locality": "WEST END",
       "AgeGroup": "50 to 69",
@@ -1760,14 +1752,6 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-17",
-      "locality": "WEST END",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -2206,9 +2190,9 @@
       "date": "2021-10-14",
       "locality": "WEST END",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-10-14",
@@ -2519,8 +2503,8 @@
       "locality": "WEST END",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-06",
@@ -2537,6 +2521,94 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "WEST END",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-09",
+      "locality": "WEST END",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "WEST END",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "WEST END",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "WEST END",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "WEST END",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-11",
+      "locality": "WEST END",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-13",
+      "locality": "WEST END",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "WEST END",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "WEST END",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "WEST END",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-15T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "NUNGARIN",
   "data": [
     {
@@ -241,14 +241,6 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
-    },
-    {
-      "date": "2021-08-11",
-      "locality": "NUNGARIN",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-08-11",
@@ -799,8 +791,8 @@
       "locality": "NUNGARIN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-10-25",
@@ -937,6 +929,14 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "NUNGARIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-15T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "postcode": "DRUMMOND COVE",
   "data": [
     {
@@ -3679,16 +3679,16 @@
       "locality": "DRUMMOND COVE",
       "AgeGroup": "12 to 15",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-11-12",
       "locality": "DRUMMOND COVE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
     },
     {
       "date": "2021-11-12",
@@ -3735,8 +3735,8 @@
       "locality": "DRUMMOND COVE",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-11-15",
@@ -3745,6 +3745,22 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "DRUMMOND COVE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "DRUMMOND COVE",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 11,
+      "vaccines": 15
     }
   ]
 }

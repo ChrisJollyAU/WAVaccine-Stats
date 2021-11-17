@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-15T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "MORGANTOWN",
   "data": [
     {
@@ -446,9 +446,9 @@
     {
       "date": "2021-09-01",
       "locality": "MORGANTOWN",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-09-02",
@@ -552,8 +552,8 @@
       "date": "2021-09-22",
       "locality": "MORGANTOWN",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2021-09-23",
@@ -670,9 +670,9 @@
     {
       "date": "2021-10-11",
       "locality": "MORGANTOWN",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 4,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-10-12",
@@ -783,8 +783,8 @@
       "date": "2021-11-01",
       "locality": "MORGANTOWN",
       "dose1": 2,
-      "dose2": 11,
-      "vaccines": 13
+      "dose2": 10,
+      "vaccines": 12
     },
     {
       "date": "2021-11-02",
@@ -876,6 +876,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "MORGANTOWN",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

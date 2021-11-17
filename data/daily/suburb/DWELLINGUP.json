@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-15T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "DWELLINGUP",
   "data": [
     {
@@ -1161,8 +1161,15 @@
       "date": "2021-11-15",
       "locality": "DWELLINGUP",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "DWELLINGUP",
+      "dose1": 7,
+      "dose2": 4,
+      "vaccines": 11
     }
   ]
 }

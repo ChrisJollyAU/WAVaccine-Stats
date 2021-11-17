@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-15T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "CENTENNIAL PARK",
   "data": [
     {
@@ -138,9 +138,9 @@
     {
       "date": "2021-04-07",
       "locality": "CENTENNIAL PARK",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-04-08",
@@ -629,8 +629,8 @@
       "date": "2021-07-06",
       "locality": "CENTENNIAL PARK",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-07-07",
@@ -1513,6 +1513,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "CENTENNIAL PARK",
+      "dose1": 5,
+      "dose2": 3,
+      "vaccines": 8
     }
   ]
 }

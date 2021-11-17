@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-15T00:00:00",
+  "date_updated": "2021-11-16T00:00:00",
   "locality": "DEEPDALE",
   "data": [
     {
@@ -1259,8 +1259,8 @@
       "date": "2021-11-12",
       "locality": "DEEPDALE",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-11-13",
@@ -1280,8 +1280,15 @@
       "date": "2021-11-15",
       "locality": "DEEPDALE",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-16",
+      "locality": "DEEPDALE",
+      "dose1": 5,
+      "dose2": 4,
+      "vaccines": 9
     }
   ]
 }

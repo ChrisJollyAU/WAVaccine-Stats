@@ -533,7 +533,7 @@ namespace WAVaccine
                     int ct_50_69 = 0;
                     int ct_70p = 0;
                     int ct_16_49 = 0;
-                    ct_50_69 = (int)(s2pop.c_50_54 + s2pop.c_55_59 + s2pop.c_60_64 + s2pop.c_60_64);
+                    ct_50_69 = (int)(s2pop.c_50_54 + s2pop.c_55_59 + s2pop.c_60_64 + s2pop.c_65_69);
                     ct_70p = (int)(s2pop.c_70_74 + s2pop.c_75_79 + s2pop.c_80_84 + s2pop.c_85p);
                     ct_16_49 = (int)(s2pop.c_16_19 + s2pop.c_20_24 + s2pop.c_25_29 + s2pop.c_30_34 + s2pop.c_35_39 + s2pop.c_40_44 + s2pop.c_45_49);
                     sdet.c_12_15 = (int)s2pop.c_12_15;
@@ -626,7 +626,7 @@ namespace WAVaccine
                 int ct_50_69 = 0;
                 int ct_70p = 0;
                 int ct_16_49 = 0;
-                ct_50_69 = (int)(it.c_50_54 + it.c_55_59 + it.c_60_64 + it.c_60_64);
+                ct_50_69 = (int)(it.c_50_54 + it.c_55_59 + it.c_60_64 + it.c_65_69);
                 ct_70p = (int)(it.c_70_74 + it.c_75_79 + it.c_80_84 + it.c_85p);
                 ct_16_49 = (int)(it.c_16_19 + it.c_20_24 + it.c_25_29 + it.c_30_34 + it.c_35_39 + it.c_40_44 + it.c_45_49);
                 sdet.c_12_15 = (int)it.c_12_15;

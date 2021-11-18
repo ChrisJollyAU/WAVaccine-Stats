@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "locality": "GLENDALOUGH",
   "data": [
     {
@@ -831,16 +831,16 @@
     {
       "date": "2021-07-06",
       "locality": "GLENDALOUGH",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 3,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-07-07",
       "locality": "GLENDALOUGH",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-07-08",
@@ -1021,8 +1021,8 @@
       "date": "2021-08-02",
       "locality": "GLENDALOUGH",
       "dose1": 7,
-      "dose2": 20,
-      "vaccines": 27
+      "dose2": 19,
+      "vaccines": 26
     },
     {
       "date": "2021-08-03",
@@ -1133,8 +1133,8 @@
       "date": "2021-08-18",
       "locality": "GLENDALOUGH",
       "dose1": 31,
-      "dose2": 12,
-      "vaccines": 43
+      "dose2": 11,
+      "vaccines": 42
     },
     {
       "date": "2021-08-19",
@@ -1174,8 +1174,8 @@
     {
       "date": "2021-08-24",
       "locality": "GLENDALOUGH",
-      "dose1": 17,
-      "dose2": 12,
+      "dose1": 16,
+      "dose2": 13,
       "vaccines": 29
     },
     {
@@ -1510,9 +1510,9 @@
     {
       "date": "2021-10-11",
       "locality": "GLENDALOUGH",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 12,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-10-12",
@@ -1657,9 +1657,9 @@
     {
       "date": "2021-11-01",
       "locality": "GLENDALOUGH",
-      "dose1": 12,
-      "dose2": 6,
-      "vaccines": 18
+      "dose1": 11,
+      "dose2": 5,
+      "vaccines": 16
     },
     {
       "date": "2021-11-02",
@@ -1762,9 +1762,16 @@
     {
       "date": "2021-11-16",
       "locality": "GLENDALOUGH",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "GLENDALOUGH",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 11
     }
   ]
 }

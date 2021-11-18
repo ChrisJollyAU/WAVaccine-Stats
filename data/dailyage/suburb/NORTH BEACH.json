@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "postcode": "NORTH BEACH",
   "data": [
     {
@@ -5951,8 +5951,8 @@
       "locality": "NORTH BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-11-15",
@@ -5975,8 +5975,8 @@
       "locality": "NORTH BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-11-16",
@@ -5993,6 +5993,22 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "NORTH BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

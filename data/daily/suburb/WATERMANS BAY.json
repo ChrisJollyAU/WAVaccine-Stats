@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "locality": "WATERMANS BAY",
   "data": [
     {
@@ -1714,8 +1714,15 @@
       "date": "2021-11-16",
       "locality": "WATERMANS BAY",
       "dose1": 1,
-      "dose2": 9,
-      "vaccines": 10
+      "dose2": 10,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "WATERMANS BAY",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

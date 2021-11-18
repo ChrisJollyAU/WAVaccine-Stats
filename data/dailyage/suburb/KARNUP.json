@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "postcode": "KARNUP",
   "data": [
     {
@@ -62,9 +62,9 @@
       "date": "2021-03-10",
       "locality": "KARNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-11",
@@ -281,6 +281,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-04-08",
+      "locality": "KARNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-04-08",
@@ -3158,9 +3166,9 @@
       "date": "2021-09-30",
       "locality": "KARNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 3,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-09-30",
@@ -3478,9 +3486,9 @@
       "date": "2021-10-13",
       "locality": "KARNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-10-13",
@@ -3679,8 +3687,8 @@
       "locality": "KARNUP",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 10,
-      "vaccines": 13
+      "dose2": 11,
+      "vaccines": 14
     },
     {
       "date": "2021-10-21",
@@ -3950,9 +3958,9 @@
       "date": "2021-11-01",
       "locality": "KARNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 6,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-11-01",
@@ -4207,8 +4215,8 @@
       "locality": "KARNUP",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose2": 11,
+      "vaccines": 19
     },
     {
       "date": "2021-11-10",
@@ -4345,6 +4353,22 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "KARNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "KARNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

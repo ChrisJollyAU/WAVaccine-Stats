@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "locality": "MIRA MAR",
   "data": [
     {
@@ -1699,16 +1699,23 @@
     {
       "date": "2021-11-15",
       "locality": "MIRA MAR",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-11-16",
       "locality": "MIRA MAR",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "MIRA MAR",
       "dose1": 2,
-      "dose2": 8,
-      "vaccines": 10
+      "dose2": 7,
+      "vaccines": 9
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "locality": "DENMARK",
   "data": [
     {
@@ -1510,9 +1510,9 @@
     {
       "date": "2021-10-18",
       "locality": "DENMARK",
-      "dose1": 9,
-      "dose2": 6,
-      "vaccines": 15
+      "dose1": 10,
+      "dose2": 7,
+      "vaccines": 17
     },
     {
       "date": "2021-10-19",
@@ -1664,8 +1664,8 @@
     {
       "date": "2021-11-09",
       "locality": "DENMARK",
-      "dose1": 10,
-      "dose2": 13,
+      "dose1": 9,
+      "dose2": 14,
       "vaccines": 23
     },
     {
@@ -1706,15 +1706,22 @@
     {
       "date": "2021-11-15",
       "locality": "DENMARK",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 6,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-11-16",
       "locality": "DENMARK",
       "dose1": 4,
-      "dose2": 5,
+      "dose2": 7,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "DENMARK",
+      "dose1": 3,
+      "dose2": 6,
       "vaccines": 9
     }
   ]

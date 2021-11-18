@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "locality": "YOUNGS SIDING",
   "data": [
     {
@@ -11,13 +11,6 @@
     },
     {
       "date": "2021-03-28",
-      "locality": "YOUNGS SIDING",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-01",
       "locality": "YOUNGS SIDING",
       "dose1": 1,
       "dose2": 0,
@@ -151,13 +144,6 @@
     },
     {
       "date": "2021-06-20",
-      "locality": "YOUNGS SIDING",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-24",
       "locality": "YOUNGS SIDING",
       "dose1": 0,
       "dose2": 1,
@@ -855,6 +841,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "YOUNGS SIDING",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

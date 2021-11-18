@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "locality": "DUDLEY PARK",
   "data": [
     {
@@ -25,6 +25,13 @@
     },
     {
       "date": "2021-02-26",
+      "locality": "DUDLEY PARK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-01",
       "locality": "DUDLEY PARK",
       "dose1": 1,
       "dose2": 0,
@@ -132,8 +139,8 @@
       "date": "2021-03-22",
       "locality": "DUDLEY PARK",
       "dose1": 20,
-      "dose2": 0,
-      "vaccines": 20
+      "dose2": 1,
+      "vaccines": 21
     },
     {
       "date": "2021-03-23",
@@ -180,9 +187,9 @@
     {
       "date": "2021-03-30",
       "locality": "DUDLEY PARK",
-      "dose1": 38,
+      "dose1": 39,
       "dose2": 1,
-      "vaccines": 39
+      "vaccines": 40
     },
     {
       "date": "2021-03-31",
@@ -279,8 +286,8 @@
       "date": "2021-04-20",
       "locality": "DUDLEY PARK",
       "dose1": 18,
-      "dose2": 2,
-      "vaccines": 20
+      "dose2": 3,
+      "vaccines": 21
     },
     {
       "date": "2021-04-21",
@@ -992,9 +999,9 @@
     {
       "date": "2021-08-10",
       "locality": "DUDLEY PARK",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 47,
-      "vaccines": 66
+      "vaccines": 67
     },
     {
       "date": "2021-08-11",
@@ -1013,9 +1020,9 @@
     {
       "date": "2021-08-13",
       "locality": "DUDLEY PARK",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 41,
-      "vaccines": 56
+      "vaccines": 57
     },
     {
       "date": "2021-08-14",
@@ -1209,9 +1216,9 @@
     {
       "date": "2021-09-10",
       "locality": "DUDLEY PARK",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 32,
-      "vaccines": 54
+      "vaccines": 55
     },
     {
       "date": "2021-09-11",
@@ -1476,8 +1483,8 @@
       "date": "2021-10-18",
       "locality": "DUDLEY PARK",
       "dose1": 22,
-      "dose2": 31,
-      "vaccines": 53
+      "dose2": 32,
+      "vaccines": 54
     },
     {
       "date": "2021-10-19",
@@ -1552,9 +1559,9 @@
     {
       "date": "2021-10-29",
       "locality": "DUDLEY PARK",
-      "dose1": 33,
+      "dose1": 34,
       "dose2": 43,
-      "vaccines": 76
+      "vaccines": 77
     },
     {
       "date": "2021-10-30",
@@ -1580,9 +1587,9 @@
     {
       "date": "2021-11-02",
       "locality": "DUDLEY PARK",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 31,
-      "vaccines": 54
+      "vaccines": 55
     },
     {
       "date": "2021-11-03",
@@ -1594,16 +1601,16 @@
     {
       "date": "2021-11-04",
       "locality": "DUDLEY PARK",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 31,
-      "vaccines": 48
+      "vaccines": 49
     },
     {
       "date": "2021-11-05",
       "locality": "DUDLEY PARK",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 46,
-      "vaccines": 68
+      "vaccines": 69
     },
     {
       "date": "2021-11-06",
@@ -1622,9 +1629,9 @@
     {
       "date": "2021-11-08",
       "locality": "DUDLEY PARK",
-      "dose1": 20,
+      "dose1": 18,
       "dose2": 34,
-      "vaccines": 54
+      "vaccines": 52
     },
     {
       "date": "2021-11-09",
@@ -1637,15 +1644,15 @@
       "date": "2021-11-10",
       "locality": "DUDLEY PARK",
       "dose1": 24,
-      "dose2": 33,
-      "vaccines": 57
+      "dose2": 34,
+      "vaccines": 58
     },
     {
       "date": "2021-11-11",
       "locality": "DUDLEY PARK",
       "dose1": 19,
-      "dose2": 34,
-      "vaccines": 53
+      "dose2": 35,
+      "vaccines": 54
     },
     {
       "date": "2021-11-12",
@@ -1671,15 +1678,22 @@
     {
       "date": "2021-11-15",
       "locality": "DUDLEY PARK",
-      "dose1": 23,
+      "dose1": 22,
       "dose2": 24,
-      "vaccines": 47
+      "vaccines": 46
     },
     {
       "date": "2021-11-16",
       "locality": "DUDLEY PARK",
-      "dose1": 24,
-      "dose2": 30,
+      "dose1": 30,
+      "dose2": 38,
+      "vaccines": 68
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "DUDLEY PARK",
+      "dose1": 15,
+      "dose2": 39,
       "vaccines": 54
     }
   ]

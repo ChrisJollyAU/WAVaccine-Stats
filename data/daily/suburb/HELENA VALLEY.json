@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "locality": "HELENA VALLEY",
   "data": [
     {
@@ -1776,9 +1776,16 @@
     {
       "date": "2021-11-16",
       "locality": "HELENA VALLEY",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 11,
-      "vaccines": 13
+      "vaccines": 14
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "HELENA VALLEY",
+      "dose1": 9,
+      "dose2": 21,
+      "vaccines": 30
     }
   ]
 }

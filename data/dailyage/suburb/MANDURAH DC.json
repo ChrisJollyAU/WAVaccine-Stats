@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-16T00:00:00",
+  "date_updated": "2021-11-17T00:00:00",
   "postcode": "MANDURAH DC",
   "data": [
     {
@@ -1643,6 +1643,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-11-11",
+      "locality": "MANDURAH DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-12",
       "locality": "MANDURAH DC",
       "AgeGroup": "16 to 49",
@@ -1663,16 +1671,16 @@
       "locality": "MANDURAH DC",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-11-16",
       "locality": "MANDURAH DC",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-11-16",
@@ -1681,6 +1689,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-17",
+      "locality": "MANDURAH DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

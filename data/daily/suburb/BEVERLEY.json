@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-17T00:00:00",
+  "date_updated": "2021-11-18T00:00:00",
   "locality": "BEVERLEY",
   "data": [
     {
@@ -439,9 +439,9 @@
     {
       "date": "2021-06-10",
       "locality": "BEVERLEY",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 0,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-06-11",
@@ -888,8 +888,8 @@
       "date": "2021-08-19",
       "locality": "BEVERLEY",
       "dose1": 7,
-      "dose2": 34,
-      "vaccines": 41
+      "dose2": 33,
+      "vaccines": 40
     },
     {
       "date": "2021-08-20",
@@ -1517,9 +1517,16 @@
     {
       "date": "2021-11-17",
       "locality": "BEVERLEY",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-18",
+      "locality": "BEVERLEY",
+      "dose1": 4,
+      "dose2": 10,
+      "vaccines": 14
     }
   ]
 }

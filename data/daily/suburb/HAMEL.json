@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-17T00:00:00",
+  "date_updated": "2021-11-18T00:00:00",
   "locality": "HAMEL",
   "data": [
     {
@@ -719,9 +719,16 @@
     {
       "date": "2021-11-17",
       "locality": "HAMEL",
-      "dose1": 3,
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-18",
+      "locality": "HAMEL",
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     }
   ]
 }

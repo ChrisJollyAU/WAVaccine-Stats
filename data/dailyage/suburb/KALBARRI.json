@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-17T00:00:00",
+  "date_updated": "2021-11-18T00:00:00",
   "postcode": "KALBARRI",
   "data": [
     {
@@ -1061,6 +1061,14 @@
     {
       "date": "2021-07-07",
       "locality": "KALBARRI",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-07",
+      "locality": "KALBARRI",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 2,
@@ -1361,6 +1369,14 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "KALBARRI",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-28",
@@ -3230,9 +3246,9 @@
       "date": "2021-11-16",
       "locality": "KALBARRI",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-11-16",
@@ -3246,12 +3262,28 @@
       "date": "2021-11-17",
       "locality": "KALBARRI",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-11-17",
+      "locality": "KALBARRI",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-18",
+      "locality": "KALBARRI",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-18",
       "locality": "KALBARRI",
       "AgeGroup": "50 to 69",
       "dose1": 0,

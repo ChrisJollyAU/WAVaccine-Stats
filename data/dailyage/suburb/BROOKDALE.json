@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-17T00:00:00",
+  "date_updated": "2021-11-18T00:00:00",
   "postcode": "BROOKDALE",
   "data": [
     {
@@ -347,14 +347,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-04-13",
-      "locality": "BROOKDALE",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-04-14",
       "locality": "BROOKDALE",
       "AgeGroup": "16 to 49",
@@ -697,14 +689,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-05-14",
-      "locality": "BROOKDALE",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-05-14",
@@ -1647,8 +1631,8 @@
       "locality": "BROOKDALE",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-07-13",
@@ -2367,8 +2351,8 @@
       "locality": "BROOKDALE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 10,
-      "vaccines": 13
+      "dose2": 9,
+      "vaccines": 12
     },
     {
       "date": "2021-08-20",
@@ -3406,9 +3390,9 @@
       "date": "2021-10-05",
       "locality": "BROOKDALE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-10-05",
@@ -3638,9 +3622,9 @@
       "date": "2021-10-14",
       "locality": "BROOKDALE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-10-14",
@@ -3862,9 +3846,9 @@
       "date": "2021-10-22",
       "locality": "BROOKDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 5,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2021-10-22",
@@ -3959,8 +3943,8 @@
       "locality": "BROOKDALE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-10-26",
@@ -4038,9 +4022,9 @@
       "date": "2021-10-29",
       "locality": "BROOKDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 18,
-      "vaccines": 26
+      "vaccines": 25
     },
     {
       "date": "2021-10-29",
@@ -4286,9 +4270,9 @@
       "date": "2021-11-07",
       "locality": "BROOKDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 6,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-11-07",
@@ -4559,8 +4543,8 @@
       "locality": "BROOKDALE",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 13,
-      "vaccines": 20
+      "dose2": 14,
+      "vaccines": 21
     },
     {
       "date": "2021-11-17",
@@ -4577,6 +4561,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-18",
+      "locality": "BROOKDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 15,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-11-18",
+      "locality": "BROOKDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

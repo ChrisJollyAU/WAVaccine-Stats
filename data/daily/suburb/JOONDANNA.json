@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-17T00:00:00",
+  "date_updated": "2021-11-18T00:00:00",
   "locality": "JOONDANNA",
   "data": [
     {
@@ -1153,9 +1153,9 @@
     {
       "date": "2021-08-13",
       "locality": "JOONDANNA",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 19,
-      "vaccines": 28
+      "vaccines": 27
     },
     {
       "date": "2021-08-14",
@@ -1588,8 +1588,8 @@
       "date": "2021-10-14",
       "locality": "JOONDANNA",
       "dose1": 10,
-      "dose2": 41,
-      "vaccines": 51
+      "dose2": 40,
+      "vaccines": 50
     },
     {
       "date": "2021-10-15",
@@ -1825,9 +1825,16 @@
     {
       "date": "2021-11-17",
       "locality": "JOONDANNA",
-      "dose1": 13,
-      "dose2": 12,
-      "vaccines": 25
+      "dose1": 17,
+      "dose2": 13,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-11-18",
+      "locality": "JOONDANNA",
+      "dose1": 0,
+      "dose2": 16,
+      "vaccines": 16
     }
   ]
 }

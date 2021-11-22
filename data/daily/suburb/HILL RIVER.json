@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-18T00:00:00",
+  "date_updated": "2021-11-21T00:00:00",
   "locality": "HILL RIVER",
   "data": [
     {
@@ -19,9 +19,16 @@
     {
       "date": "2021-09-07",
       "locality": "HILL RIVER",
-      "dose1": 3,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-19",
+      "locality": "HILL RIVER",
+      "dose1": 0,
+      "dose2": 6,
+      "vaccines": 6
     }
   ]
 }

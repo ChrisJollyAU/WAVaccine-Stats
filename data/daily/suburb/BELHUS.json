@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-18T00:00:00",
+  "date_updated": "2021-11-21T00:00:00",
   "locality": "BELHUS",
   "data": [
     {
@@ -635,9 +635,9 @@
     {
       "date": "2021-08-11",
       "locality": "BELHUS",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-12",
@@ -1021,8 +1021,8 @@
       "date": "2021-10-13",
       "locality": "BELHUS",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-10-14",
@@ -1230,9 +1230,23 @@
     {
       "date": "2021-11-18",
       "locality": "BELHUS",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-19",
+      "locality": "BELHUS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-20",
+      "locality": "BELHUS",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

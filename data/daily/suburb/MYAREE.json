@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-18T00:00:00",
+  "date_updated": "2021-11-21T00:00:00",
   "locality": "MYAREE",
   "data": [
     {
@@ -1286,16 +1286,16 @@
     {
       "date": "2021-09-14",
       "locality": "MYAREE",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 6,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-09-15",
       "locality": "MYAREE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 8,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-09-16",
@@ -1448,8 +1448,8 @@
       "date": "2021-10-07",
       "locality": "MYAREE",
       "dose1": 11,
-      "dose2": 11,
-      "vaccines": 22
+      "dose2": 10,
+      "vaccines": 21
     },
     {
       "date": "2021-10-08",
@@ -1539,8 +1539,8 @@
       "date": "2021-10-20",
       "locality": "MYAREE",
       "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-10-21",
@@ -1737,6 +1737,27 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-19",
+      "locality": "MYAREE",
+      "dose1": 1,
+      "dose2": 13,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-11-20",
+      "locality": "MYAREE",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-21",
+      "locality": "MYAREE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

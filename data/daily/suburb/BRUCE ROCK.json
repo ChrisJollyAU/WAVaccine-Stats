@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-18T00:00:00",
+  "date_updated": "2021-11-21T00:00:00",
   "locality": "BRUCE ROCK",
   "data": [
     {
@@ -467,9 +467,9 @@
     {
       "date": "2021-07-19",
       "locality": "BRUCE ROCK",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-20",
@@ -537,9 +537,9 @@
     {
       "date": "2021-07-30",
       "locality": "BRUCE ROCK",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 8,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-07-31",
@@ -664,8 +664,8 @@
       "date": "2021-08-20",
       "locality": "BRUCE ROCK",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-08-21",
@@ -694,6 +694,13 @@
       "dose1": 0,
       "dose2": 12,
       "vaccines": 12
+    },
+    {
+      "date": "2021-08-25",
+      "locality": "BRUCE ROCK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-26",
@@ -817,9 +824,9 @@
     {
       "date": "2021-09-16",
       "locality": "BRUCE ROCK",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-09-17",
@@ -978,9 +985,9 @@
     {
       "date": "2021-10-15",
       "locality": "BRUCE ROCK",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-10-16",
@@ -1056,8 +1063,8 @@
       "date": "2021-10-28",
       "locality": "BRUCE ROCK",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 4,
+      "vaccines": 11
     },
     {
       "date": "2021-10-29",
@@ -1170,6 +1177,20 @@
       "dose1": 4,
       "dose2": 7,
       "vaccines": 11
+    },
+    {
+      "date": "2021-11-19",
+      "locality": "BRUCE ROCK",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-20",
+      "locality": "BRUCE ROCK",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

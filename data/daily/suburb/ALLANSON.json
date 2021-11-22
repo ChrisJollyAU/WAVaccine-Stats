@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-18T00:00:00",
+  "date_updated": "2021-11-21T00:00:00",
   "locality": "ALLANSON",
   "data": [
     {
@@ -950,8 +950,15 @@
     {
       "date": "2021-11-18",
       "locality": "ALLANSON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-19",
+      "locality": "ALLANSON",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

@@ -1,9 +1,16 @@
 {
-  "date_updated": "2021-11-18T00:00:00",
+  "date_updated": "2021-11-21T00:00:00",
   "locality": "CATABY",
   "data": [
     {
       "date": "2021-08-09",
+      "locality": "CATABY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-10",
       "locality": "CATABY",
       "dose1": 1,
       "dose2": 0,
@@ -20,8 +27,8 @@
       "date": "2021-08-31",
       "locality": "CATABY",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-06",

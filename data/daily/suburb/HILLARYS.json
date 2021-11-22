@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-18T00:00:00",
+  "date_updated": "2021-11-21T00:00:00",
   "locality": "HILLARYS",
   "data": [
     {
@@ -68,9 +68,9 @@
     {
       "date": "2021-03-03",
       "locality": "HILLARYS",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-04",
@@ -215,9 +215,9 @@
     {
       "date": "2021-03-24",
       "locality": "HILLARYS",
-      "dose1": 27,
+      "dose1": 26,
       "dose2": 2,
-      "vaccines": 29
+      "vaccines": 28
     },
     {
       "date": "2021-03-25",
@@ -264,9 +264,9 @@
     {
       "date": "2021-03-31",
       "locality": "HILLARYS",
-      "dose1": 37,
+      "dose1": 38,
       "dose2": 6,
-      "vaccines": 43
+      "vaccines": 44
     },
     {
       "date": "2021-04-01",
@@ -349,8 +349,8 @@
       "date": "2021-04-14",
       "locality": "HILLARYS",
       "dose1": 20,
-      "dose2": 12,
-      "vaccines": 32
+      "dose2": 11,
+      "vaccines": 31
     },
     {
       "date": "2021-04-15",
@@ -558,9 +558,9 @@
     {
       "date": "2021-05-14",
       "locality": "HILLARYS",
-      "dose1": 36,
+      "dose1": 37,
       "dose2": 8,
-      "vaccines": 44
+      "vaccines": 45
     },
     {
       "date": "2021-05-15",
@@ -594,8 +594,8 @@
       "date": "2021-05-19",
       "locality": "HILLARYS",
       "dose1": 50,
-      "dose2": 5,
-      "vaccines": 55
+      "dose2": 6,
+      "vaccines": 56
     },
     {
       "date": "2021-05-20",
@@ -740,9 +740,9 @@
     {
       "date": "2021-06-09",
       "locality": "HILLARYS",
-      "dose1": 38,
+      "dose1": 37,
       "dose2": 13,
-      "vaccines": 51
+      "vaccines": 50
     },
     {
       "date": "2021-06-10",
@@ -839,8 +839,8 @@
       "date": "2021-06-23",
       "locality": "HILLARYS",
       "dose1": 48,
-      "dose2": 12,
-      "vaccines": 60
+      "dose2": 13,
+      "vaccines": 61
     },
     {
       "date": "2021-06-24",
@@ -1217,8 +1217,8 @@
       "date": "2021-08-16",
       "locality": "HILLARYS",
       "dose1": 45,
-      "dose2": 70,
-      "vaccines": 115
+      "dose2": 71,
+      "vaccines": 116
     },
     {
       "date": "2021-08-17",
@@ -1230,9 +1230,9 @@
     {
       "date": "2021-08-18",
       "locality": "HILLARYS",
-      "dose1": 70,
+      "dose1": 69,
       "dose2": 81,
-      "vaccines": 151
+      "vaccines": 150
     },
     {
       "date": "2021-08-19",
@@ -1245,8 +1245,8 @@
       "date": "2021-08-20",
       "locality": "HILLARYS",
       "dose1": 48,
-      "dose2": 109,
-      "vaccines": 157
+      "dose2": 108,
+      "vaccines": 156
     },
     {
       "date": "2021-08-21",
@@ -1699,9 +1699,9 @@
     {
       "date": "2021-10-24",
       "locality": "HILLARYS",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 39,
-      "vaccines": 58
+      "vaccines": 59
     },
     {
       "date": "2021-10-25",
@@ -1713,9 +1713,9 @@
     {
       "date": "2021-10-26",
       "locality": "HILLARYS",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 63,
-      "vaccines": 83
+      "vaccines": 84
     },
     {
       "date": "2021-10-27",
@@ -1861,22 +1861,43 @@
       "date": "2021-11-16",
       "locality": "HILLARYS",
       "dose1": 25,
-      "dose2": 26,
-      "vaccines": 51
+      "dose2": 27,
+      "vaccines": 52
     },
     {
       "date": "2021-11-17",
       "locality": "HILLARYS",
-      "dose1": 25,
-      "dose2": 39,
-      "vaccines": 64
+      "dose1": 29,
+      "dose2": 41,
+      "vaccines": 70
     },
     {
       "date": "2021-11-18",
       "locality": "HILLARYS",
-      "dose1": 17,
-      "dose2": 29,
-      "vaccines": 46
+      "dose1": 18,
+      "dose2": 31,
+      "vaccines": 49
+    },
+    {
+      "date": "2021-11-19",
+      "locality": "HILLARYS",
+      "dose1": 9,
+      "dose2": 34,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-11-20",
+      "locality": "HILLARYS",
+      "dose1": 16,
+      "dose2": 21,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-11-21",
+      "locality": "HILLARYS",
+      "dose1": 16,
+      "dose2": 11,
+      "vaccines": 27
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-21T00:00:00",
+  "date_updated": "2021-11-22T00:00:00",
   "locality": "SEACLIFF PARK",
   "data": [
     {
@@ -14,6 +14,13 @@
       "locality": "SEACLIFF PARK",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "SEACLIFF PARK",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

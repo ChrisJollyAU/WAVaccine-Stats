@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-21T00:00:00",
+  "date_updated": "2021-11-22T00:00:00",
   "locality": "YARLOOP",
   "data": [
     {
@@ -845,9 +845,9 @@
     {
       "date": "2021-10-05",
       "locality": "YARLOOP",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-10-06",
@@ -1104,9 +1104,16 @@
     {
       "date": "2021-11-19",
       "locality": "YARLOOP",
-      "dose1": 6,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 9
+      "vaccines": 11
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "YARLOOP",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

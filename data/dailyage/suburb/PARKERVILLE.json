@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-21T00:00:00",
+  "date_updated": "2021-11-22T00:00:00",
   "postcode": "PARKERVILLE",
   "data": [
     {
@@ -1158,9 +1158,9 @@
       "date": "2021-06-03",
       "locality": "PARKERVILLE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-06-03",
@@ -2615,8 +2615,8 @@
       "locality": "PARKERVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-08-18",
@@ -3806,9 +3806,9 @@
       "date": "2021-10-08",
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 11,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-10-08",
@@ -3894,9 +3894,9 @@
       "date": "2021-10-12",
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 10,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-10-12",
@@ -3918,9 +3918,9 @@
       "date": "2021-10-13",
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-10-13",
@@ -4134,9 +4134,9 @@
       "date": "2021-10-21",
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 11,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-10-21",
@@ -4519,8 +4519,8 @@
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-11-04",
@@ -4703,8 +4703,8 @@
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose2": 12,
+      "vaccines": 16
     },
     {
       "date": "2021-11-11",
@@ -4879,8 +4879,8 @@
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-11-18",
@@ -4935,8 +4935,8 @@
       "locality": "PARKERVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-11-21",
@@ -4950,9 +4950,33 @@
       "date": "2021-11-21",
       "locality": "PARKERVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "PARKERVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "PARKERVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "PARKERVILLE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

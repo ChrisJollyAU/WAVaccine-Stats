@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-21T00:00:00",
+  "date_updated": "2021-11-22T00:00:00",
   "locality": "NAVAL BASE",
   "data": [
     {
@@ -45,6 +45,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-13",
+      "locality": "NAVAL BASE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-14",
       "locality": "NAVAL BASE",
       "dose1": 1,
@@ -75,9 +82,9 @@
     {
       "date": "2021-08-30",
       "locality": "NAVAL BASE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-01",
@@ -98,6 +105,13 @@
       "locality": "NAVAL BASE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "NAVAL BASE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -133,6 +147,20 @@
       "locality": "NAVAL BASE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "NAVAL BASE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-12",
+      "locality": "NAVAL BASE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -195,8 +223,8 @@
       "date": "2021-11-12",
       "locality": "NAVAL BASE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-15",

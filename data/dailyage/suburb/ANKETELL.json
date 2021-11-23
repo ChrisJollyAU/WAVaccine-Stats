@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-21T00:00:00",
+  "date_updated": "2021-11-22T00:00:00",
   "postcode": "ANKETELL",
   "data": [
     {
@@ -227,6 +227,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-10",
+      "locality": "ANKETELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-11",
       "locality": "ANKETELL",
       "AgeGroup": "50 to 69",
@@ -395,6 +403,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-05",
+      "locality": "ANKETELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-06",
       "locality": "ANKETELL",
       "AgeGroup": "16 to 49",
@@ -552,6 +568,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "ANKETELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -775,8 +799,8 @@
       "locality": "ANKETELL",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-08-25",
@@ -1499,6 +1523,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-11-02",
+      "locality": "ANKETELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-03",
       "locality": "ANKETELL",
       "AgeGroup": "16 to 49",
@@ -1667,12 +1699,44 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-19",
+      "locality": "ANKETELL",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-20",
+      "locality": "ANKETELL",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-21",
       "locality": "ANKETELL",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "ANKETELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "ANKETELL",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

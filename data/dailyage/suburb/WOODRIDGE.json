@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-21T00:00:00",
+  "date_updated": "2021-11-22T00:00:00",
   "postcode": "WOODRIDGE",
   "data": [
     {
@@ -2843,6 +2843,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-18",
+      "locality": "WOODRIDGE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-19",
       "locality": "WOODRIDGE",
       "AgeGroup": "16 to 49",
@@ -2897,6 +2905,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "WOODRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

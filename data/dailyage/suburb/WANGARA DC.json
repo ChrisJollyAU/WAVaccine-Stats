@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "WANGARA DC",
   "data": [
     {
@@ -2721,6 +2721,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "WANGARA DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "WANGARA DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

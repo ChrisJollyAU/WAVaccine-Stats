@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "locality": "ASHFIELD",
   "data": [
     {
@@ -1700,8 +1700,15 @@
       "date": "2021-11-22",
       "locality": "ASHFIELD",
       "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "ASHFIELD",
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 10
+      "vaccines": 6
     }
   ]
 }

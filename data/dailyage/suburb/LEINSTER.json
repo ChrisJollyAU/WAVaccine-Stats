@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "LEINSTER",
   "data": [
     {
@@ -766,9 +766,9 @@
       "date": "2021-10-28",
       "locality": "LEINSTER",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-10-28",
@@ -990,9 +990,9 @@
       "date": "2021-11-18",
       "locality": "LEINSTER",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 11,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-11-18",
@@ -1005,10 +1005,18 @@
     {
       "date": "2021-11-19",
       "locality": "LEINSTER",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-19",
+      "locality": "LEINSTER",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-11-19",
@@ -1033,6 +1041,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "LEINSTER",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "LEEMAN",
   "data": [
     {
@@ -1253,14 +1253,6 @@
     {
       "date": "2021-10-04",
       "locality": "LEEMAN",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-04",
-      "locality": "LEEMAN",
       "AgeGroup": "16 to 49",
       "dose1": 3,
       "dose2": 0,
@@ -1270,9 +1262,9 @@
       "date": "2021-10-04",
       "locality": "LEEMAN",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-10-05",
@@ -1547,22 +1539,6 @@
       "vaccines": 3
     },
     {
-      "date": "2021-10-26",
-      "locality": "LEEMAN",
-      "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-26",
-      "locality": "LEEMAN",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-27",
       "locality": "LEEMAN",
       "AgeGroup": "16 to 49",
@@ -1721,14 +1697,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-11-08",
-      "locality": "LEEMAN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-11-08",
@@ -1926,17 +1894,17 @@
       "date": "2021-11-22",
       "locality": "LEEMAN",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-11-22",
       "locality": "LEEMAN",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-22",
@@ -1950,6 +1918,14 @@
       "date": "2021-11-22",
       "locality": "LEEMAN",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "LEEMAN",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "ARDROSS",
   "data": [
     {
@@ -1350,9 +1350,9 @@
       "date": "2021-05-12",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-05-12",
@@ -1766,9 +1766,9 @@
       "date": "2021-05-31",
       "locality": "ARDROSS",
       "AgeGroup": "50 to 69",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-05-31",
@@ -1991,8 +1991,8 @@
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 3,
-      "vaccines": 13
+      "dose2": 4,
+      "vaccines": 14
     },
     {
       "date": "2021-06-10",
@@ -2150,9 +2150,9 @@
       "date": "2021-06-17",
       "locality": "ARDROSS",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 2,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-06-17",
@@ -3358,9 +3358,9 @@
       "date": "2021-08-09",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 5,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-08-09",
@@ -3695,8 +3695,8 @@
       "locality": "ARDROSS",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 15,
-      "vaccines": 20
+      "dose2": 14,
+      "vaccines": 19
     },
     {
       "date": "2021-08-23",
@@ -4046,9 +4046,9 @@
       "date": "2021-09-07",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 12,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-09-07",
@@ -4103,8 +4103,8 @@
       "locality": "ARDROSS",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 14,
-      "vaccines": 16
+      "dose2": 15,
+      "vaccines": 17
     },
     {
       "date": "2021-09-10",
@@ -4415,8 +4415,8 @@
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 17,
-      "vaccines": 28
+      "dose2": 16,
+      "vaccines": 27
     },
     {
       "date": "2021-09-21",
@@ -4607,8 +4607,8 @@
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 25,
-      "vaccines": 37
+      "dose2": 26,
+      "vaccines": 38
     },
     {
       "date": "2021-09-28",
@@ -5766,9 +5766,9 @@
       "date": "2021-11-06",
       "locality": "ARDROSS",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-11-06",
@@ -6197,10 +6197,18 @@
     {
       "date": "2021-11-22",
       "locality": "ARDROSS",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "12 to 15",
       "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "ARDROSS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
       "dose2": 8,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-11-22",
@@ -6214,9 +6222,41 @@
       "date": "2021-11-22",
       "locality": "ARDROSS",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "ARDROSS",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "ARDROSS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "ARDROSS",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "ARDROSS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "locality": "HOCKING",
   "data": [
     {
@@ -124,9 +124,9 @@
     {
       "date": "2021-03-15",
       "locality": "HOCKING",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-03-16",
@@ -234,6 +234,13 @@
       "vaccines": 7
     },
     {
+      "date": "2021-04-03",
+      "locality": "HOCKING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-05",
       "locality": "HOCKING",
       "dose1": 0,
@@ -251,8 +258,8 @@
       "date": "2021-04-07",
       "locality": "HOCKING",
       "dose1": 13,
-      "dose2": 3,
-      "vaccines": 16
+      "dose2": 4,
+      "vaccines": 17
     },
     {
       "date": "2021-04-08",
@@ -425,9 +432,9 @@
     {
       "date": "2021-05-05",
       "locality": "HOCKING",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 2,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-05-06",
@@ -832,8 +839,8 @@
       "date": "2021-07-03",
       "locality": "HOCKING",
       "dose1": 11,
-      "dose2": 3,
-      "vaccines": 14
+      "dose2": 4,
+      "vaccines": 15
     },
     {
       "date": "2021-07-04",
@@ -1007,8 +1014,8 @@
       "date": "2021-07-28",
       "locality": "HOCKING",
       "dose1": 15,
-      "dose2": 22,
-      "vaccines": 37
+      "dose2": 23,
+      "vaccines": 38
     },
     {
       "date": "2021-07-29",
@@ -1461,9 +1468,9 @@
     {
       "date": "2021-10-01",
       "locality": "HOCKING",
-      "dose1": 42,
+      "dose1": 41,
       "dose2": 28,
-      "vaccines": 70
+      "vaccines": 69
     },
     {
       "date": "2021-10-02",
@@ -1482,16 +1489,16 @@
     {
       "date": "2021-10-04",
       "locality": "HOCKING",
-      "dose1": 37,
+      "dose1": 38,
       "dose2": 26,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-10-05",
       "locality": "HOCKING",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 25,
-      "vaccines": 55
+      "vaccines": 54
     },
     {
       "date": "2021-10-06",
@@ -1538,9 +1545,9 @@
     {
       "date": "2021-10-12",
       "locality": "HOCKING",
-      "dose1": 26,
+      "dose1": 25,
       "dose2": 30,
-      "vaccines": 56
+      "vaccines": 55
     },
     {
       "date": "2021-10-13",
@@ -1679,15 +1686,15 @@
       "date": "2021-11-01",
       "locality": "HOCKING",
       "dose1": 28,
-      "dose2": 35,
-      "vaccines": 63
+      "dose2": 36,
+      "vaccines": 64
     },
     {
       "date": "2021-11-02",
       "locality": "HOCKING",
       "dose1": 20,
-      "dose2": 16,
-      "vaccines": 36
+      "dose2": 15,
+      "vaccines": 35
     },
     {
       "date": "2021-11-03",
@@ -1700,8 +1707,8 @@
       "date": "2021-11-04",
       "locality": "HOCKING",
       "dose1": 28,
-      "dose2": 24,
-      "vaccines": 52
+      "dose2": 23,
+      "vaccines": 51
     },
     {
       "date": "2021-11-05",
@@ -1825,9 +1832,16 @@
     {
       "date": "2021-11-22",
       "locality": "HOCKING",
-      "dose1": 21,
+      "dose1": 24,
       "dose2": 29,
-      "vaccines": 50
+      "vaccines": 53
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "HOCKING",
+      "dose1": 21,
+      "dose2": 25,
+      "vaccines": 46
     }
   ]
 }

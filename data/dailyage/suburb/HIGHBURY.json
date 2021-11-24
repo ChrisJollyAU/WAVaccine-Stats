@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "HIGHBURY",
   "data": [
     {
@@ -470,9 +470,9 @@
       "date": "2021-08-26",
       "locality": "HIGHBURY",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-26",
@@ -599,8 +599,8 @@
       "locality": "HIGHBURY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-20",
@@ -710,9 +710,9 @@
       "date": "2021-10-11",
       "locality": "HIGHBURY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-13",
@@ -835,6 +835,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-05",
+      "locality": "HIGHBURY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-09",
       "locality": "HIGHBURY",
       "AgeGroup": "16 to 49",
@@ -888,6 +896,14 @@
       "AgeGroup": "12 to 15",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "HIGHBURY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

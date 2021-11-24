@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "4212",
   "data": [
     {
@@ -25,6 +25,13 @@
     },
     {
       "date": "2021-09-18",
+      "postcode": "4212",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-22",
       "postcode": "4212",
       "dose1": 1,
       "dose2": 0,
@@ -76,8 +83,8 @@
       "date": "2021-10-13",
       "postcode": "4212",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-16",

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "NORANDA",
   "data": [
     {
@@ -1550,9 +1550,9 @@
       "date": "2021-05-13",
       "locality": "NORANDA",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-05-13",
@@ -3390,9 +3390,9 @@
       "date": "2021-07-31",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 3,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-07-31",
@@ -3519,8 +3519,8 @@
       "locality": "NORANDA",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 8,
-      "vaccines": 16
+      "dose2": 7,
+      "vaccines": 15
     },
     {
       "date": "2021-08-05",
@@ -3967,8 +3967,8 @@
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 22,
-      "dose2": 12,
-      "vaccines": 34
+      "dose2": 13,
+      "vaccines": 35
     },
     {
       "date": "2021-08-24",
@@ -5382,9 +5382,9 @@
       "date": "2021-10-13",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 20,
-      "vaccines": 47
+      "vaccines": 48
     },
     {
       "date": "2021-10-13",
@@ -5414,9 +5414,9 @@
       "date": "2021-10-14",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
-      "dose1": 31,
+      "dose1": 30,
       "dose2": 27,
-      "vaccines": 58
+      "vaccines": 57
     },
     {
       "date": "2021-10-14",
@@ -5998,9 +5998,9 @@
       "date": "2021-11-02",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 12,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-11-02",
@@ -6087,8 +6087,8 @@
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 14,
-      "dose2": 26,
-      "vaccines": 40
+      "dose2": 27,
+      "vaccines": 41
     },
     {
       "date": "2021-11-05",
@@ -6151,8 +6151,8 @@
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 18,
-      "vaccines": 18
+      "dose2": 17,
+      "vaccines": 17
     },
     {
       "date": "2021-11-07",
@@ -6598,17 +6598,17 @@
       "date": "2021-11-22",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 25,
-      "vaccines": 32
+      "dose1": 9,
+      "dose2": 28,
+      "vaccines": 37
     },
     {
       "date": "2021-11-22",
       "locality": "NORANDA",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 8,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-11-22",
@@ -6617,6 +6617,38 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "NORANDA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "NORANDA",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 12,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "NORANDA",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "NORANDA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

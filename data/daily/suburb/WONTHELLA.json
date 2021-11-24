@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "locality": "WONTHELLA",
   "data": [
     {
@@ -902,8 +902,8 @@
       "date": "2021-08-11",
       "locality": "WONTHELLA",
       "dose1": 1,
-      "dose2": 10,
-      "vaccines": 11
+      "dose2": 11,
+      "vaccines": 12
     },
     {
       "date": "2021-08-12",
@@ -1594,9 +1594,16 @@
     {
       "date": "2021-11-22",
       "locality": "WONTHELLA",
-      "dose1": 3,
-      "dose2": 8,
-      "vaccines": 11
+      "dose1": 6,
+      "dose2": 12,
+      "vaccines": 18
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "WONTHELLA",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
     }
   ]
 }

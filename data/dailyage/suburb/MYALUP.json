@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "MYALUP",
   "data": [
     {
@@ -763,14 +763,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-30",
-      "locality": "MYALUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-31",
       "locality": "MYALUP",
       "AgeGroup": "16 to 49",
@@ -1411,14 +1403,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-24",
-      "locality": "MYALUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-25",
       "locality": "MYALUP",
       "AgeGroup": "12 to 15",
@@ -2016,6 +2000,22 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "MYALUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "MYALUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

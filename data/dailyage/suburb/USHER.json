@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "USHER",
   "data": [
     {
@@ -470,9 +470,9 @@
       "date": "2021-04-17",
       "locality": "USHER",
       "AgeGroup": "70 and over",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-04-19",
@@ -1335,8 +1335,8 @@
       "locality": "USHER",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-06-23",
@@ -1734,9 +1734,9 @@
       "date": "2021-07-15",
       "locality": "USHER",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-07-15",
@@ -2534,9 +2534,9 @@
       "date": "2021-08-27",
       "locality": "USHER",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-08-27",
@@ -3375,8 +3375,8 @@
       "locality": "USHER",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 6,
-      "vaccines": 15
+      "dose2": 5,
+      "vaccines": 14
     },
     {
       "date": "2021-10-07",
@@ -3407,8 +3407,8 @@
       "locality": "USHER",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 7,
-      "vaccines": 17
+      "dose2": 6,
+      "vaccines": 16
     },
     {
       "date": "2021-10-08",
@@ -4437,10 +4437,18 @@
     {
       "date": "2021-11-22",
       "locality": "USHER",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "USHER",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-11-22",
@@ -4457,6 +4465,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "USHER",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     }
   ]
 }

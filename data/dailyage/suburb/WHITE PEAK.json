@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "WHITE PEAK",
   "data": [
     {
@@ -1960,6 +1960,30 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "WHITE PEAK",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "WHITE PEAK",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "WHITE PEAK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

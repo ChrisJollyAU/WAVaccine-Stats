@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-22T00:00:00",
+  "date_updated": "2021-11-23T00:00:00",
   "postcode": "TREEBY",
   "data": [
     {
@@ -302,9 +302,9 @@
       "date": "2021-03-25",
       "locality": "TREEBY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-03-25",
@@ -703,8 +703,8 @@
       "locality": "TREEBY",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-04-22",
@@ -3494,9 +3494,9 @@
       "date": "2021-09-07",
       "locality": "TREEBY",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 12,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-09-07",
@@ -3959,8 +3959,8 @@
       "locality": "TREEBY",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 21,
-      "vaccines": 31
+      "dose2": 22,
+      "vaccines": 32
     },
     {
       "date": "2021-09-28",
@@ -4366,9 +4366,9 @@
       "date": "2021-10-13",
       "locality": "TREEBY",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 19,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-10-13",
@@ -5361,6 +5361,38 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "TREEBY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "TREEBY",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "TREEBY",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "TREEBY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

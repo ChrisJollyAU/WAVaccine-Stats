@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-23T00:00:00",
+  "date_updated": "2021-11-24T00:00:00",
   "locality": "KARLOO",
   "data": [
     {
@@ -1125,9 +1125,16 @@
     {
       "date": "2021-11-23",
       "locality": "KARLOO",
-      "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "KARLOO",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-23T00:00:00",
+  "date_updated": "2021-11-24T00:00:00",
   "postcode": "HOPETOUN",
   "data": [
     {
@@ -494,9 +494,9 @@
       "date": "2021-06-18",
       "locality": "HOPETOUN",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-22",
@@ -719,8 +719,8 @@
       "locality": "HOPETOUN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-14",
@@ -1774,9 +1774,9 @@
       "date": "2021-10-08",
       "locality": "HOPETOUN",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 14,
-      "vaccines": 27
+      "vaccines": 26
     },
     {
       "date": "2021-10-08",
@@ -2263,8 +2263,8 @@
       "locality": "HOPETOUN",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 12,
-      "vaccines": 19
+      "dose2": 11,
+      "vaccines": 18
     },
     {
       "date": "2021-11-06",
@@ -2502,9 +2502,33 @@
       "date": "2021-11-23",
       "locality": "HOPETOUN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "HOPETOUN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "HOPETOUN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "HOPETOUN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

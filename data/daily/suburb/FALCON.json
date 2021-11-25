@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-23T00:00:00",
+  "date_updated": "2021-11-24T00:00:00",
   "locality": "FALCON",
   "data": [
     {
@@ -243,9 +243,9 @@
     {
       "date": "2021-04-12",
       "locality": "FALCON",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 1,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-04-13",
@@ -412,8 +412,8 @@
       "date": "2021-05-10",
       "locality": "FALCON",
       "dose1": 34,
-      "dose2": 0,
-      "vaccines": 34
+      "dose2": 1,
+      "vaccines": 35
     },
     {
       "date": "2021-05-11",
@@ -1055,16 +1055,16 @@
     {
       "date": "2021-08-14",
       "locality": "FALCON",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 20,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-08-15",
       "locality": "FALCON",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-08-16",
@@ -1203,8 +1203,8 @@
       "date": "2021-09-04",
       "locality": "FALCON",
       "dose1": 12,
-      "dose2": 13,
-      "vaccines": 25
+      "dose2": 14,
+      "vaccines": 26
     },
     {
       "date": "2021-09-05",
@@ -1377,9 +1377,9 @@
     {
       "date": "2021-09-29",
       "locality": "FALCON",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 32,
-      "vaccines": 64
+      "vaccines": 65
     },
     {
       "date": "2021-09-30",
@@ -1559,16 +1559,16 @@
     {
       "date": "2021-10-25",
       "locality": "FALCON",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 45,
-      "vaccines": 77
+      "vaccines": 78
     },
     {
       "date": "2021-10-26",
       "locality": "FALCON",
-      "dose1": 31,
+      "dose1": 32,
       "dose2": 32,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-10-27",
@@ -1706,9 +1706,9 @@
     {
       "date": "2021-11-15",
       "locality": "FALCON",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 41,
-      "vaccines": 49
+      "vaccines": 48
     },
     {
       "date": "2021-11-16",
@@ -1762,9 +1762,16 @@
     {
       "date": "2021-11-23",
       "locality": "FALCON",
-      "dose1": 13,
-      "dose2": 29,
-      "vaccines": 42
+      "dose1": 14,
+      "dose2": 30,
+      "vaccines": 44
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "FALCON",
+      "dose1": 12,
+      "dose2": 31,
+      "vaccines": 43
     }
   ]
 }

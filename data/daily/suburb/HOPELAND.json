@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-23T00:00:00",
+  "date_updated": "2021-11-24T00:00:00",
   "locality": "HOPELAND",
   "data": [
     {
@@ -99,13 +99,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-04-25",
-      "locality": "HOPELAND",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-04-28",
@@ -377,8 +370,8 @@
       "date": "2021-07-18",
       "locality": "HOPELAND",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-19",
@@ -579,16 +572,16 @@
     {
       "date": "2021-08-23",
       "locality": "HOPELAND",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-08-24",
       "locality": "HOPELAND",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-25",
@@ -678,8 +671,8 @@
       "date": "2021-09-13",
       "locality": "HOPELAND",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-09-14",
@@ -706,8 +699,8 @@
       "date": "2021-09-17",
       "locality": "HOPELAND",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-09-19",
@@ -1086,6 +1079,20 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "HOPELAND",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "HOPELAND",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

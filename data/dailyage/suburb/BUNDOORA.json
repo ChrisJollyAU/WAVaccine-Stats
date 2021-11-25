@@ -1,9 +1,17 @@
 {
-  "date_updated": "2021-11-23T00:00:00",
+  "date_updated": "2021-11-24T00:00:00",
   "postcode": "BUNDOORA",
   "data": [
     {
       "date": "2021-08-24",
+      "locality": "BUNDOORA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-07",
       "locality": "BUNDOORA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -23,8 +31,8 @@
       "locality": "BUNDOORA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-11",

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-23T00:00:00",
+  "date_updated": "2021-11-24T00:00:00",
   "locality": "WANNEROO",
   "data": [
     {
@@ -110,9 +110,9 @@
     {
       "date": "2021-03-13",
       "locality": "WANNEROO",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-14",
@@ -124,9 +124,9 @@
     {
       "date": "2021-03-15",
       "locality": "WANNEROO",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 1,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-03-16",
@@ -705,8 +705,8 @@
     {
       "date": "2021-06-08",
       "locality": "WANNEROO",
-      "dose1": 31,
-      "dose2": 12,
+      "dose1": 29,
+      "dose2": 14,
       "vaccines": 43
     },
     {
@@ -1643,9 +1643,9 @@
     {
       "date": "2021-10-20",
       "locality": "WANNEROO",
-      "dose1": 36,
+      "dose1": 35,
       "dose2": 48,
-      "vaccines": 84
+      "vaccines": 83
     },
     {
       "date": "2021-10-21",
@@ -1867,23 +1867,30 @@
     {
       "date": "2021-11-21",
       "locality": "WANNEROO",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 14,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2021-11-22",
       "locality": "WANNEROO",
-      "dose1": 35,
+      "dose1": 36,
       "dose2": 44,
-      "vaccines": 79
+      "vaccines": 80
     },
     {
       "date": "2021-11-23",
       "locality": "WANNEROO",
-      "dose1": 32,
-      "dose2": 66,
+      "dose1": 31,
+      "dose2": 67,
       "vaccines": 98
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "WANNEROO",
+      "dose1": 16,
+      "dose2": 22,
+      "vaccines": 38
     }
   ]
 }

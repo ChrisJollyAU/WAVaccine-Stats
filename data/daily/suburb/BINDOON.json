@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-23T00:00:00",
+  "date_updated": "2021-11-24T00:00:00",
   "locality": "BINDOON",
   "data": [
     {
@@ -1524,9 +1524,16 @@
     {
       "date": "2021-11-23",
       "locality": "BINDOON",
+      "dose1": 3,
+      "dose2": 12,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "BINDOON",
       "dose1": 2,
-      "dose2": 11,
-      "vaccines": 13
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

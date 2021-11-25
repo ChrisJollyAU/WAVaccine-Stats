@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-23T00:00:00",
+  "date_updated": "2021-11-24T00:00:00",
   "postcode": "EDGEWATER",
   "data": [
     {
@@ -6015,8 +6015,8 @@
       "locality": "EDGEWATER",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 5,
-      "vaccines": 13
+      "dose2": 6,
+      "vaccines": 14
     },
     {
       "date": "2021-11-23",
@@ -6033,6 +6033,22 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "EDGEWATER",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-24",
+      "locality": "EDGEWATER",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

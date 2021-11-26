@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-24T00:00:00",
+  "date_updated": "2021-11-25T00:00:00",
   "locality": "MOUNT BARKER",
   "data": [
     {
@@ -488,9 +488,9 @@
     {
       "date": "2021-06-01",
       "locality": "MOUNT BARKER",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-06-02",
@@ -748,8 +748,8 @@
       "date": "2021-07-09",
       "locality": "MOUNT BARKER",
       "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose2": 11,
+      "vaccines": 19
     },
     {
       "date": "2021-07-10",
@@ -1105,8 +1105,8 @@
       "date": "2021-08-29",
       "locality": "MOUNT BARKER",
       "dose1": 15,
-      "dose2": 59,
-      "vaccines": 74
+      "dose2": 60,
+      "vaccines": 75
     },
     {
       "date": "2021-08-30",
@@ -1503,9 +1503,9 @@
     {
       "date": "2021-10-25",
       "locality": "MOUNT BARKER",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 23,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-10-26",
@@ -1524,9 +1524,9 @@
     {
       "date": "2021-10-28",
       "locality": "MOUNT BARKER",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 15,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-10-29",
@@ -1679,8 +1679,8 @@
       "date": "2021-11-19",
       "locality": "MOUNT BARKER",
       "dose1": 6,
-      "dose2": 12,
-      "vaccines": 18
+      "dose2": 11,
+      "vaccines": 17
     },
     {
       "date": "2021-11-20",
@@ -1700,8 +1700,8 @@
       "date": "2021-11-22",
       "locality": "MOUNT BARKER",
       "dose1": 14,
-      "dose2": 21,
-      "vaccines": 35
+      "dose2": 22,
+      "vaccines": 36
     },
     {
       "date": "2021-11-23",
@@ -1714,8 +1714,15 @@
       "date": "2021-11-24",
       "locality": "MOUNT BARKER",
       "dose1": 6,
-      "dose2": 13,
-      "vaccines": 19
+      "dose2": 14,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "MOUNT BARKER",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

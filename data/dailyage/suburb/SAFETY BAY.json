@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-24T00:00:00",
+  "date_updated": "2021-11-25T00:00:00",
   "postcode": "SAFETY BAY",
   "data": [
     {
@@ -862,9 +862,9 @@
       "date": "2021-04-21",
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-21",
@@ -1455,8 +1455,8 @@
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-05-24",
@@ -3590,9 +3590,9 @@
       "date": "2021-08-29",
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 4,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-08-29",
@@ -4143,8 +4143,8 @@
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 8,
+      "vaccines": 15
     },
     {
       "date": "2021-09-19",
@@ -4702,9 +4702,9 @@
       "date": "2021-10-08",
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 22,
-      "vaccines": 54
+      "vaccines": 55
     },
     {
       "date": "2021-10-08",
@@ -5631,8 +5631,8 @@
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
       "dose1": 14,
-      "dose2": 10,
-      "vaccines": 24
+      "dose2": 11,
+      "vaccines": 25
     },
     {
       "date": "2021-11-07",
@@ -5966,9 +5966,9 @@
       "date": "2021-11-18",
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 13,
-      "vaccines": 34
+      "vaccines": 33
     },
     {
       "date": "2021-11-18",
@@ -6111,8 +6111,8 @@
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
       "dose1": 16,
-      "dose2": 11,
-      "vaccines": 27
+      "dose2": 13,
+      "vaccines": 29
     },
     {
       "date": "2021-11-23",
@@ -6134,25 +6134,49 @@
       "date": "2021-11-24",
       "locality": "SAFETY BAY",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 15,
-      "vaccines": 23
+      "dose1": 10,
+      "dose2": 16,
+      "vaccines": 26
     },
     {
       "date": "2021-11-24",
       "locality": "SAFETY BAY",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-11-24",
       "locality": "SAFETY BAY",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 4,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "SAFETY BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 11,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "SAFETY BAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "SAFETY BAY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

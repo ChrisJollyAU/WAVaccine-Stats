@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-24T00:00:00",
+  "date_updated": "2021-11-25T00:00:00",
   "locality": "LAVERTON",
   "data": [
     {
@@ -621,9 +621,16 @@
     {
       "date": "2021-11-24",
       "locality": "LAVERTON",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 14,
-      "vaccines": 29
+      "vaccines": 30
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "LAVERTON",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

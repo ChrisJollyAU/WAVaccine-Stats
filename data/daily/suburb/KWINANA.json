@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-24T00:00:00",
+  "date_updated": "2021-11-25T00:00:00",
   "locality": "KWINANA",
   "data": [
     {
@@ -320,9 +320,9 @@
     {
       "date": "2021-06-01",
       "locality": "KWINANA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-02",
@@ -444,6 +444,13 @@
       "vaccines": 5
     },
     {
+      "date": "2021-06-29",
+      "locality": "KWINANA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-30",
       "locality": "KWINANA",
       "dose1": 5,
@@ -544,9 +551,9 @@
     {
       "date": "2021-07-16",
       "locality": "KWINANA",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 0,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-07-19",
@@ -705,9 +712,9 @@
     {
       "date": "2021-08-11",
       "locality": "KWINANA",
-      "dose1": 12,
-      "dose2": 34,
-      "vaccines": 46
+      "dose1": 13,
+      "dose2": 35,
+      "vaccines": 48
     },
     {
       "date": "2021-08-12",
@@ -1429,6 +1436,13 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "KWINANA",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

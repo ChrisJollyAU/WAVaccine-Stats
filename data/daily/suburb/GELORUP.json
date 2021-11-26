@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-24T00:00:00",
+  "date_updated": "2021-11-25T00:00:00",
   "locality": "GELORUP",
   "data": [
     {
@@ -1685,9 +1685,16 @@
     {
       "date": "2021-11-24",
       "locality": "GELORUP",
+      "dose1": 11,
+      "dose2": 12,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "GELORUP",
       "dose1": 7,
-      "dose2": 8,
-      "vaccines": 15
+      "dose2": 13,
+      "vaccines": 20
     }
   ]
 }

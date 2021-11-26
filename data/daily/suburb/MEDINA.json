@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-24T00:00:00",
+  "date_updated": "2021-11-25T00:00:00",
   "locality": "MEDINA",
   "data": [
     {
@@ -1672,8 +1672,15 @@
       "date": "2021-11-24",
       "locality": "MEDINA",
       "dose1": 4,
-      "dose2": 20,
-      "vaccines": 24
+      "dose2": 21,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "MEDINA",
+      "dose1": 8,
+      "dose2": 11,
+      "vaccines": 19
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-24T00:00:00",
+  "date_updated": "2021-11-25T00:00:00",
   "locality": "NORTH YUNDERUP",
   "data": [
     {
@@ -1448,8 +1448,15 @@
       "date": "2021-11-24",
       "locality": "NORTH YUNDERUP",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "NORTH YUNDERUP",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

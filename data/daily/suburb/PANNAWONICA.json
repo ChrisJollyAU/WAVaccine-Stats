@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-24T00:00:00",
+  "date_updated": "2021-11-25T00:00:00",
   "locality": "PANNAWONICA",
   "data": [
     {
@@ -157,13 +157,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-09",
-      "locality": "PANNAWONICA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-10",
       "locality": "PANNAWONICA",
       "dose1": 1,
@@ -230,8 +223,8 @@
       "date": "2021-07-30",
       "locality": "PANNAWONICA",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-04",
@@ -894,9 +887,16 @@
     {
       "date": "2021-11-24",
       "locality": "PANNAWONICA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 17,
-      "vaccines": 19
+      "vaccines": 20
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "PANNAWONICA",
+      "dose1": 1,
+      "dose2": 10,
+      "vaccines": 11
     }
   ]
 }

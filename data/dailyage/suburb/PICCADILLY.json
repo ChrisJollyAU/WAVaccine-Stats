@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-25T00:00:00",
+  "date_updated": "2021-11-28T00:00:00",
   "postcode": "PICCADILLY",
   "data": [
     {
@@ -142,9 +142,9 @@
       "date": "2021-04-01",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-01",
@@ -369,6 +369,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-05-01",
+      "locality": "PICCADILLY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-05-03",
@@ -1750,9 +1758,9 @@
       "date": "2021-08-05",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-05",
@@ -2102,9 +2110,9 @@
       "date": "2021-08-25",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 8,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-08-25",
@@ -2302,9 +2310,9 @@
       "date": "2021-09-06",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-09-06",
@@ -2567,8 +2575,8 @@
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-09-19",
@@ -2606,9 +2614,9 @@
       "date": "2021-09-21",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-21",
@@ -2687,8 +2695,8 @@
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 15,
-      "vaccines": 19
+      "dose2": 14,
+      "vaccines": 18
     },
     {
       "date": "2021-09-24",
@@ -2982,9 +2990,9 @@
       "date": "2021-10-08",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 16,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-10-08",
@@ -3046,8 +3054,8 @@
       "date": "2021-10-11",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 4,
+      "dose1": 7,
+      "dose2": 5,
       "vaccines": 12
     },
     {
@@ -3135,8 +3143,8 @@
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 11,
-      "vaccines": 18
+      "dose2": 12,
+      "vaccines": 19
     },
     {
       "date": "2021-10-15",
@@ -3150,17 +3158,17 @@
       "date": "2021-10-16",
       "locality": "PICCADILLY",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-10-16",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 12
     },
     {
       "date": "2021-10-17",
@@ -3206,9 +3214,9 @@
       "date": "2021-10-19",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 1,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-10-20",
@@ -3623,8 +3631,8 @@
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-11-09",
@@ -3678,9 +3686,9 @@
       "date": "2021-11-11",
       "locality": "PICCADILLY",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-11-12",
@@ -3719,16 +3727,16 @@
       "locality": "PICCADILLY",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-13",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose2": 7,
+      "vaccines": 11
     },
     {
       "date": "2021-11-13",
@@ -3910,9 +3918,9 @@
       "date": "2021-11-22",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-11-22",
@@ -3926,9 +3934,9 @@
       "date": "2021-11-23",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-11-23",
@@ -3966,9 +3974,9 @@
       "date": "2021-11-25",
       "locality": "PICCADILLY",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 11,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-11-25",
@@ -3977,6 +3985,70 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "PICCADILLY",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "PICCADILLY",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 6,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "PICCADILLY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "PICCADILLY",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "PICCADILLY",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "PICCADILLY",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-28",
+      "locality": "PICCADILLY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-28",
+      "locality": "PICCADILLY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

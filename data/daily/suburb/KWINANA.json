@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-25T00:00:00",
+  "date_updated": "2021-11-28T00:00:00",
   "locality": "KWINANA",
   "data": [
     {
@@ -194,9 +194,9 @@
     {
       "date": "2021-05-04",
       "locality": "KWINANA",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-05-05",
@@ -551,9 +551,9 @@
     {
       "date": "2021-07-16",
       "locality": "KWINANA",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 0,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-07-19",
@@ -572,9 +572,9 @@
     {
       "date": "2021-07-21",
       "locality": "KWINANA",
-      "dose1": 38,
+      "dose1": 39,
       "dose2": 3,
-      "vaccines": 41
+      "vaccines": 42
     },
     {
       "date": "2021-07-22",
@@ -636,8 +636,8 @@
       "date": "2021-07-30",
       "locality": "KWINANA",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-31",
@@ -713,15 +713,15 @@
       "date": "2021-08-11",
       "locality": "KWINANA",
       "dose1": 13,
-      "dose2": 35,
-      "vaccines": 48
+      "dose2": 36,
+      "vaccines": 49
     },
     {
       "date": "2021-08-12",
       "locality": "KWINANA",
       "dose1": 7,
-      "dose2": 37,
-      "vaccines": 44
+      "dose2": 38,
+      "vaccines": 45
     },
     {
       "date": "2021-08-13",
@@ -1342,9 +1342,9 @@
     {
       "date": "2021-11-10",
       "locality": "KWINANA",
-      "dose1": 8,
-      "dose2": 0,
-      "vaccines": 8
+      "dose1": 11,
+      "dose2": 1,
+      "vaccines": 12
     },
     {
       "date": "2021-11-11",
@@ -1440,9 +1440,30 @@
     {
       "date": "2021-11-25",
       "locality": "KWINANA",
-      "dose1": 1,
-      "dose2": 5,
+      "dose1": 4,
+      "dose2": 13,
+      "vaccines": 17
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "KWINANA",
+      "dose1": 2,
+      "dose2": 4,
       "vaccines": 6
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "KWINANA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-28",
+      "locality": "KWINANA",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

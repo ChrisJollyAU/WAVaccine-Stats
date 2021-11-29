@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-25T00:00:00",
+  "date_updated": "2021-11-28T00:00:00",
   "locality": "WOORREE",
   "data": [
     {
@@ -278,9 +278,9 @@
     {
       "date": "2021-05-14",
       "locality": "WOORREE",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-05-17",
@@ -622,8 +622,8 @@
       "date": "2021-07-12",
       "locality": "WOORREE",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-07-13",
@@ -1195,9 +1195,9 @@
     {
       "date": "2021-10-08",
       "locality": "WOORREE",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-10-09",
@@ -1364,8 +1364,8 @@
       "date": "2021-11-04",
       "locality": "WOORREE",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-11-05",
@@ -1461,9 +1461,9 @@
     {
       "date": "2021-11-18",
       "locality": "WOORREE",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 9,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-11-19",
@@ -1503,16 +1503,37 @@
     {
       "date": "2021-11-24",
       "locality": "WOORREE",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 10,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-11-25",
       "locality": "WOORREE",
       "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "WOORREE",
+      "dose1": 5,
+      "dose2": 7,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "WOORREE",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-28",
+      "locality": "WOORREE",
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 4
     }
   ]
 }

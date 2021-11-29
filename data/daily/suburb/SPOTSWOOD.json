@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-25T00:00:00",
+  "date_updated": "2021-11-28T00:00:00",
   "locality": "SPOTSWOOD",
   "data": [
     {
@@ -7,6 +7,13 @@
       "locality": "SPOTSWOOD",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "SPOTSWOOD",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

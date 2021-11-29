@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-25T00:00:00",
+  "date_updated": "2021-11-28T00:00:00",
   "postcode": "HAMEL",
   "data": [
     {
@@ -1235,11 +1235,59 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-24",
+      "locality": "HAMEL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "HAMEL",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "HAMEL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
       "date": "2021-11-25",
       "locality": "HAMEL",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "HAMEL",
+      "AgeGroup": "16 to 49",
+      "dose1": 40,
+      "dose2": 0,
+      "vaccines": 40
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "HAMEL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-28",
+      "locality": "HAMEL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

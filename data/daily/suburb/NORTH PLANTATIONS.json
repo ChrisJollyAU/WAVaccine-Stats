@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-25T00:00:00",
+  "date_updated": "2021-11-28T00:00:00",
   "locality": "NORTH PLANTATIONS",
   "data": [
     {
@@ -199,13 +199,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-25",
-      "locality": "NORTH PLANTATIONS",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-26",
       "locality": "NORTH PLANTATIONS",
       "dose1": 2,
@@ -272,8 +265,8 @@
       "date": "2021-11-15",
       "locality": "NORTH PLANTATIONS",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-11-23",
@@ -294,6 +287,13 @@
       "locality": "NORTH PLANTATIONS",
       "dose1": 5,
       "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "NORTH PLANTATIONS",
+      "dose1": 4,
+      "dose2": 1,
       "vaccines": 5
     }
   ]

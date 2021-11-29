@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-25T00:00:00",
+  "date_updated": "2021-11-28T00:00:00",
   "postcode": "WANDINA",
   "data": [
     {
@@ -150,9 +150,9 @@
       "date": "2021-03-21",
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-21",
@@ -377,6 +377,14 @@
       "dose1": 5,
       "dose2": 0,
       "vaccines": 5
+    },
+    {
+      "date": "2021-04-05",
+      "locality": "WANDINA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-06",
@@ -734,9 +742,9 @@
       "date": "2021-04-30",
       "locality": "WANDINA",
       "AgeGroup": "70 and over",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-05-01",
@@ -1079,8 +1087,8 @@
       "locality": "WANDINA",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-05-21",
@@ -2103,8 +2111,8 @@
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-07-12",
@@ -3950,9 +3958,9 @@
       "date": "2021-10-06",
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 6,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-10-06",
@@ -4214,9 +4222,9 @@
       "date": "2021-10-16",
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-10-16",
@@ -4639,8 +4647,8 @@
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 14,
-      "vaccines": 22
+      "dose2": 15,
+      "vaccines": 23
     },
     {
       "date": "2021-11-01",
@@ -4702,9 +4710,9 @@
       "date": "2021-11-03",
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 25,
-      "vaccines": 41
+      "vaccines": 42
     },
     {
       "date": "2021-11-04",
@@ -4787,14 +4795,6 @@
       "vaccines": 3
     },
     {
-      "date": "2021-11-06",
-      "locality": "WANDINA",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-07",
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
@@ -4855,8 +4855,8 @@
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 6,
-      "vaccines": 21
+      "dose2": 5,
+      "vaccines": 20
     },
     {
       "date": "2021-11-09",
@@ -5247,8 +5247,8 @@
       "locality": "WANDINA",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 15,
-      "vaccines": 23
+      "dose2": 16,
+      "vaccines": 24
     },
     {
       "date": "2021-11-25",
@@ -5257,6 +5257,70 @@
       "dose1": 0,
       "dose2": 6,
       "vaccines": 6
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "WANDINA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "WANDINA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-11-26",
+      "locality": "WANDINA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "WANDINA",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "WANDINA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "WANDINA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-28",
+      "locality": "WANDINA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-28",
+      "locality": "WANDINA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

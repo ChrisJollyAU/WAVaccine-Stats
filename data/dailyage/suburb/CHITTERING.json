@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-28T00:00:00",
+  "date_updated": "2021-11-29T00:00:00",
   "postcode": "CHITTERING",
   "data": [
     {
@@ -84,6 +84,14 @@
     },
     {
       "date": "2021-04-08",
+      "locality": "CHITTERING",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-09",
       "locality": "CHITTERING",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -262,6 +270,14 @@
       "date": "2021-05-07",
       "locality": "CHITTERING",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-10",
+      "locality": "CHITTERING",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -695,8 +711,8 @@
       "locality": "CHITTERING",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-07-04",
@@ -1095,8 +1111,8 @@
       "locality": "CHITTERING",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-03",
@@ -1766,9 +1782,9 @@
       "date": "2021-09-14",
       "locality": "CHITTERING",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-14",
@@ -2103,8 +2119,8 @@
       "locality": "CHITTERING",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-05",
@@ -2200,6 +2216,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "CHITTERING",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -2527,8 +2551,8 @@
       "locality": "CHITTERING",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-28",
@@ -2975,8 +2999,8 @@
       "locality": "CHITTERING",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-24",
@@ -2991,8 +3015,8 @@
       "locality": "CHITTERING",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-11-25",
@@ -3037,10 +3061,34 @@
     {
       "date": "2021-11-27",
       "locality": "CHITTERING",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "CHITTERING",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-11-29",
+      "locality": "CHITTERING",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-29",
+      "locality": "CHITTERING",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

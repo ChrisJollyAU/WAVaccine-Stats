@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-28T00:00:00",
+  "date_updated": "2021-11-29T00:00:00",
   "postcode": "AUGUSTA",
   "data": [
     {
@@ -654,6 +654,14 @@
       "date": "2021-05-25",
       "locality": "AUGUSTA",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-25",
+      "locality": "AUGUSTA",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1519,8 +1527,8 @@
       "locality": "AUGUSTA",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 21,
-      "vaccines": 24
+      "dose2": 22,
+      "vaccines": 25
     },
     {
       "date": "2021-07-31",
@@ -3406,17 +3414,17 @@
       "date": "2021-11-12",
       "locality": "AUGUSTA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-11-12",
       "locality": "AUGUSTA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 10,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-11-12",
@@ -3646,6 +3654,14 @@
       "date": "2021-11-27",
       "locality": "AUGUSTA",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-29",
+      "locality": "AUGUSTA",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-28T00:00:00",
+  "date_updated": "2021-11-29T00:00:00",
   "locality": "OCEAN BEACH",
   "data": [
     {
@@ -782,9 +782,9 @@
     {
       "date": "2021-08-23",
       "locality": "OCEAN BEACH",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 5,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-08-24",
@@ -846,8 +846,8 @@
       "date": "2021-09-03",
       "locality": "OCEAN BEACH",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-09-04",
@@ -1359,6 +1359,20 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-27",
+      "locality": "OCEAN BEACH",
+      "dose1": 6,
+      "dose2": 1,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-29",
+      "locality": "OCEAN BEACH",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

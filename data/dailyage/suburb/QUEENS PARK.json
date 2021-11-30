@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-28T00:00:00",
+  "date_updated": "2021-11-29T00:00:00",
   "postcode": "QUEENS PARK",
   "data": [
     {
@@ -54,9 +54,9 @@
       "date": "2021-03-02",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-03",
@@ -76,6 +76,14 @@
     },
     {
       "date": "2021-03-05",
+      "locality": "QUEENS PARK",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-06",
       "locality": "QUEENS PARK",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -399,8 +407,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-03-29",
@@ -710,9 +718,9 @@
       "date": "2021-04-15",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-04-15",
@@ -1199,8 +1207,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-05-12",
@@ -1566,9 +1574,9 @@
       "date": "2021-05-31",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 6,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-05-31",
@@ -1670,9 +1678,9 @@
       "date": "2021-06-04",
       "locality": "QUEENS PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-06-04",
@@ -2007,8 +2015,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 5,
-      "vaccines": 11
+      "dose2": 6,
+      "vaccines": 12
     },
     {
       "date": "2021-06-21",
@@ -2686,9 +2694,9 @@
       "date": "2021-07-22",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 15,
-      "vaccines": 32
+      "vaccines": 31
     },
     {
       "date": "2021-07-22",
@@ -2759,8 +2767,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-07-25",
@@ -3319,8 +3327,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 26,
-      "dose2": 21,
-      "vaccines": 47
+      "dose2": 20,
+      "vaccines": 46
     },
     {
       "date": "2021-08-19",
@@ -3406,9 +3414,9 @@
       "date": "2021-08-23",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 34,
+      "dose1": 33,
       "dose2": 4,
-      "vaccines": 38
+      "vaccines": 37
     },
     {
       "date": "2021-08-23",
@@ -3454,9 +3462,9 @@
       "date": "2021-08-25",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 21,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-08-25",
@@ -3487,8 +3495,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 24,
-      "vaccines": 25
+      "dose2": 25,
+      "vaccines": 26
     },
     {
       "date": "2021-08-26",
@@ -3526,9 +3534,9 @@
       "date": "2021-08-28",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 60,
+      "dose1": 61,
       "dose2": 21,
-      "vaccines": 81
+      "vaccines": 82
     },
     {
       "date": "2021-08-28",
@@ -3630,9 +3638,9 @@
       "date": "2021-09-02",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 23,
       "dose2": 7,
-      "vaccines": 31
+      "vaccines": 30
     },
     {
       "date": "2021-09-02",
@@ -3903,8 +3911,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 30,
-      "dose2": 29,
-      "vaccines": 59
+      "dose2": 28,
+      "vaccines": 58
     },
     {
       "date": "2021-09-15",
@@ -3959,8 +3967,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 18,
-      "dose2": 28,
-      "vaccines": 46
+      "dose2": 29,
+      "vaccines": 47
     },
     {
       "date": "2021-09-17",
@@ -4015,8 +4023,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 27,
-      "vaccines": 40
+      "dose2": 28,
+      "vaccines": 41
     },
     {
       "date": "2021-09-19",
@@ -4070,9 +4078,9 @@
       "date": "2021-09-21",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 21,
-      "vaccines": 42
+      "vaccines": 41
     },
     {
       "date": "2021-09-21",
@@ -4415,8 +4423,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 28,
-      "dose2": 34,
-      "vaccines": 62
+      "dose2": 33,
+      "vaccines": 61
     },
     {
       "date": "2021-10-03",
@@ -4678,9 +4686,9 @@
       "date": "2021-10-12",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 28,
-      "vaccines": 49
+      "vaccines": 50
     },
     {
       "date": "2021-10-12",
@@ -4711,8 +4719,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 35,
-      "dose2": 27,
-      "vaccines": 62
+      "dose2": 26,
+      "vaccines": 61
     },
     {
       "date": "2021-10-13",
@@ -4774,9 +4782,9 @@
       "date": "2021-10-15",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 24,
-      "vaccines": 44
+      "vaccines": 43
     },
     {
       "date": "2021-10-15",
@@ -4950,9 +4958,9 @@
       "date": "2021-10-21",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 24,
-      "vaccines": 46
+      "vaccines": 45
     },
     {
       "date": "2021-10-21",
@@ -5070,17 +5078,17 @@
       "date": "2021-10-25",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
+      "dose1": 22,
       "dose2": 33,
-      "vaccines": 56
+      "vaccines": 55
     },
     {
       "date": "2021-10-25",
       "locality": "QUEENS PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-10-25",
@@ -5102,9 +5110,9 @@
       "date": "2021-10-26",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 26,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-10-26",
@@ -5407,8 +5415,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 23,
-      "dose2": 21,
-      "vaccines": 44
+      "dose2": 20,
+      "vaccines": 43
     },
     {
       "date": "2021-11-05",
@@ -5623,16 +5631,16 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 18,
-      "vaccines": 24
+      "dose2": 17,
+      "vaccines": 23
     },
     {
       "date": "2021-11-12",
       "locality": "QUEENS PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-11-12",
@@ -5703,15 +5711,15 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 21,
-      "vaccines": 33
+      "dose2": 22,
+      "vaccines": 34
     },
     {
       "date": "2021-11-15",
       "locality": "QUEENS PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
-      "dose2": 7,
+      "dose1": 2,
+      "dose2": 8,
       "vaccines": 10
     },
     {
@@ -5735,8 +5743,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 24,
-      "dose2": 18,
-      "vaccines": 42
+      "dose2": 19,
+      "vaccines": 43
     },
     {
       "date": "2021-11-16",
@@ -5974,9 +5982,9 @@
       "date": "2021-11-24",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 20,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-11-24",
@@ -6007,8 +6015,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 17,
-      "vaccines": 21
+      "dose2": 16,
+      "vaccines": 20
     },
     {
       "date": "2021-11-26",
@@ -6022,9 +6030,9 @@
       "date": "2021-11-26",
       "locality": "QUEENS PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 20,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-11-26",
@@ -6055,8 +6063,8 @@
       "locality": "QUEENS PARK",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-11-28",
@@ -6076,6 +6084,30 @@
     },
     {
       "date": "2021-11-28",
+      "locality": "QUEENS PARK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-29",
+      "locality": "QUEENS PARK",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 15,
+      "vaccines": 27
+    },
+    {
+      "date": "2021-11-29",
+      "locality": "QUEENS PARK",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-11-29",
       "locality": "QUEENS PARK",
       "AgeGroup": "70 and over",
       "dose1": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-29T00:00:00",
+  "date_updated": "2021-11-30T00:00:00",
   "postcode": "MADELEY",
   "data": [
     {
@@ -190,9 +190,9 @@
       "date": "2021-03-09",
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-03-09",
@@ -270,6 +270,14 @@
       "date": "2021-03-14",
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-14",
+      "locality": "MADELEY",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -663,8 +671,8 @@
       "locality": "MADELEY",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-04-05",
@@ -1727,8 +1735,8 @@
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-05-26",
@@ -2526,9 +2534,9 @@
       "date": "2021-06-30",
       "locality": "MADELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-06-30",
@@ -2678,9 +2686,9 @@
       "date": "2021-07-07",
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 1,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-07-07",
@@ -3063,8 +3071,8 @@
       "locality": "MADELEY",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-07-23",
@@ -3495,8 +3503,8 @@
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
       "dose1": 23,
-      "dose2": 14,
-      "vaccines": 37
+      "dose2": 15,
+      "vaccines": 38
     },
     {
       "date": "2021-08-11",
@@ -3710,9 +3718,9 @@
       "date": "2021-08-20",
       "locality": "MADELEY",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 17,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-08-20",
@@ -4662,9 +4670,9 @@
       "date": "2021-09-25",
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 13,
-      "vaccines": 30
+      "vaccines": 31
     },
     {
       "date": "2021-09-25",
@@ -5382,9 +5390,9 @@
       "date": "2021-10-19",
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 19,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-10-19",
@@ -5511,8 +5519,8 @@
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
       "dose1": 22,
-      "dose2": 20,
-      "vaccines": 42
+      "dose2": 21,
+      "vaccines": 43
     },
     {
       "date": "2021-10-23",
@@ -6087,8 +6095,8 @@
       "locality": "MADELEY",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 11,
-      "vaccines": 14
+      "dose2": 10,
+      "vaccines": 13
     },
     {
       "date": "2021-11-11",
@@ -6223,8 +6231,8 @@
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
       "dose1": 18,
-      "dose2": 16,
-      "vaccines": 34
+      "dose2": 15,
+      "vaccines": 33
     },
     {
       "date": "2021-11-16",
@@ -6591,8 +6599,8 @@
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 9
     },
     {
       "date": "2021-11-28",
@@ -6614,17 +6622,17 @@
       "date": "2021-11-29",
       "locality": "MADELEY",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
-      "dose2": 18,
-      "vaccines": 28
+      "dose1": 12,
+      "dose2": 21,
+      "vaccines": 33
     },
     {
       "date": "2021-11-29",
       "locality": "MADELEY",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 8,
+      "vaccines": 9
     },
     {
       "date": "2021-11-29",
@@ -6633,6 +6641,38 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "MADELEY",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "MADELEY",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 6,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "MADELEY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "MADELEY",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-29T00:00:00",
+  "date_updated": "2021-11-30T00:00:00",
   "postcode": "RANGEWAY",
   "data": [
     {
@@ -1598,9 +1598,9 @@
       "date": "2021-07-27",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-07-27",
@@ -2087,8 +2087,8 @@
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-24",
@@ -3798,9 +3798,9 @@
       "date": "2021-11-11",
       "locality": "RANGEWAY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-11-11",
@@ -4078,9 +4078,9 @@
       "date": "2021-11-23",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
-      "dose2": 8,
-      "vaccines": 19
+      "dose1": 12,
+      "dose2": 10,
+      "vaccines": 22
     },
     {
       "date": "2021-11-23",
@@ -4207,8 +4207,16 @@
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-11-29",
+      "locality": "RANGEWAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-11-29",
@@ -4217,6 +4225,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "RANGEWAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "RANGEWAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "RANGEWAY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

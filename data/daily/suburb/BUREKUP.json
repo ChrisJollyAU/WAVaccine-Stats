@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-29T00:00:00",
+  "date_updated": "2021-11-30T00:00:00",
   "locality": "BUREKUP",
   "data": [
     {
@@ -407,13 +407,6 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
-    },
-    {
-      "date": "2021-06-08",
-      "locality": "BUREKUP",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-06-09",
@@ -866,16 +859,16 @@
     {
       "date": "2021-08-25",
       "locality": "BUREKUP",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-26",
       "locality": "BUREKUP",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-08-27",
@@ -1007,8 +1000,8 @@
       "date": "2021-09-16",
       "locality": "BUREKUP",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-09-17",
@@ -1464,6 +1457,13 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "BUREKUP",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

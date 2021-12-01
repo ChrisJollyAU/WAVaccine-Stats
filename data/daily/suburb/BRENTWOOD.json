@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-29T00:00:00",
+  "date_updated": "2021-11-30T00:00:00",
   "locality": "BRENTWOOD",
   "data": [
     {
@@ -1349,9 +1349,9 @@
     {
       "date": "2021-09-17",
       "locality": "BRENTWOOD",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 12,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-09-18",
@@ -1671,9 +1671,9 @@
     {
       "date": "2021-11-02",
       "locality": "BRENTWOOD",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 7,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2021-11-03",
@@ -1819,8 +1819,8 @@
       "date": "2021-11-23",
       "locality": "BRENTWOOD",
       "dose1": 4,
-      "dose2": 7,
-      "vaccines": 11
+      "dose2": 6,
+      "vaccines": 10
     },
     {
       "date": "2021-11-24",
@@ -1860,9 +1860,16 @@
     {
       "date": "2021-11-29",
       "locality": "BRENTWOOD",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "BRENTWOOD",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 7,
+      "vaccines": 7
     }
   ]
 }

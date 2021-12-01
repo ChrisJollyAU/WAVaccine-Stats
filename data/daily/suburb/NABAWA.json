@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-29T00:00:00",
+  "date_updated": "2021-11-30T00:00:00",
   "locality": "NABAWA",
   "data": [
     {
@@ -640,6 +640,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-07",
+      "locality": "NABAWA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-08",
       "locality": "NABAWA",
       "dose1": 2,
@@ -743,6 +750,13 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "NABAWA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

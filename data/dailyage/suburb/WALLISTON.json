@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-29T00:00:00",
+  "date_updated": "2021-11-30T00:00:00",
   "postcode": "WALLISTON",
   "data": [
     {
@@ -3959,8 +3959,8 @@
       "locality": "WALLISTON",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-11-29",
@@ -3969,6 +3969,22 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "WALLISTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "WALLISTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

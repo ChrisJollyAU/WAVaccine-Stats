@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-29T00:00:00",
+  "date_updated": "2021-11-30T00:00:00",
   "postcode": "HILL RIVER",
   "data": [
     {
@@ -35,6 +35,30 @@
       "vaccines": 6
     },
     {
+      "date": "2021-09-18",
+      "locality": "HILL RIVER",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-09-19",
+      "locality": "HILL RIVER",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-18",
+      "locality": "HILL RIVER",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
       "date": "2021-11-19",
       "locality": "HILL RIVER",
       "AgeGroup": "16 to 49",
@@ -46,8 +70,8 @@
       "date": "2021-11-25",
       "locality": "HILL RIVER",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

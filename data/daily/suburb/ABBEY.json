@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-29T00:00:00",
+  "date_updated": "2021-11-30T00:00:00",
   "locality": "ABBEY",
   "data": [
     {
@@ -1567,8 +1567,15 @@
       "date": "2021-11-29",
       "locality": "ABBEY",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "ABBEY",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
     }
   ]
 }

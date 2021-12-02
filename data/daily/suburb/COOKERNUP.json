@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "locality": "COOKERNUP",
   "data": [
     {
@@ -670,9 +670,9 @@
     {
       "date": "2021-09-23",
       "locality": "COOKERNUP",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 6,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-09-24",
@@ -878,13 +878,6 @@
       "vaccines": 5
     },
     {
-      "date": "2021-10-30",
-      "locality": "COOKERNUP",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-01",
       "locality": "COOKERNUP",
       "dose1": 4,
@@ -1051,6 +1044,13 @@
       "dose1": 0,
       "dose2": 6,
       "vaccines": 6
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "COOKERNUP",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

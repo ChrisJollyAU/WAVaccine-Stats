@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "locality": "SOUTH CARNARVON",
   "data": [
     {
@@ -852,9 +852,9 @@
     {
       "date": "2021-11-03",
       "locality": "SOUTH CARNARVON",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 6,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-11-04",
@@ -1016,6 +1016,13 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "SOUTH CARNARVON",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

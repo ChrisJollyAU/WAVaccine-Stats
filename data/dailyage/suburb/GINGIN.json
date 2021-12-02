@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "postcode": "GINGIN",
   "data": [
     {
@@ -2302,9 +2302,9 @@
       "date": "2021-08-30",
       "locality": "GINGIN",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-08-30",
@@ -2863,8 +2863,8 @@
       "locality": "GINGIN",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 2,
-      "vaccines": 14
+      "dose2": 1,
+      "vaccines": 13
     },
     {
       "date": "2021-09-23",
@@ -4457,6 +4457,30 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "GINGIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "GINGIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "GINGIN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

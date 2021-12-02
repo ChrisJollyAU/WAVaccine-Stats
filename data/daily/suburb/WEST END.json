@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "locality": "WEST END",
   "data": [
     {
@@ -1384,9 +1384,16 @@
     {
       "date": "2021-11-30",
       "locality": "WEST END",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "WEST END",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "locality": "SPENCER PARK",
   "data": [
     {
@@ -257,9 +257,9 @@
     {
       "date": "2021-04-16",
       "locality": "SPENCER PARK",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-04-17",
@@ -832,8 +832,8 @@
       "date": "2021-07-09",
       "locality": "SPENCER PARK",
       "dose1": 6,
-      "dose2": 7,
-      "vaccines": 13
+      "dose2": 6,
+      "vaccines": 12
     },
     {
       "date": "2021-07-10",
@@ -1832,16 +1832,23 @@
     {
       "date": "2021-11-29",
       "locality": "SPENCER PARK",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 10,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-11-30",
       "locality": "SPENCER PARK",
-      "dose1": 8,
-      "dose2": 13,
-      "vaccines": 21
+      "dose1": 7,
+      "dose2": 16,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "SPENCER PARK",
+      "dose1": 6,
+      "dose2": 1,
+      "vaccines": 7
     }
   ]
 }

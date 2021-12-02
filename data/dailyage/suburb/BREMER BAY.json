@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "postcode": "BREMER BAY",
   "data": [
     {
@@ -1945,6 +1945,30 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "BREMER BAY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "BREMER BAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "BREMER BAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

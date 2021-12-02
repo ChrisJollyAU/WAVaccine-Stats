@@ -1,12 +1,19 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "locality": "CULCAIRN",
   "data": [
     {
-      "date": "2021-11-08",
+      "date": "2021-04-08",
       "locality": "CULCAIRN",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-08",
+      "locality": "CULCAIRN",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

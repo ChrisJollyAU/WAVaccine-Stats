@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "locality": "EDGEWATER",
   "data": [
     {
@@ -146,8 +146,8 @@
       "date": "2021-03-17",
       "locality": "EDGEWATER",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-03-18",
@@ -1924,8 +1924,15 @@
       "date": "2021-11-30",
       "locality": "EDGEWATER",
       "dose1": 6,
-      "dose2": 14,
-      "vaccines": 20
+      "dose2": 15,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "EDGEWATER",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "locality": "BANJUP",
   "data": [
+    {
+      "date": "2021-02-24",
+      "locality": "BANJUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-02",
       "locality": "BANJUP",
@@ -111,8 +118,8 @@
       "date": "2021-03-25",
       "locality": "BANJUP",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-03-26",
@@ -1195,9 +1202,9 @@
     {
       "date": "2021-09-18",
       "locality": "BANJUP",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-09-19",
@@ -1343,8 +1350,8 @@
       "date": "2021-10-10",
       "locality": "BANJUP",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-10-11",
@@ -1524,9 +1531,9 @@
     {
       "date": "2021-11-05",
       "locality": "BANJUP",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 7,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-11-06",
@@ -1699,8 +1706,15 @@
     {
       "date": "2021-11-30",
       "locality": "BANJUP",
-      "dose1": 5,
-      "dose2": 4,
+      "dose1": 6,
+      "dose2": 5,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "BANJUP",
+      "dose1": 2,
+      "dose2": 7,
       "vaccines": 9
     }
   ]

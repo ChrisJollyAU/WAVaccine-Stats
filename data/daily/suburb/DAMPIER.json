@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "locality": "DAMPIER",
   "data": [
     {
@@ -1265,9 +1265,9 @@
     {
       "date": "2021-11-25",
       "locality": "DAMPIER",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 10,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-11-26",
@@ -1296,6 +1296,13 @@
       "dose1": 4,
       "dose2": 6,
       "vaccines": 10
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "DAMPIER",
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
     }
   ]
 }

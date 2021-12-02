@@ -1,9 +1,17 @@
 {
-  "date_updated": "2021-11-30T00:00:00",
+  "date_updated": "2021-12-01T00:00:00",
   "postcode": "MERRYLANDS",
   "data": [
     {
       "date": "2021-08-07",
+      "locality": "MERRYLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-20",
       "locality": "MERRYLANDS",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -43,6 +51,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-20",
+      "locality": "MERRYLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-06",
       "locality": "MERRYLANDS",
       "AgeGroup": "16 to 49",
@@ -73,6 +89,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "MERRYLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

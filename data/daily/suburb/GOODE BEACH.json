@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "locality": "GOODE BEACH",
   "data": [
     {
@@ -332,13 +332,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-13",
-      "locality": "GOODE BEACH",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-15",
       "locality": "GOODE BEACH",
       "dose1": 3,
@@ -570,13 +563,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-07-25",
-      "locality": "GOODE BEACH",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-26",
       "locality": "GOODE BEACH",
       "dose1": 0,
@@ -678,8 +664,8 @@
       "date": "2021-08-15",
       "locality": "GOODE BEACH",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-08-17",
@@ -785,13 +771,6 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
-    },
-    {
-      "date": "2021-09-05",
-      "locality": "GOODE BEACH",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-09-06",
@@ -1219,6 +1198,13 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "GOODE BEACH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

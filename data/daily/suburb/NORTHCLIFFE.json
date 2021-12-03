@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "locality": "NORTHCLIFFE",
   "data": [
     {
@@ -1223,9 +1223,16 @@
     {
       "date": "2021-12-01",
       "locality": "NORTHCLIFFE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "NORTHCLIFFE",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     }
   ]
 }

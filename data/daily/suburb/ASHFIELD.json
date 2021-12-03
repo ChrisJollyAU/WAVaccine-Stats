@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "locality": "ASHFIELD",
   "data": [
     {
@@ -691,9 +691,9 @@
     {
       "date": "2021-07-01",
       "locality": "ASHFIELD",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-07-02",
@@ -1069,9 +1069,9 @@
     {
       "date": "2021-08-24",
       "locality": "ASHFIELD",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-08-25",
@@ -1167,9 +1167,9 @@
     {
       "date": "2021-09-07",
       "locality": "ASHFIELD",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-08",
@@ -1266,8 +1266,8 @@
       "date": "2021-09-21",
       "locality": "ASHFIELD",
       "dose1": 9,
-      "dose2": 4,
-      "vaccines": 13
+      "dose2": 5,
+      "vaccines": 14
     },
     {
       "date": "2021-09-22",
@@ -1356,8 +1356,8 @@
     {
       "date": "2021-10-04",
       "locality": "ASHFIELD",
-      "dose1": 4,
-      "dose2": 7,
+      "dose1": 5,
+      "dose2": 6,
       "vaccines": 11
     },
     {
@@ -1511,8 +1511,8 @@
       "date": "2021-10-26",
       "locality": "ASHFIELD",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 7,
+      "vaccines": 11
     },
     {
       "date": "2021-10-27",
@@ -1525,8 +1525,8 @@
       "date": "2021-10-28",
       "locality": "ASHFIELD",
       "dose1": 3,
-      "dose2": 10,
-      "vaccines": 13
+      "dose2": 11,
+      "vaccines": 14
     },
     {
       "date": "2021-10-29",
@@ -1763,8 +1763,15 @@
       "date": "2021-12-01",
       "locality": "ASHFIELD",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "ASHFIELD",
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
     }
   ]
 }

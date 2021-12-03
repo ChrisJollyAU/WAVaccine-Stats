@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "locality": "HUNTINGDALE",
   "data": [
     {
@@ -1903,15 +1903,22 @@
       "date": "2021-11-30",
       "locality": "HUNTINGDALE",
       "dose1": 18,
-      "dose2": 34,
-      "vaccines": 52
+      "dose2": 35,
+      "vaccines": 53
     },
     {
       "date": "2021-12-01",
       "locality": "HUNTINGDALE",
-      "dose1": 17,
-      "dose2": 60,
-      "vaccines": 77
+      "dose1": 20,
+      "dose2": 65,
+      "vaccines": 85
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "HUNTINGDALE",
+      "dose1": 20,
+      "dose2": 37,
+      "vaccines": 57
     }
   ]
 }

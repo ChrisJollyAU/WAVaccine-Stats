@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "locality": "BUTLER",
   "data": [
     {
@@ -117,9 +117,9 @@
     {
       "date": "2021-03-12",
       "locality": "BUTLER",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-03-13",
@@ -307,8 +307,8 @@
       "date": "2021-04-08",
       "locality": "BUTLER",
       "dose1": 22,
-      "dose2": 2,
-      "vaccines": 24
+      "dose2": 3,
+      "vaccines": 25
     },
     {
       "date": "2021-04-09",
@@ -327,9 +327,9 @@
     {
       "date": "2021-04-12",
       "locality": "BUTLER",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 4,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-04-13",
@@ -902,8 +902,8 @@
       "date": "2021-07-05",
       "locality": "BUTLER",
       "dose1": 42,
-      "dose2": 16,
-      "vaccines": 58
+      "dose2": 17,
+      "vaccines": 59
     },
     {
       "date": "2021-07-06",
@@ -1111,16 +1111,16 @@
     {
       "date": "2021-08-04",
       "locality": "BUTLER",
-      "dose1": 50,
+      "dose1": 49,
       "dose2": 45,
-      "vaccines": 95
+      "vaccines": 94
     },
     {
       "date": "2021-08-05",
       "locality": "BUTLER",
-      "dose1": 38,
+      "dose1": 39,
       "dose2": 23,
-      "vaccines": 61
+      "vaccines": 62
     },
     {
       "date": "2021-08-06",
@@ -1153,9 +1153,9 @@
     {
       "date": "2021-08-10",
       "locality": "BUTLER",
-      "dose1": 32,
+      "dose1": 31,
       "dose2": 73,
-      "vaccines": 105
+      "vaccines": 104
     },
     {
       "date": "2021-08-11",
@@ -1167,9 +1167,9 @@
     {
       "date": "2021-08-12",
       "locality": "BUTLER",
-      "dose1": 41,
+      "dose1": 40,
       "dose2": 33,
-      "vaccines": 74
+      "vaccines": 73
     },
     {
       "date": "2021-08-13",
@@ -1308,15 +1308,15 @@
       "date": "2021-09-01",
       "locality": "BUTLER",
       "dose1": 68,
-      "dose2": 66,
-      "vaccines": 134
+      "dose2": 65,
+      "vaccines": 133
     },
     {
       "date": "2021-09-02",
       "locality": "BUTLER",
       "dose1": 31,
-      "dose2": 42,
-      "vaccines": 73
+      "dose2": 41,
+      "vaccines": 72
     },
     {
       "date": "2021-09-03",
@@ -1350,8 +1350,8 @@
       "date": "2021-09-07",
       "locality": "BUTLER",
       "dose1": 62,
-      "dose2": 43,
-      "vaccines": 105
+      "dose2": 42,
+      "vaccines": 104
     },
     {
       "date": "2021-09-08",
@@ -1440,9 +1440,9 @@
     {
       "date": "2021-09-20",
       "locality": "BUTLER",
-      "dose1": 55,
+      "dose1": 54,
       "dose2": 40,
-      "vaccines": 95
+      "vaccines": 94
     },
     {
       "date": "2021-09-21",
@@ -1511,8 +1511,8 @@
       "date": "2021-09-30",
       "locality": "BUTLER",
       "dose1": 80,
-      "dose2": 43,
-      "vaccines": 123
+      "dose2": 44,
+      "vaccines": 124
     },
     {
       "date": "2021-10-01",
@@ -1552,9 +1552,9 @@
     {
       "date": "2021-10-06",
       "locality": "BUTLER",
-      "dose1": 66,
+      "dose1": 67,
       "dose2": 42,
-      "vaccines": 108
+      "vaccines": 109
     },
     {
       "date": "2021-10-07",
@@ -1629,9 +1629,9 @@
     {
       "date": "2021-10-17",
       "locality": "BUTLER",
-      "dose1": 47,
+      "dose1": 46,
       "dose2": 45,
-      "vaccines": 92
+      "vaccines": 91
     },
     {
       "date": "2021-10-18",
@@ -1686,8 +1686,8 @@
       "date": "2021-10-25",
       "locality": "BUTLER",
       "dose1": 58,
-      "dose2": 53,
-      "vaccines": 111
+      "dose2": 52,
+      "vaccines": 110
     },
     {
       "date": "2021-10-26",
@@ -1699,9 +1699,9 @@
     {
       "date": "2021-10-27",
       "locality": "BUTLER",
-      "dose1": 55,
+      "dose1": 54,
       "dose2": 68,
-      "vaccines": 123
+      "vaccines": 122
     },
     {
       "date": "2021-10-28",
@@ -1749,8 +1749,8 @@
       "date": "2021-11-03",
       "locality": "BUTLER",
       "dose1": 40,
-      "dose2": 70,
-      "vaccines": 110
+      "dose2": 71,
+      "vaccines": 111
     },
     {
       "date": "2021-11-04",
@@ -1944,9 +1944,16 @@
     {
       "date": "2021-12-01",
       "locality": "BUTLER",
-      "dose1": 36,
-      "dose2": 37,
-      "vaccines": 73
+      "dose1": 39,
+      "dose2": 41,
+      "vaccines": 80
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "BUTLER",
+      "dose1": 22,
+      "dose2": 28,
+      "vaccines": 50
     }
   ]
 }

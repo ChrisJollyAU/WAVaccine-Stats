@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "postcode": "LOCKRIDGE",
   "data": [
     {
@@ -5455,8 +5455,8 @@
       "locality": "LOCKRIDGE",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 6,
-      "vaccines": 6
+      "dose2": 8,
+      "vaccines": 8
     },
     {
       "date": "2021-12-01",
@@ -5489,6 +5489,30 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "LOCKRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 11,
+      "dose2": 3,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "LOCKRIDGE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "LOCKRIDGE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

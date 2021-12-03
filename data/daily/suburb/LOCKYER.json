@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "locality": "LOCKYER",
   "data": [
     {
@@ -1587,9 +1587,9 @@
     {
       "date": "2021-11-29",
       "locality": "LOCKYER",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-11-30",
@@ -1601,9 +1601,16 @@
     {
       "date": "2021-12-01",
       "locality": "LOCKYER",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "LOCKYER",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
     }
   ]
 }

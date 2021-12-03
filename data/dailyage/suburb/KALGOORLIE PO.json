@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "postcode": "KALGOORLIE PO",
   "data": [
     {
@@ -1126,9 +1126,9 @@
       "date": "2021-07-14",
       "locality": "KALGOORLIE PO",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-14",
@@ -1415,8 +1415,8 @@
       "locality": "KALGOORLIE PO",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-08-06",
@@ -2126,17 +2126,17 @@
       "date": "2021-09-22",
       "locality": "KALGOORLIE PO",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-23",
       "locality": "KALGOORLIE PO",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-23",
@@ -2519,16 +2519,16 @@
       "locality": "KALGOORLIE PO",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 12,
-      "vaccines": 13
+      "dose2": 13,
+      "vaccines": 14
     },
     {
       "date": "2021-10-14",
       "locality": "KALGOORLIE PO",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-14",
@@ -3062,9 +3062,9 @@
       "date": "2021-11-15",
       "locality": "KALGOORLIE PO",
       "AgeGroup": "12 to 15",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-11-15",
@@ -3333,10 +3333,18 @@
     {
       "date": "2021-12-01",
       "locality": "KALGOORLIE PO",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "KALGOORLIE PO",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-12-01",
@@ -3353,6 +3361,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "KALGOORLIE PO",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "KALGOORLIE PO",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "KALGOORLIE PO",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
     }
   ]
 }

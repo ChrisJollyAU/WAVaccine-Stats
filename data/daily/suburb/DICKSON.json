@@ -1,7 +1,14 @@
 {
-  "date_updated": "2021-12-01T00:00:00",
+  "date_updated": "2021-12-02T00:00:00",
   "locality": "DICKSON",
   "data": [
+    {
+      "date": "2021-10-08",
+      "locality": "DICKSON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-10-19",
       "locality": "DICKSON",
@@ -11,6 +18,13 @@
     },
     {
       "date": "2021-11-11",
+      "locality": "DICKSON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-21",
       "locality": "DICKSON",
       "dose1": 0,
       "dose2": 1,

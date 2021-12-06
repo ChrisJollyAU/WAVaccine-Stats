@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "YALYALUP",
   "data": [
     {
@@ -1665,15 +1665,29 @@
       "date": "2021-12-01",
       "locality": "YALYALUP",
       "dose1": 3,
-      "dose2": 14,
-      "vaccines": 17
+      "dose2": 17,
+      "vaccines": 20
     },
     {
       "date": "2021-12-02",
       "locality": "YALYALUP",
       "dose1": 6,
+      "dose2": 7,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "YALYALUP",
+      "dose1": 5,
+      "dose2": 24,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "YALYALUP",
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 11
+      "vaccines": 8
     }
   ]
 }

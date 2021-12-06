@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "MORESBY",
   "data": [
     {
@@ -1490,8 +1490,22 @@
       "date": "2021-12-02",
       "locality": "MORESBY",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 12
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "MORESBY",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "MORESBY",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

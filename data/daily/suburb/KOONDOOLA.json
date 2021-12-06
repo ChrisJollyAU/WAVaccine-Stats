@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "KOONDOOLA",
   "data": [
     {
@@ -1811,9 +1811,23 @@
     {
       "date": "2021-12-02",
       "locality": "KOONDOOLA",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 16
+      "vaccines": 17
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "KOONDOOLA",
+      "dose1": 13,
+      "dose2": 13,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "KOONDOOLA",
+      "dose1": 6,
+      "dose2": 13,
+      "vaccines": 19
     }
   ]
 }

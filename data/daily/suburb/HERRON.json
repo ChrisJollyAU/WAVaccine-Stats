@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "HERRON",
   "data": [
     {
@@ -488,9 +488,9 @@
     {
       "date": "2021-07-28",
       "locality": "HERRON",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-07-29",
@@ -664,8 +664,8 @@
       "date": "2021-08-25",
       "locality": "HERRON",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-08-26",
@@ -719,9 +719,9 @@
     {
       "date": "2021-09-02",
       "locality": "HERRON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-03",
@@ -775,9 +775,9 @@
     {
       "date": "2021-09-10",
       "locality": "HERRON",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-11",
@@ -845,9 +845,9 @@
     {
       "date": "2021-09-21",
       "locality": "HERRON",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-09-22",
@@ -867,8 +867,8 @@
       "date": "2021-09-24",
       "locality": "HERRON",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-25",
@@ -1000,8 +1000,8 @@
       "date": "2021-10-16",
       "locality": "HERRON",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-10-17",
@@ -1286,9 +1286,16 @@
     {
       "date": "2021-12-02",
       "locality": "HERRON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "HERRON",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

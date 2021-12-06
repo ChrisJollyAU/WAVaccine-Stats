@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "HILTON",
   "data": [
     {
@@ -1882,8 +1882,8 @@
       "date": "2021-12-01",
       "locality": "HILTON",
       "dose1": 6,
-      "dose2": 19,
-      "vaccines": 25
+      "dose2": 20,
+      "vaccines": 26
     },
     {
       "date": "2021-12-02",
@@ -1891,6 +1891,20 @@
       "dose1": 6,
       "dose2": 14,
       "vaccines": 20
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "HILTON",
+      "dose1": 5,
+      "dose2": 8,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "HILTON",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

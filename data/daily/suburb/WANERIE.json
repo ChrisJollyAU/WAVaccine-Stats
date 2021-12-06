@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "WANERIE",
   "data": [
     {
@@ -539,6 +539,13 @@
       "locality": "WANERIE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-02",
+      "locality": "WANERIE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

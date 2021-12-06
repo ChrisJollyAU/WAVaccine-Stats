@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "WELSHPOOL DC",
   "data": [
     {
@@ -171,6 +171,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-07-09",
+      "locality": "WELSHPOOL DC",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-10",
       "locality": "WELSHPOOL DC",
       "dose1": 0,
@@ -244,8 +251,8 @@
       "date": "2021-08-02",
       "locality": "WELSHPOOL DC",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-08-03",
@@ -805,6 +812,20 @@
       "locality": "WELSHPOOL DC",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "WELSHPOOL DC",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "WELSHPOOL DC",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

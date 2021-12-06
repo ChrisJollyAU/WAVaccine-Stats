@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "WESTMINSTER",
   "data": [
     {
@@ -558,9 +558,9 @@
     {
       "date": "2021-05-22",
       "locality": "WESTMINSTER",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-05-23",
@@ -713,8 +713,8 @@
       "date": "2021-06-13",
       "locality": "WESTMINSTER",
       "dose1": 9,
-      "dose2": 3,
-      "vaccines": 12
+      "dose2": 2,
+      "vaccines": 11
     },
     {
       "date": "2021-06-14",
@@ -1160,9 +1160,9 @@
     {
       "date": "2021-08-16",
       "locality": "WESTMINSTER",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 22,
-      "vaccines": 39
+      "vaccines": 38
     },
     {
       "date": "2021-08-17",
@@ -1181,9 +1181,9 @@
     {
       "date": "2021-08-19",
       "locality": "WESTMINSTER",
-      "dose1": 39,
+      "dose1": 38,
       "dose2": 27,
-      "vaccines": 66
+      "vaccines": 65
     },
     {
       "date": "2021-08-20",
@@ -1329,22 +1329,22 @@
       "date": "2021-09-09",
       "locality": "WESTMINSTER",
       "dose1": 35,
-      "dose2": 34,
-      "vaccines": 69
+      "dose2": 33,
+      "vaccines": 68
     },
     {
       "date": "2021-09-10",
       "locality": "WESTMINSTER",
-      "dose1": 29,
+      "dose1": 28,
       "dose2": 32,
-      "vaccines": 61
+      "vaccines": 60
     },
     {
       "date": "2021-09-11",
       "locality": "WESTMINSTER",
       "dose1": 37,
-      "dose2": 39,
-      "vaccines": 76
+      "dose2": 38,
+      "vaccines": 75
     },
     {
       "date": "2021-09-12",
@@ -1532,8 +1532,8 @@
       "date": "2021-10-08",
       "locality": "WESTMINSTER",
       "dose1": 35,
-      "dose2": 22,
-      "vaccines": 57
+      "dose2": 21,
+      "vaccines": 56
     },
     {
       "date": "2021-10-09",
@@ -1594,9 +1594,9 @@
     {
       "date": "2021-10-17",
       "locality": "WESTMINSTER",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 20,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-10-18",
@@ -1650,9 +1650,9 @@
     {
       "date": "2021-10-25",
       "locality": "WESTMINSTER",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 36,
-      "vaccines": 59
+      "vaccines": 60
     },
     {
       "date": "2021-10-26",
@@ -1678,9 +1678,9 @@
     {
       "date": "2021-10-29",
       "locality": "WESTMINSTER",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 25,
-      "vaccines": 57
+      "vaccines": 58
     },
     {
       "date": "2021-10-30",
@@ -1699,9 +1699,9 @@
     {
       "date": "2021-11-01",
       "locality": "WESTMINSTER",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 22,
-      "vaccines": 49
+      "vaccines": 50
     },
     {
       "date": "2021-11-02",
@@ -1727,9 +1727,9 @@
     {
       "date": "2021-11-05",
       "locality": "WESTMINSTER",
-      "dose1": 10,
+      "dose1": 12,
       "dose2": 35,
-      "vaccines": 45
+      "vaccines": 47
     },
     {
       "date": "2021-11-06",
@@ -1832,8 +1832,8 @@
     {
       "date": "2021-11-20",
       "locality": "WESTMINSTER",
-      "dose1": 7,
-      "dose2": 16,
+      "dose1": 6,
+      "dose2": 17,
       "vaccines": 23
     },
     {
@@ -1854,8 +1854,8 @@
       "date": "2021-11-23",
       "locality": "WESTMINSTER",
       "dose1": 30,
-      "dose2": 26,
-      "vaccines": 56
+      "dose2": 27,
+      "vaccines": 57
     },
     {
       "date": "2021-11-24",
@@ -1868,8 +1868,8 @@
       "date": "2021-11-25",
       "locality": "WESTMINSTER",
       "dose1": 15,
-      "dose2": 30,
-      "vaccines": 45
+      "dose2": 31,
+      "vaccines": 46
     },
     {
       "date": "2021-11-26",
@@ -1909,16 +1909,30 @@
     {
       "date": "2021-12-01",
       "locality": "WESTMINSTER",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 28,
-      "vaccines": 42
+      "vaccines": 43
     },
     {
       "date": "2021-12-02",
       "locality": "WESTMINSTER",
       "dose1": 12,
-      "dose2": 22,
-      "vaccines": 34
+      "dose2": 25,
+      "vaccines": 37
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "WESTMINSTER",
+      "dose1": 9,
+      "dose2": 37,
+      "vaccines": 46
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "WESTMINSTER",
+      "dose1": 9,
+      "dose2": 13,
+      "vaccines": 22
     }
   ]
 }

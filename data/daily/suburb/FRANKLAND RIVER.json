@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "FRANKLAND RIVER",
   "data": [
     {
@@ -909,14 +909,21 @@
       "date": "2021-12-01",
       "locality": "FRANKLAND RIVER",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-12-02",
       "locality": "FRANKLAND RIVER",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "FRANKLAND RIVER",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

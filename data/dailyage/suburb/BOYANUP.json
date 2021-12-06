@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "postcode": "BOYANUP",
   "data": [
     {
@@ -464,22 +464,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-15",
-      "locality": "BOYANUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-15",
-      "locality": "BOYANUP",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1663,16 +1647,16 @@
       "locality": "BOYANUP",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose2": 0,
+      "vaccines": 6
     },
     {
       "date": "2021-07-08",
       "locality": "BOYANUP",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-09",
@@ -2303,8 +2287,8 @@
       "locality": "BOYANUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-13",
@@ -4567,8 +4551,48 @@
       "locality": "BOYANUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "BOYANUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "BOYANUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "BOYANUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "BOYANUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "BOYANUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

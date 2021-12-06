@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "BRAMLEY",
   "data": [
     {
@@ -441,6 +441,20 @@
       "locality": "BRAMLEY",
       "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "BRAMLEY",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "BRAMLEY",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

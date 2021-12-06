@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "LEONORA",
   "data": [
     {
@@ -797,8 +797,22 @@
       "date": "2021-12-02",
       "locality": "LEONORA",
       "dose1": 12,
-      "dose2": 29,
-      "vaccines": 41
+      "dose2": 31,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "LEONORA",
+      "dose1": 11,
+      "dose2": 32,
+      "vaccines": 43
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "LEONORA",
+      "dose1": 2,
+      "dose2": 19,
+      "vaccines": 21
     }
   ]
 }

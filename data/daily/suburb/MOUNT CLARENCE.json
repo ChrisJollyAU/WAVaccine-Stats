@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "MOUNT CLARENCE",
   "data": [
     {
@@ -1146,9 +1146,9 @@
     {
       "date": "2021-09-21",
       "locality": "MOUNT CLARENCE",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-22",
@@ -1609,11 +1609,25 @@
       "date": "2021-12-01",
       "locality": "MOUNT CLARENCE",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-12-02",
+      "locality": "MOUNT CLARENCE",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "MOUNT CLARENCE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-04",
       "locality": "MOUNT CLARENCE",
       "dose1": 0,
       "dose2": 1,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "postcode": "MUNDARING DC",
   "data": [
     {
@@ -2279,11 +2279,19 @@
       "locality": "MUNDARING DC",
       "AgeGroup": "16 to 49",
       "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "MUNDARING DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
       "dose2": 1,
       "vaccines": 1
     },
     {
-      "date": "2021-12-01",
+      "date": "2021-12-03",
       "locality": "MUNDARING DC",
       "AgeGroup": "50 to 69",
       "dose1": 0,

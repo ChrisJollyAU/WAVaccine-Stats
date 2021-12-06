@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "SORRENTO",
   "data": [
     {
@@ -775,9 +775,9 @@
     {
       "date": "2021-06-16",
       "locality": "SORRENTO",
-      "dose1": 30,
+      "dose1": 31,
       "dose2": 12,
-      "vaccines": 42
+      "vaccines": 43
     },
     {
       "date": "2021-06-17",
@@ -1097,9 +1097,9 @@
     {
       "date": "2021-08-01",
       "locality": "SORRENTO",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 12,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-08-02",
@@ -1252,8 +1252,8 @@
       "date": "2021-08-23",
       "locality": "SORRENTO",
       "dose1": 47,
-      "dose2": 101,
-      "vaccines": 148
+      "dose2": 102,
+      "vaccines": 149
     },
     {
       "date": "2021-08-24",
@@ -1356,8 +1356,8 @@
     {
       "date": "2021-09-07",
       "locality": "SORRENTO",
-      "dose1": 33,
-      "dose2": 48,
+      "dose1": 32,
+      "dose2": 49,
       "vaccines": 81
     },
     {
@@ -1840,15 +1840,15 @@
       "date": "2021-11-15",
       "locality": "SORRENTO",
       "dose1": 12,
-      "dose2": 27,
-      "vaccines": 39
+      "dose2": 26,
+      "vaccines": 38
     },
     {
       "date": "2021-11-16",
       "locality": "SORRENTO",
       "dose1": 11,
-      "dose2": 24,
-      "vaccines": 35
+      "dose2": 23,
+      "vaccines": 34
     },
     {
       "date": "2021-11-17",
@@ -1951,16 +1951,30 @@
     {
       "date": "2021-12-01",
       "locality": "SORRENTO",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 15,
-      "vaccines": 23
+      "vaccines": 25
     },
     {
       "date": "2021-12-02",
       "locality": "SORRENTO",
       "dose1": 5,
-      "dose2": 8,
-      "vaccines": 13
+      "dose2": 15,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "SORRENTO",
+      "dose1": 9,
+      "dose2": 10,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "SORRENTO",
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
     }
   ]
 }

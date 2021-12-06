@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "locality": "LANGFORD",
   "data": [
     {
@@ -89,9 +89,9 @@
     {
       "date": "2021-03-15",
       "locality": "LANGFORD",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-16",
@@ -355,9 +355,9 @@
     {
       "date": "2021-04-27",
       "locality": "LANGFORD",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 1,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-04-28",
@@ -503,8 +503,8 @@
       "date": "2021-05-18",
       "locality": "LANGFORD",
       "dose1": 21,
-      "dose2": 2,
-      "vaccines": 23
+      "dose2": 3,
+      "vaccines": 24
     },
     {
       "date": "2021-05-19",
@@ -538,8 +538,8 @@
       "date": "2021-05-24",
       "locality": "LANGFORD",
       "dose1": 14,
-      "dose2": 7,
-      "vaccines": 21
+      "dose2": 8,
+      "vaccines": 22
     },
     {
       "date": "2021-05-25",
@@ -565,9 +565,9 @@
     {
       "date": "2021-05-28",
       "locality": "LANGFORD",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 1,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-05-29",
@@ -992,9 +992,9 @@
     {
       "date": "2021-07-28",
       "locality": "LANGFORD",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 31,
-      "vaccines": 56
+      "vaccines": 55
     },
     {
       "date": "2021-07-29",
@@ -1139,23 +1139,23 @@
     {
       "date": "2021-08-18",
       "locality": "LANGFORD",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 43,
-      "vaccines": 68
+      "vaccines": 69
     },
     {
       "date": "2021-08-19",
       "locality": "LANGFORD",
       "dose1": 30,
-      "dose2": 33,
-      "vaccines": 63
+      "dose2": 32,
+      "vaccines": 62
     },
     {
       "date": "2021-08-20",
       "locality": "LANGFORD",
       "dose1": 20,
-      "dose2": 28,
-      "vaccines": 48
+      "dose2": 27,
+      "vaccines": 47
     },
     {
       "date": "2021-08-21",
@@ -1287,8 +1287,8 @@
       "date": "2021-09-08",
       "locality": "LANGFORD",
       "dose1": 14,
-      "dose2": 22,
-      "vaccines": 36
+      "dose2": 23,
+      "vaccines": 37
     },
     {
       "date": "2021-09-09",
@@ -1496,9 +1496,9 @@
     {
       "date": "2021-10-08",
       "locality": "LANGFORD",
-      "dose1": 40,
+      "dose1": 39,
       "dose2": 28,
-      "vaccines": 68
+      "vaccines": 67
     },
     {
       "date": "2021-10-09",
@@ -1693,8 +1693,8 @@
       "date": "2021-11-05",
       "locality": "LANGFORD",
       "dose1": 27,
-      "dose2": 34,
-      "vaccines": 61
+      "dose2": 33,
+      "vaccines": 60
     },
     {
       "date": "2021-11-06",
@@ -1882,8 +1882,22 @@
       "date": "2021-12-02",
       "locality": "LANGFORD",
       "dose1": 9,
-      "dose2": 21,
-      "vaccines": 30
+      "dose2": 24,
+      "vaccines": 33
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "LANGFORD",
+      "dose1": 15,
+      "dose2": 32,
+      "vaccines": 47
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "LANGFORD",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
     }
   ]
 }

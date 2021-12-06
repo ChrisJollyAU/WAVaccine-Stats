@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-02T00:00:00",
+  "date_updated": "2021-12-04T00:00:00",
   "postcode": "JOONDALUP",
   "data": [
     {
@@ -2206,17 +2206,17 @@
       "date": "2021-06-12",
       "locality": "JOONDALUP",
       "AgeGroup": "50 to 69",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 2,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-06-12",
       "locality": "JOONDALUP",
       "AgeGroup": "70 and over",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-13",
@@ -4183,16 +4183,16 @@
       "locality": "JOONDALUP",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose2": 10,
+      "vaccines": 14
     },
     {
       "date": "2021-09-04",
       "locality": "JOONDALUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-05",
@@ -5566,9 +5566,9 @@
       "date": "2021-10-21",
       "locality": "JOONDALUP",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 18,
-      "vaccines": 22
+      "vaccines": 21
     },
     {
       "date": "2021-10-21",
@@ -6231,8 +6231,8 @@
       "locality": "JOONDALUP",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 12,
-      "vaccines": 13
+      "dose2": 11,
+      "vaccines": 12
     },
     {
       "date": "2021-11-12",
@@ -6366,9 +6366,9 @@
       "date": "2021-11-17",
       "locality": "JOONDALUP",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-11-17",
@@ -6454,9 +6454,9 @@
       "date": "2021-11-20",
       "locality": "JOONDALUP",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 12,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-11-20",
@@ -6723,6 +6723,14 @@
       "vaccines": 7
     },
     {
+      "date": "2021-11-29",
+      "locality": "JOONDALUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2021-11-30",
       "locality": "JOONDALUP",
       "AgeGroup": "12 to 15",
@@ -6766,41 +6774,41 @@
       "date": "2021-12-01",
       "locality": "JOONDALUP",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
-      "dose2": 18,
-      "vaccines": 31
+      "dose1": 14,
+      "dose2": 19,
+      "vaccines": 33
     },
     {
       "date": "2021-12-01",
       "locality": "JOONDALUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-12-01",
       "locality": "JOONDALUP",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-12-02",
       "locality": "JOONDALUP",
       "AgeGroup": "12 to 15",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-12-02",
       "locality": "JOONDALUP",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 17,
-      "vaccines": 27
+      "dose2": 18,
+      "vaccines": 28
     },
     {
       "date": "2021-12-02",
@@ -6817,6 +6825,62 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "JOONDALUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "JOONDALUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 16,
+      "vaccines": 28
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "JOONDALUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "JOONDALUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "JOONDALUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 10,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "JOONDALUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "JOONDALUP",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

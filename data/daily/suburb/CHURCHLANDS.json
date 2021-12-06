@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-04T00:00:00",
+  "date_updated": "2021-12-05T00:00:00",
   "locality": "CHURCHLANDS",
   "data": [
     {
@@ -1958,8 +1958,15 @@
     {
       "date": "2021-12-04",
       "locality": "CHURCHLANDS",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "CHURCHLANDS",
+      "dose1": 3,
+      "dose2": 2,
       "vaccines": 5
     }
   ]

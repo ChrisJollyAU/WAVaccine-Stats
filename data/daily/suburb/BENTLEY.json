@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-04T00:00:00",
+  "date_updated": "2021-12-05T00:00:00",
   "locality": "BENTLEY",
   "data": [
     {
@@ -1958,9 +1958,16 @@
     {
       "date": "2021-12-04",
       "locality": "BENTLEY",
-      "dose1": 5,
-      "dose2": 16,
-      "vaccines": 21
+      "dose1": 9,
+      "dose2": 17,
+      "vaccines": 26
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "BENTLEY",
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     }
   ]
 }

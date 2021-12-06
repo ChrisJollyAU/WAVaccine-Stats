@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-04T00:00:00",
+  "date_updated": "2021-12-05T00:00:00",
   "locality": "GLENDALOUGH",
   "data": [
     {
@@ -1888,9 +1888,16 @@
     {
       "date": "2021-12-04",
       "locality": "GLENDALOUGH",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 11
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "GLENDALOUGH",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

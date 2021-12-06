@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-04T00:00:00",
+  "date_updated": "2021-12-05T00:00:00",
   "postcode": "MARANGAROO",
   "data": [
     {
@@ -6785,6 +6785,38 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "MARANGAROO",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "MARANGAROO",
+      "AgeGroup": "16 to 49",
+      "dose1": 13,
+      "dose2": 9,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "MARANGAROO",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "MARANGAROO",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

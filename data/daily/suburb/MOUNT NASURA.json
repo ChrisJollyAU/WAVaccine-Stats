@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-04T00:00:00",
+  "date_updated": "2021-12-05T00:00:00",
   "locality": "MOUNT NASURA",
   "data": [
     {
@@ -1777,8 +1777,8 @@
       "date": "2021-12-01",
       "locality": "MOUNT NASURA",
       "dose1": 8,
-      "dose2": 4,
-      "vaccines": 12
+      "dose2": 6,
+      "vaccines": 14
     },
     {
       "date": "2021-12-02",
@@ -1800,6 +1800,13 @@
       "dose1": 5,
       "dose2": 3,
       "vaccines": 8
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "MOUNT NASURA",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-05T00:00:00",
+  "date_updated": "2021-12-06T00:00:00",
   "locality": "BLUFF POINT",
   "data": [
     {
@@ -1692,16 +1692,16 @@
     {
       "date": "2021-12-02",
       "locality": "BLUFF POINT",
-      "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-12-03",
       "locality": "BLUFF POINT",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-12-04",
@@ -1709,6 +1709,13 @@
       "dose1": 3,
       "dose2": 3,
       "vaccines": 6
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "BLUFF POINT",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-05T00:00:00",
+  "date_updated": "2021-12-06T00:00:00",
   "locality": "DARDANUP",
   "data": [
     {
@@ -183,6 +183,13 @@
       "dose1": 5,
       "dose2": 0,
       "vaccines": 5
+    },
+    {
+      "date": "2021-04-12",
+      "locality": "DARDANUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-13",
@@ -649,9 +656,9 @@
     {
       "date": "2021-07-05",
       "locality": "DARDANUP",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-07-06",
@@ -1133,8 +1140,8 @@
       "date": "2021-09-20",
       "locality": "DARDANUP",
       "dose1": 16,
-      "dose2": 3,
-      "vaccines": 19
+      "dose2": 4,
+      "vaccines": 20
     },
     {
       "date": "2021-09-21",
@@ -1146,9 +1153,9 @@
     {
       "date": "2021-09-22",
       "locality": "DARDANUP",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 10,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-09-23",
@@ -1280,8 +1287,8 @@
       "date": "2021-10-13",
       "locality": "DARDANUP",
       "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose2": 2,
+      "vaccines": 8
     },
     {
       "date": "2021-10-14",
@@ -1427,8 +1434,8 @@
       "date": "2021-11-03",
       "locality": "DARDANUP",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-11-04",
@@ -1628,6 +1635,13 @@
     },
     {
       "date": "2021-12-04",
+      "locality": "DARDANUP",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-06",
       "locality": "DARDANUP",
       "dose1": 0,
       "dose2": 3,

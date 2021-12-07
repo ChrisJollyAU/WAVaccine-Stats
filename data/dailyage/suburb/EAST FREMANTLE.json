@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-05T00:00:00",
+  "date_updated": "2021-12-06T00:00:00",
   "postcode": "EAST FREMANTLE",
   "data": [
     {
@@ -1238,9 +1238,9 @@
       "date": "2021-04-26",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-04-26",
@@ -3142,8 +3142,8 @@
       "date": "2021-07-19",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "50 to 69",
-      "dose1": 10,
-      "dose2": 12,
+      "dose1": 9,
+      "dose2": 13,
       "vaccines": 22
     },
     {
@@ -3646,9 +3646,9 @@
       "date": "2021-08-10",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 7,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-08-10",
@@ -4999,8 +4999,8 @@
       "locality": "EAST FREMANTLE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 35,
-      "vaccines": 45
+      "dose2": 36,
+      "vaccines": 46
     },
     {
       "date": "2021-09-30",
@@ -5334,9 +5334,9 @@
       "date": "2021-10-11",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 32,
-      "vaccines": 49
+      "vaccines": 50
     },
     {
       "date": "2021-10-11",
@@ -5974,9 +5974,9 @@
       "date": "2021-11-01",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 21,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-11-01",
@@ -6310,9 +6310,9 @@
       "date": "2021-11-12",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 11,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-11-12",
@@ -6599,8 +6599,8 @@
       "locality": "EAST FREMANTLE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-11-22",
@@ -6830,8 +6830,8 @@
       "date": "2021-11-30",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
-      "dose2": 11,
+      "dose1": 6,
+      "dose2": 12,
       "vaccines": 18
     },
     {
@@ -6862,9 +6862,9 @@
       "date": "2021-12-01",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 14,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-12-01",
@@ -6926,9 +6926,9 @@
       "date": "2021-12-03",
       "locality": "EAST FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-12-03",
@@ -6965,10 +6965,18 @@
     {
       "date": "2021-12-04",
       "locality": "EAST FREMANTLE",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "EAST FREMANTLE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-12-05",
@@ -6985,6 +6993,38 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "EAST FREMANTLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "EAST FREMANTLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 4,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "EAST FREMANTLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "EAST FREMANTLE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

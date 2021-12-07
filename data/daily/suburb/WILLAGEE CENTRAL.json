@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-05T00:00:00",
+  "date_updated": "2021-12-06T00:00:00",
   "locality": "WILLAGEE CENTRAL",
   "data": [
     {
@@ -112,6 +112,13 @@
       "locality": "WILLAGEE CENTRAL",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "WILLAGEE CENTRAL",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

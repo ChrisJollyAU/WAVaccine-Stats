@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-05T00:00:00",
+  "date_updated": "2021-12-06T00:00:00",
   "locality": "MOORA",
   "data": [
     {
@@ -1454,9 +1454,23 @@
     {
       "date": "2021-12-04",
       "locality": "MOORA",
-      "dose1": 13,
-      "dose2": 3,
-      "vaccines": 16
+      "dose1": 24,
+      "dose2": 5,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-12-05",
+      "locality": "MOORA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "MOORA",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-05T00:00:00",
+  "date_updated": "2021-12-06T00:00:00",
   "locality": "BULLER",
   "data": [
     {
@@ -89,9 +89,9 @@
     {
       "date": "2021-06-15",
       "locality": "BULLER",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-22",
@@ -151,6 +151,13 @@
     },
     {
       "date": "2021-07-14",
+      "locality": "BULLER",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-19",
       "locality": "BULLER",
       "dose1": 0,
       "dose2": 1,

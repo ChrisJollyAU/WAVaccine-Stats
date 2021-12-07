@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-05T00:00:00",
+  "date_updated": "2021-12-06T00:00:00",
   "postcode": "HAMMOND PARK",
   "data": [
     {
@@ -3031,8 +3031,8 @@
       "locality": "HAMMOND PARK",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-08-09",
@@ -5534,17 +5534,17 @@
       "date": "2021-11-16",
       "locality": "HAMMOND PARK",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-11-16",
       "locality": "HAMMOND PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 22,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-11-16",
@@ -5791,8 +5791,8 @@
       "locality": "HAMMOND PARK",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 23,
-      "vaccines": 30
+      "dose2": 24,
+      "vaccines": 31
     },
     {
       "date": "2021-11-25",
@@ -6055,8 +6055,32 @@
       "locality": "HAMMOND PARK",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 12,
-      "vaccines": 20
+      "dose2": 13,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "HAMMOND PARK",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "HAMMOND PARK",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 8,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "HAMMOND PARK",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

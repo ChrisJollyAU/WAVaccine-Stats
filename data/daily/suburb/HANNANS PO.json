@@ -1,7 +1,14 @@
 {
-  "date_updated": "2021-12-05T00:00:00",
+  "date_updated": "2021-12-06T00:00:00",
   "locality": "HANNANS PO",
   "data": [
+    {
+      "date": "2021-03-09",
+      "locality": "HANNANS PO",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-16",
       "locality": "HANNANS PO",
@@ -14,6 +21,13 @@
       "locality": "HANNANS PO",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-01",
+      "locality": "HANNANS PO",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -292,9 +306,9 @@
     {
       "date": "2021-07-08",
       "locality": "HANNANS PO",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-09",
@@ -447,8 +461,8 @@
       "date": "2021-08-19",
       "locality": "HANNANS PO",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-08-21",
@@ -563,6 +577,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-09-15",
+      "locality": "HANNANS PO",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-16",
       "locality": "HANNANS PO",
       "dose1": 0,
@@ -636,8 +657,8 @@
       "date": "2021-10-07",
       "locality": "HANNANS PO",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-10-08",
@@ -823,6 +844,13 @@
     },
     {
       "date": "2021-12-04",
+      "locality": "HANNANS PO",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-06",
       "locality": "HANNANS PO",
       "dose1": 0,
       "dose2": 1,

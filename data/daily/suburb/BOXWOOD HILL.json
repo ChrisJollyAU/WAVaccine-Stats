@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-06T00:00:00",
+  "date_updated": "2021-12-07T00:00:00",
   "locality": "BOXWOOD HILL",
   "data": [
     {
@@ -42,6 +42,13 @@
       "locality": "BOXWOOD HILL",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-31",
+      "locality": "BOXWOOD HILL",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -131,9 +138,9 @@
     {
       "date": "2021-07-29",
       "locality": "BOXWOOD HILL",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-07-31",
@@ -195,8 +202,8 @@
       "date": "2021-08-23",
       "locality": "BOXWOOD HILL",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-24",
@@ -209,8 +216,8 @@
       "date": "2021-08-25",
       "locality": "BOXWOOD HILL",
       "dose1": 0,
-      "dose2": 9,
-      "vaccines": 9
+      "dose2": 10,
+      "vaccines": 10
     },
     {
       "date": "2021-08-30",
@@ -297,6 +304,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-28",
+      "locality": "BOXWOOD HILL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-03",
       "locality": "BOXWOOD HILL",
       "dose1": 0,
@@ -363,8 +377,8 @@
       "date": "2021-10-21",
       "locality": "BOXWOOD HILL",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-22",
@@ -397,9 +411,9 @@
     {
       "date": "2021-11-10",
       "locality": "BOXWOOD HILL",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-11-11",
@@ -435,6 +449,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "BOXWOOD HILL",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

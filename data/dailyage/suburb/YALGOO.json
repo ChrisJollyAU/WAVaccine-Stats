@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-06T00:00:00",
+  "date_updated": "2021-12-07T00:00:00",
   "postcode": "YALGOO",
   "data": [
     {
@@ -566,14 +566,22 @@
       "date": "2021-12-02",
       "locality": "YALGOO",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-12-03",
       "locality": "YALGOO",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "YALGOO",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1

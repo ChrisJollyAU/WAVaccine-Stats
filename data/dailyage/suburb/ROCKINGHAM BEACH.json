@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-06T00:00:00",
+  "date_updated": "2021-12-07T00:00:00",
   "postcode": "ROCKINGHAM BEACH",
   "data": [
     {
@@ -2997,10 +2997,34 @@
     {
       "date": "2021-12-06",
       "locality": "ROCKINGHAM BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-06",
+      "locality": "ROCKINGHAM BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-07",
+      "locality": "ROCKINGHAM BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-07",
+      "locality": "ROCKINGHAM BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

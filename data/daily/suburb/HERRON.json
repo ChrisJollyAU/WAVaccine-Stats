@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-06T00:00:00",
+  "date_updated": "2021-12-07T00:00:00",
   "locality": "HERRON",
   "data": [
     {
@@ -1300,9 +1300,16 @@
     {
       "date": "2021-12-06",
       "locality": "HERRON",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 8
+    },
+    {
+      "date": "2021-12-07",
+      "locality": "HERRON",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

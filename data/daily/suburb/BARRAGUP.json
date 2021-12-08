@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-06T00:00:00",
+  "date_updated": "2021-12-07T00:00:00",
   "locality": "BARRAGUP",
   "data": [
     {
@@ -1545,9 +1545,16 @@
     {
       "date": "2021-12-06",
       "locality": "BARRAGUP",
-      "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-12-07",
+      "locality": "BARRAGUP",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

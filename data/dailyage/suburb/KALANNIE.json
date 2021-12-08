@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-06T00:00:00",
+  "date_updated": "2021-12-07T00:00:00",
   "postcode": "KALANNIE",
   "data": [
     {
@@ -1398,9 +1398,17 @@
       "date": "2021-12-06",
       "locality": "KALANNIE",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-07",
+      "locality": "KALANNIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

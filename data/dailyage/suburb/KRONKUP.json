@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-06T00:00:00",
+  "date_updated": "2021-12-07T00:00:00",
   "postcode": "KRONKUP",
   "data": [
     {
@@ -166,14 +166,6 @@
       "date": "2021-06-01",
       "locality": "KRONKUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-01",
-      "locality": "KRONKUP",
-      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -526,9 +518,9 @@
       "date": "2021-08-17",
       "locality": "KRONKUP",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-08-19",
@@ -585,14 +577,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-08-24",
-      "locality": "KRONKUP",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-08-25",
@@ -1155,14 +1139,6 @@
       "vaccines": 3
     },
     {
-      "date": "2021-11-10",
-      "locality": "KRONKUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-13",
       "locality": "KRONKUP",
       "AgeGroup": "70 and over",
@@ -1257,6 +1233,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-07",
+      "locality": "KRONKUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

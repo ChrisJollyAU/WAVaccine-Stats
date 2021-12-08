@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-06T00:00:00",
+  "date_updated": "2021-12-07T00:00:00",
   "locality": "NEWDEGATE",
   "data": [
     {
@@ -675,6 +675,13 @@
       "vaccines": 6
     },
     {
+      "date": "2021-10-22",
+      "locality": "NEWDEGATE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-24",
       "locality": "NEWDEGATE",
       "dose1": 0,
@@ -860,8 +867,15 @@
       "date": "2021-12-06",
       "locality": "NEWDEGATE",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-07",
+      "locality": "NEWDEGATE",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
     }
   ]
 }

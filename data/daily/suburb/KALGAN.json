@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-07T00:00:00",
+  "date_updated": "2021-12-08T00:00:00",
   "locality": "KALGAN",
   "data": [
     {
@@ -1538,9 +1538,16 @@
     {
       "date": "2021-12-07",
       "locality": "KALGAN",
-      "dose1": 1,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-08",
+      "locality": "KALGAN",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

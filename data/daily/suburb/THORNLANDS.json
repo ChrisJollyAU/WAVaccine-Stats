@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-07T00:00:00",
+  "date_updated": "2021-12-08T00:00:00",
   "locality": "THORNLANDS",
   "data": [
     {
@@ -66,6 +66,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-02",
+      "locality": "THORNLANDS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-11",
       "locality": "THORNLANDS",
       "dose1": 1,
@@ -94,7 +101,21 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-29",
+      "locality": "THORNLANDS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-02",
+      "locality": "THORNLANDS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-04",
       "locality": "THORNLANDS",
       "dose1": 0,
       "dose2": 1,
@@ -122,10 +143,24 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-26",
+      "locality": "THORNLANDS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-29",
       "locality": "THORNLANDS",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-08",
+      "locality": "THORNLANDS",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

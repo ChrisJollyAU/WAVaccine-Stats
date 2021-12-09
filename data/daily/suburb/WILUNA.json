@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-07T00:00:00",
+  "date_updated": "2021-12-08T00:00:00",
   "locality": "WILUNA",
   "data": [
     {
@@ -736,6 +736,20 @@
       "dose1": 3,
       "dose2": 1,
       "vaccines": 4
+    },
+    {
+      "date": "2021-12-07",
+      "locality": "WILUNA",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-08",
+      "locality": "WILUNA",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

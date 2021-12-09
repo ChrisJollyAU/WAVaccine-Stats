@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-07T00:00:00",
+  "date_updated": "2021-12-08T00:00:00",
   "locality": "GLEN IRIS",
   "data": [
     {
@@ -1755,9 +1755,16 @@
     {
       "date": "2021-12-07",
       "locality": "GLEN IRIS",
-      "dose1": 8,
-      "dose2": 11,
-      "vaccines": 19
+      "dose1": 10,
+      "dose2": 12,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-12-08",
+      "locality": "GLEN IRIS",
+      "dose1": 1,
+      "dose2": 8,
+      "vaccines": 9
     }
   ]
 }

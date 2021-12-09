@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-07T00:00:00",
+  "date_updated": "2021-12-08T00:00:00",
   "locality": "CAVERSHAM",
   "data": [
     {
@@ -285,9 +285,9 @@
     {
       "date": "2021-04-12",
       "locality": "CAVERSHAM",
-      "dose1": 6,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 8
+      "vaccines": 6
     },
     {
       "date": "2021-04-13",
@@ -916,8 +916,8 @@
       "date": "2021-07-12",
       "locality": "CAVERSHAM",
       "dose1": 14,
-      "dose2": 12,
-      "vaccines": 26
+      "dose2": 10,
+      "vaccines": 24
     },
     {
       "date": "2021-07-13",
@@ -1188,9 +1188,9 @@
     {
       "date": "2021-08-20",
       "locality": "CAVERSHAM",
-      "dose1": 32,
+      "dose1": 33,
       "dose2": 26,
-      "vaccines": 58
+      "vaccines": 59
     },
     {
       "date": "2021-08-21",
@@ -1293,9 +1293,9 @@
     {
       "date": "2021-09-04",
       "locality": "CAVERSHAM",
-      "dose1": 25,
+      "dose1": 23,
       "dose2": 14,
-      "vaccines": 39
+      "vaccines": 37
     },
     {
       "date": "2021-09-05",
@@ -1378,8 +1378,8 @@
       "date": "2021-09-16",
       "locality": "CAVERSHAM",
       "dose1": 27,
-      "dose2": 27,
-      "vaccines": 54
+      "dose2": 28,
+      "vaccines": 55
     },
     {
       "date": "2021-09-17",
@@ -1441,8 +1441,8 @@
       "date": "2021-09-25",
       "locality": "CAVERSHAM",
       "dose1": 62,
-      "dose2": 18,
-      "vaccines": 80
+      "dose2": 16,
+      "vaccines": 78
     },
     {
       "date": "2021-09-26",
@@ -1692,9 +1692,9 @@
     {
       "date": "2021-10-31",
       "locality": "CAVERSHAM",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 20,
-      "vaccines": 26
+      "vaccines": 25
     },
     {
       "date": "2021-11-01",
@@ -1910,15 +1910,15 @@
       "date": "2021-12-01",
       "locality": "CAVERSHAM",
       "dose1": 25,
-      "dose2": 20,
-      "vaccines": 45
+      "dose2": 19,
+      "vaccines": 44
     },
     {
       "date": "2021-12-02",
       "locality": "CAVERSHAM",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 21,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-12-03",
@@ -1944,16 +1944,23 @@
     {
       "date": "2021-12-06",
       "locality": "CAVERSHAM",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 15,
-      "vaccines": 33
+      "vaccines": 34
     },
     {
       "date": "2021-12-07",
       "locality": "CAVERSHAM",
-      "dose1": 6,
+      "dose1": 7,
+      "dose2": 23,
+      "vaccines": 30
+    },
+    {
+      "date": "2021-12-08",
+      "locality": "CAVERSHAM",
+      "dose1": 3,
       "dose2": 21,
-      "vaccines": 27
+      "vaccines": 24
     }
   ]
 }

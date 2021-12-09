@@ -1,7 +1,14 @@
 {
-  "date_updated": "2021-12-07T00:00:00",
+  "date_updated": "2021-12-08T00:00:00",
   "locality": "KYNETON",
   "data": [
+    {
+      "date": "2021-08-26",
+      "locality": "KYNETON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-08-28",
       "locality": "KYNETON",
@@ -14,6 +21,13 @@
       "locality": "KYNETON",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "KYNETON",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {

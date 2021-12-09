@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-07T00:00:00",
+  "date_updated": "2021-12-08T00:00:00",
   "locality": "WAROONA",
   "data": [
     {
@@ -229,9 +229,9 @@
     {
       "date": "2021-04-23",
       "locality": "WAROONA",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-04-27",
@@ -699,8 +699,8 @@
       "date": "2021-07-16",
       "locality": "WAROONA",
       "dose1": 8,
-      "dose2": 6,
-      "vaccines": 14
+      "dose2": 7,
+      "vaccines": 15
     },
     {
       "date": "2021-07-18",
@@ -894,9 +894,9 @@
     {
       "date": "2021-08-16",
       "locality": "WAROONA",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 10,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-08-17",
@@ -1469,8 +1469,8 @@
       "date": "2021-11-08",
       "locality": "WAROONA",
       "dose1": 12,
-      "dose2": 17,
-      "vaccines": 29
+      "dose2": 18,
+      "vaccines": 30
     },
     {
       "date": "2021-11-09",
@@ -1671,9 +1671,16 @@
     {
       "date": "2021-12-07",
       "locality": "WAROONA",
-      "dose1": 3,
-      "dose2": 15,
-      "vaccines": 18
+      "dose1": 4,
+      "dose2": 16,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-12-08",
+      "locality": "WAROONA",
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
     }
   ]
 }

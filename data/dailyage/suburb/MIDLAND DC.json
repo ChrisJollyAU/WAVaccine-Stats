@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-08T00:00:00",
+  "date_updated": "2021-12-09T00:00:00",
   "postcode": "MIDLAND DC",
   "data": [
     {
@@ -1171,6 +1171,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-04",
+      "locality": "MIDLAND DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-05",
       "locality": "MIDLAND DC",
       "AgeGroup": "50 to 69",
@@ -1711,8 +1719,8 @@
       "locality": "MIDLAND DC",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-08-05",
@@ -3247,8 +3255,8 @@
       "locality": "MIDLAND DC",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-20",
@@ -4169,6 +4177,22 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "MIDLAND DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "MIDLAND DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

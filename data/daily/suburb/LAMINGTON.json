@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-08T00:00:00",
+  "date_updated": "2021-12-09T00:00:00",
   "locality": "LAMINGTON",
   "data": [
     {
@@ -1524,9 +1524,16 @@
     {
       "date": "2021-12-08",
       "locality": "LAMINGTON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "LAMINGTON",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-08T00:00:00",
+  "date_updated": "2021-12-09T00:00:00",
   "locality": "WELLESLEY",
   "data": [
     {
@@ -157,13 +157,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-11-01",
-      "locality": "WELLESLEY",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-03",
       "locality": "WELLESLEY",
       "dose1": 1,
@@ -172,13 +165,6 @@
     },
     {
       "date": "2021-11-08",
-      "locality": "WELLESLEY",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-11-09",
       "locality": "WELLESLEY",
       "dose1": 1,
       "dose2": 0,
@@ -248,18 +234,18 @@
       "vaccines": 1
     },
     {
-      "date": "2021-12-06",
-      "locality": "WELLESLEY",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-12-08",
       "locality": "WELLESLEY",
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "WELLESLEY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

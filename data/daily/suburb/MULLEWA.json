@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-08T00:00:00",
+  "date_updated": "2021-12-09T00:00:00",
   "locality": "MULLEWA",
   "data": [
     {
@@ -1091,8 +1091,15 @@
       "date": "2021-12-08",
       "locality": "MULLEWA",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "MULLEWA",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
     }
   ]
 }

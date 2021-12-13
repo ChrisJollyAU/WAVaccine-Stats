@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-09T00:00:00",
+  "date_updated": "2021-12-12T00:00:00",
   "locality": "WEBBERTON",
   "data": [
     {
@@ -360,6 +360,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-19",
+      "locality": "WEBBERTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-20",
       "locality": "WEBBERTON",
       "dose1": 3,
@@ -441,6 +448,13 @@
       "locality": "WEBBERTON",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "WEBBERTON",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -776,8 +790,8 @@
       "date": "2021-11-19",
       "locality": "WEBBERTON",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-11-21",
@@ -862,6 +876,27 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-10",
+      "locality": "WEBBERTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-11",
+      "locality": "WEBBERTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-12",
+      "locality": "WEBBERTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-09T00:00:00",
+  "date_updated": "2021-12-12T00:00:00",
   "locality": "TARCOOLA BEACH",
   "data": [
     {
@@ -1716,6 +1716,27 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-10",
+      "locality": "TARCOOLA BEACH",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-11",
+      "locality": "TARCOOLA BEACH",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-12",
+      "locality": "TARCOOLA BEACH",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

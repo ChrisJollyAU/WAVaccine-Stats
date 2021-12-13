@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-09T00:00:00",
+  "date_updated": "2021-12-12T00:00:00",
   "locality": "ARDYALOON",
   "data": [
     {
@@ -482,8 +482,15 @@
       "date": "2021-12-09",
       "locality": "ARDYALOON",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-10",
+      "locality": "ARDYALOON",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

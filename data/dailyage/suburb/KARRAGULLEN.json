@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-09T00:00:00",
+  "date_updated": "2021-12-12T00:00:00",
   "postcode": "KARRAGULLEN",
   "data": [
     {
@@ -1542,9 +1542,9 @@
       "date": "2021-09-14",
       "locality": "KARRAGULLEN",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-15",
@@ -1873,14 +1873,6 @@
       "dose1": 4,
       "dose2": 1,
       "vaccines": 5
-    },
-    {
-      "date": "2021-10-05",
-      "locality": "KARRAGULLEN",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-10-06",
@@ -2781,6 +2773,14 @@
     {
       "date": "2021-12-09",
       "locality": "KARRAGULLEN",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "KARRAGULLEN",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -2792,6 +2792,38 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-10",
+      "locality": "KARRAGULLEN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-10",
+      "locality": "KARRAGULLEN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-11",
+      "locality": "KARRAGULLEN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-12",
+      "locality": "KARRAGULLEN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

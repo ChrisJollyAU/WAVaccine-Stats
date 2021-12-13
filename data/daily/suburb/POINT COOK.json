@@ -1,21 +1,7 @@
 {
-  "date_updated": "2021-12-09T00:00:00",
+  "date_updated": "2021-12-12T00:00:00",
   "locality": "POINT COOK",
   "data": [
-    {
-      "date": "2021-03-25",
-      "locality": "POINT COOK",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-16",
-      "locality": "POINT COOK",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
     {
       "date": "2021-07-15",
       "locality": "POINT COOK",
@@ -218,6 +204,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-11",
+      "locality": "POINT COOK",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

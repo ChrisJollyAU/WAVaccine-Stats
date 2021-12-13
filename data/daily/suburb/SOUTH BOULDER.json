@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-09T00:00:00",
+  "date_updated": "2021-12-12T00:00:00",
   "locality": "SOUTH BOULDER",
   "data": [
     {
@@ -726,9 +726,9 @@
     {
       "date": "2021-09-01",
       "locality": "SOUTH BOULDER",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-02",
@@ -902,8 +902,8 @@
       "date": "2021-09-29",
       "locality": "SOUTH BOULDER",
       "dose1": 7,
-      "dose2": 0,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 8
     },
     {
       "date": "2021-09-30",
@@ -1062,9 +1062,9 @@
     {
       "date": "2021-10-23",
       "locality": "SOUTH BOULDER",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-10-24",
@@ -1203,8 +1203,8 @@
       "date": "2021-11-13",
       "locality": "SOUTH BOULDER",
       "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-11-14",
@@ -1380,6 +1380,27 @@
       "dose1": 2,
       "dose2": 4,
       "vaccines": 6
+    },
+    {
+      "date": "2021-12-10",
+      "locality": "SOUTH BOULDER",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-12-11",
+      "locality": "SOUTH BOULDER",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-12",
+      "locality": "SOUTH BOULDER",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

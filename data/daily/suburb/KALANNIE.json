@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-09T00:00:00",
+  "date_updated": "2021-12-12T00:00:00",
   "locality": "KALANNIE",
   "data": [
     {
@@ -530,9 +530,9 @@
     {
       "date": "2021-09-13",
       "locality": "KALANNIE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-15",
@@ -643,8 +643,8 @@
       "date": "2021-10-04",
       "locality": "KALANNIE",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-10-05",
@@ -911,6 +911,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-10",
+      "locality": "KALANNIE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

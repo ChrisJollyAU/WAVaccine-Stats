@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-12T00:00:00",
+  "date_updated": "2021-12-13T00:00:00",
   "postcode": "ERSKINE",
   "data": [
     {
@@ -60,6 +60,14 @@
     },
     {
       "date": "2021-03-06",
+      "locality": "ERSKINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-07",
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
@@ -1063,8 +1071,8 @@
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
       "dose1": 9,
-      "dose2": 0,
-      "vaccines": 9
+      "dose2": 1,
+      "vaccines": 10
     },
     {
       "date": "2021-05-17",
@@ -2326,9 +2334,9 @@
       "date": "2021-07-22",
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 8,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-07-22",
@@ -2999,8 +3007,8 @@
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-22",
@@ -3238,9 +3246,9 @@
       "date": "2021-09-02",
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-09-02",
@@ -3334,9 +3342,9 @@
       "date": "2021-09-07",
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-09-07",
@@ -3366,9 +3374,9 @@
       "date": "2021-09-08",
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 12
     },
     {
       "date": "2021-09-08",
@@ -3719,8 +3727,8 @@
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 9,
-      "vaccines": 12
+      "dose2": 10,
+      "vaccines": 13
     },
     {
       "date": "2021-09-23",
@@ -3831,8 +3839,8 @@
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 8,
-      "vaccines": 19
+      "dose2": 9,
+      "vaccines": 20
     },
     {
       "date": "2021-09-28",
@@ -4398,9 +4406,9 @@
       "date": "2021-10-18",
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 10,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-10-18",
@@ -4999,8 +5007,8 @@
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 12,
-      "vaccines": 23
+      "dose2": 13,
+      "vaccines": 24
     },
     {
       "date": "2021-11-08",
@@ -5318,17 +5326,17 @@
       "date": "2021-11-19",
       "locality": "ERSKINE",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-11-19",
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 18,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-11-19",
@@ -5831,8 +5839,8 @@
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 8,
+      "vaccines": 9
     },
     {
       "date": "2021-12-08",
@@ -5847,8 +5855,8 @@
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-12-09",
@@ -5871,24 +5879,24 @@
       "locality": "ERSKINE",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 10,
+      "vaccines": 13
     },
     {
       "date": "2021-12-10",
       "locality": "ERSKINE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-12-10",
       "locality": "ERSKINE",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-11",
@@ -5945,6 +5953,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "ERSKINE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "ERSKINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "ERSKINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "ERSKINE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

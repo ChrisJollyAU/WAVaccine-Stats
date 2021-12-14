@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-12T00:00:00",
+  "date_updated": "2021-12-13T00:00:00",
   "postcode": "SINCLAIR",
   "data": [
     {
@@ -1469,14 +1469,6 @@
     {
       "date": "2021-09-22",
       "locality": "SINCLAIR",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-22",
-      "locality": "SINCLAIR",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -1799,8 +1791,8 @@
       "locality": "SINCLAIR",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-10-13",
@@ -2697,6 +2689,22 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "SINCLAIR",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "SINCLAIR",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

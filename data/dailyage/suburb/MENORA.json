@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-12T00:00:00",
+  "date_updated": "2021-12-13T00:00:00",
   "postcode": "MENORA",
   "data": [
     {
@@ -262,6 +262,14 @@
       "date": "2021-03-18",
       "locality": "MENORA",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-19",
+      "locality": "MENORA",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -654,9 +662,9 @@
       "date": "2021-04-10",
       "locality": "MENORA",
       "AgeGroup": "70 and over",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-04-11",
@@ -1158,9 +1166,9 @@
       "date": "2021-05-06",
       "locality": "MENORA",
       "AgeGroup": "70 and over",
-      "dose1": 46,
+      "dose1": 47,
       "dose2": 2,
-      "vaccines": 48
+      "vaccines": 49
     },
     {
       "date": "2021-05-07",
@@ -1783,8 +1791,8 @@
       "locality": "MENORA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-08",
@@ -1974,9 +1982,9 @@
       "date": "2021-06-16",
       "locality": "MENORA",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 4,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-06-16",
@@ -2383,8 +2391,8 @@
       "locality": "MENORA",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 7,
-      "vaccines": 7
+      "dose2": 8,
+      "vaccines": 8
     },
     {
       "date": "2021-07-04",
@@ -3007,8 +3015,8 @@
       "locality": "MENORA",
       "AgeGroup": "70 and over",
       "dose1": 5,
-      "dose2": 13,
-      "vaccines": 18
+      "dose2": 14,
+      "vaccines": 19
     },
     {
       "date": "2021-07-30",
@@ -3102,9 +3110,9 @@
       "date": "2021-08-03",
       "locality": "MENORA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-08-03",
@@ -3695,8 +3703,8 @@
       "locality": "MENORA",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 6,
-      "vaccines": 14
+      "dose2": 5,
+      "vaccines": 13
     },
     {
       "date": "2021-08-28",
@@ -3815,8 +3823,8 @@
       "locality": "MENORA",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-09-02",
@@ -6471,8 +6479,8 @@
       "locality": "MENORA",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-12-12",
@@ -6497,6 +6505,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "MENORA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "MENORA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "MENORA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

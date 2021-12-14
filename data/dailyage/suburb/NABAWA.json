@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-12T00:00:00",
+  "date_updated": "2021-12-13T00:00:00",
   "postcode": "NABAWA",
   "data": [
     {
@@ -203,14 +203,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-04",
-      "locality": "NABAWA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-05",
       "locality": "NABAWA",
       "AgeGroup": "70 and over",
@@ -328,14 +320,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-31",
-      "locality": "NABAWA",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1011,14 +995,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-11-12",
-      "locality": "NABAWA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-15",
       "locality": "NABAWA",
       "AgeGroup": "16 to 49",
@@ -1056,22 +1032,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-11-18",
-      "locality": "NABAWA",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-11-18",
-      "locality": "NABAWA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1231,8 +1191,16 @@
       "locality": "NABAWA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "NABAWA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

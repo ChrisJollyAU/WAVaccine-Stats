@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-12T00:00:00",
+  "date_updated": "2021-12-13T00:00:00",
   "locality": "NABAWA",
   "data": [
     {
@@ -171,13 +171,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-04",
-      "locality": "NABAWA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-05",
       "locality": "NABAWA",
       "dose1": 1,
@@ -259,13 +252,6 @@
       "locality": "NABAWA",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-31",
-      "locality": "NABAWA",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -675,13 +661,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-11-12",
-      "locality": "NABAWA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-15",
       "locality": "NABAWA",
       "dose1": 1,
@@ -700,13 +679,6 @@
       "locality": "NABAWA",
       "dose1": 0,
       "dose2": 2,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-11-18",
-      "locality": "NABAWA",
-      "dose1": 2,
-      "dose2": 0,
       "vaccines": 2
     },
     {
@@ -797,8 +769,15 @@
       "date": "2021-12-09",
       "locality": "NABAWA",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "NABAWA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

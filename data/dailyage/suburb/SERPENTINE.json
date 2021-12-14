@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-12T00:00:00",
+  "date_updated": "2021-12-13T00:00:00",
   "postcode": "SERPENTINE",
   "data": [
     {
@@ -4590,9 +4590,9 @@
       "date": "2021-11-04",
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 12,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-11-04",
@@ -5175,8 +5175,8 @@
       "locality": "SERPENTINE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 13,
-      "vaccines": 15
+      "dose2": 14,
+      "vaccines": 16
     },
     {
       "date": "2021-11-26",
@@ -5521,6 +5521,30 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "SERPENTINE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "SERPENTINE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "SERPENTINE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -951,6 +951,14 @@ namespace WAVaccine
             JObject lgapostjson = (JObject)JsonConvert.DeserializeObject(lgaposttext);
             JArray ar2 = (JArray)lgapostjson["data"];
             var lgapost = JsonConvert.DeserializeObject<List<LGAPostcode>>(ar2.ToString());
+
+            var lgaoverridetext = File.ReadAllText("data/lgaoverride.json");
+            JObject lgaoverridejson = (JObject)JsonConvert.DeserializeObject(lgaoverridetext);
+            JArray ar3 = (JArray)lgaoverridejson["data"];
+            var lgaoverride = JsonConvert.DeserializeObject<List<LGAPostcode>>(ar3.ToString());
+
+            lgapost.AddRange(lgaoverride);
+
             var lgagrp = lgapost.GroupBy(s => s.LGA_NAME20);
             List<GCCSADetail> sa2det = new List<GCCSADetail>();
             foreach (var it in lgagrp)
@@ -965,7 +973,21 @@ namespace WAVaccine
                 }
                 foreach (var it2 in it)
                 {
-                    var items = to.Where(s => s.postcode == it2.POSTCODE).ToList();
+                    var items2 = to.Where(s => s.postcode == it2.POSTCODE);
+                    if (it2.locality == "")
+                    {
+                        var lgovit = lgaoverride.Where(s => s.POSTCODE == it2.POSTCODE);
+                        foreach (var lit2 in lgovit)
+                        {
+                            items2 = items2.Where(s => s.locality != lit2.locality);
+                        }
+                    }
+                    else
+                    {
+                        items2 = items2.Where(s => s.locality == it2.locality);
+                    }
+
+                    var items = items2.ToList();
                     foreach (var items1 in items)
                     {
                         sdet.dose1 += items1.dose1;

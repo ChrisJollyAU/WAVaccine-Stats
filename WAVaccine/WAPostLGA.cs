@@ -225,6 +225,7 @@ namespace WAVaccine
             foreach (var it in cc)
             {
                 LGAPostcode po = new LGAPostcode();
+                po.locality = "";
                 JProperty R = (JProperty)it.Parent.Next;
                 if (R?.Name == "R")
                 {
@@ -275,5 +276,6 @@ namespace WAVaccine
     {
         public string LGA_NAME20 { get; set; }
         public string POSTCODE { get; set; }
+        public string locality { get; set; }
     }
 }

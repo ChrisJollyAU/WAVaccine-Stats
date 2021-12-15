@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-13T00:00:00",
+  "date_updated": "2021-12-14T00:00:00",
   "locality": "PORT DENISON",
   "data": [
     {
@@ -110,9 +110,9 @@
     {
       "date": "2021-04-07",
       "locality": "PORT DENISON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-08",
@@ -699,8 +699,8 @@
       "date": "2021-07-22",
       "locality": "PORT DENISON",
       "dose1": 16,
-      "dose2": 18,
-      "vaccines": 34
+      "dose2": 19,
+      "vaccines": 35
     },
     {
       "date": "2021-07-23",
@@ -978,9 +978,9 @@
     {
       "date": "2021-09-01",
       "locality": "PORT DENISON",
-      "dose1": 10,
-      "dose2": 5,
-      "vaccines": 15
+      "dose1": 11,
+      "dose2": 6,
+      "vaccines": 17
     },
     {
       "date": "2021-09-02",
@@ -1609,8 +1609,8 @@
       "date": "2021-12-07",
       "locality": "PORT DENISON",
       "dose1": 1,
-      "dose2": 12,
-      "vaccines": 13
+      "dose2": 13,
+      "vaccines": 14
     },
     {
       "date": "2021-12-08",
@@ -1646,6 +1646,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-14",
+      "locality": "PORT DENISON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

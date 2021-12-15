@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-13T00:00:00",
+  "date_updated": "2021-12-14T00:00:00",
   "postcode": "GLEN IRIS",
   "data": [
     {
@@ -886,9 +886,9 @@
       "date": "2021-05-14",
       "locality": "GLEN IRIS",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-05-15",
@@ -1270,6 +1270,14 @@
       "date": "2021-06-06",
       "locality": "GLEN IRIS",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-07",
+      "locality": "GLEN IRIS",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1671,8 +1679,8 @@
       "locality": "GLEN IRIS",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-06-29",
@@ -2423,8 +2431,8 @@
       "locality": "GLEN IRIS",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 6,
-      "vaccines": 12
+      "dose2": 7,
+      "vaccines": 13
     },
     {
       "date": "2021-08-06",
@@ -4086,9 +4094,9 @@
       "date": "2021-10-21",
       "locality": "GLEN IRIS",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 13,
-      "vaccines": 28
+      "vaccines": 27
     },
     {
       "date": "2021-10-21",
@@ -4639,8 +4647,8 @@
       "locality": "GLEN IRIS",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 11,
-      "vaccines": 19
+      "dose2": 10,
+      "vaccines": 18
     },
     {
       "date": "2021-11-11",
@@ -5207,8 +5215,8 @@
       "locality": "GLEN IRIS",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-12-07",
@@ -5358,14 +5366,38 @@
       "date": "2021-12-13",
       "locality": "GLEN IRIS",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-12-13",
       "locality": "GLEN IRIS",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-14",
+      "locality": "GLEN IRIS",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-14",
+      "locality": "GLEN IRIS",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 7,
+      "vaccines": 13
+    },
+    {
+      "date": "2021-12-14",
+      "locality": "GLEN IRIS",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

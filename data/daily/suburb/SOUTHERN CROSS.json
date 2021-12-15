@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-13T00:00:00",
+  "date_updated": "2021-12-14T00:00:00",
   "locality": "SOUTHERN CROSS",
   "data": [
     {
@@ -1104,9 +1104,16 @@
     {
       "date": "2021-12-13",
       "locality": "SOUTHERN CROSS",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-14",
+      "locality": "SOUTHERN CROSS",
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-13T00:00:00",
+  "date_updated": "2021-12-14T00:00:00",
   "locality": "YABBERUP",
   "data": [
     {
@@ -11,6 +11,13 @@
     },
     {
       "date": "2021-03-18",
+      "locality": "YABBERUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-26",
       "locality": "YABBERUP",
       "dose1": 1,
       "dose2": 0,
@@ -237,8 +244,8 @@
       "date": "2021-07-20",
       "locality": "YABBERUP",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-22",
@@ -411,9 +418,9 @@
     {
       "date": "2021-09-14",
       "locality": "YABBERUP",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-15",
@@ -496,8 +503,8 @@
       "date": "2021-10-12",
       "locality": "YABBERUP",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-13",

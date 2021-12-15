@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-13T00:00:00",
+  "date_updated": "2021-12-14T00:00:00",
   "locality": "NORTH DANDALUP",
   "data": [
     {
@@ -1553,8 +1553,15 @@
       "date": "2021-12-13",
       "locality": "NORTH DANDALUP",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-14",
+      "locality": "NORTH DANDALUP",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
     }
   ]
 }

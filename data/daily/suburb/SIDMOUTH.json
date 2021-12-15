@@ -1,7 +1,14 @@
 {
-  "date_updated": "2021-12-13T00:00:00",
+  "date_updated": "2021-12-14T00:00:00",
   "locality": "SIDMOUTH",
   "data": [
+    {
+      "date": "2021-10-19",
+      "locality": "SIDMOUTH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-11-02",
       "locality": "SIDMOUTH",
@@ -13,8 +20,8 @@
       "date": "2021-11-09",
       "locality": "SIDMOUTH",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-11-25",

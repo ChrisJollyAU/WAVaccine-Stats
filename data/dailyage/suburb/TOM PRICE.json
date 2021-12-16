@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-14T00:00:00",
+  "date_updated": "2021-12-15T00:00:00",
   "postcode": "TOM PRICE",
   "data": [
     {
@@ -822,17 +822,17 @@
       "date": "2021-07-29",
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 24,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-07-29",
       "locality": "TOM PRICE",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 14,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-07-30",
@@ -1095,16 +1095,16 @@
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
       "dose1": 26,
-      "dose2": 12,
-      "vaccines": 38
+      "dose2": 13,
+      "vaccines": 39
     },
     {
       "date": "2021-08-19",
       "locality": "TOM PRICE",
       "AgeGroup": "50 to 69",
       "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose2": 4,
+      "vaccines": 10
     },
     {
       "date": "2021-08-20",
@@ -1949,6 +1949,14 @@
     {
       "date": "2021-10-09",
       "locality": "TOM PRICE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
       "dose2": 0,
@@ -2397,6 +2405,14 @@
     {
       "date": "2021-10-30",
       "locality": "TOM PRICE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-30",
+      "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
       "dose2": 0,
@@ -2590,9 +2606,9 @@
       "date": "2021-11-11",
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
-      "dose1": 37,
+      "dose1": 38,
       "dose2": 11,
-      "vaccines": 48
+      "vaccines": 49
     },
     {
       "date": "2021-11-11",
@@ -3214,17 +3230,33 @@
       "date": "2021-12-14",
       "locality": "TOM PRICE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-12-14",
       "locality": "TOM PRICE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "TOM PRICE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "TOM PRICE",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 8,
+      "vaccines": 13
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-14T00:00:00",
+  "date_updated": "2021-12-15T00:00:00",
   "locality": "ARDROSS",
   "data": [
     {
@@ -2022,8 +2022,15 @@
       "date": "2021-12-14",
       "locality": "ARDROSS",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "ARDROSS",
+      "dose1": 3,
+      "dose2": 10,
+      "vaccines": 13
     }
   ]
 }

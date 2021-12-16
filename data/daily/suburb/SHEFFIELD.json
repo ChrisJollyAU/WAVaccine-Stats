@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-14T00:00:00",
+  "date_updated": "2021-12-15T00:00:00",
   "locality": "SHEFFIELD",
   "data": [
     {
@@ -11,6 +11,27 @@
     },
     {
       "date": "2021-05-18",
+      "locality": "SHEFFIELD",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "SHEFFIELD",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "SHEFFIELD",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-11-25",
       "locality": "SHEFFIELD",
       "dose1": 0,
       "dose2": 1,

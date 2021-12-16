@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-14T00:00:00",
+  "date_updated": "2021-12-15T00:00:00",
   "postcode": "3046",
   "data": [
     {
@@ -45,6 +45,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-13",
+      "postcode": "3046",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-16",
       "postcode": "3046",
       "dose1": 1,
@@ -63,6 +70,13 @@
       "postcode": "3046",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-11",
+      "postcode": "3046",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -127,6 +141,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-15",
+      "postcode": "3046",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

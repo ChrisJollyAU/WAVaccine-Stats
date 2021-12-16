@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-14T00:00:00",
+  "date_updated": "2021-12-15T00:00:00",
   "postcode": "NORTH YUNDERUP",
   "data": [
     {
@@ -1518,9 +1518,9 @@
       "date": "2021-08-12",
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-08-12",
@@ -2118,9 +2118,9 @@
       "date": "2021-09-14",
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-14",
@@ -2503,8 +2503,8 @@
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 1,
-      "vaccines": 5
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-10-07",
@@ -2527,8 +2527,8 @@
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2021-10-08",
@@ -2705,6 +2705,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-17",
+      "locality": "NORTH YUNDERUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-18",
@@ -2942,9 +2950,9 @@
       "date": "2021-10-30",
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-30",
@@ -3143,8 +3151,8 @@
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-09",
@@ -3455,8 +3463,8 @@
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-11-26",
@@ -3701,6 +3709,14 @@
     {
       "date": "2021-12-09",
       "locality": "NORTH YUNDERUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "NORTH YUNDERUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 2,
@@ -3783,8 +3799,32 @@
       "locality": "NORTH YUNDERUP",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "NORTH YUNDERUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "NORTH YUNDERUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "NORTH YUNDERUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

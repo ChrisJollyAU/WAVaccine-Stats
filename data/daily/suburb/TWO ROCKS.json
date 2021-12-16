@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-14T00:00:00",
+  "date_updated": "2021-12-15T00:00:00",
   "locality": "TWO ROCKS",
   "data": [
     {
@@ -1860,9 +1860,16 @@
     {
       "date": "2021-12-14",
       "locality": "TWO ROCKS",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 15,
-      "vaccines": 23
+      "vaccines": 24
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "TWO ROCKS",
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     }
   ]
 }

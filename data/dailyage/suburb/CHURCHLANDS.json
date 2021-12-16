@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-14T00:00:00",
+  "date_updated": "2021-12-15T00:00:00",
   "postcode": "CHURCHLANDS",
   "data": [
     {
@@ -854,9 +854,9 @@
       "date": "2021-04-16",
       "locality": "CHURCHLANDS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-04-16",
@@ -1343,8 +1343,8 @@
       "locality": "CHURCHLANDS",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-05-10",
@@ -2838,9 +2838,9 @@
       "date": "2021-07-14",
       "locality": "CHURCHLANDS",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-07-14",
@@ -3319,8 +3319,8 @@
       "locality": "CHURCHLANDS",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 12,
-      "vaccines": 23
+      "dose2": 11,
+      "vaccines": 22
     },
     {
       "date": "2021-08-04",
@@ -4398,9 +4398,9 @@
       "date": "2021-09-18",
       "locality": "CHURCHLANDS",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-09-18",
@@ -4470,9 +4470,9 @@
       "date": "2021-09-21",
       "locality": "CHURCHLANDS",
       "AgeGroup": "12 to 15",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-21",
@@ -5159,8 +5159,8 @@
       "locality": "CHURCHLANDS",
       "AgeGroup": "12 to 15",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-10-15",
@@ -5318,9 +5318,9 @@
       "date": "2021-10-20",
       "locality": "CHURCHLANDS",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-20",
@@ -5351,8 +5351,8 @@
       "locality": "CHURCHLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 7,
-      "vaccines": 7
+      "dose2": 8,
+      "vaccines": 8
     },
     {
       "date": "2021-10-21",
@@ -6070,9 +6070,9 @@
       "date": "2021-11-16",
       "locality": "CHURCHLANDS",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-11-16",
@@ -6111,8 +6111,8 @@
       "locality": "CHURCHLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-11-18",
@@ -6597,14 +6597,6 @@
     {
       "date": "2021-12-07",
       "locality": "CHURCHLANDS",
-      "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-12-07",
-      "locality": "CHURCHLANDS",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 1,
@@ -6615,8 +6607,8 @@
       "locality": "CHURCHLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-12-08",
@@ -6751,8 +6743,8 @@
       "locality": "CHURCHLANDS",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 7,
-      "vaccines": 8
+      "dose2": 8,
+      "vaccines": 9
     },
     {
       "date": "2021-12-13",
@@ -6788,6 +6780,30 @@
     },
     {
       "date": "2021-12-14",
+      "locality": "CHURCHLANDS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "CHURCHLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-15",
+      "locality": "CHURCHLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-15",
       "locality": "CHURCHLANDS",
       "AgeGroup": "70 and over",
       "dose1": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-15T00:00:00",
+  "date_updated": "2021-12-16T00:00:00",
   "postcode": "BAYSWATER",
   "data": [
     {
@@ -86,9 +86,9 @@
       "date": "2021-02-26",
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-02-26",
@@ -471,8 +471,8 @@
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 2,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 9
     },
     {
       "date": "2021-03-20",
@@ -2758,9 +2758,9 @@
       "date": "2021-06-29",
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 38,
+      "dose1": 37,
       "dose2": 7,
-      "vaccines": 45
+      "vaccines": 44
     },
     {
       "date": "2021-06-29",
@@ -3142,9 +3142,9 @@
       "date": "2021-07-15",
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 44,
+      "dose1": 45,
       "dose2": 18,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-07-15",
@@ -3303,8 +3303,8 @@
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
       "dose1": 40,
-      "dose2": 39,
-      "vaccines": 79
+      "dose2": 38,
+      "vaccines": 78
     },
     {
       "date": "2021-07-22",
@@ -3838,9 +3838,9 @@
       "date": "2021-08-13",
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 29,
+      "dose1": 30,
       "dose2": 23,
-      "vaccines": 52
+      "vaccines": 53
     },
     {
       "date": "2021-08-13",
@@ -3951,8 +3951,8 @@
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
       "dose1": 45,
-      "dose2": 31,
-      "vaccines": 76
+      "dose2": 32,
+      "vaccines": 77
     },
     {
       "date": "2021-08-17",
@@ -4895,8 +4895,8 @@
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
       "dose1": 48,
-      "dose2": 50,
-      "vaccines": 98
+      "dose2": 51,
+      "vaccines": 99
     },
     {
       "date": "2021-09-21",
@@ -6310,9 +6310,9 @@
       "date": "2021-11-05",
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 54,
-      "vaccines": 71
+      "vaccines": 72
     },
     {
       "date": "2021-11-05",
@@ -6767,8 +6767,8 @@
       "locality": "BAYSWATER",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-11-20",
@@ -6878,9 +6878,9 @@
       "date": "2021-11-23",
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 17,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-11-23",
@@ -7519,8 +7519,8 @@
       "locality": "BAYSWATER",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 10,
-      "vaccines": 13
+      "dose2": 11,
+      "vaccines": 14
     },
     {
       "date": "2021-12-13",
@@ -7574,9 +7574,9 @@
       "date": "2021-12-15",
       "locality": "BAYSWATER",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
-      "dose2": 12,
-      "vaccines": 22
+      "dose1": 11,
+      "dose2": 14,
+      "vaccines": 25
     },
     {
       "date": "2021-12-15",
@@ -7593,6 +7593,38 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "BAYSWATER",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "BAYSWATER",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 13,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "BAYSWATER",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 4,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "BAYSWATER",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

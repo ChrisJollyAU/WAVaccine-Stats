@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-15T00:00:00",
+  "date_updated": "2021-12-16T00:00:00",
   "postcode": "WUNDOWIE",
   "data": [
     {
@@ -3446,9 +3446,9 @@
       "date": "2021-10-28",
       "locality": "WUNDOWIE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 4,
-      "vaccines": 12
+      "vaccines": 14
     },
     {
       "date": "2021-10-28",
@@ -3957,10 +3957,18 @@
     {
       "date": "2021-11-22",
       "locality": "WUNDOWIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "WUNDOWIE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-11-22",
@@ -4278,9 +4286,9 @@
       "date": "2021-12-07",
       "locality": "WUNDOWIE",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-12-08",
@@ -4343,8 +4351,8 @@
       "locality": "WUNDOWIE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-12-10",
@@ -4439,8 +4447,8 @@
       "locality": "WUNDOWIE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-12-15",
@@ -4457,6 +4465,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "WUNDOWIE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "WUNDOWIE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "WUNDOWIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

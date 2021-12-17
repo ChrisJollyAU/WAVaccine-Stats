@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-15T00:00:00",
+  "date_updated": "2021-12-16T00:00:00",
   "locality": "KEALY",
   "data": [
     {
@@ -705,9 +705,9 @@
     {
       "date": "2021-08-16",
       "locality": "KEALY",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-08-17",
@@ -1021,8 +1021,8 @@
       "date": "2021-10-07",
       "locality": "KEALY",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-10-08",
@@ -1455,7 +1455,14 @@
       "date": "2021-12-15",
       "locality": "KEALY",
       "dose1": 1,
-      "dose2": 3,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "KEALY",
+      "dose1": 2,
+      "dose2": 2,
       "vaccines": 4
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-15T00:00:00",
+  "date_updated": "2021-12-16T00:00:00",
   "locality": "BAKERS HILL",
   "data": [
     {
@@ -1679,8 +1679,8 @@
       "date": "2021-12-14",
       "locality": "BAKERS HILL",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-12-15",
@@ -1688,6 +1688,13 @@
       "dose1": 4,
       "dose2": 10,
       "vaccines": 14
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "BAKERS HILL",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

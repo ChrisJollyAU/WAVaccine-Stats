@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-15T00:00:00",
+  "date_updated": "2021-12-16T00:00:00",
   "locality": "EGLINTON",
   "data": [
     {
@@ -1923,9 +1923,16 @@
     {
       "date": "2021-12-15",
       "locality": "EGLINTON",
-      "dose1": 9,
-      "dose2": 7,
+      "dose1": 8,
+      "dose2": 8,
       "vaccines": 16
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "EGLINTON",
+      "dose1": 5,
+      "dose2": 12,
+      "vaccines": 17
     }
   ]
 }

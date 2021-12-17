@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-15T00:00:00",
+  "date_updated": "2021-12-16T00:00:00",
   "locality": "SERPENTINE",
   "data": [
     {
@@ -1868,15 +1868,22 @@
       "date": "2021-12-14",
       "locality": "SERPENTINE",
       "dose1": 9,
-      "dose2": 13,
-      "vaccines": 22
+      "dose2": 14,
+      "vaccines": 23
     },
     {
       "date": "2021-12-15",
       "locality": "SERPENTINE",
-      "dose1": 4,
-      "dose2": 13,
-      "vaccines": 17
+      "dose1": 5,
+      "dose2": 14,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "SERPENTINE",
+      "dose1": 6,
+      "dose2": 8,
+      "vaccines": 14
     }
   ]
 }

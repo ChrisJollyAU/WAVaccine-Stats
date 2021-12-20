@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "LEINSTER",
   "data": [
     {
@@ -734,8 +734,22 @@
       "date": "2021-12-16",
       "locality": "LEINSTER",
       "dose1": 3,
-      "dose2": 12,
-      "vaccines": 15
+      "dose2": 13,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "LEINSTER",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "LEINSTER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

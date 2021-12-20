@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "CRAWLEY",
   "data": [
     {
@@ -201,9 +201,9 @@
     {
       "date": "2021-03-31",
       "locality": "CRAWLEY",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-04-01",
@@ -349,8 +349,8 @@
       "date": "2021-04-22",
       "locality": "CRAWLEY",
       "dose1": 15,
-      "dose2": 4,
-      "vaccines": 19
+      "dose2": 5,
+      "vaccines": 20
     },
     {
       "date": "2021-04-23",
@@ -1349,9 +1349,9 @@
     {
       "date": "2021-09-12",
       "locality": "CRAWLEY",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 18,
-      "vaccines": 33
+      "vaccines": 34
     },
     {
       "date": "2021-09-13",
@@ -1419,9 +1419,9 @@
     {
       "date": "2021-09-22",
       "locality": "CRAWLEY",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 8,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-09-23",
@@ -1497,8 +1497,8 @@
       "date": "2021-10-03",
       "locality": "CRAWLEY",
       "dose1": 14,
-      "dose2": 10,
-      "vaccines": 24
+      "dose2": 11,
+      "vaccines": 25
     },
     {
       "date": "2021-10-04",
@@ -1567,8 +1567,8 @@
       "date": "2021-10-13",
       "locality": "CRAWLEY",
       "dose1": 6,
-      "dose2": 6,
-      "vaccines": 12
+      "dose2": 7,
+      "vaccines": 13
     },
     {
       "date": "2021-10-14",
@@ -2008,15 +2008,29 @@
       "date": "2021-12-15",
       "locality": "CRAWLEY",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-12-16",
       "locality": "CRAWLEY",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "CRAWLEY",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "CRAWLEY",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

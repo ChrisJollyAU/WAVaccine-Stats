@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "BOYANUP",
   "data": [
     {
@@ -1685,9 +1685,23 @@
     {
       "date": "2021-12-16",
       "locality": "BOYANUP",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 6,
-      "vaccines": 6
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "BOYANUP",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "BOYANUP",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

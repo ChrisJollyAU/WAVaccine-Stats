@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "VASSE",
   "data": [
     {
@@ -880,9 +880,9 @@
     {
       "date": "2021-08-10",
       "locality": "VASSE",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 17,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-08-11",
@@ -1062,9 +1062,9 @@
     {
       "date": "2021-09-07",
       "locality": "VASSE",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 12,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-09-08",
@@ -1119,8 +1119,8 @@
       "date": "2021-09-16",
       "locality": "VASSE",
       "dose1": 19,
-      "dose2": 13,
-      "vaccines": 32
+      "dose2": 14,
+      "vaccines": 33
     },
     {
       "date": "2021-09-17",
@@ -1244,9 +1244,9 @@
     {
       "date": "2021-10-05",
       "locality": "VASSE",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 27,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-10-06",
@@ -1343,8 +1343,8 @@
       "date": "2021-10-19",
       "locality": "VASSE",
       "dose1": 6,
-      "dose2": 27,
-      "vaccines": 33
+      "dose2": 26,
+      "vaccines": 32
     },
     {
       "date": "2021-10-20",
@@ -1392,8 +1392,8 @@
       "date": "2021-10-26",
       "locality": "VASSE",
       "dose1": 14,
-      "dose2": 23,
-      "vaccines": 37
+      "dose2": 24,
+      "vaccines": 38
     },
     {
       "date": "2021-10-27",
@@ -1720,16 +1720,30 @@
     {
       "date": "2021-12-15",
       "locality": "VASSE",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 10
     },
     {
       "date": "2021-12-16",
       "locality": "VASSE",
       "dose1": 9,
-      "dose2": 10,
-      "vaccines": 19
+      "dose2": 11,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "VASSE",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "VASSE",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

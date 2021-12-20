@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "CARABOODA",
   "data": [
     {
@@ -941,6 +941,13 @@
       "vaccines": 6
     },
     {
+      "date": "2021-10-02",
+      "locality": "CARABOODA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-03",
       "locality": "CARABOODA",
       "dose1": 4,
@@ -1077,8 +1084,8 @@
       "date": "2021-10-23",
       "locality": "CARABOODA",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-24",
@@ -1436,6 +1443,20 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "CARABOODA",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "CARABOODA",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
     }
   ]
 }

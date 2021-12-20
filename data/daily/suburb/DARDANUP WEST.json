@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "DARDANUP WEST",
   "data": [
     {
@@ -458,6 +458,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-08",
+      "locality": "DARDANUP WEST",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-09",
       "locality": "DARDANUP WEST",
       "dose1": 1,
@@ -495,9 +502,9 @@
     {
       "date": "2021-07-15",
       "locality": "DARDANUP WEST",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-16",
@@ -566,8 +573,8 @@
       "date": "2021-07-29",
       "locality": "DARDANUP WEST",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-07-30",
@@ -636,8 +643,8 @@
       "date": "2021-08-11",
       "locality": "DARDANUP WEST",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-08-12",
@@ -1397,6 +1404,20 @@
     },
     {
       "date": "2021-12-16",
+      "locality": "DARDANUP WEST",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "DARDANUP WEST",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-18",
       "locality": "DARDANUP WEST",
       "dose1": 0,
       "dose2": 1,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "ROEBOURNE",
   "data": [
     {
@@ -306,9 +306,9 @@
     {
       "date": "2021-07-14",
       "locality": "ROEBOURNE",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 0,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-07-15",
@@ -405,8 +405,8 @@
       "date": "2021-08-03",
       "locality": "ROEBOURNE",
       "dose1": 3,
-      "dose2": 53,
-      "vaccines": 56
+      "dose2": 54,
+      "vaccines": 57
     },
     {
       "date": "2021-08-04",
@@ -1111,9 +1111,16 @@
     {
       "date": "2021-12-16",
       "locality": "ROEBOURNE",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 5
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "ROEBOURNE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

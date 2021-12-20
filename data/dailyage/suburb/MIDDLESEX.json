@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "postcode": "MIDDLESEX",
   "data": [
     {
@@ -427,14 +427,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-11-01",
-      "locality": "MIDDLESEX",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-06",
       "locality": "MIDDLESEX",
       "AgeGroup": "16 to 49",
@@ -475,14 +467,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-11-22",
-      "locality": "MIDDLESEX",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-27",
       "locality": "MIDDLESEX",
       "AgeGroup": "16 to 49",
@@ -512,6 +496,22 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "MIDDLESEX",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "MIDDLESEX",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

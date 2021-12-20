@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "BULL CREEK",
   "data": [
     {
@@ -383,9 +383,9 @@
     {
       "date": "2021-04-21",
       "locality": "BULL CREEK",
-      "dose1": 27,
+      "dose1": 26,
       "dose2": 12,
-      "vaccines": 39
+      "vaccines": 38
     },
     {
       "date": "2021-04-22",
@@ -411,9 +411,9 @@
     {
       "date": "2021-04-25",
       "locality": "BULL CREEK",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 0,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-04-26",
@@ -929,9 +929,9 @@
     {
       "date": "2021-07-08",
       "locality": "BULL CREEK",
-      "dose1": 42,
+      "dose1": 41,
       "dose2": 43,
-      "vaccines": 85
+      "vaccines": 84
     },
     {
       "date": "2021-07-09",
@@ -1006,9 +1006,9 @@
     {
       "date": "2021-07-19",
       "locality": "BULL CREEK",
-      "dose1": 15,
+      "dose1": 13,
       "dose2": 40,
-      "vaccines": 55
+      "vaccines": 53
     },
     {
       "date": "2021-07-20",
@@ -1049,8 +1049,8 @@
       "date": "2021-07-25",
       "locality": "BULL CREEK",
       "dose1": 30,
-      "dose2": 21,
-      "vaccines": 51
+      "dose2": 20,
+      "vaccines": 50
     },
     {
       "date": "2021-07-26",
@@ -1070,8 +1070,8 @@
       "date": "2021-07-28",
       "locality": "BULL CREEK",
       "dose1": 27,
-      "dose2": 53,
-      "vaccines": 80
+      "dose2": 52,
+      "vaccines": 79
     },
     {
       "date": "2021-07-29",
@@ -1091,8 +1091,8 @@
       "date": "2021-07-31",
       "locality": "BULL CREEK",
       "dose1": 18,
-      "dose2": 36,
-      "vaccines": 54
+      "dose2": 35,
+      "vaccines": 53
     },
     {
       "date": "2021-08-01",
@@ -1168,8 +1168,8 @@
       "date": "2021-08-11",
       "locality": "BULL CREEK",
       "dose1": 31,
-      "dose2": 52,
-      "vaccines": 83
+      "dose2": 50,
+      "vaccines": 81
     },
     {
       "date": "2021-08-12",
@@ -2056,9 +2056,23 @@
     {
       "date": "2021-12-16",
       "locality": "BULL CREEK",
-      "dose1": 12,
+      "dose1": 14,
+      "dose2": 15,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "BULL CREEK",
+      "dose1": 10,
       "dose2": 13,
-      "vaccines": 25
+      "vaccines": 23
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "BULL CREEK",
+      "dose1": 5,
+      "dose2": 15,
+      "vaccines": 20
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "postcode": "OCEAN BEACH",
   "data": [
     {
@@ -270,6 +270,14 @@
       "date": "2021-04-20",
       "locality": "OCEAN BEACH",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-22",
+      "locality": "OCEAN BEACH",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -927,8 +935,8 @@
       "locality": "OCEAN BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-17",
@@ -3052,6 +3060,46 @@
     },
     {
       "date": "2021-12-16",
+      "locality": "OCEAN BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "OCEAN BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "OCEAN BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "OCEAN BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "OCEAN BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-18",
       "locality": "OCEAN BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "MUCHEA",
   "data": [
     {
@@ -1727,9 +1727,23 @@
     {
       "date": "2021-12-16",
       "locality": "MUCHEA",
-      "dose1": 0,
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "MUCHEA",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "MUCHEA",
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     }
   ]
 }

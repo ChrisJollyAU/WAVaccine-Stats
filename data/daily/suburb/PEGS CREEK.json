@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "locality": "PEGS CREEK",
   "data": [
     {
@@ -1503,16 +1503,16 @@
     {
       "date": "2021-12-13",
       "locality": "PEGS CREEK",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 11,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-12-14",
       "locality": "PEGS CREEK",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 11
     },
     {
       "date": "2021-12-15",
@@ -1525,8 +1525,22 @@
       "date": "2021-12-16",
       "locality": "PEGS CREEK",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 7,
+      "vaccines": 14
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "PEGS CREEK",
+      "dose1": 5,
+      "dose2": 11,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "PEGS CREEK",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

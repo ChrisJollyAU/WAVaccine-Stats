@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-16T00:00:00",
+  "date_updated": "2021-12-18T00:00:00",
   "postcode": "BRABHAM",
   "data": [
     {
@@ -14,9 +14,9 @@
       "date": "2021-02-24",
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-02-25",
@@ -223,8 +223,8 @@
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 2,
-      "vaccines": 10
+      "dose2": 3,
+      "vaccines": 11
     },
     {
       "date": "2021-03-17",
@@ -4038,9 +4038,9 @@
       "date": "2021-10-01",
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 29,
       "dose2": 34,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-10-01",
@@ -4214,9 +4214,9 @@
       "date": "2021-10-07",
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 29,
       "dose2": 35,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-10-07",
@@ -4366,9 +4366,9 @@
       "date": "2021-10-13",
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 37,
+      "dose1": 38,
       "dose2": 23,
-      "vaccines": 60
+      "vaccines": 61
     },
     {
       "date": "2021-10-13",
@@ -4918,9 +4918,9 @@
       "date": "2021-11-02",
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 32,
-      "vaccines": 44
+      "vaccines": 45
     },
     {
       "date": "2021-11-02",
@@ -4951,8 +4951,8 @@
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
       "dose1": 20,
-      "dose2": 27,
-      "vaccines": 47
+      "dose2": 28,
+      "vaccines": 48
     },
     {
       "date": "2021-11-03",
@@ -5007,8 +5007,8 @@
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 25,
-      "vaccines": 38
+      "dose2": 26,
+      "vaccines": 39
     },
     {
       "date": "2021-11-05",
@@ -5134,9 +5134,9 @@
       "date": "2021-11-10",
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
-      "dose2": 35,
-      "vaccines": 48
+      "dose1": 17,
+      "dose2": 36,
+      "vaccines": 53
     },
     {
       "date": "2021-11-10",
@@ -5246,9 +5246,9 @@
       "date": "2021-11-14",
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 29,
-      "vaccines": 35
+      "vaccines": 34
     },
     {
       "date": "2021-11-14",
@@ -5759,8 +5759,8 @@
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 15,
-      "vaccines": 25
+      "dose2": 17,
+      "vaccines": 27
     },
     {
       "date": "2021-12-03",
@@ -5847,8 +5847,8 @@
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 15,
-      "vaccines": 24
+      "dose2": 17,
+      "vaccines": 26
     },
     {
       "date": "2021-12-06",
@@ -6111,8 +6111,8 @@
       "locality": "BRABHAM",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 18,
-      "vaccines": 30
+      "dose2": 19,
+      "vaccines": 31
     },
     {
       "date": "2021-12-16",
@@ -6129,6 +6129,54 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "BRABHAM",
+      "AgeGroup": "12 to 15",
+      "dose1": 6,
+      "dose2": 0,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "BRABHAM",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 12,
+      "vaccines": 19
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "BRABHAM",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "BRABHAM",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "BRABHAM",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 14,
+      "vaccines": 23
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "BRABHAM",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

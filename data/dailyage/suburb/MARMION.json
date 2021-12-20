@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "postcode": "MARMION",
   "data": [
     {
@@ -454,9 +454,9 @@
       "date": "2021-03-29",
       "locality": "MARMION",
       "AgeGroup": "70 and over",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-03-30",
@@ -574,9 +574,9 @@
       "date": "2021-04-06",
       "locality": "MARMION",
       "AgeGroup": "70 and over",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-04-07",
@@ -2171,6 +2171,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-25",
+      "locality": "MARMION",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-26",
       "locality": "MARMION",
       "AgeGroup": "16 to 49",
@@ -2279,8 +2287,8 @@
       "locality": "MARMION",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 7,
-      "vaccines": 7
+      "dose2": 8,
+      "vaccines": 8
     },
     {
       "date": "2021-07-01",
@@ -6457,6 +6465,38 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "MARMION",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "MARMION",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "MARMION",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "MARMION",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

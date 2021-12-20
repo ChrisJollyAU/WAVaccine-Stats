@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "postcode": "WANNEROO",
   "data": [
     {
@@ -7375,32 +7375,56 @@
       "locality": "WANNEROO",
       "AgeGroup": "12 to 15",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-12-18",
       "locality": "WANNEROO",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
-      "dose2": 23,
-      "vaccines": 42
+      "dose1": 21,
+      "dose2": 26,
+      "vaccines": 47
     },
     {
       "date": "2021-12-18",
       "locality": "WANNEROO",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 8
+      "vaccines": 10
     },
     {
       "date": "2021-12-18",
       "locality": "WANNEROO",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "WANNEROO",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "WANNEROO",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 14,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "WANNEROO",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

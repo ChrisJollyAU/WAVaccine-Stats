@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "MELVILLE",
   "data": [
     {
@@ -2035,8 +2035,15 @@
     {
       "date": "2021-12-18",
       "locality": "MELVILLE",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 3,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "MELVILLE",
+      "dose1": 4,
+      "dose2": 5,
       "vaccines": 9
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "postcode": "KALGOORLIE DC",
   "data": [
     {
@@ -107,14 +107,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-04-28",
-      "locality": "KALGOORLIE DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-04-29",
       "locality": "KALGOORLIE DC",
       "AgeGroup": "50 to 69",
@@ -207,8 +199,8 @@
       "locality": "KALGOORLIE DC",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-05-19",
@@ -2288,6 +2280,14 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "KALGOORLIE DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

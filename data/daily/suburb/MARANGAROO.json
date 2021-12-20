@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "MARANGAROO",
   "data": [
     {
@@ -505,6 +505,13 @@
       "dose1": 21,
       "dose2": 2,
       "vaccines": 23
+    },
+    {
+      "date": "2021-05-08",
+      "locality": "MARANGAROO",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-09",
@@ -1161,8 +1168,8 @@
       "date": "2021-08-10",
       "locality": "MARANGAROO",
       "dose1": 36,
-      "dose2": 39,
-      "vaccines": 75
+      "dose2": 40,
+      "vaccines": 76
     },
     {
       "date": "2021-08-11",
@@ -2073,6 +2080,13 @@
       "dose1": 19,
       "dose2": 21,
       "vaccines": 40
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "MARANGAROO",
+      "dose1": 14,
+      "dose2": 12,
+      "vaccines": 26
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "LAUNCESTON",
   "data": [
+    {
+      "date": "2021-03-18",
+      "locality": "LAUNCESTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-08",
+      "locality": "LAUNCESTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
     {
       "date": "2021-10-22",
       "locality": "LAUNCESTON",
@@ -15,6 +29,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "LAUNCESTON",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2021-11-19",

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "BEAGLE BAY",
   "data": [
     {
@@ -556,6 +556,13 @@
       "vaccines": 0
     },
     {
+      "date": "2021-11-17",
+      "locality": "BEAGLE BAY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-19",
       "locality": "BEAGLE BAY",
       "dose1": 1,
@@ -633,11 +640,25 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-10",
+      "locality": "BEAGLE BAY",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-16",
       "locality": "BEAGLE BAY",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "BEAGLE BAY",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

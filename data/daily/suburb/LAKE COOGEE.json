@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "LAKE COOGEE",
   "data": [
     {
@@ -1070,8 +1070,8 @@
       "date": "2021-08-14",
       "locality": "LAKE COOGEE",
       "dose1": 11,
-      "dose2": 11,
-      "vaccines": 22
+      "dose2": 12,
+      "vaccines": 23
     },
     {
       "date": "2021-08-15",
@@ -1945,8 +1945,8 @@
       "date": "2021-12-17",
       "locality": "LAKE COOGEE",
       "dose1": 7,
-      "dose2": 11,
-      "vaccines": 18
+      "dose2": 12,
+      "vaccines": 19
     },
     {
       "date": "2021-12-18",
@@ -1954,6 +1954,13 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "LAKE COOGEE",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     }
   ]
 }

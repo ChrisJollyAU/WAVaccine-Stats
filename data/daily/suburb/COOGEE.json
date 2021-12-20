@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "COOGEE",
   "data": [
     {
@@ -1034,9 +1034,9 @@
     {
       "date": "2021-08-02",
       "locality": "COOGEE",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 30,
-      "vaccines": 34
+      "vaccines": 33
     },
     {
       "date": "2021-08-03",
@@ -1189,8 +1189,8 @@
       "date": "2021-08-24",
       "locality": "COOGEE",
       "dose1": 33,
-      "dose2": 29,
-      "vaccines": 62
+      "dose2": 28,
+      "vaccines": 61
     },
     {
       "date": "2021-08-25",
@@ -1993,16 +1993,23 @@
     {
       "date": "2021-12-17",
       "locality": "COOGEE",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 10,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-12-18",
       "locality": "COOGEE",
-      "dose1": 6,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 9
+      "vaccines": 11
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "COOGEE",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

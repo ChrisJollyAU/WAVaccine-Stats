@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "TREEBY",
   "data": [
     {
@@ -1980,8 +1980,15 @@
       "date": "2021-12-18",
       "locality": "TREEBY",
       "dose1": 9,
+      "dose2": 6,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "TREEBY",
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 14
+      "vaccines": 8
     }
   ]
 }

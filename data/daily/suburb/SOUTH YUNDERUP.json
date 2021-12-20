@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "SOUTH YUNDERUP",
   "data": [
     {
@@ -1783,22 +1783,29 @@
     {
       "date": "2021-12-16",
       "locality": "SOUTH YUNDERUP",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 17,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-12-17",
       "locality": "SOUTH YUNDERUP",
       "dose1": 3,
-      "dose2": 11,
-      "vaccines": 14
+      "dose2": 12,
+      "vaccines": 15
     },
     {
       "date": "2021-12-18",
       "locality": "SOUTH YUNDERUP",
       "dose1": 6,
       "dose2": 0,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "SOUTH YUNDERUP",
+      "dose1": 3,
+      "dose2": 3,
       "vaccines": 6
     }
   ]

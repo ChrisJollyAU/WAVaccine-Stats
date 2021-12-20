@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "CHITTERING",
   "data": [
     {
@@ -516,9 +516,9 @@
     {
       "date": "2021-07-11",
       "locality": "CHITTERING",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-12",
@@ -783,8 +783,8 @@
       "date": "2021-08-22",
       "locality": "CHITTERING",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-23",
@@ -1590,6 +1590,13 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "CHITTERING",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "NORANDA",
   "data": [
     {
@@ -992,9 +992,9 @@
     {
       "date": "2021-07-16",
       "locality": "NORANDA",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 13,
-      "vaccines": 36
+      "vaccines": 37
     },
     {
       "date": "2021-07-17",
@@ -1252,8 +1252,8 @@
       "date": "2021-08-22",
       "locality": "NORANDA",
       "dose1": 34,
-      "dose2": 48,
-      "vaccines": 82
+      "dose2": 49,
+      "vaccines": 83
     },
     {
       "date": "2021-08-23",
@@ -2078,8 +2078,15 @@
       "date": "2021-12-18",
       "locality": "NORANDA",
       "dose1": 14,
-      "dose2": 10,
-      "vaccines": 24
+      "dose2": 11,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "NORANDA",
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
     }
   ]
 }

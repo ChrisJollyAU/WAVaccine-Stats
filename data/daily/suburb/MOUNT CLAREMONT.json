@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "MOUNT CLAREMONT",
   "data": [
     {
@@ -817,9 +817,9 @@
     {
       "date": "2021-06-22",
       "locality": "MOUNT CLAREMONT",
-      "dose1": 17,
+      "dose1": 15,
       "dose2": 17,
-      "vaccines": 34
+      "vaccines": 32
     },
     {
       "date": "2021-06-23",
@@ -993,8 +993,8 @@
       "date": "2021-07-17",
       "locality": "MOUNT CLAREMONT",
       "dose1": 14,
-      "dose2": 30,
-      "vaccines": 44
+      "dose2": 28,
+      "vaccines": 42
     },
     {
       "date": "2021-07-18",
@@ -2073,6 +2073,13 @@
       "dose1": 3,
       "dose2": 4,
       "vaccines": 7
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "MOUNT CLAREMONT",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "postcode": "GOSNELLS",
   "data": [
     {
@@ -286,9 +286,9 @@
       "date": "2021-03-14",
       "locality": "GOSNELLS",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-03-15",
@@ -1959,8 +1959,8 @@
       "locality": "GOSNELLS",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 7,
-      "vaccines": 7
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-06-02",
@@ -5982,9 +5982,9 @@
       "date": "2021-11-02",
       "locality": "GOSNELLS",
       "AgeGroup": "16 to 49",
-      "dose1": 44,
+      "dose1": 43,
       "dose2": 34,
-      "vaccines": 78
+      "vaccines": 77
     },
     {
       "date": "2021-11-02",
@@ -6655,8 +6655,8 @@
       "locality": "GOSNELLS",
       "AgeGroup": "16 to 49",
       "dose1": 36,
-      "dose2": 61,
-      "vaccines": 97
+      "dose2": 60,
+      "vaccines": 96
     },
     {
       "date": "2021-11-23",
@@ -7406,9 +7406,9 @@
       "date": "2021-12-17",
       "locality": "GOSNELLS",
       "AgeGroup": "16 to 49",
-      "dose1": 35,
+      "dose1": 36,
       "dose2": 53,
-      "vaccines": 88
+      "vaccines": 89
     },
     {
       "date": "2021-12-17",
@@ -7457,6 +7457,38 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "GOSNELLS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "GOSNELLS",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 14,
+      "vaccines": 21
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "GOSNELLS",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "GOSNELLS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

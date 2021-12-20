@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "SOUTH GUILDFORD",
   "data": [
     {
@@ -2008,8 +2008,8 @@
       "date": "2021-12-16",
       "locality": "SOUTH GUILDFORD",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-12-17",
@@ -2024,6 +2024,13 @@
       "dose1": 4,
       "dose2": 4,
       "vaccines": 8
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "SOUTH GUILDFORD",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

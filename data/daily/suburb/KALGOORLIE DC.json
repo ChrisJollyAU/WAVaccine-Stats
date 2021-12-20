@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-18T00:00:00",
+  "date_updated": "2021-12-19T00:00:00",
   "locality": "KALGOORLIE DC",
   "data": [
     {
@@ -60,13 +60,6 @@
     },
     {
       "date": "2021-04-23",
-      "locality": "KALGOORLIE DC",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-28",
       "locality": "KALGOORLIE DC",
       "dose1": 1,
       "dose2": 0,
@@ -139,8 +132,8 @@
       "date": "2021-05-19",
       "locality": "KALGOORLIE DC",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-05-20",
@@ -1226,6 +1219,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "KALGOORLIE DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

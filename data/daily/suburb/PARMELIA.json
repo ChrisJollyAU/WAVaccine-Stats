@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "locality": "PARMELIA",
   "data": [
     {
@@ -117,9 +117,9 @@
     {
       "date": "2021-03-18",
       "locality": "PARMELIA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-19",
@@ -223,8 +223,8 @@
       "date": "2021-04-08",
       "locality": "PARMELIA",
       "dose1": 21,
-      "dose2": 0,
-      "vaccines": 21
+      "dose2": 1,
+      "vaccines": 22
     },
     {
       "date": "2021-04-09",
@@ -866,9 +866,9 @@
     {
       "date": "2021-07-15",
       "locality": "PARMELIA",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 21,
-      "vaccines": 38
+      "vaccines": 39
     },
     {
       "date": "2021-07-16",
@@ -908,9 +908,9 @@
     {
       "date": "2021-07-21",
       "locality": "PARMELIA",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 27,
-      "vaccines": 42
+      "vaccines": 43
     },
     {
       "date": "2021-07-22",
@@ -1056,8 +1056,8 @@
       "date": "2021-08-11",
       "locality": "PARMELIA",
       "dose1": 15,
-      "dose2": 43,
-      "vaccines": 58
+      "dose2": 44,
+      "vaccines": 59
     },
     {
       "date": "2021-08-12",
@@ -1167,8 +1167,8 @@
     {
       "date": "2021-08-27",
       "locality": "PARMELIA",
-      "dose1": 24,
-      "dose2": 30,
+      "dose1": 23,
+      "dose2": 31,
       "vaccines": 54
     },
     {
@@ -1419,9 +1419,9 @@
     {
       "date": "2021-10-02",
       "locality": "PARMELIA",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 17,
-      "vaccines": 38
+      "vaccines": 37
     },
     {
       "date": "2021-10-03",
@@ -1567,8 +1567,8 @@
       "date": "2021-10-23",
       "locality": "PARMELIA",
       "dose1": 37,
-      "dose2": 24,
-      "vaccines": 61
+      "dose2": 23,
+      "vaccines": 60
     },
     {
       "date": "2021-10-24",
@@ -1825,9 +1825,9 @@
     {
       "date": "2021-11-29",
       "locality": "PARMELIA",
-      "dose1": 20,
+      "dose1": 21,
       "dose2": 32,
-      "vaccines": 52
+      "vaccines": 53
     },
     {
       "date": "2021-11-30",
@@ -1944,9 +1944,9 @@
     {
       "date": "2021-12-16",
       "locality": "PARMELIA",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 13,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-12-17",
@@ -1968,6 +1968,13 @@
       "dose1": 0,
       "dose2": 8,
       "vaccines": 8
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PARMELIA",
+      "dose1": 11,
+      "dose2": 16,
+      "vaccines": 27
     }
   ]
 }

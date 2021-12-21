@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "postcode": "SAN REMO",
   "data": [
     {
@@ -1061,6 +1061,14 @@
     {
       "date": "2021-06-28",
       "locality": "SAN REMO",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-28",
+      "locality": "SAN REMO",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 3,
@@ -1391,8 +1399,8 @@
       "locality": "SAN REMO",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-19",
@@ -3926,9 +3934,9 @@
       "date": "2021-12-01",
       "locality": "SAN REMO",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-12-01",
@@ -4181,9 +4189,33 @@
     {
       "date": "2021-12-19",
       "locality": "SAN REMO",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "SAN REMO",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "SAN REMO",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "SAN REMO",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

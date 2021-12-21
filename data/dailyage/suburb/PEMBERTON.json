@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "postcode": "PEMBERTON",
   "data": [
     {
@@ -25,14 +25,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-03-13",
-      "locality": "PEMBERTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-03-16",
@@ -542,9 +534,9 @@
       "date": "2021-05-18",
       "locality": "PEMBERTON",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-05-18",
@@ -837,14 +829,6 @@
     {
       "date": "2021-06-11",
       "locality": "PEMBERTON",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-11",
-      "locality": "PEMBERTON",
       "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 0,
@@ -1039,8 +1023,8 @@
       "locality": "PEMBERTON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-24",
@@ -4134,9 +4118,9 @@
       "date": "2021-12-16",
       "locality": "PEMBERTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-12-16",
@@ -4184,6 +4168,38 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PEMBERTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PEMBERTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PEMBERTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PEMBERTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

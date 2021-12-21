@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "postcode": "LYNWOOD",
   "data": [
     {
@@ -1422,9 +1422,9 @@
       "date": "2021-05-31",
       "locality": "LYNWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-31",
@@ -1678,9 +1678,9 @@
       "date": "2021-06-12",
       "locality": "LYNWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-06-12",
@@ -1935,8 +1935,8 @@
       "locality": "LYNWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-26",
@@ -2255,8 +2255,8 @@
       "locality": "LYNWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-07-11",
@@ -5518,9 +5518,9 @@
       "date": "2021-11-16",
       "locality": "LYNWOOD",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-11-16",
@@ -6271,8 +6271,8 @@
       "locality": "LYNWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 8,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2021-12-14",
@@ -6425,6 +6425,38 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "LYNWOOD",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "LYNWOOD",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 3,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "LYNWOOD",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "LYNWOOD",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

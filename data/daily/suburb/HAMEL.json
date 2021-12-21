@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "locality": "HAMEL",
   "data": [
     {
@@ -85,13 +85,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-05-25",
-      "locality": "HAMEL",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-05-26",
@@ -307,8 +300,8 @@
       "date": "2021-08-17",
       "locality": "HAMEL",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 0,
+      "vaccines": 4
     },
     {
       "date": "2021-08-18",
@@ -860,15 +853,15 @@
       "date": "2021-12-16",
       "locality": "HAMEL",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-12-17",
       "locality": "HAMEL",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 6,
-      "vaccines": 6
+      "vaccines": 8
     },
     {
       "date": "2021-12-18",
@@ -883,6 +876,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "HAMEL",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

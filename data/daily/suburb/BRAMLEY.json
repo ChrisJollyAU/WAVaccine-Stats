@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "locality": "BRAMLEY",
   "data": [
     {
@@ -467,9 +467,9 @@
     {
       "date": "2021-12-14",
       "locality": "BRAMLEY",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-12-15",
@@ -479,7 +479,21 @@
       "vaccines": 0
     },
     {
+      "date": "2021-12-16",
+      "locality": "BRAMLEY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-17",
+      "locality": "BRAMLEY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-18",
       "locality": "BRAMLEY",
       "dose1": 0,
       "dose2": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "postcode": "DUDLEY PARK",
   "data": [
     {
@@ -5022,17 +5022,17 @@
       "date": "2021-10-31",
       "locality": "DUDLEY PARK",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-31",
       "locality": "DUDLEY PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 10
     },
     {
       "date": "2021-10-31",
@@ -5862,9 +5862,9 @@
       "date": "2021-11-28",
       "locality": "DUDLEY PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 7,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-11-28",
@@ -5877,18 +5877,10 @@
     {
       "date": "2021-11-29",
       "locality": "DUDLEY PARK",
-      "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-11-29",
-      "locality": "DUDLEY PARK",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 14,
-      "vaccines": 26
+      "dose2": 12,
+      "vaccines": 24
     },
     {
       "date": "2021-11-29",
@@ -5902,9 +5894,9 @@
       "date": "2021-11-29",
       "locality": "DUDLEY PARK",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 8,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-11-30",
@@ -6343,8 +6335,8 @@
       "locality": "DUDLEY PARK",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 8,
+      "vaccines": 12
     },
     {
       "date": "2021-12-16",
@@ -6407,8 +6399,8 @@
       "locality": "DUDLEY PARK",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2021-12-18",
@@ -6429,18 +6421,58 @@
     {
       "date": "2021-12-19",
       "locality": "DUDLEY PARK",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "DUDLEY PARK",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 10,
+      "vaccines": 13
     },
     {
       "date": "2021-12-19",
       "locality": "DUDLEY PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 1,
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "DUDLEY PARK",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "DUDLEY PARK",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 16,
+      "vaccines": 20
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "DUDLEY PARK",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "DUDLEY PARK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

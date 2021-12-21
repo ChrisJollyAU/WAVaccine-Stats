@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "postcode": "BOORAGOON",
   "data": [
     {
@@ -3830,17 +3830,17 @@
       "date": "2021-08-25",
       "locality": "BOORAGOON",
       "AgeGroup": "16 to 49",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 12,
-      "vaccines": 52
+      "vaccines": 53
     },
     {
       "date": "2021-08-25",
       "locality": "BOORAGOON",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 7,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-08-25",
@@ -4351,16 +4351,16 @@
       "locality": "BOORAGOON",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 29,
-      "vaccines": 40
+      "dose2": 30,
+      "vaccines": 41
     },
     {
       "date": "2021-09-15",
       "locality": "BOORAGOON",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 12,
-      "vaccines": 14
+      "dose2": 13,
+      "vaccines": 15
     },
     {
       "date": "2021-09-15",
@@ -6118,9 +6118,9 @@
       "date": "2021-11-12",
       "locality": "BOORAGOON",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 6
     },
     {
       "date": "2021-11-12",
@@ -6925,6 +6925,14 @@
     {
       "date": "2021-12-09",
       "locality": "BOORAGOON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "BOORAGOON",
       "AgeGroup": "16 to 49",
       "dose1": 2,
       "dose2": 7,
@@ -7159,8 +7167,8 @@
       "locality": "BOORAGOON",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 5,
-      "vaccines": 12
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-12-17",
@@ -7215,11 +7223,43 @@
       "locality": "BOORAGOON",
       "AgeGroup": "16 to 49",
       "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-19",
+      "locality": "BOORAGOON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
       "dose2": 0,
       "vaccines": 0
     },
     {
-      "date": "2021-12-19",
+      "date": "2021-12-20",
+      "locality": "BOORAGOON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "BOORAGOON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "BOORAGOON",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-20",
       "locality": "BOORAGOON",
       "AgeGroup": "70 and over",
       "dose1": 0,

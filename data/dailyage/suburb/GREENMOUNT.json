@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "postcode": "GREENMOUNT",
   "data": [
     {
@@ -1310,9 +1310,9 @@
       "date": "2021-06-04",
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-04",
@@ -2447,8 +2447,8 @@
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-08-01",
@@ -3598,9 +3598,9 @@
       "date": "2021-09-19",
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-19",
@@ -3646,9 +3646,9 @@
       "date": "2021-09-21",
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 4,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-09-21",
@@ -4135,8 +4135,8 @@
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 9
     },
     {
       "date": "2021-10-10",
@@ -4591,8 +4591,8 @@
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 14,
-      "vaccines": 19
+      "dose2": 15,
+      "vaccines": 20
     },
     {
       "date": "2021-10-26",
@@ -5062,9 +5062,9 @@
       "date": "2021-11-13",
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-11-13",
@@ -5727,8 +5727,8 @@
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-12-11",
@@ -5902,9 +5902,9 @@
       "date": "2021-12-18",
       "locality": "GREENMOUNT",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 6,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-12-18",
@@ -5945,6 +5945,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "GREENMOUNT",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "GREENMOUNT",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "GREENMOUNT",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "GREENMOUNT",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "locality": "JINDALEE",
   "data": [
     {
@@ -1993,9 +1993,16 @@
     {
       "date": "2021-12-19",
       "locality": "JINDALEE",
-      "dose1": 6,
+      "dose1": 10,
       "dose2": 3,
-      "vaccines": 9
+      "vaccines": 13
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "JINDALEE",
+      "dose1": 3,
+      "dose2": 9,
+      "vaccines": 12
     }
   ]
 }

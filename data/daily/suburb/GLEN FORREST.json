@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "locality": "GLEN FORREST",
   "data": [
     {
@@ -867,8 +867,8 @@
       "date": "2021-07-16",
       "locality": "GLEN FORREST",
       "dose1": 10,
-      "dose2": 5,
-      "vaccines": 15
+      "dose2": 6,
+      "vaccines": 16
     },
     {
       "date": "2021-07-17",
@@ -1945,8 +1945,8 @@
       "date": "2021-12-17",
       "locality": "GLEN FORREST",
       "dose1": 10,
-      "dose2": 6,
-      "vaccines": 16
+      "dose2": 5,
+      "vaccines": 15
     },
     {
       "date": "2021-12-18",
@@ -1961,6 +1961,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "GLEN FORREST",
+      "dose1": 8,
+      "dose2": 5,
+      "vaccines": 13
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "postcode": "PADBURY",
   "data": [
     {
@@ -38,9 +38,9 @@
       "date": "2021-02-26",
       "locality": "PADBURY",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-02-26",
@@ -319,8 +319,8 @@
       "locality": "PADBURY",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-03-20",
@@ -3470,9 +3470,9 @@
       "date": "2021-08-12",
       "locality": "PADBURY",
       "AgeGroup": "16 to 49",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 8,
-      "vaccines": 29
+      "vaccines": 28
     },
     {
       "date": "2021-08-12",
@@ -4079,8 +4079,8 @@
       "locality": "PADBURY",
       "AgeGroup": "16 to 49",
       "dose1": 27,
-      "dose2": 30,
-      "vaccines": 57
+      "dose2": 29,
+      "vaccines": 56
     },
     {
       "date": "2021-09-06",
@@ -6262,9 +6262,9 @@
       "date": "2021-11-16",
       "locality": "PADBURY",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 18,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-11-16",
@@ -7166,9 +7166,9 @@
       "date": "2021-12-16",
       "locality": "PADBURY",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 16,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-12-16",
@@ -7230,17 +7230,17 @@
       "date": "2021-12-18",
       "locality": "PADBURY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-12-18",
       "locality": "PADBURY",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-12-18",
@@ -7281,6 +7281,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PADBURY",
+      "AgeGroup": "12 to 15",
+      "dose1": 5,
+      "dose2": 10,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PADBURY",
+      "AgeGroup": "16 to 49",
+      "dose1": 12,
+      "dose2": 13,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PADBURY",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PADBURY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

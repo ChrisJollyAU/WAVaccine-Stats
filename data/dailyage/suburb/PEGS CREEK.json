@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-19T00:00:00",
+  "date_updated": "2021-12-20T00:00:00",
   "postcode": "PEGS CREEK",
   "data": [
     {
@@ -1477,6 +1477,14 @@
     {
       "date": "2021-08-23",
       "locality": "PEGS CREEK",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-23",
+      "locality": "PEGS CREEK",
       "AgeGroup": "50 to 69",
       "dose1": 2,
       "dose2": 3,
@@ -1806,9 +1814,9 @@
       "date": "2021-09-14",
       "locality": "PEGS CREEK",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-15",
@@ -2006,9 +2014,9 @@
       "date": "2021-09-28",
       "locality": "PEGS CREEK",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-28",
@@ -2479,8 +2487,8 @@
       "locality": "PEGS CREEK",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 2,
-      "vaccines": 15
+      "dose2": 3,
+      "vaccines": 16
     },
     {
       "date": "2021-10-21",
@@ -2575,8 +2583,8 @@
       "locality": "PEGS CREEK",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-10-25",
@@ -2831,8 +2839,8 @@
       "locality": "PEGS CREEK",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-11-09",
@@ -3585,6 +3593,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PEGS CREEK",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "PEGS CREEK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

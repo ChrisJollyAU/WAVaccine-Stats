@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "postcode": "STRATHAM",
   "data": [
     {
@@ -425,14 +425,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-05-17",
-      "locality": "STRATHAM",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-05-18",
@@ -1271,8 +1263,8 @@
       "locality": "STRATHAM",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-24",
@@ -2851,6 +2843,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-24",
+      "locality": "STRATHAM",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-25",
       "locality": "STRATHAM",
       "AgeGroup": "16 to 49",
@@ -3270,9 +3270,9 @@
       "date": "2021-11-16",
       "locality": "STRATHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-11-16",
@@ -3361,6 +3361,14 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2021-11-21",
+      "locality": "STRATHAM",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-11-22",
@@ -3457,14 +3465,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-11-27",
-      "locality": "STRATHAM",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
     },
     {
       "date": "2021-11-28",
@@ -3663,8 +3663,8 @@
       "locality": "STRATHAM",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-12-13",
@@ -3793,6 +3793,22 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "STRATHAM",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "STRATHAM",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "locality": "WAROONA",
   "data": [
     {
@@ -1755,9 +1755,16 @@
     {
       "date": "2021-12-20",
       "locality": "WAROONA",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 13
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "WAROONA",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

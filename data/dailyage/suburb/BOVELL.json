@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "postcode": "BOVELL",
   "data": [
     {
@@ -446,9 +446,9 @@
       "date": "2021-06-15",
       "locality": "BOVELL",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-06-15",
@@ -593,6 +593,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-06",
+      "locality": "BOVELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-06",
@@ -1173,6 +1181,14 @@
     {
       "date": "2021-09-02",
       "locality": "BOVELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-02",
+      "locality": "BOVELL",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 2,
@@ -1294,6 +1310,14 @@
       "date": "2021-09-12",
       "locality": "BOVELL",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "BOVELL",
+      "AgeGroup": "12 to 15",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1519,8 +1543,8 @@
       "locality": "BOVELL",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-01",
@@ -1542,6 +1566,14 @@
       "date": "2021-10-02",
       "locality": "BOVELL",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-04",
+      "locality": "BOVELL",
+      "AgeGroup": "12 to 15",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -2382,6 +2414,38 @@
       "date": "2021-12-17",
       "locality": "BOVELL",
       "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "BOVELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "BOVELL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "BOVELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "BOVELL",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

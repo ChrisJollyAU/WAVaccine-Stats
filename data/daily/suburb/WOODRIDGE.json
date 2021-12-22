@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "locality": "WOODRIDGE",
   "data": [
     {
@@ -1503,9 +1503,16 @@
     {
       "date": "2021-12-20",
       "locality": "WOODRIDGE",
-      "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "WOODRIDGE",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

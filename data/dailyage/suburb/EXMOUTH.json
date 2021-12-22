@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "postcode": "EXMOUTH",
   "data": [
     {
@@ -902,6 +902,14 @@
       "date": "2021-07-19",
       "locality": "EXMOUTH",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-20",
+      "locality": "EXMOUTH",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1911,16 +1919,16 @@
       "locality": "EXMOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 35,
-      "dose2": 26,
-      "vaccines": 61
+      "dose2": 27,
+      "vaccines": 62
     },
     {
       "date": "2021-09-28",
       "locality": "EXMOUTH",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 9,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-09-29",
@@ -2287,8 +2295,8 @@
       "locality": "EXMOUTH",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 10
     },
     {
       "date": "2021-10-19",
@@ -3431,8 +3439,8 @@
       "locality": "EXMOUTH",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-12-20",
@@ -3441,6 +3449,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "EXMOUTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "EXMOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 16,
+      "dose2": 19,
+      "vaccines": 35
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "EXMOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "EXMOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

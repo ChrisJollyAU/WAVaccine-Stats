@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "postcode": "HEATHRIDGE",
   "data": [
     {
@@ -78,14 +78,6 @@
       "date": "2021-02-28",
       "locality": "HEATHRIDGE",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-02",
-      "locality": "HEATHRIDGE",
-      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -535,8 +527,8 @@
       "locality": "HEATHRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 6
     },
     {
       "date": "2021-03-31",
@@ -3518,9 +3510,9 @@
       "date": "2021-08-19",
       "locality": "HEATHRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 10,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-08-19",
@@ -3999,8 +3991,8 @@
       "locality": "HEATHRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 20,
-      "dose2": 22,
-      "vaccines": 42
+      "dose2": 23,
+      "vaccines": 43
     },
     {
       "date": "2021-09-09",
@@ -4062,9 +4054,9 @@
       "date": "2021-09-12",
       "locality": "HEATHRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 5,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-09-12",
@@ -4791,8 +4783,8 @@
       "locality": "HEATHRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 21,
-      "dose2": 18,
-      "vaccines": 39
+      "dose2": 19,
+      "vaccines": 40
     },
     {
       "date": "2021-10-07",
@@ -6094,9 +6086,9 @@
       "date": "2021-11-20",
       "locality": "HEATHRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 13,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2021-11-20",
@@ -6326,9 +6318,9 @@
       "date": "2021-11-28",
       "locality": "HEATHRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 7,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-11-28",
@@ -6934,9 +6926,9 @@
       "date": "2021-12-20",
       "locality": "HEATHRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 13,
-      "vaccines": 21
+      "dose1": 9,
+      "dose2": 15,
+      "vaccines": 24
     },
     {
       "date": "2021-12-20",
@@ -6953,6 +6945,30 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "HEATHRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 9,
+      "dose2": 15,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "HEATHRIDGE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "HEATHRIDGE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

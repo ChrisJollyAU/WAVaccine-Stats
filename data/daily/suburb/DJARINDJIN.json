@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "locality": "DJARINDJIN",
   "data": [
     {
@@ -420,6 +420,13 @@
       "locality": "DJARINDJIN",
       "dose1": 1,
       "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "DJARINDJIN",
+      "dose1": 0,
+      "dose2": 3,
       "vaccines": 3
     }
   ]

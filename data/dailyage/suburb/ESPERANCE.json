@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "postcode": "ESPERANCE",
   "data": [
     {
@@ -102,6 +102,14 @@
       "date": "2021-03-11",
       "locality": "ESPERANCE",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-12",
+      "locality": "ESPERANCE",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -271,8 +279,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-04-06",
@@ -2134,9 +2142,9 @@
       "date": "2021-07-20",
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
-      "dose1": 18,
+      "dose1": 16,
       "dose2": 2,
-      "vaccines": 20
+      "vaccines": 18
     },
     {
       "date": "2021-07-20",
@@ -3350,9 +3358,9 @@
       "date": "2021-09-14",
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 4,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-09-14",
@@ -3719,8 +3727,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
       "dose1": 12,
-      "dose2": 18,
-      "vaccines": 30
+      "dose2": 16,
+      "vaccines": 28
     },
     {
       "date": "2021-09-28",
@@ -3918,9 +3926,9 @@
       "date": "2021-10-05",
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 13,
-      "vaccines": 30
+      "vaccines": 31
     },
     {
       "date": "2021-10-05",
@@ -3942,9 +3950,9 @@
       "date": "2021-10-06",
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 41,
-      "vaccines": 71
+      "vaccines": 70
     },
     {
       "date": "2021-10-06",
@@ -4591,8 +4599,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 13,
-      "vaccines": 15
+      "dose2": 14,
+      "vaccines": 16
     },
     {
       "date": "2021-10-28",
@@ -5695,8 +5703,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 9
     },
     {
       "date": "2021-12-07",
@@ -5911,8 +5919,8 @@
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
       "dose1": 18,
-      "dose2": 23,
-      "vaccines": 41
+      "dose2": 22,
+      "vaccines": 40
     },
     {
       "date": "2021-12-14",
@@ -5942,9 +5950,9 @@
       "date": "2021-12-15",
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 13,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-12-15",
@@ -6078,9 +6086,9 @@
       "date": "2021-12-20",
       "locality": "ESPERANCE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
-      "dose2": 7,
-      "vaccines": 12
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
     },
     {
       "date": "2021-12-20",
@@ -6094,9 +6102,41 @@
       "date": "2021-12-20",
       "locality": "ESPERANCE",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "ESPERANCE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "ESPERANCE",
+      "AgeGroup": "16 to 49",
+      "dose1": 14,
+      "dose2": 20,
+      "vaccines": 34
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "ESPERANCE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "ESPERANCE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

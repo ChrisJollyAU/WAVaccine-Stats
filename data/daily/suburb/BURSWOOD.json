@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-20T00:00:00",
+  "date_updated": "2021-12-21T00:00:00",
   "locality": "BURSWOOD",
   "data": [
     {
@@ -453,9 +453,9 @@
     {
       "date": "2021-05-09",
       "locality": "BURSWOOD",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-10",
@@ -544,9 +544,9 @@
     {
       "date": "2021-05-22",
       "locality": "BURSWOOD",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 2,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-05-23",
@@ -1105,8 +1105,8 @@
       "date": "2021-08-10",
       "locality": "BURSWOOD",
       "dose1": 13,
-      "dose2": 18,
-      "vaccines": 31
+      "dose2": 17,
+      "vaccines": 30
     },
     {
       "date": "2021-08-11",
@@ -1132,8 +1132,8 @@
     {
       "date": "2021-08-14",
       "locality": "BURSWOOD",
-      "dose1": 5,
-      "dose2": 12,
+      "dose1": 4,
+      "dose2": 13,
       "vaccines": 17
     },
     {
@@ -1552,9 +1552,9 @@
     {
       "date": "2021-10-13",
       "locality": "BURSWOOD",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 10,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-10-14",
@@ -1685,9 +1685,9 @@
     {
       "date": "2021-11-01",
       "locality": "BURSWOOD",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 8,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-11-02",
@@ -1748,9 +1748,9 @@
     {
       "date": "2021-11-10",
       "locality": "BURSWOOD",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 10,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-11-11",
@@ -1805,8 +1805,8 @@
       "date": "2021-11-18",
       "locality": "BURSWOOD",
       "dose1": 2,
-      "dose2": 11,
-      "vaccines": 13
+      "dose2": 12,
+      "vaccines": 14
     },
     {
       "date": "2021-11-19",
@@ -1910,8 +1910,8 @@
       "date": "2021-12-03",
       "locality": "BURSWOOD",
       "dose1": 1,
-      "dose2": 7,
-      "vaccines": 8
+      "dose2": 8,
+      "vaccines": 9
     },
     {
       "date": "2021-12-04",
@@ -1965,9 +1965,9 @@
     {
       "date": "2021-12-11",
       "locality": "BURSWOOD",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-12-12",
@@ -2029,8 +2029,15 @@
       "date": "2021-12-20",
       "locality": "BURSWOOD",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-21",
+      "locality": "BURSWOOD",
+      "dose1": 2,
+      "dose2": 7,
+      "vaccines": 9
     }
   ]
 }

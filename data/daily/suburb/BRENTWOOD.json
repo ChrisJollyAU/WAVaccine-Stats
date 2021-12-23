@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-21T00:00:00",
+  "date_updated": "2021-12-22T00:00:00",
   "locality": "BRENTWOOD",
   "data": [
     {
@@ -2007,9 +2007,16 @@
     {
       "date": "2021-12-21",
       "locality": "BRENTWOOD",
-      "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose1": 6,
+      "dose2": 4,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "BRENTWOOD",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

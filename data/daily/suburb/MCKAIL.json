@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-21T00:00:00",
+  "date_updated": "2021-12-22T00:00:00",
   "locality": "MCKAIL",
   "data": [
     {
@@ -516,9 +516,9 @@
     {
       "date": "2021-05-25",
       "locality": "MCKAIL",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-05-26",
@@ -993,8 +993,8 @@
       "date": "2021-08-02",
       "locality": "MCKAIL",
       "dose1": 15,
-      "dose2": 6,
-      "vaccines": 21
+      "dose2": 7,
+      "vaccines": 22
     },
     {
       "date": "2021-08-03",
@@ -1875,8 +1875,8 @@
       "date": "2021-12-07",
       "locality": "MCKAIL",
       "dose1": 8,
-      "dose2": 17,
-      "vaccines": 25
+      "dose2": 18,
+      "vaccines": 26
     },
     {
       "date": "2021-12-08",
@@ -1972,9 +1972,16 @@
     {
       "date": "2021-12-21",
       "locality": "MCKAIL",
-      "dose1": 7,
-      "dose2": 15,
-      "vaccines": 22
+      "dose1": 8,
+      "dose2": 17,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "MCKAIL",
+      "dose1": 9,
+      "dose2": 10,
+      "vaccines": 19
     }
   ]
 }

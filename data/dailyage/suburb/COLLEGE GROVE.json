@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-21T00:00:00",
+  "date_updated": "2021-12-22T00:00:00",
   "postcode": "COLLEGE GROVE",
   "data": [
     {
@@ -904,14 +904,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-05",
-      "locality": "COLLEGE GROVE",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -2607,8 +2599,8 @@
       "locality": "COLLEGE GROVE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-18",
@@ -4495,11 +4487,35 @@
       "locality": "COLLEGE GROVE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2021-12-21",
+      "locality": "COLLEGE GROVE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "COLLEGE GROVE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "COLLEGE GROVE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-22",
       "locality": "COLLEGE GROVE",
       "AgeGroup": "70 and over",
       "dose1": 0,

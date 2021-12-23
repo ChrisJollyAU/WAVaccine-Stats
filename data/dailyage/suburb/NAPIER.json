@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-21T00:00:00",
+  "date_updated": "2021-12-22T00:00:00",
   "postcode": "NAPIER",
   "data": [
     {
@@ -203,6 +203,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-19",
+      "locality": "NAPIER",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-22",
       "locality": "NAPIER",
       "AgeGroup": "16 to 49",
@@ -264,6 +272,14 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-10",
+      "locality": "NAPIER",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1473,6 +1489,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "NAPIER",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "NAPIER",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-21T00:00:00",
+  "date_updated": "2021-12-22T00:00:00",
   "locality": "EAST BUNBURY",
   "data": [
     {
@@ -838,9 +838,9 @@
     {
       "date": "2021-07-21",
       "locality": "EAST BUNBURY",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 8,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-07-22",
@@ -1021,8 +1021,8 @@
       "date": "2021-08-17",
       "locality": "EAST BUNBURY",
       "dose1": 19,
-      "dose2": 23,
-      "vaccines": 42
+      "dose2": 22,
+      "vaccines": 41
     },
     {
       "date": "2021-08-18",
@@ -1889,8 +1889,15 @@
       "date": "2021-12-21",
       "locality": "EAST BUNBURY",
       "dose1": 6,
-      "dose2": 6,
-      "vaccines": 12
+      "dose2": 10,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "EAST BUNBURY",
+      "dose1": 14,
+      "dose2": 14,
+      "vaccines": 28
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-21T00:00:00",
+  "date_updated": "2021-12-22T00:00:00",
   "locality": "WITHERS",
   "data": [
     {
@@ -824,9 +824,9 @@
     {
       "date": "2021-07-26",
       "locality": "WITHERS",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 11,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-07-27",
@@ -1153,9 +1153,9 @@
     {
       "date": "2021-09-17",
       "locality": "WITHERS",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 11,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-09-18",
@@ -1224,8 +1224,8 @@
       "date": "2021-09-30",
       "locality": "WITHERS",
       "dose1": 24,
-      "dose2": 11,
-      "vaccines": 35
+      "dose2": 10,
+      "vaccines": 34
     },
     {
       "date": "2021-10-01",
@@ -1244,9 +1244,9 @@
     {
       "date": "2021-10-04",
       "locality": "WITHERS",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 1,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-10-05",
@@ -1399,8 +1399,8 @@
       "date": "2021-10-28",
       "locality": "WITHERS",
       "dose1": 12,
-      "dose2": 17,
-      "vaccines": 29
+      "dose2": 18,
+      "vaccines": 30
     },
     {
       "date": "2021-10-29",
@@ -1672,8 +1672,8 @@
       "date": "2021-12-07",
       "locality": "WITHERS",
       "dose1": 4,
-      "dose2": 17,
-      "vaccines": 21
+      "dose2": 18,
+      "vaccines": 22
     },
     {
       "date": "2021-12-08",
@@ -1686,8 +1686,8 @@
       "date": "2021-12-09",
       "locality": "WITHERS",
       "dose1": 7,
-      "dose2": 10,
-      "vaccines": 17
+      "dose2": 11,
+      "vaccines": 18
     },
     {
       "date": "2021-12-10",
@@ -1713,9 +1713,9 @@
     {
       "date": "2021-12-14",
       "locality": "WITHERS",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 10,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-12-15",
@@ -1762,9 +1762,16 @@
     {
       "date": "2021-12-21",
       "locality": "WITHERS",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 10
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "WITHERS",
+      "dose1": 5,
+      "dose2": 11,
+      "vaccines": 16
     }
   ]
 }

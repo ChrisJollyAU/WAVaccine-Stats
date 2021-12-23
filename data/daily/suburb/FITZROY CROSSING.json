@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-21T00:00:00",
+  "date_updated": "2021-12-22T00:00:00",
   "locality": "FITZROY CROSSING",
   "data": [
     {
@@ -1104,9 +1104,9 @@
     {
       "date": "2021-11-09",
       "locality": "FITZROY CROSSING",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 18,
-      "vaccines": 37
+      "vaccines": 38
     },
     {
       "date": "2021-11-10",
@@ -1231,8 +1231,8 @@
       "date": "2021-11-30",
       "locality": "FITZROY CROSSING",
       "dose1": 16,
-      "dose2": 13,
-      "vaccines": 29
+      "dose2": 14,
+      "vaccines": 30
     },
     {
       "date": "2021-12-01",
@@ -1356,9 +1356,16 @@
     {
       "date": "2021-12-21",
       "locality": "FITZROY CROSSING",
-      "dose1": 6,
-      "dose2": 5,
-      "vaccines": 11
+      "dose1": 9,
+      "dose2": 6,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "FITZROY CROSSING",
+      "dose1": 8,
+      "dose2": 2,
+      "vaccines": 10
     }
   ]
 }

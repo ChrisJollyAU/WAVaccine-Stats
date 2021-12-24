@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-22T00:00:00",
+  "date_updated": "2021-12-23T00:00:00",
   "postcode": "WITCHCLIFFE",
   "data": [
     {
@@ -2503,8 +2503,8 @@
       "locality": "WITCHCLIFFE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-12-21",
@@ -2521,6 +2521,22 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "WITCHCLIFFE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "WITCHCLIFFE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-22T00:00:00",
+  "date_updated": "2021-12-23T00:00:00",
   "postcode": "WATERLOO",
   "data": [
     {
@@ -509,6 +509,14 @@
     {
       "date": "2021-09-13",
       "locality": "WATERLOO",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-13",
+      "locality": "WATERLOO",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -647,8 +655,8 @@
       "locality": "WATERLOO",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-10-06",
@@ -1017,6 +1025,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "WATERLOO",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

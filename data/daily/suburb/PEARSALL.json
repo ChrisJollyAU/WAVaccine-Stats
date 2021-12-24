@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-22T00:00:00",
+  "date_updated": "2021-12-23T00:00:00",
   "locality": "PEARSALL",
   "data": [
     {
@@ -916,8 +916,8 @@
       "date": "2021-07-12",
       "locality": "PEARSALL",
       "dose1": 5,
-      "dose2": 9,
-      "vaccines": 14
+      "dose2": 10,
+      "vaccines": 15
     },
     {
       "date": "2021-07-13",
@@ -2056,9 +2056,16 @@
     {
       "date": "2021-12-22",
       "locality": "PEARSALL",
+      "dose1": 10,
+      "dose2": 5,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "PEARSALL",
       "dose1": 9,
-      "dose2": 4,
-      "vaccines": 13
+      "dose2": 7,
+      "vaccines": 16
     }
   ]
 }

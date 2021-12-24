@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-22T00:00:00",
+  "date_updated": "2021-12-23T00:00:00",
   "postcode": "CASUARINA",
   "data": [
     {
@@ -3406,9 +3406,9 @@
       "date": "2021-12-08",
       "locality": "CASUARINA",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 10,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-12-08",
@@ -3615,8 +3615,8 @@
       "locality": "CASUARINA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-20",
@@ -3657,6 +3657,38 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-22",
+      "locality": "CASUARINA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "CASUARINA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "CASUARINA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "CASUARINA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-22T00:00:00",
+  "date_updated": "2021-12-23T00:00:00",
   "postcode": "BOULDER",
   "data": [
     {
@@ -470,9 +470,9 @@
       "date": "2021-04-28",
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-04-28",
@@ -1806,9 +1806,9 @@
       "date": "2021-07-21",
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 0,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-07-21",
@@ -2215,8 +2215,8 @@
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
       "dose1": 17,
-      "dose2": 3,
-      "vaccines": 20
+      "dose2": 4,
+      "vaccines": 21
     },
     {
       "date": "2021-08-11",
@@ -2342,9 +2342,9 @@
       "date": "2021-08-18",
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 19,
       "dose2": 7,
-      "vaccines": 24
+      "vaccines": 26
     },
     {
       "date": "2021-08-18",
@@ -2863,8 +2863,8 @@
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 19,
-      "vaccines": 34
+      "dose2": 21,
+      "vaccines": 36
     },
     {
       "date": "2021-09-10",
@@ -3167,8 +3167,8 @@
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
       "dose1": 21,
-      "dose2": 6,
-      "vaccines": 27
+      "dose2": 5,
+      "vaccines": 26
     },
     {
       "date": "2021-09-22",
@@ -3942,9 +3942,9 @@
       "date": "2021-10-20",
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
-      "dose1": 31,
+      "dose1": 32,
       "dose2": 5,
-      "vaccines": 36
+      "vaccines": 37
     },
     {
       "date": "2021-10-20",
@@ -4294,9 +4294,9 @@
       "date": "2021-11-02",
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 5,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-11-02",
@@ -4518,9 +4518,9 @@
       "date": "2021-11-10",
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 12,
-      "vaccines": 35
+      "vaccines": 36
     },
     {
       "date": "2021-11-10",
@@ -4727,8 +4727,8 @@
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
       "dose1": 16,
-      "dose2": 28,
-      "vaccines": 44
+      "dose2": 29,
+      "vaccines": 45
     },
     {
       "date": "2021-11-18",
@@ -5063,8 +5063,8 @@
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
       "dose1": 33,
-      "dose2": 15,
-      "vaccines": 48
+      "dose2": 14,
+      "vaccines": 47
     },
     {
       "date": "2021-11-30",
@@ -5399,8 +5399,8 @@
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 11,
-      "vaccines": 13
+      "dose2": 12,
+      "vaccines": 14
     },
     {
       "date": "2021-12-13",
@@ -5598,9 +5598,9 @@
       "date": "2021-12-20",
       "locality": "BOULDER",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
-      "dose2": 12,
-      "vaccines": 22
+      "dose1": 17,
+      "dose2": 15,
+      "vaccines": 32
     },
     {
       "date": "2021-12-20",
@@ -5671,8 +5671,40 @@
       "locality": "BOULDER",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "BOULDER",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "BOULDER",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 20,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "BOULDER",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "BOULDER",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

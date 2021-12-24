@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-22T00:00:00",
+  "date_updated": "2021-12-23T00:00:00",
   "locality": "WITCHCLIFFE",
   "data": [
     {
@@ -1315,8 +1315,8 @@
       "date": "2021-12-21",
       "locality": "WITCHCLIFFE",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-12-22",
@@ -1324,6 +1324,13 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "WITCHCLIFFE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

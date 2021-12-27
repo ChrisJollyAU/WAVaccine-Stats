@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "HALLS HEAD",
   "data": [
     {
@@ -272,8 +272,8 @@
       "date": "2021-04-12",
       "locality": "HALLS HEAD",
       "dose1": 62,
-      "dose2": 3,
-      "vaccines": 65
+      "dose2": 2,
+      "vaccines": 64
     },
     {
       "date": "2021-04-13",
@@ -832,8 +832,8 @@
       "date": "2021-07-03",
       "locality": "HALLS HEAD",
       "dose1": 1,
-      "dose2": 12,
-      "vaccines": 13
+      "dose2": 13,
+      "vaccines": 14
     },
     {
       "date": "2021-07-04",
@@ -1545,9 +1545,9 @@
     {
       "date": "2021-10-13",
       "locality": "HALLS HEAD",
-      "dose1": 79,
+      "dose1": 80,
       "dose2": 81,
-      "vaccines": 160
+      "vaccines": 161
     },
     {
       "date": "2021-10-14",
@@ -1840,8 +1840,8 @@
       "date": "2021-11-24",
       "locality": "HALLS HEAD",
       "dose1": 47,
-      "dose2": 81,
-      "vaccines": 128
+      "dose2": 82,
+      "vaccines": 129
     },
     {
       "date": "2021-11-25",
@@ -2042,9 +2042,23 @@
     {
       "date": "2021-12-23",
       "locality": "HALLS HEAD",
-      "dose1": 27,
-      "dose2": 27,
-      "vaccines": 54
+      "dose1": 28,
+      "dose2": 29,
+      "vaccines": 57
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "HALLS HEAD",
+      "dose1": 24,
+      "dose2": 18,
+      "vaccines": 42
+    },
+    {
+      "date": "2021-12-26",
+      "locality": "HALLS HEAD",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

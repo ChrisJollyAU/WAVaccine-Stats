@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "WATERFORD",
   "data": [
     {
@@ -1167,16 +1167,16 @@
     {
       "date": "2021-08-17",
       "locality": "WATERFORD",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 13,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-08-18",
       "locality": "WATERFORD",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 8,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-08-19",
@@ -1322,8 +1322,8 @@
       "date": "2021-09-08",
       "locality": "WATERFORD",
       "dose1": 12,
-      "dose2": 15,
-      "vaccines": 27
+      "dose2": 16,
+      "vaccines": 28
     },
     {
       "date": "2021-09-09",
@@ -1441,8 +1441,8 @@
       "date": "2021-09-25",
       "locality": "WATERFORD",
       "dose1": 19,
-      "dose2": 9,
-      "vaccines": 28
+      "dose2": 10,
+      "vaccines": 29
     },
     {
       "date": "2021-09-26",
@@ -2063,9 +2063,16 @@
     {
       "date": "2021-12-23",
       "locality": "WATERFORD",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "WATERFORD",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

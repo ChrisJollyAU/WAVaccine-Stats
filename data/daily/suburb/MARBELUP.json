@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "MARBELUP",
   "data": [
     {
@@ -150,11 +150,18 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-02",
+      "date": "2021-05-30",
       "locality": "MARBELUP",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-06-02",
+      "locality": "MARBELUP",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-06-04",
@@ -232,6 +239,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-06-21",
+      "locality": "MARBELUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-23",
@@ -333,6 +347,13 @@
     },
     {
       "date": "2021-07-14",
+      "locality": "MARBELUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-15",
       "locality": "MARBELUP",
       "dose1": 0,
       "dose2": 1,
@@ -528,6 +549,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-08-22",
+      "locality": "MARBELUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-23",
       "locality": "MARBELUP",
       "dose1": 1,
@@ -538,8 +566,8 @@
       "date": "2021-08-25",
       "locality": "MARBELUP",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-26",
@@ -1191,6 +1219,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "MARBELUP",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
     }
   ]
 }

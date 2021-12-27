@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "ALBANY DC",
   "data": [
     {
@@ -2007,16 +2007,23 @@
     {
       "date": "2021-12-22",
       "locality": "ALBANY DC",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 13,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-12-23",
       "locality": "ALBANY DC",
-      "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose1": 4,
+      "dose2": 11,
+      "vaccines": 15
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "ALBANY DC",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

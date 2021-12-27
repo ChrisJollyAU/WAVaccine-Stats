@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "WAIKIKI",
   "data": [
     {
@@ -40,9 +40,9 @@
     {
       "date": "2021-02-27",
       "locality": "WAIKIKI",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-01",
@@ -174,8 +174,8 @@
       "date": "2021-03-24",
       "locality": "WAIKIKI",
       "dose1": 30,
-      "dose2": 12,
-      "vaccines": 42
+      "dose2": 13,
+      "vaccines": 43
     },
     {
       "date": "2021-03-25",
@@ -327,9 +327,9 @@
     {
       "date": "2021-04-20",
       "locality": "WAIKIKI",
-      "dose1": 12,
+      "dose1": 14,
       "dose2": 3,
-      "vaccines": 15
+      "vaccines": 17
     },
     {
       "date": "2021-04-21",
@@ -551,9 +551,9 @@
     {
       "date": "2021-05-24",
       "locality": "WAIKIKI",
-      "dose1": 56,
+      "dose1": 57,
       "dose2": 12,
-      "vaccines": 68
+      "vaccines": 69
     },
     {
       "date": "2021-05-25",
@@ -902,8 +902,8 @@
       "date": "2021-07-13",
       "locality": "WAIKIKI",
       "dose1": 33,
-      "dose2": 34,
-      "vaccines": 67
+      "dose2": 36,
+      "vaccines": 69
     },
     {
       "date": "2021-07-14",
@@ -1048,9 +1048,9 @@
     {
       "date": "2021-08-03",
       "locality": "WAIKIKI",
-      "dose1": 31,
+      "dose1": 33,
       "dose2": 35,
-      "vaccines": 66
+      "vaccines": 68
     },
     {
       "date": "2021-08-04",
@@ -1140,8 +1140,8 @@
       "date": "2021-08-16",
       "locality": "WAIKIKI",
       "dose1": 40,
-      "dose2": 89,
-      "vaccines": 129
+      "dose2": 90,
+      "vaccines": 130
     },
     {
       "date": "2021-08-17",
@@ -1224,8 +1224,8 @@
       "date": "2021-08-28",
       "locality": "WAIKIKI",
       "dose1": 32,
-      "dose2": 42,
-      "vaccines": 74
+      "dose2": 43,
+      "vaccines": 75
     },
     {
       "date": "2021-08-29",
@@ -1287,8 +1287,8 @@
       "date": "2021-09-06",
       "locality": "WAIKIKI",
       "dose1": 53,
-      "dose2": 37,
-      "vaccines": 90
+      "dose2": 38,
+      "vaccines": 91
     },
     {
       "date": "2021-09-07",
@@ -1391,9 +1391,9 @@
     {
       "date": "2021-09-21",
       "locality": "WAIKIKI",
-      "dose1": 87,
+      "dose1": 86,
       "dose2": 47,
-      "vaccines": 134
+      "vaccines": 133
     },
     {
       "date": "2021-09-22",
@@ -1539,8 +1539,8 @@
       "date": "2021-10-12",
       "locality": "WAIKIKI",
       "dose1": 60,
-      "dose2": 76,
-      "vaccines": 136
+      "dose2": 75,
+      "vaccines": 135
     },
     {
       "date": "2021-10-13",
@@ -1629,9 +1629,9 @@
     {
       "date": "2021-10-25",
       "locality": "WAIKIKI",
-      "dose1": 56,
+      "dose1": 57,
       "dose2": 72,
-      "vaccines": 128
+      "vaccines": 129
     },
     {
       "date": "2021-10-26",
@@ -1783,9 +1783,9 @@
     {
       "date": "2021-11-16",
       "locality": "WAIKIKI",
-      "dose1": 33,
+      "dose1": 35,
       "dose2": 53,
-      "vaccines": 86
+      "vaccines": 88
     },
     {
       "date": "2021-11-17",
@@ -1868,8 +1868,8 @@
       "date": "2021-11-28",
       "locality": "WAIKIKI",
       "dose1": 8,
-      "dose2": 17,
-      "vaccines": 25
+      "dose2": 18,
+      "vaccines": 26
     },
     {
       "date": "2021-11-29",
@@ -1931,8 +1931,8 @@
       "date": "2021-12-07",
       "locality": "WAIKIKI",
       "dose1": 27,
-      "dose2": 38,
-      "vaccines": 65
+      "dose2": 39,
+      "vaccines": 66
     },
     {
       "date": "2021-12-08",
@@ -2035,15 +2035,22 @@
     {
       "date": "2021-12-22",
       "locality": "WAIKIKI",
-      "dose1": 31,
+      "dose1": 32,
       "dose2": 32,
-      "vaccines": 63
+      "vaccines": 64
     },
     {
       "date": "2021-12-23",
       "locality": "WAIKIKI",
-      "dose1": 18,
-      "dose2": 16,
+      "dose1": 22,
+      "dose2": 22,
+      "vaccines": 44
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "WAIKIKI",
+      "dose1": 14,
+      "dose2": 20,
       "vaccines": 34
     }
   ]

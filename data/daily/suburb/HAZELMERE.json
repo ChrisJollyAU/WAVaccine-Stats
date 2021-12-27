@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "HAZELMERE",
   "data": [
     {
@@ -1770,7 +1770,14 @@
       "date": "2021-12-23",
       "locality": "HAZELMERE",
       "dose1": 1,
-      "dose2": 3,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "HAZELMERE",
+      "dose1": 3,
+      "dose2": 1,
       "vaccines": 4
     }
   ]

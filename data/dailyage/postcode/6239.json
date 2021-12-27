@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "postcode": "6239",
   "data": [
     {
@@ -2334,9 +2334,9 @@
       "date": "2021-07-19",
       "postcode": "6239",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-20",
@@ -3614,9 +3614,9 @@
       "date": "2021-09-16",
       "postcode": "6239",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 18,
       "dose2": 21,
-      "vaccines": 37
+      "vaccines": 39
     },
     {
       "date": "2021-09-16",
@@ -4327,8 +4327,8 @@
       "postcode": "6239",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 18,
-      "vaccines": 27
+      "dose2": 20,
+      "vaccines": 29
     },
     {
       "date": "2021-10-13",
@@ -4655,8 +4655,8 @@
       "postcode": "6239",
       "AgeGroup": "70 and over",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-26",
@@ -6199,16 +6199,16 @@
       "postcode": "6239",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 7,
-      "vaccines": 11
+      "dose2": 8,
+      "vaccines": 12
     },
     {
       "date": "2021-12-23",
       "postcode": "6239",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-12-23",
@@ -6217,6 +6217,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-24",
+      "postcode": "6239",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-24",
+      "postcode": "6239",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-24",
+      "postcode": "6239",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-24",
+      "postcode": "6239",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "GOOSEBERRY HILL",
   "data": [
     {
@@ -2057,8 +2057,22 @@
       "date": "2021-12-23",
       "locality": "GOOSEBERRY HILL",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "GOOSEBERRY HILL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-26",
+      "locality": "GOOSEBERRY HILL",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

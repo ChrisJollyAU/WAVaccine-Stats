@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "CITY BEACH",
   "data": [
     {
@@ -740,9 +740,9 @@
     {
       "date": "2021-06-10",
       "locality": "CITY BEACH",
-      "dose1": 21,
+      "dose1": 22,
       "dose2": 12,
-      "vaccines": 33
+      "vaccines": 34
     },
     {
       "date": "2021-06-11",
@@ -888,8 +888,8 @@
       "date": "2021-07-01",
       "locality": "CITY BEACH",
       "dose1": 16,
-      "dose2": 18,
-      "vaccines": 34
+      "dose2": 19,
+      "vaccines": 35
     },
     {
       "date": "2021-07-02",
@@ -1132,9 +1132,9 @@
     {
       "date": "2021-08-05",
       "locality": "CITY BEACH",
-      "dose1": 33,
+      "dose1": 32,
       "dose2": 39,
-      "vaccines": 72
+      "vaccines": 71
     },
     {
       "date": "2021-08-06",
@@ -1441,8 +1441,8 @@
       "date": "2021-09-18",
       "locality": "CITY BEACH",
       "dose1": 21,
-      "dose2": 26,
-      "vaccines": 47
+      "dose2": 25,
+      "vaccines": 46
     },
     {
       "date": "2021-09-19",
@@ -2115,6 +2115,20 @@
       "dose1": 7,
       "dose2": 4,
       "vaccines": 11
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "CITY BEACH",
+      "dose1": 11,
+      "dose2": 5,
+      "vaccines": 16
+    },
+    {
+      "date": "2021-12-26",
+      "locality": "CITY BEACH",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

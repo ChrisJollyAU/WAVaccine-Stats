@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "postcode": "MORGANTOWN",
   "data": [
     {
@@ -717,14 +717,6 @@
     {
       "date": "2021-08-24",
       "locality": "MORGANTOWN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-24",
-      "locality": "MORGANTOWN",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 2,
@@ -910,9 +902,9 @@
       "date": "2021-09-08",
       "locality": "MORGANTOWN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-09",
@@ -1127,8 +1119,8 @@
       "locality": "MORGANTOWN",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-30",
@@ -1230,9 +1222,9 @@
       "date": "2021-10-08",
       "locality": "MORGANTOWN",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-10",
@@ -1478,8 +1470,8 @@
       "date": "2021-11-01",
       "locality": "MORGANTOWN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 10,
+      "dose1": 1,
+      "dose2": 11,
       "vaccines": 12
     },
     {
@@ -1831,8 +1823,8 @@
       "locality": "MORGANTOWN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-11-29",
@@ -2153,6 +2145,14 @@
       "dose1": 3,
       "dose2": 2,
       "vaccines": 5
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "MORGANTOWN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

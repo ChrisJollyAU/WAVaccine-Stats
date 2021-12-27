@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "postcode": "KARIJINI",
   "data": [
     {
@@ -12,6 +12,14 @@
     },
     {
       "date": "2021-09-17",
+      "locality": "KARIJINI",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
       "locality": "KARIJINI",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -36,6 +44,14 @@
     },
     {
       "date": "2021-10-22",
+      "locality": "KARIJINI",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-25",
       "locality": "KARIJINI",
       "AgeGroup": "16 to 49",
       "dose1": 0,
@@ -97,6 +113,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "KARIJINI",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

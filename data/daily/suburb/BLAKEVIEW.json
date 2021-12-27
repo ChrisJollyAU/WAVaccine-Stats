@@ -1,9 +1,16 @@
 {
-  "date_updated": "2021-12-23T00:00:00",
+  "date_updated": "2021-12-26T00:00:00",
   "locality": "BLAKEVIEW",
   "data": [
     {
       "date": "2021-10-08",
+      "locality": "BLAKEVIEW",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-09",
       "locality": "BLAKEVIEW",
       "dose1": 1,
       "dose2": 0,
@@ -20,8 +27,8 @@
       "date": "2021-10-30",
       "locality": "BLAKEVIEW",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-18",
@@ -43,6 +50,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-24",
+      "locality": "BLAKEVIEW",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

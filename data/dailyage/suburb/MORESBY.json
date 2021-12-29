@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "postcode": "MORESBY",
   "data": [
     {
@@ -1726,9 +1726,9 @@
       "date": "2021-09-02",
       "locality": "MORESBY",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-02",
@@ -3109,6 +3109,14 @@
     {
       "date": "2021-11-22",
       "locality": "MORESBY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "MORESBY",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -3689,6 +3697,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "MORESBY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

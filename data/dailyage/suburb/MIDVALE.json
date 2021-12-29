@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "postcode": "MIDVALE",
   "data": [
     {
@@ -230,6 +230,14 @@
       "date": "2021-03-27",
       "locality": "MIDVALE",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-28",
+      "locality": "MIDVALE",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1375,8 +1383,8 @@
       "locality": "MIDVALE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-06-19",
@@ -3254,9 +3262,9 @@
       "date": "2021-09-19",
       "locality": "MIDVALE",
       "AgeGroup": "16 to 49",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 7,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-09-19",
@@ -3783,8 +3791,8 @@
       "locality": "MIDVALE",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 3,
-      "vaccines": 14
+      "dose2": 4,
+      "vaccines": 15
     },
     {
       "date": "2021-10-12",
@@ -5638,9 +5646,9 @@
       "date": "2021-12-24",
       "locality": "MIDVALE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose1": 8,
+      "dose2": 4,
+      "vaccines": 12
     },
     {
       "date": "2021-12-24",
@@ -5657,6 +5665,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "MIDVALE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "MIDVALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "MIDVALE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "MIDVALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

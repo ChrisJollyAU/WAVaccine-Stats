@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "locality": "MIRRABOOKA",
   "data": [
     {
@@ -2071,8 +2071,22 @@
       "date": "2021-12-26",
       "locality": "MIRRABOOKA",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "MIRRABOOKA",
+      "dose1": 15,
+      "dose2": 10,
+      "vaccines": 25
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "MIRRABOOKA",
+      "dose1": 18,
+      "dose2": 6,
+      "vaccines": 24
     }
   ]
 }

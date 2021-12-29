@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "postcode": "HUNTINGDALE",
   "data": [
     {
@@ -502,9 +502,9 @@
       "date": "2021-03-29",
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-03-29",
@@ -2239,8 +2239,8 @@
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-06-21",
@@ -3462,9 +3462,9 @@
       "date": "2021-08-14",
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 4,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-08-14",
@@ -4286,9 +4286,9 @@
       "date": "2021-09-16",
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 26,
       "dose2": 32,
-      "vaccines": 56
+      "vaccines": 58
     },
     {
       "date": "2021-09-16",
@@ -4415,8 +4415,8 @@
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
       "dose1": 18,
-      "dose2": 12,
-      "vaccines": 30
+      "dose2": 11,
+      "vaccines": 29
     },
     {
       "date": "2021-09-20",
@@ -4446,9 +4446,9 @@
       "date": "2021-09-21",
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 33,
+      "dose1": 34,
       "dose2": 20,
-      "vaccines": 53
+      "vaccines": 54
     },
     {
       "date": "2021-09-21",
@@ -5103,8 +5103,8 @@
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
       "dose1": 26,
-      "dose2": 32,
-      "vaccines": 58
+      "dose2": 33,
+      "vaccines": 59
     },
     {
       "date": "2021-10-12",
@@ -5199,8 +5199,8 @@
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
       "dose1": 47,
-      "dose2": 31,
-      "vaccines": 78
+      "dose2": 32,
+      "vaccines": 79
     },
     {
       "date": "2021-10-15",
@@ -5623,8 +5623,8 @@
       "locality": "HUNTINGDALE",
       "AgeGroup": "16 to 49",
       "dose1": 36,
-      "dose2": 46,
-      "vaccines": 82
+      "dose2": 47,
+      "vaccines": 83
     },
     {
       "date": "2021-10-29",
@@ -7321,6 +7321,46 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "HUNTINGDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "HUNTINGDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "HUNTINGDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "HUNTINGDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "HUNTINGDALE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

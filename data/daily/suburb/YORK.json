@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "locality": "YORK",
   "data": [
     {
@@ -208,9 +208,9 @@
     {
       "date": "2021-04-19",
       "locality": "YORK",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-04-20",
@@ -278,9 +278,9 @@
     {
       "date": "2021-05-03",
       "locality": "YORK",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-05-04",
@@ -860,8 +860,8 @@
       "date": "2021-08-04",
       "locality": "YORK",
       "dose1": 12,
-      "dose2": 12,
-      "vaccines": 24
+      "dose2": 10,
+      "vaccines": 22
     },
     {
       "date": "2021-08-05",
@@ -1181,9 +1181,9 @@
     {
       "date": "2021-09-19",
       "locality": "YORK",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-09-20",
@@ -1378,8 +1378,8 @@
       "date": "2021-10-17",
       "locality": "YORK",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-10-18",
@@ -1419,9 +1419,9 @@
     {
       "date": "2021-10-23",
       "locality": "YORK",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-24",
@@ -1567,8 +1567,8 @@
       "date": "2021-11-13",
       "locality": "YORK",
       "dose1": 7,
-      "dose2": 6,
-      "vaccines": 13
+      "dose2": 7,
+      "vaccines": 14
     },
     {
       "date": "2021-11-14",
@@ -1790,9 +1790,9 @@
     {
       "date": "2021-12-15",
       "locality": "YORK",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 32,
-      "vaccines": 45
+      "vaccines": 46
     },
     {
       "date": "2021-12-16",
@@ -1863,6 +1863,20 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "YORK",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "YORK",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

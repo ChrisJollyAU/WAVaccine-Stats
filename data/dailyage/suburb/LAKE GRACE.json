@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "postcode": "LAKE GRACE",
   "data": [
     {
@@ -62,9 +62,9 @@
       "date": "2021-04-07",
       "locality": "LAKE GRACE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 0,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-04-07",
@@ -383,8 +383,8 @@
       "locality": "LAKE GRACE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 9,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 8
     },
     {
       "date": "2021-06-16",
@@ -2545,6 +2545,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "LAKE GRACE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

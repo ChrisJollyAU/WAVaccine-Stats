@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "locality": "MERRIWA",
   "data": [
     {
@@ -2022,8 +2022,8 @@
       "date": "2021-12-24",
       "locality": "MERRIWA",
       "dose1": 10,
-      "dose2": 12,
-      "vaccines": 22
+      "dose2": 13,
+      "vaccines": 23
     },
     {
       "date": "2021-12-26",
@@ -2031,6 +2031,20 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "MERRIWA",
+      "dose1": 7,
+      "dose2": 4,
+      "vaccines": 11
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "MERRIWA",
+      "dose1": 8,
+      "dose2": 3,
+      "vaccines": 11
     }
   ]
 }

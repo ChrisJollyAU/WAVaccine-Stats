@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "locality": "MADORA BAY",
   "data": [
     {
@@ -180,9 +180,9 @@
     {
       "date": "2021-04-01",
       "locality": "MADORA BAY",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-04-02",
@@ -629,8 +629,8 @@
       "date": "2021-06-21",
       "locality": "MADORA BAY",
       "dose1": 4,
-      "dose2": 11,
-      "vaccines": 15
+      "dose2": 10,
+      "vaccines": 14
     },
     {
       "date": "2021-06-22",
@@ -1917,8 +1917,8 @@
       "date": "2021-12-23",
       "locality": "MADORA BAY",
       "dose1": 8,
-      "dose2": 7,
-      "vaccines": 15
+      "dose2": 8,
+      "vaccines": 16
     },
     {
       "date": "2021-12-24",
@@ -1933,6 +1933,20 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "MADORA BAY",
+      "dose1": 2,
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "MADORA BAY",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-26T00:00:00",
+  "date_updated": "2021-12-28T00:00:00",
   "postcode": "ALBANY",
   "data": [
     {
@@ -334,9 +334,9 @@
       "date": "2021-03-26",
       "locality": "ALBANY",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-03-26",
@@ -1629,14 +1629,6 @@
     {
       "date": "2021-06-11",
       "locality": "ALBANY",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-11",
-      "locality": "ALBANY",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 2,
@@ -2750,9 +2742,9 @@
       "date": "2021-07-29",
       "locality": "ALBANY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 7,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-07-29",
@@ -3295,8 +3287,8 @@
       "locality": "ALBANY",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 7,
-      "vaccines": 8
+      "dose2": 8,
+      "vaccines": 9
     },
     {
       "date": "2021-08-21",
@@ -4078,9 +4070,9 @@
       "date": "2021-09-23",
       "locality": "ALBANY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-23",
@@ -4951,8 +4943,8 @@
       "locality": "ALBANY",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 10,
-      "vaccines": 19
+      "dose2": 11,
+      "vaccines": 20
     },
     {
       "date": "2021-10-26",
@@ -6625,6 +6617,38 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "ALBANY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-27",
+      "locality": "ALBANY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "ALBANY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-28",
+      "locality": "ALBANY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

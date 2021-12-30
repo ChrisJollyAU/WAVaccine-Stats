@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-28T00:00:00",
+  "date_updated": "2021-12-29T00:00:00",
   "locality": "BOYA",
   "data": [
     {
@@ -365,13 +365,6 @@
       "dose1": 5,
       "dose2": 1,
       "vaccines": 6
-    },
-    {
-      "date": "2021-05-29",
-      "locality": "BOYA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-05-31",
@@ -811,8 +804,8 @@
       "date": "2021-08-07",
       "locality": "BOYA",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-08",
@@ -1693,8 +1686,8 @@
       "date": "2021-12-20",
       "locality": "BOYA",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-12-21",
@@ -1737,6 +1730,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "BOYA",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

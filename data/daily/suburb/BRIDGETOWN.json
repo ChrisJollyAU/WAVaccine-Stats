@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-28T00:00:00",
+  "date_updated": "2021-12-29T00:00:00",
   "locality": "BRIDGETOWN",
   "data": [
     {
@@ -1846,16 +1846,16 @@
     {
       "date": "2021-12-22",
       "locality": "BRIDGETOWN",
-      "dose1": 11,
-      "dose2": 14,
-      "vaccines": 25
+      "dose1": 12,
+      "dose2": 15,
+      "vaccines": 27
     },
     {
       "date": "2021-12-23",
       "locality": "BRIDGETOWN",
-      "dose1": 4,
+      "dose1": 8,
       "dose2": 7,
-      "vaccines": 11
+      "vaccines": 15
     },
     {
       "date": "2021-12-24",
@@ -1877,6 +1877,13 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "BRIDGETOWN",
+      "dose1": 7,
+      "dose2": 20,
+      "vaccines": 27
     }
   ]
 }

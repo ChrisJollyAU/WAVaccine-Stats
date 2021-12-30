@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-28T00:00:00",
+  "date_updated": "2021-12-29T00:00:00",
   "postcode": "YANGEBUP",
   "data": [
     {
@@ -857,6 +857,14 @@
       "dose1": 7,
       "dose2": 1,
       "vaccines": 8
+    },
+    {
+      "date": "2021-04-17",
+      "locality": "YANGEBUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-04-19",
@@ -2167,8 +2175,8 @@
       "locality": "YANGEBUP",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-06-21",
@@ -3894,9 +3902,9 @@
       "date": "2021-09-05",
       "locality": "YANGEBUP",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 11,
-      "vaccines": 26
+      "vaccines": 27
     },
     {
       "date": "2021-09-05",
@@ -3974,9 +3982,9 @@
       "date": "2021-09-08",
       "locality": "YANGEBUP",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 11,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-09-08",
@@ -4406,9 +4414,9 @@
       "date": "2021-09-24",
       "locality": "YANGEBUP",
       "AgeGroup": "50 to 69",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 13,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-09-24",
@@ -4895,8 +4903,8 @@
       "locality": "YANGEBUP",
       "AgeGroup": "16 to 49",
       "dose1": 21,
-      "dose2": 20,
-      "vaccines": 41
+      "dose2": 21,
+      "vaccines": 42
     },
     {
       "date": "2021-10-11",
@@ -6807,8 +6815,8 @@
       "locality": "YANGEBUP",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-12-14",
@@ -6886,9 +6894,9 @@
       "date": "2021-12-17",
       "locality": "YANGEBUP",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 21,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-12-17",
@@ -6990,9 +6998,9 @@
       "date": "2021-12-21",
       "locality": "YANGEBUP",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 21,
-      "vaccines": 30
+      "vaccines": 29
     },
     {
       "date": "2021-12-21",
@@ -7054,9 +7062,9 @@
       "date": "2021-12-23",
       "locality": "YANGEBUP",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 18,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-12-23",
@@ -7158,9 +7166,9 @@
       "date": "2021-12-28",
       "locality": "YANGEBUP",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 4,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-12-28",
@@ -7169,6 +7177,38 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "YANGEBUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "YANGEBUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 19,
+      "dose2": 19,
+      "vaccines": 38
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "YANGEBUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "YANGEBUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

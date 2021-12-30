@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-28T00:00:00",
+  "date_updated": "2021-12-29T00:00:00",
   "locality": "WARRAGUL",
   "data": [
     {
@@ -10,7 +10,21 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-03",
+      "locality": "WARRAGUL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-28",
+      "locality": "WARRAGUL",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-26",
       "locality": "WARRAGUL",
       "dose1": 0,
       "dose2": 1,
@@ -106,6 +120,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "WARRAGUL",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

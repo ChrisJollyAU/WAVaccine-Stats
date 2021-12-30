@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-28T00:00:00",
+  "date_updated": "2021-12-29T00:00:00",
   "locality": "STRATTON",
   "data": [
     {
@@ -733,9 +733,9 @@
     {
       "date": "2021-07-05",
       "locality": "STRATTON",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-07-06",
@@ -930,8 +930,8 @@
       "date": "2021-08-02",
       "locality": "STRATTON",
       "dose1": 6,
-      "dose2": 4,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 11
     },
     {
       "date": "2021-08-03",
@@ -1188,9 +1188,9 @@
     {
       "date": "2021-09-08",
       "locality": "STRATTON",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 14,
-      "vaccines": 29
+      "vaccines": 28
     },
     {
       "date": "2021-09-09",
@@ -1385,8 +1385,8 @@
       "date": "2021-10-06",
       "locality": "STRATTON",
       "dose1": 19,
-      "dose2": 17,
-      "vaccines": 36
+      "dose2": 16,
+      "vaccines": 35
     },
     {
       "date": "2021-10-07",
@@ -1433,9 +1433,9 @@
     {
       "date": "2021-10-13",
       "locality": "STRATTON",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 30,
-      "vaccines": 54
+      "vaccines": 55
     },
     {
       "date": "2021-10-14",
@@ -1496,9 +1496,9 @@
     {
       "date": "2021-10-22",
       "locality": "STRATTON",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 17,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-10-23",
@@ -1615,9 +1615,9 @@
     {
       "date": "2021-11-08",
       "locality": "STRATTON",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 16,
-      "vaccines": 29
+      "vaccines": 28
     },
     {
       "date": "2021-11-09",
@@ -1693,8 +1693,8 @@
       "date": "2021-11-19",
       "locality": "STRATTON",
       "dose1": 3,
-      "dose2": 21,
-      "vaccines": 24
+      "dose2": 20,
+      "vaccines": 23
     },
     {
       "date": "2021-11-20",
@@ -1818,9 +1818,9 @@
     {
       "date": "2021-12-07",
       "locality": "STRATTON",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 22,
-      "vaccines": 39
+      "vaccines": 40
     },
     {
       "date": "2021-12-08",
@@ -1867,16 +1867,16 @@
     {
       "date": "2021-12-14",
       "locality": "STRATTON",
-      "dose1": 10,
+      "dose1": 12,
       "dose2": 11,
-      "vaccines": 21
+      "vaccines": 23
     },
     {
       "date": "2021-12-15",
       "locality": "STRATTON",
       "dose1": 16,
-      "dose2": 16,
-      "vaccines": 32
+      "dose2": 15,
+      "vaccines": 31
     },
     {
       "date": "2021-12-16",
@@ -1889,8 +1889,8 @@
       "date": "2021-12-17",
       "locality": "STRATTON",
       "dose1": 11,
-      "dose2": 7,
-      "vaccines": 18
+      "dose2": 8,
+      "vaccines": 19
     },
     {
       "date": "2021-12-18",
@@ -1945,8 +1945,8 @@
       "date": "2021-12-27",
       "locality": "STRATTON",
       "dose1": 7,
-      "dose2": 3,
-      "vaccines": 10
+      "dose2": 4,
+      "vaccines": 11
     },
     {
       "date": "2021-12-28",
@@ -1954,6 +1954,13 @@
       "dose1": 4,
       "dose2": 2,
       "vaccines": 6
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "STRATTON",
+      "dose1": 9,
+      "dose2": 13,
+      "vaccines": 22
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "locality": "BEECHBORO",
   "data": [
     {
@@ -187,9 +187,9 @@
     {
       "date": "2021-03-26",
       "locality": "BEECHBORO",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 1,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-03-27",
@@ -776,8 +776,8 @@
       "date": "2021-06-19",
       "locality": "BEECHBORO",
       "dose1": 6,
-      "dose2": 28,
-      "vaccines": 34
+      "dose2": 29,
+      "vaccines": 35
     },
     {
       "date": "2021-06-20",
@@ -1601,9 +1601,9 @@
     {
       "date": "2021-10-15",
       "locality": "BEECHBORO",
-      "dose1": 62,
+      "dose1": 61,
       "dose2": 62,
-      "vaccines": 124
+      "vaccines": 123
     },
     {
       "date": "2021-10-16",
@@ -1749,8 +1749,8 @@
       "date": "2021-11-05",
       "locality": "BEECHBORO",
       "dose1": 19,
-      "dose2": 74,
-      "vaccines": 93
+      "dose2": 73,
+      "vaccines": 92
     },
     {
       "date": "2021-11-06",
@@ -2120,15 +2120,22 @@
       "date": "2021-12-28",
       "locality": "BEECHBORO",
       "dose1": 15,
-      "dose2": 7,
-      "vaccines": 22
+      "dose2": 8,
+      "vaccines": 23
     },
     {
       "date": "2021-12-29",
       "locality": "BEECHBORO",
       "dose1": 35,
-      "dose2": 32,
-      "vaccines": 67
+      "dose2": 35,
+      "vaccines": 70
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "BEECHBORO",
+      "dose1": 33,
+      "dose2": 31,
+      "vaccines": 64
     }
   ]
 }

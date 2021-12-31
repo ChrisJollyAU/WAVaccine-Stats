@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "postcode": "UDUC",
   "data": [
     {
@@ -1325,10 +1325,34 @@
     {
       "date": "2021-12-29",
       "locality": "UDUC",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "UDUC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-29",
+      "locality": "UDUC",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "UDUC",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

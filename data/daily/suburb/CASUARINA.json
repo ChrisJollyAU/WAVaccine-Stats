@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "locality": "CASUARINA",
   "data": [
     {
@@ -1622,9 +1622,16 @@
     {
       "date": "2021-12-29",
       "locality": "CASUARINA",
-      "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "CASUARINA",
+      "dose1": 7,
+      "dose2": 3,
+      "vaccines": 10
     }
   ]
 }

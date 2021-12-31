@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "locality": "KARLKURLA",
   "data": [
     {
@@ -222,9 +222,9 @@
     {
       "date": "2021-06-15",
       "locality": "KARLKURLA",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-16",
@@ -337,6 +337,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "KARLKURLA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-27",
@@ -913,13 +920,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-12-14",
-      "locality": "KARLKURLA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-12-15",
       "locality": "KARLKURLA",
       "dose1": 1,
@@ -981,6 +981,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "KARLKURLA",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

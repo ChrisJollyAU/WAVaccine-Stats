@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "postcode": "ADELAIDE",
   "data": [
     {
@@ -27,7 +27,23 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-20",
+      "locality": "ADELAIDE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-21",
+      "locality": "ADELAIDE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-12",
       "locality": "ADELAIDE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
@@ -177,6 +193,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
+      "locality": "ADELAIDE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2021-11-16",

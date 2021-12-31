@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "locality": "DUMBERNING",
   "data": [
     {
@@ -108,11 +108,25 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-25",
+      "locality": "DUMBERNING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-15",
       "locality": "DUMBERNING",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "DUMBERNING",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

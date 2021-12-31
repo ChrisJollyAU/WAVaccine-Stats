@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "locality": "COOKERNUP",
   "data": [
     {
@@ -1167,9 +1167,16 @@
     {
       "date": "2021-12-29",
       "locality": "COOKERNUP",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 7
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "COOKERNUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

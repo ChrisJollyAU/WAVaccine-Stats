@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "postcode": "BENNETT SPRINGS",
   "data": [
     {
@@ -350,9 +350,9 @@
       "date": "2021-03-25",
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-26",
@@ -713,6 +713,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-04-15",
+      "locality": "BENNETT SPRINGS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-04-15",
@@ -1862,9 +1870,9 @@
       "date": "2021-06-16",
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-16",
@@ -2870,9 +2878,9 @@
       "date": "2021-08-01",
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 6,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-08-01",
@@ -3495,8 +3503,8 @@
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 19,
-      "vaccines": 34
+      "dose2": 18,
+      "vaccines": 33
     },
     {
       "date": "2021-08-29",
@@ -3654,9 +3662,9 @@
       "date": "2021-09-05",
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 23,
       "dose2": 9,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-09-05",
@@ -4055,8 +4063,8 @@
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose2": 9,
+      "vaccines": 17
     },
     {
       "date": "2021-09-20",
@@ -4638,9 +4646,9 @@
       "date": "2021-10-10",
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
-      "dose2": 13,
-      "vaccines": 28
+      "dose1": 14,
+      "dose2": 12,
+      "vaccines": 26
     },
     {
       "date": "2021-10-10",
@@ -5895,8 +5903,8 @@
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 7,
-      "vaccines": 12
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-11-21",
@@ -6926,17 +6934,17 @@
       "date": "2021-12-29",
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 8,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-12-29",
       "locality": "BENNETT SPRINGS",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-12-29",
@@ -6945,6 +6953,38 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "BENNETT SPRINGS",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "BENNETT SPRINGS",
+      "AgeGroup": "16 to 49",
+      "dose1": 10,
+      "dose2": 12,
+      "vaccines": 22
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "BENNETT SPRINGS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "BENNETT SPRINGS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

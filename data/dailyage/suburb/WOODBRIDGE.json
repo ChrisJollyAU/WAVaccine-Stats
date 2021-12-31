@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-29T00:00:00",
+  "date_updated": "2021-12-30T00:00:00",
   "postcode": "WOODBRIDGE",
   "data": [
     {
@@ -661,6 +661,14 @@
     {
       "date": "2021-05-12",
       "locality": "WOODBRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-12",
+      "locality": "WOODBRIDGE",
       "AgeGroup": "70 and over",
       "dose1": 2,
       "dose2": 0,
@@ -1039,8 +1047,8 @@
       "locality": "WOODBRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-06-08",
@@ -3750,9 +3758,9 @@
       "date": "2021-10-27",
       "locality": "WOODBRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-10-28",
@@ -3910,9 +3918,9 @@
       "date": "2021-11-03",
       "locality": "WOODBRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-11-03",
@@ -4166,9 +4174,9 @@
       "date": "2021-11-15",
       "locality": "WOODBRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-11-16",
@@ -4223,8 +4231,8 @@
       "locality": "WOODBRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-11-19",
@@ -4318,9 +4326,9 @@
       "date": "2021-11-24",
       "locality": "WOODBRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-11-24",
@@ -4337,14 +4345,6 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
-    },
-    {
-      "date": "2021-11-25",
-      "locality": "WOODBRIDGE",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-11-25",
@@ -4423,8 +4423,8 @@
       "locality": "WOODBRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-11-29",
@@ -4528,14 +4528,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-12-06",
-      "locality": "WOODBRIDGE",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -4654,9 +4646,9 @@
       "date": "2021-12-13",
       "locality": "WOODBRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-12-13",
@@ -4988,6 +4980,30 @@
     },
     {
       "date": "2021-12-29",
+      "locality": "WOODBRIDGE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "WOODBRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "WOODBRIDGE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-30",
       "locality": "WOODBRIDGE",
       "AgeGroup": "70 and over",
       "dose1": 0,

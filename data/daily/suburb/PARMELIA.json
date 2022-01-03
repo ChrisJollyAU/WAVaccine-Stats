@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "PARMELIA",
   "data": [
     {
@@ -2035,9 +2035,23 @@
     {
       "date": "2021-12-30",
       "locality": "PARMELIA",
-      "dose1": 16,
+      "dose1": 19,
       "dose2": 25,
-      "vaccines": 41
+      "vaccines": 44
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "PARMELIA",
+      "dose1": 21,
+      "dose2": 10,
+      "vaccines": 31
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "PARMELIA",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

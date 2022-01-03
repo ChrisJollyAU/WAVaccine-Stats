@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "WITHERS",
   "data": [
     {
@@ -537,9 +537,9 @@
     {
       "date": "2021-06-10",
       "locality": "WITHERS",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-06-11",
@@ -1063,8 +1063,8 @@
       "date": "2021-09-02",
       "locality": "WITHERS",
       "dose1": 15,
-      "dose2": 12,
-      "vaccines": 27
+      "dose2": 11,
+      "vaccines": 26
     },
     {
       "date": "2021-09-03",
@@ -1776,9 +1776,9 @@
     {
       "date": "2021-12-23",
       "locality": "WITHERS",
-      "dose1": 13,
+      "dose1": 14,
       "dose2": 14,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-12-24",
@@ -1814,6 +1814,20 @@
       "dose1": 16,
       "dose2": 6,
       "vaccines": 22
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "WITHERS",
+      "dose1": 15,
+      "dose2": 6,
+      "vaccines": 21
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "WITHERS",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

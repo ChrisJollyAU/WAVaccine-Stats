@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "BOWELLING",
   "data": [
     {
@@ -25,13 +25,6 @@
     },
     {
       "date": "2021-06-11",
-      "locality": "BOWELLING",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-12",
       "locality": "BOWELLING",
       "dose1": 1,
       "dose2": 0,
@@ -130,13 +123,6 @@
     },
     {
       "date": "2021-09-03",
-      "locality": "BOWELLING",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-04",
       "locality": "BOWELLING",
       "dose1": 0,
       "dose2": 1,
@@ -330,6 +316,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "BOWELLING",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

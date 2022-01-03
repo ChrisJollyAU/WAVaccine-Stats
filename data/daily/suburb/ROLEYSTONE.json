@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "ROLEYSTONE",
   "data": [
     {
@@ -663,9 +663,9 @@
     {
       "date": "2021-06-07",
       "locality": "ROLEYSTONE",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-06-08",
@@ -866,9 +866,9 @@
     {
       "date": "2021-07-06",
       "locality": "ROLEYSTONE",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 15,
-      "vaccines": 45
+      "vaccines": 44
     },
     {
       "date": "2021-07-07",
@@ -1063,8 +1063,8 @@
       "date": "2021-08-03",
       "locality": "ROLEYSTONE",
       "dose1": 27,
-      "dose2": 28,
-      "vaccines": 55
+      "dose2": 27,
+      "vaccines": 54
     },
     {
       "date": "2021-08-04",
@@ -1189,8 +1189,8 @@
       "date": "2021-08-21",
       "locality": "ROLEYSTONE",
       "dose1": 19,
-      "dose2": 21,
-      "vaccines": 40
+      "dose2": 20,
+      "vaccines": 39
     },
     {
       "date": "2021-08-22",
@@ -1524,9 +1524,9 @@
     {
       "date": "2021-10-08",
       "locality": "ROLEYSTONE",
-      "dose1": 39,
+      "dose1": 40,
       "dose2": 23,
-      "vaccines": 62
+      "vaccines": 63
     },
     {
       "date": "2021-10-09",
@@ -1686,8 +1686,8 @@
       "date": "2021-10-31",
       "locality": "ROLEYSTONE",
       "dose1": 7,
-      "dose2": 22,
-      "vaccines": 29
+      "dose2": 23,
+      "vaccines": 30
     },
     {
       "date": "2021-11-01",
@@ -2098,9 +2098,23 @@
     {
       "date": "2021-12-30",
       "locality": "ROLEYSTONE",
-      "dose1": 14,
-      "dose2": 19,
-      "vaccines": 33
+      "dose1": 19,
+      "dose2": 20,
+      "vaccines": 39
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "ROLEYSTONE",
+      "dose1": 11,
+      "dose2": 8,
+      "vaccines": 19
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "ROLEYSTONE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

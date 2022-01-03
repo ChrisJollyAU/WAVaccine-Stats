@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "BRIGADOON",
   "data": [
     {
@@ -1790,9 +1790,16 @@
     {
       "date": "2021-12-30",
       "locality": "BRIGADOON",
-      "dose1": 3,
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "BRIGADOON",
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     }
   ]
 }

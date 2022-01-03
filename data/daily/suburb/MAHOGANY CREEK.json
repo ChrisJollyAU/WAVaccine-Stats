@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "MAHOGANY CREEK",
   "data": [
     {
@@ -1594,9 +1594,9 @@
     {
       "date": "2021-12-02",
       "locality": "MAHOGANY CREEK",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-12-03",
@@ -1779,6 +1779,13 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "MAHOGANY CREEK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

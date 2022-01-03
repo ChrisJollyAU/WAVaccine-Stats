@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "ALBANY PO",
   "data": [
     {
@@ -231,13 +231,6 @@
       "locality": "ALBANY PO",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-24",
-      "locality": "ALBANY PO",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -628,9 +621,9 @@
     {
       "date": "2021-06-28",
       "locality": "ALBANY PO",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2021-06-29",
@@ -706,8 +699,8 @@
       "date": "2021-07-09",
       "locality": "ALBANY PO",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-07-10",
@@ -1182,8 +1175,8 @@
       "date": "2021-09-20",
       "locality": "ALBANY PO",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-21",
@@ -1280,8 +1273,8 @@
       "date": "2021-10-06",
       "locality": "ALBANY PO",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-10-07",
@@ -1342,9 +1335,9 @@
     {
       "date": "2021-10-15",
       "locality": "ALBANY PO",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-16",
@@ -1814,6 +1807,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "ALBANY PO",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "postcode": "SPENCER PARK",
   "data": [
     {
@@ -4830,9 +4830,9 @@
       "date": "2021-10-24",
       "locality": "SPENCER PARK",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-24",
@@ -5414,9 +5414,9 @@
       "date": "2021-11-14",
       "locality": "SPENCER PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-11-14",
@@ -6047,8 +6047,8 @@
       "locality": "SPENCER PARK",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 8,
-      "vaccines": 11
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-12-07",
@@ -6590,9 +6590,9 @@
       "date": "2021-12-30",
       "locality": "SPENCER PARK",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 5,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-12-30",
@@ -6609,6 +6609,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "SPENCER PARK",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 4,
+      "vaccines": 10
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "SPENCER PARK",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "SPENCER PARK",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

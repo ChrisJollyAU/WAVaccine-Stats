@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "MULLALOO",
   "data": [
     {
@@ -1993,9 +1993,9 @@
     {
       "date": "2021-12-10",
       "locality": "MULLALOO",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 12,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-12-11",
@@ -2129,6 +2129,20 @@
       "dose1": 21,
       "dose2": 15,
       "vaccines": 36
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "MULLALOO",
+      "dose1": 15,
+      "dose2": 5,
+      "vaccines": 20
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "MULLALOO",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

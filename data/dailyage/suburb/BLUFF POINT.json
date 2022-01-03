@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "postcode": "BLUFF POINT",
   "data": [
     {
@@ -46,6 +46,14 @@
       "date": "2021-03-16",
       "locality": "BLUFF POINT",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-18",
+      "locality": "BLUFF POINT",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1519,8 +1527,8 @@
       "locality": "BLUFF POINT",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-06-28",
@@ -2707,6 +2715,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-08-22",
+      "locality": "BLUFF POINT",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-23",
       "locality": "BLUFF POINT",
       "AgeGroup": "16 to 49",
@@ -3439,8 +3455,8 @@
       "locality": "BLUFF POINT",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-27",
@@ -5561,6 +5577,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "BLUFF POINT",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "BLUFF POINT",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "BLUFF POINT",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

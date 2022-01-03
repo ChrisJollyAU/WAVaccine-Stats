@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "CARINE",
   "data": [
     {
@@ -89,9 +89,9 @@
     {
       "date": "2021-03-10",
       "locality": "CARINE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-03-11",
@@ -243,9 +243,9 @@
     {
       "date": "2021-04-01",
       "locality": "CARINE",
-      "dose1": 20,
+      "dose1": 22,
       "dose2": 6,
-      "vaccines": 26
+      "vaccines": 28
     },
     {
       "date": "2021-04-02",
@@ -369,9 +369,9 @@
     {
       "date": "2021-04-21",
       "locality": "CARINE",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 4,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-04-22",
@@ -608,8 +608,8 @@
       "date": "2021-05-25",
       "locality": "CARINE",
       "dose1": 26,
-      "dose2": 3,
-      "vaccines": 29
+      "dose2": 4,
+      "vaccines": 30
     },
     {
       "date": "2021-05-26",
@@ -776,8 +776,8 @@
       "date": "2021-06-18",
       "locality": "CARINE",
       "dose1": 16,
-      "dose2": 16,
-      "vaccines": 32
+      "dose2": 18,
+      "vaccines": 34
     },
     {
       "date": "2021-06-19",
@@ -951,8 +951,8 @@
       "date": "2021-07-13",
       "locality": "CARINE",
       "dose1": 13,
-      "dose2": 37,
-      "vaccines": 50
+      "dose2": 38,
+      "vaccines": 51
     },
     {
       "date": "2021-07-14",
@@ -1314,9 +1314,9 @@
     {
       "date": "2021-09-03",
       "locality": "CARINE",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 40,
-      "vaccines": 74
+      "vaccines": 75
     },
     {
       "date": "2021-09-04",
@@ -1469,8 +1469,8 @@
       "date": "2021-09-25",
       "locality": "CARINE",
       "dose1": 12,
-      "dose2": 19,
-      "vaccines": 31
+      "dose2": 20,
+      "vaccines": 32
     },
     {
       "date": "2021-09-26",
@@ -2133,9 +2133,23 @@
     {
       "date": "2021-12-30",
       "locality": "CARINE",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 5,
-      "vaccines": 12
+      "vaccines": 13
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "CARINE",
+      "dose1": 7,
+      "dose2": 4,
+      "vaccines": 11
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "CARINE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

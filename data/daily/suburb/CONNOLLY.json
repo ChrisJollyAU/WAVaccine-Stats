@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "CONNOLLY",
   "data": [
     {
@@ -418,9 +418,9 @@
     {
       "date": "2021-05-06",
       "locality": "CONNOLLY",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-05-07",
@@ -1056,8 +1056,8 @@
       "date": "2021-08-05",
       "locality": "CONNOLLY",
       "dose1": 10,
-      "dose2": 23,
-      "vaccines": 33
+      "dose2": 24,
+      "vaccines": 34
     },
     {
       "date": "2021-08-06",
@@ -2070,16 +2070,30 @@
     {
       "date": "2021-12-29",
       "locality": "CONNOLLY",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 13,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-12-30",
       "locality": "CONNOLLY",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 12,
-      "vaccines": 19
+      "vaccines": 20
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "CONNOLLY",
+      "dose1": 1,
+      "dose2": 6,
+      "vaccines": 7
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "CONNOLLY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

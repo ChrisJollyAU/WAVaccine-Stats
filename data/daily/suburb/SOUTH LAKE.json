@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "SOUTH LAKE",
   "data": [
     {
@@ -1384,9 +1384,9 @@
     {
       "date": "2021-09-18",
       "locality": "SOUTH LAKE",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 14,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-09-19",
@@ -1468,9 +1468,9 @@
     {
       "date": "2021-09-30",
       "locality": "SOUTH LAKE",
-      "dose1": 30,
+      "dose1": 29,
       "dose2": 31,
-      "vaccines": 61
+      "vaccines": 60
     },
     {
       "date": "2021-10-01",
@@ -1566,9 +1566,9 @@
     {
       "date": "2021-10-14",
       "locality": "SOUTH LAKE",
-      "dose1": 20,
+      "dose1": 19,
       "dose2": 30,
-      "vaccines": 50
+      "vaccines": 49
     },
     {
       "date": "2021-10-15",
@@ -1630,8 +1630,8 @@
       "date": "2021-10-23",
       "locality": "SOUTH LAKE",
       "dose1": 19,
-      "dose2": 15,
-      "vaccines": 34
+      "dose2": 16,
+      "vaccines": 35
     },
     {
       "date": "2021-10-24",
@@ -1763,8 +1763,8 @@
       "date": "2021-11-11",
       "locality": "SOUTH LAKE",
       "dose1": 30,
-      "dose2": 44,
-      "vaccines": 74
+      "dose2": 43,
+      "vaccines": 73
     },
     {
       "date": "2021-11-12",
@@ -2098,9 +2098,23 @@
     {
       "date": "2021-12-30",
       "locality": "SOUTH LAKE",
+      "dose1": 18,
+      "dose2": 11,
+      "vaccines": 29
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "SOUTH LAKE",
       "dose1": 17,
       "dose2": 11,
       "vaccines": 28
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "SOUTH LAKE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

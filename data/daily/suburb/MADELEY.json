@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "MADELEY",
   "data": [
     {
@@ -1230,8 +1230,8 @@
     {
       "date": "2021-08-20",
       "locality": "MADELEY",
-      "dose1": 33,
-      "dose2": 35,
+      "dose1": 32,
+      "dose2": 36,
       "vaccines": 68
     },
     {
@@ -2147,9 +2147,23 @@
     {
       "date": "2021-12-30",
       "locality": "MADELEY",
-      "dose1": 10,
-      "dose2": 7,
-      "vaccines": 17
+      "dose1": 16,
+      "dose2": 8,
+      "vaccines": 24
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "MADELEY",
+      "dose1": 12,
+      "dose2": 8,
+      "vaccines": 20
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "MADELEY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

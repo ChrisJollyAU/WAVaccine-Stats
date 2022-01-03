@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "KWINANA TOWN CENTRE",
   "data": [
     {
@@ -1048,9 +1048,9 @@
     {
       "date": "2021-10-15",
       "locality": "KWINANA TOWN CENTRE",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-16",
@@ -1336,8 +1336,8 @@
       "date": "2021-11-26",
       "locality": "KWINANA TOWN CENTRE",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-11-27",
@@ -1520,6 +1520,20 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "KWINANA TOWN CENTRE",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-01",
+      "locality": "KWINANA TOWN CENTRE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

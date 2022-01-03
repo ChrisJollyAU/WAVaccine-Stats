@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "MOUNT TARCOOLA",
   "data": [
     {
@@ -628,9 +628,9 @@
     {
       "date": "2021-06-23",
       "locality": "MOUNT TARCOOLA",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 10,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-06-24",
@@ -776,8 +776,8 @@
       "date": "2021-07-14",
       "locality": "MOUNT TARCOOLA",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-07-15",
@@ -1930,9 +1930,16 @@
     {
       "date": "2021-12-30",
       "locality": "MOUNT TARCOOLA",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 4,
-      "vaccines": 16
+      "vaccines": 17
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "MOUNT TARCOOLA",
+      "dose1": 7,
+      "dose2": 10,
+      "vaccines": 17
     }
   ]
 }

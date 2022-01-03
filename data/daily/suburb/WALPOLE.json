@@ -1,5 +1,5 @@
 {
-  "date_updated": "2021-12-30T00:00:00",
+  "date_updated": "2022-01-01T00:00:00",
   "locality": "WALPOLE",
   "data": [
     {
@@ -1476,8 +1476,8 @@
       "date": "2021-12-21",
       "locality": "WALPOLE",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-12-24",
@@ -1495,6 +1495,20 @@
     },
     {
       "date": "2021-12-29",
+      "locality": "WALPOLE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "WALPOLE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-31",
       "locality": "WALPOLE",
       "dose1": 2,
       "dose2": 0,

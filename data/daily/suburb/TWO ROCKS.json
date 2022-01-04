@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-01T00:00:00",
+  "date_updated": "2022-01-03T00:00:00",
   "locality": "TWO ROCKS",
   "data": [
     {
@@ -1965,9 +1965,9 @@
     {
       "date": "2021-12-30",
       "locality": "TWO ROCKS",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 14,
-      "vaccines": 30
+      "vaccines": 29
     },
     {
       "date": "2021-12-31",
@@ -1982,6 +1982,20 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "TWO ROCKS",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-03",
+      "locality": "TWO ROCKS",
+      "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
     }
   ]
 }

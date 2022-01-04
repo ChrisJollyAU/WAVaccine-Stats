@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-01T00:00:00",
+  "date_updated": "2022-01-03T00:00:00",
   "locality": "DARLING DOWNS",
   "data": [
     {
@@ -1363,9 +1363,9 @@
     {
       "date": "2021-10-08",
       "locality": "DARLING DOWNS",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 10,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-10-09",
@@ -1609,8 +1609,8 @@
       "date": "2021-11-12",
       "locality": "DARLING DOWNS",
       "dose1": 2,
-      "dose2": 12,
-      "vaccines": 14
+      "dose2": 11,
+      "vaccines": 13
     },
     {
       "date": "2021-11-13",
@@ -1940,6 +1940,20 @@
       "dose1": 5,
       "dose2": 2,
       "vaccines": 7
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "DARLING DOWNS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-03",
+      "locality": "DARLING DOWNS",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

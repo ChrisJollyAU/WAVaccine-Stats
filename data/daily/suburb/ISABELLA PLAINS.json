@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-01T00:00:00",
+  "date_updated": "2022-01-03T00:00:00",
   "locality": "ISABELLA PLAINS",
   "data": [
     {
@@ -56,6 +56,13 @@
       "locality": "ISABELLA PLAINS",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-03",
+      "locality": "ISABELLA PLAINS",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

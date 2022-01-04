@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-01T00:00:00",
+  "date_updated": "2022-01-03T00:00:00",
   "locality": "PIMPAMA",
   "data": [
     {
@@ -18,6 +18,13 @@
     },
     {
       "date": "2021-10-18",
+      "locality": "PIMPAMA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-19",
       "locality": "PIMPAMA",
       "dose1": 1,
       "dose2": 0,
@@ -53,6 +60,13 @@
     },
     {
       "date": "2021-11-11",
+      "locality": "PIMPAMA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-12",
       "locality": "PIMPAMA",
       "dose1": 0,
       "dose2": 1,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-01T00:00:00",
+  "date_updated": "2022-01-03T00:00:00",
   "locality": "EAST CANNINGTON",
   "data": [
     {
@@ -2112,16 +2112,30 @@
     {
       "date": "2021-12-31",
       "locality": "EAST CANNINGTON",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 8,
-      "vaccines": 16
+      "vaccines": 18
     },
     {
       "date": "2022-01-01",
       "locality": "EAST CANNINGTON",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "EAST CANNINGTON",
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-03",
+      "locality": "EAST CANNINGTON",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

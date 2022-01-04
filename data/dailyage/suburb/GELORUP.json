@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-01T00:00:00",
+  "date_updated": "2022-01-03T00:00:00",
   "postcode": "GELORUP",
   "data": [
     {
@@ -1443,6 +1443,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-06-07",
+      "locality": "GELORUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-06-08",
       "locality": "GELORUP",
       "AgeGroup": "16 to 49",
@@ -1839,8 +1847,8 @@
       "locality": "GELORUP",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-06-29",
@@ -5969,6 +5977,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "GELORUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "GELORUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-03",
+      "locality": "GELORUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-03",
+      "locality": "GELORUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

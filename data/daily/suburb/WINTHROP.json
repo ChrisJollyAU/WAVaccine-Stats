@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-01T00:00:00",
+  "date_updated": "2022-01-03T00:00:00",
   "locality": "WINTHROP",
   "data": [
     {
@@ -369,9 +369,9 @@
     {
       "date": "2021-04-19",
       "locality": "WINTHROP",
-      "dose1": 12,
+      "dose1": 10,
       "dose2": 2,
-      "vaccines": 14
+      "vaccines": 12
     },
     {
       "date": "2021-04-20",
@@ -446,9 +446,9 @@
     {
       "date": "2021-04-30",
       "locality": "WINTHROP",
-      "dose1": 13,
+      "dose1": 15,
       "dose2": 0,
-      "vaccines": 13
+      "vaccines": 15
     },
     {
       "date": "2021-05-01",
@@ -762,8 +762,8 @@
       "date": "2021-06-14",
       "locality": "WINTHROP",
       "dose1": 16,
-      "dose2": 12,
-      "vaccines": 28
+      "dose2": 10,
+      "vaccines": 26
     },
     {
       "date": "2021-06-15",
@@ -1119,8 +1119,8 @@
       "date": "2021-08-04",
       "locality": "WINTHROP",
       "dose1": 31,
-      "dose2": 37,
-      "vaccines": 68
+      "dose2": 39,
+      "vaccines": 70
     },
     {
       "date": "2021-08-05",
@@ -1216,9 +1216,9 @@
     {
       "date": "2021-08-18",
       "locality": "WINTHROP",
-      "dose1": 48,
+      "dose1": 49,
       "dose2": 53,
-      "vaccines": 101
+      "vaccines": 102
     },
     {
       "date": "2021-08-19",
@@ -1335,9 +1335,9 @@
     {
       "date": "2021-09-04",
       "locality": "WINTHROP",
-      "dose1": 46,
+      "dose1": 47,
       "dose2": 36,
-      "vaccines": 82
+      "vaccines": 83
     },
     {
       "date": "2021-09-05",
@@ -1364,8 +1364,8 @@
       "date": "2021-09-08",
       "locality": "WINTHROP",
       "dose1": 24,
-      "dose2": 30,
-      "vaccines": 54
+      "dose2": 31,
+      "vaccines": 55
     },
     {
       "date": "2021-09-09",
@@ -1483,8 +1483,8 @@
       "date": "2021-09-25",
       "locality": "WINTHROP",
       "dose1": 10,
-      "dose2": 36,
-      "vaccines": 46
+      "dose2": 37,
+      "vaccines": 47
     },
     {
       "date": "2021-09-26",
@@ -1951,9 +1951,9 @@
     {
       "date": "2021-12-01",
       "locality": "WINTHROP",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 15,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-12-02",
@@ -2099,8 +2099,8 @@
       "date": "2021-12-22",
       "locality": "WINTHROP",
       "dose1": 16,
-      "dose2": 7,
-      "vaccines": 23
+      "dose2": 8,
+      "vaccines": 24
     },
     {
       "date": "2021-12-23",
@@ -2164,6 +2164,20 @@
       "dose1": 3,
       "dose2": 10,
       "vaccines": 13
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "WINTHROP",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-03",
+      "locality": "WINTHROP",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

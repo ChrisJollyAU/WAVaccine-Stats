@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-01T00:00:00",
+  "date_updated": "2022-01-03T00:00:00",
   "locality": "HOCKING",
   "data": [
     {
@@ -2108,6 +2108,20 @@
       "dose1": 2,
       "dose2": 3,
       "vaccines": 5
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "HOCKING",
+      "dose1": 2,
+      "dose2": 7,
+      "vaccines": 9
+    },
+    {
+      "date": "2022-01-03",
+      "locality": "HOCKING",
+      "dose1": 9,
+      "dose2": 6,
+      "vaccines": 15
     }
   ]
 }

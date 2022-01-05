@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "locality": "DARWIN CITY",
   "data": [
+    {
+      "date": "2021-06-15",
+      "locality": "DARWIN CITY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-06-17",
       "locality": "DARWIN CITY",
@@ -14,6 +21,13 @@
       "locality": "DARWIN CITY",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-13",
+      "locality": "DARWIN CITY",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -150,6 +164,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-03",
+      "locality": "DARWIN CITY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-06",
       "locality": "DARWIN CITY",
       "dose1": 0,
@@ -193,6 +214,13 @@
     },
     {
       "date": "2021-12-23",
+      "locality": "DARWIN CITY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-03",
       "locality": "DARWIN CITY",
       "dose1": 0,
       "dose2": 0,

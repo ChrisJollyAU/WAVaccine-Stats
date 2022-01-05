@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "locality": "WATTLE GROVE",
   "data": [
     {
@@ -19,9 +19,9 @@
     {
       "date": "2021-02-24",
       "locality": "WATTLE GROVE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-02-25",
@@ -146,8 +146,8 @@
       "date": "2021-03-17",
       "locality": "WATTLE GROVE",
       "dose1": 10,
-      "dose2": 1,
-      "vaccines": 11
+      "dose2": 2,
+      "vaccines": 12
     },
     {
       "date": "2021-03-18",
@@ -733,9 +733,9 @@
     {
       "date": "2021-06-12",
       "locality": "WATTLE GROVE",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 0,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-06-13",
@@ -930,8 +930,8 @@
       "date": "2021-07-10",
       "locality": "WATTLE GROVE",
       "dose1": 28,
-      "dose2": 10,
-      "vaccines": 38
+      "dose2": 11,
+      "vaccines": 39
     },
     {
       "date": "2021-07-11",
@@ -1104,9 +1104,9 @@
     {
       "date": "2021-08-04",
       "locality": "WATTLE GROVE",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 26,
-      "vaccines": 48
+      "vaccines": 49
     },
     {
       "date": "2021-08-05",
@@ -1224,8 +1224,8 @@
       "date": "2021-08-21",
       "locality": "WATTLE GROVE",
       "dose1": 20,
-      "dose2": 37,
-      "vaccines": 57
+      "dose2": 38,
+      "vaccines": 58
     },
     {
       "date": "2021-08-22",
@@ -1272,9 +1272,9 @@
     {
       "date": "2021-08-28",
       "locality": "WATTLE GROVE",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 14,
-      "vaccines": 54
+      "vaccines": 55
     },
     {
       "date": "2021-08-29",
@@ -1573,9 +1573,9 @@
     {
       "date": "2021-10-10",
       "locality": "WATTLE GROVE",
-      "dose1": 37,
+      "dose1": 36,
       "dose2": 23,
-      "vaccines": 60
+      "vaccines": 59
     },
     {
       "date": "2021-10-11",
@@ -1657,9 +1657,9 @@
     {
       "date": "2021-10-22",
       "locality": "WATTLE GROVE",
-      "dose1": 25,
+      "dose1": 26,
       "dose2": 49,
-      "vaccines": 74
+      "vaccines": 75
     },
     {
       "date": "2021-10-23",
@@ -1693,8 +1693,8 @@
       "date": "2021-10-27",
       "locality": "WATTLE GROVE",
       "dose1": 66,
-      "dose2": 33,
-      "vaccines": 99
+      "dose2": 34,
+      "vaccines": 100
     },
     {
       "date": "2021-10-28",
@@ -1721,8 +1721,8 @@
       "date": "2021-10-31",
       "locality": "WATTLE GROVE",
       "dose1": 10,
-      "dose2": 30,
-      "vaccines": 40
+      "dose2": 29,
+      "vaccines": 39
     },
     {
       "date": "2021-11-01",
@@ -1860,8 +1860,8 @@
     {
       "date": "2021-11-20",
       "locality": "WATTLE GROVE",
-      "dose1": 7,
-      "dose2": 23,
+      "dose1": 6,
+      "dose2": 24,
       "vaccines": 30
     },
     {
@@ -1896,8 +1896,8 @@
       "date": "2021-11-25",
       "locality": "WATTLE GROVE",
       "dose1": 17,
-      "dose2": 23,
-      "vaccines": 40
+      "dose2": 24,
+      "vaccines": 41
     },
     {
       "date": "2021-11-26",
@@ -2161,9 +2161,16 @@
     {
       "date": "2022-01-03",
       "locality": "WATTLE GROVE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-04",
+      "locality": "WATTLE GROVE",
+      "dose1": 10,
+      "dose2": 12,
+      "vaccines": 22
     }
   ]
 }

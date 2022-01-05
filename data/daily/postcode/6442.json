@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "postcode": "6442",
   "data": [
     {
@@ -96,9 +96,9 @@
     {
       "date": "2021-04-13",
       "postcode": "6442",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-15",
@@ -454,8 +454,8 @@
       "date": "2021-07-06",
       "postcode": "6442",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-07",
@@ -803,9 +803,9 @@
     {
       "date": "2021-09-01",
       "postcode": "6442",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 19,
-      "vaccines": 53
+      "vaccines": 54
     },
     {
       "date": "2021-09-02",
@@ -993,8 +993,8 @@
       "date": "2021-09-29",
       "postcode": "6442",
       "dose1": 33,
-      "dose2": 21,
-      "vaccines": 54
+      "dose2": 22,
+      "vaccines": 55
     },
     {
       "date": "2021-09-30",
@@ -1118,9 +1118,9 @@
     {
       "date": "2021-10-17",
       "postcode": "6442",
-      "dose1": 5,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 3
     },
     {
       "date": "2021-10-18",
@@ -1181,9 +1181,9 @@
     {
       "date": "2021-10-27",
       "postcode": "6442",
-      "dose1": 44,
+      "dose1": 45,
       "dose2": 23,
-      "vaccines": 67
+      "vaccines": 68
     },
     {
       "date": "2021-10-28",
@@ -1259,8 +1259,8 @@
       "date": "2021-11-07",
       "postcode": "6442",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-11-08",
@@ -1378,8 +1378,8 @@
       "date": "2021-11-24",
       "postcode": "6442",
       "dose1": 36,
-      "dose2": 60,
-      "vaccines": 96
+      "dose2": 61,
+      "vaccines": 97
     },
     {
       "date": "2021-11-25",
@@ -1646,6 +1646,13 @@
       "dose1": 2,
       "dose2": 4,
       "vaccines": 6
+    },
+    {
+      "date": "2022-01-04",
+      "postcode": "6442",
+      "dose1": 1,
+      "dose2": 15,
+      "vaccines": 16
     }
   ]
 }

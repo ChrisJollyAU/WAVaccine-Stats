@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "postcode": "BROADWAY NEDLANDS",
   "data": [
     {
@@ -416,6 +416,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-22",
+      "locality": "BROADWAY NEDLANDS",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1131,6 +1139,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-14",
+      "locality": "BROADWAY NEDLANDS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-15",
       "locality": "BROADWAY NEDLANDS",
       "AgeGroup": "16 to 49",
@@ -1691,14 +1707,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-21",
-      "locality": "BROADWAY NEDLANDS",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-22",
       "locality": "BROADWAY NEDLANDS",
       "AgeGroup": "12 to 15",
@@ -1798,14 +1806,6 @@
       "date": "2021-11-09",
       "locality": "BROADWAY NEDLANDS",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-11-12",
-      "locality": "BROADWAY NEDLANDS",
-      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -2105,6 +2105,22 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-04",
+      "locality": "BROADWAY NEDLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-04",
+      "locality": "BROADWAY NEDLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

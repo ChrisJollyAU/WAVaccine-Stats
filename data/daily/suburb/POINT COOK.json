@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "locality": "POINT COOK",
   "data": [
     {
@@ -231,6 +231,13 @@
       "locality": "POINT COOK",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-04",
+      "locality": "POINT COOK",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

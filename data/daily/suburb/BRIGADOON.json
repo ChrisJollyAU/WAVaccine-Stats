@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "locality": "BRIGADOON",
   "data": [
+    {
+      "date": "2021-02-24",
+      "locality": "BRIGADOON",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
     {
       "date": "2021-03-02",
       "locality": "BRIGADOON",
@@ -189,6 +196,13 @@
       "locality": "BRIGADOON",
       "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-04-25",
+      "locality": "BRIGADOON",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
@@ -1426,9 +1440,9 @@
     {
       "date": "2021-11-05",
       "locality": "BRIGADOON",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 12,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-11-06",
@@ -1454,9 +1468,9 @@
     {
       "date": "2021-11-09",
       "locality": "BRIGADOON",
-      "dose1": 2,
+      "dose1": 0,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 5
     },
     {
       "date": "2021-11-10",
@@ -1629,9 +1643,9 @@
     {
       "date": "2021-12-05",
       "locality": "BRIGADOON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-12-06",
@@ -1814,6 +1828,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-04",
+      "locality": "BRIGADOON",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

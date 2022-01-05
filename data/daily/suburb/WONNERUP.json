@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "locality": "WONNERUP",
   "data": [
     {
@@ -138,9 +138,9 @@
     {
       "date": "2021-06-02",
       "locality": "WONNERUP",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-03",
@@ -299,9 +299,9 @@
     {
       "date": "2021-08-05",
       "locality": "WONNERUP",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-08-06",
@@ -377,8 +377,8 @@
       "date": "2021-08-20",
       "locality": "WONNERUP",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-21",
@@ -488,16 +488,16 @@
     {
       "date": "2021-09-13",
       "locality": "WONNERUP",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-16",
       "locality": "WONNERUP",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-17",
@@ -622,7 +622,14 @@
       "date": "2021-10-15",
       "locality": "WONNERUP",
       "dose1": 0,
-      "dose2": 1,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "WONNERUP",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -697,6 +704,13 @@
     },
     {
       "date": "2021-11-12",
+      "locality": "WONNERUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-13",
       "locality": "WONNERUP",
       "dose1": 0,
       "dose2": 1,
@@ -837,6 +851,13 @@
     },
     {
       "date": "2022-01-03",
+      "locality": "WONNERUP",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-04",
       "locality": "WONNERUP",
       "dose1": 0,
       "dose2": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "postcode": "BORNHOLM",
   "data": [
     {
@@ -899,6 +899,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-11-23",
+      "locality": "BORNHOLM",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-25",
       "locality": "BORNHOLM",
       "AgeGroup": "12 to 15",
@@ -1035,6 +1043,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-22",
+      "locality": "BORNHOLM",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-23",
       "locality": "BORNHOLM",
       "AgeGroup": "12 to 15",
@@ -1065,6 +1081,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-04",
+      "locality": "BORNHOLM",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

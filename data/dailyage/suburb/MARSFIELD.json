@@ -1,7 +1,23 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "postcode": "MARSFIELD",
   "data": [
+    {
+      "date": "2021-07-08",
+      "locality": "MARSFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-29",
+      "locality": "MARSFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
     {
       "date": "2021-10-07",
       "locality": "MARSFIELD",
@@ -17,6 +33,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "MARSFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

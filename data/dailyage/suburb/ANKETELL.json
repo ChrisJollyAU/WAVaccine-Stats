@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "postcode": "ANKETELL",
   "data": [
     {
@@ -1846,9 +1846,9 @@
       "date": "2021-11-27",
       "locality": "ANKETELL",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-11-29",
@@ -2079,8 +2079,8 @@
       "locality": "ANKETELL",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-30",
@@ -2113,6 +2113,22 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-04",
+      "locality": "ANKETELL",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-04",
+      "locality": "ANKETELL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,7 +1,28 @@
 {
-  "date_updated": "2022-01-03T00:00:00",
+  "date_updated": "2022-01-04T00:00:00",
   "locality": "LYONS",
   "data": [
+    {
+      "date": "2021-03-03",
+      "locality": "LYONS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-24",
+      "locality": "LYONS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-05",
+      "locality": "LYONS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-09-13",
       "locality": "LYONS",
@@ -17,6 +38,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-10",
+      "locality": "LYONS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-11",
       "locality": "LYONS",
       "dose1": 0,
@@ -29,6 +57,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-10",
+      "locality": "LYONS",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

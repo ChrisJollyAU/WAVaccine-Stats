@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "BOOTHENDARRA",
   "data": [
     {
@@ -45,6 +45,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-15",
+      "locality": "BOOTHENDARRA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-18",
       "locality": "BOOTHENDARRA",
       "dose1": 0,
@@ -66,11 +73,39 @@
       "vaccines": 2
     },
     {
+      "date": "2021-11-11",
+      "locality": "BOOTHENDARRA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-23",
+      "locality": "BOOTHENDARRA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-05",
       "locality": "BOOTHENDARRA",
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "BOOTHENDARRA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "BOOTHENDARRA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

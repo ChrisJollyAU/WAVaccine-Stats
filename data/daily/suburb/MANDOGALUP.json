@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "MANDOGALUP",
   "data": [
+    {
+      "date": "2021-03-15",
+      "locality": "MANDOGALUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-23",
       "locality": "MANDOGALUP",
@@ -96,8 +103,8 @@
     {
       "date": "2021-06-22",
       "locality": "MANDOGALUP",
-      "dose1": 2,
-      "dose2": 0,
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     },
     {
@@ -795,6 +802,13 @@
     },
     {
       "date": "2022-01-04",
+      "locality": "MANDOGALUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-05",
       "locality": "MANDOGALUP",
       "dose1": 0,
       "dose2": 1,

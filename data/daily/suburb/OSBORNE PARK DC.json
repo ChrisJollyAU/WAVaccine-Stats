@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "OSBORNE PARK DC",
   "data": [
     {
@@ -1048,9 +1048,16 @@
     {
       "date": "2022-01-04",
       "locality": "OSBORNE PARK DC",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "OSBORNE PARK DC",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

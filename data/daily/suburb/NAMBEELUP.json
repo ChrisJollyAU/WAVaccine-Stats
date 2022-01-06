@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "NAMBEELUP",
   "data": [
     {
@@ -402,6 +402,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-03",
+      "locality": "NAMBEELUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-04",
       "locality": "NAMBEELUP",
       "dose1": 0,
@@ -542,6 +549,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-12-16",
+      "locality": "NAMBEELUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-17",
       "locality": "NAMBEELUP",
       "dose1": 1,
@@ -582,6 +596,13 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "NAMBEELUP",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

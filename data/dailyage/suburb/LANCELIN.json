@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "postcode": "LANCELIN",
   "data": [
     {
@@ -853,14 +853,6 @@
     {
       "date": "2021-06-16",
       "locality": "LANCELIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-06-16",
-      "locality": "LANCELIN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 1,
@@ -1045,14 +1037,6 @@
     {
       "date": "2021-07-05",
       "locality": "LANCELIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-05",
-      "locality": "LANCELIN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -1193,14 +1177,6 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
-    },
-    {
-      "date": "2021-07-16",
-      "locality": "LANCELIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-07-16",
@@ -1407,8 +1383,8 @@
       "locality": "LANCELIN",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-07-29",
@@ -2347,14 +2323,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-18",
-      "locality": "LANCELIN",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-19",
       "locality": "LANCELIN",
       "AgeGroup": "16 to 49",
@@ -3103,8 +3071,8 @@
       "locality": "LANCELIN",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-22",
@@ -4462,6 +4430,30 @@
       "date": "2022-01-04",
       "locality": "LANCELIN",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "LANCELIN",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "LANCELIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "LANCELIN",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

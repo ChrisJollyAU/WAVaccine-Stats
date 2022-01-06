@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "ROCKINGHAM DC",
   "data": [
     {
@@ -735,6 +735,13 @@
       "locality": "ROCKINGHAM DC",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "ROCKINGHAM DC",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

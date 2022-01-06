@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "FURNISSDALE",
   "data": [
     {
@@ -768,9 +768,9 @@
     {
       "date": "2021-08-04",
       "locality": "FURNISSDALE",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 7,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-08-05",
@@ -888,8 +888,8 @@
       "date": "2021-08-25",
       "locality": "FURNISSDALE",
       "dose1": 4,
-      "dose2": 13,
-      "vaccines": 17
+      "dose2": 14,
+      "vaccines": 18
     },
     {
       "date": "2021-08-26",
@@ -1737,6 +1737,13 @@
       "dose1": 2,
       "dose2": 4,
       "vaccines": 6
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "FURNISSDALE",
+      "dose1": 7,
+      "dose2": 3,
+      "vaccines": 10
     }
   ]
 }

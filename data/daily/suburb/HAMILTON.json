@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "HAMILTON",
   "data": [
     {
@@ -110,9 +110,9 @@
     {
       "date": "2021-10-16",
       "locality": "HAMILTON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-17",
@@ -151,6 +151,13 @@
     },
     {
       "date": "2021-11-12",
+      "locality": "HAMILTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
       "locality": "HAMILTON",
       "dose1": 0,
       "dose2": 1,
@@ -211,6 +218,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "HAMILTON",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

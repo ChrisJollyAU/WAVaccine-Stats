@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "ANKETELL",
   "data": [
     {
@@ -754,9 +754,9 @@
     {
       "date": "2021-09-28",
       "locality": "ANKETELL",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-09-29",
@@ -888,8 +888,8 @@
       "date": "2021-10-20",
       "locality": "ANKETELL",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-10-21",
@@ -1296,6 +1296,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "ANKETELL",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

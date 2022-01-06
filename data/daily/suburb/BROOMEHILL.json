@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-04T00:00:00",
+  "date_updated": "2022-01-05T00:00:00",
   "locality": "BROOMEHILL",
   "data": [
     {
@@ -33,9 +33,9 @@
     {
       "date": "2021-03-30",
       "locality": "BROOMEHILL",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-31",
@@ -243,8 +243,8 @@
     {
       "date": "2021-06-22",
       "locality": "BROOMEHILL",
-      "dose1": 1,
-      "dose2": 1,
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
@@ -1035,8 +1035,8 @@
       "date": "2021-12-22",
       "locality": "BROOMEHILL",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-23",
@@ -1070,8 +1070,15 @@
       "date": "2022-01-04",
       "locality": "BROOMEHILL",
       "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-05",
+      "locality": "BROOMEHILL",
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     }
   ]
 }

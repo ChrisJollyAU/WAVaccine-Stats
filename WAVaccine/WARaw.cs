@@ -660,10 +660,26 @@ namespace WAVaccine
                 no.vaccines = it.Sum(v => v.vaccines);
                 results.Add(no);
             }
-            JsonObject item = new JsonObject();
-            item.Add("date_updated", latestdate);
-            item.Add("data", results);
-            File.WriteAllText("data/daily/all.json", JsonConvert.SerializeObject(item, Formatting.Indented));
+
+            var rlist = new List<List<WARawOb>>();
+
+            for (int i = 0; i < results.Count; i += 480000)
+            {
+                rlist.Add(results.GetRange(i, Math.Min(480000, results.Count - i)));
+            }
+
+            int A = 1;
+            foreach (var ll in rlist)
+            {
+                JsonObject item = new JsonObject
+                {
+                    { "date_updated", latestdate },
+                    { "data", ll }
+                };
+                File.WriteAllText("data/daily/all" + A +".json", JsonConvert.SerializeObject(item, Formatting.Indented));
+                A++;
+            }
+            
             DoPostcodeStats(to);
             DoPostcodeStatsAge(to);
             DoLGAStats(to);

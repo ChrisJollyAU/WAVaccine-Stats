@@ -19,7 +19,7 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Get Data
-      run:  WAVaccine/bin/Debug/net5.0/WAVaccine.exe
+      run:  WAVaccine/bin/Debug/net6.0/WAVaccine.exe
     - name: Push Data
       run:  |
           git config user.name ChrisJollyAU

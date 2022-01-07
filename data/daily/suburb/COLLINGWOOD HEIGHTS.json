@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "COLLINGWOOD HEIGHTS",
   "data": [
     {
@@ -1748,9 +1748,16 @@
     {
       "date": "2022-01-05",
       "locality": "COLLINGWOOD HEIGHTS",
-      "dose1": 0,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

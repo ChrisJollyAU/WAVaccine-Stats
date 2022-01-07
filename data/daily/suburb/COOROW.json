@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "COOROW",
   "data": [
+    {
+      "date": "2021-03-22",
+      "locality": "COOROW",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-04-14",
       "locality": "COOROW",
@@ -139,8 +146,8 @@
       "date": "2021-06-14",
       "locality": "COOROW",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-06-15",
@@ -934,6 +941,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-19",
+      "locality": "COOROW",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2021-12-20",
       "locality": "COOROW",
       "dose1": 0,
@@ -984,6 +998,13 @@
     },
     {
       "date": "2022-01-04",
+      "locality": "COOROW",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-06",
       "locality": "COOROW",
       "dose1": 1,
       "dose2": 0,

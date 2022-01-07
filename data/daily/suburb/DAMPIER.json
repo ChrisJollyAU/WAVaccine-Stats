@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "DAMPIER",
   "data": [
     {
@@ -85,13 +85,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-04-08",
-      "locality": "DAMPIER",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-04-09",
@@ -356,8 +349,8 @@
       "date": "2021-06-18",
       "locality": "DAMPIER",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-06-21",
@@ -1518,8 +1511,8 @@
       "date": "2022-01-04",
       "locality": "DAMPIER",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2022-01-05",
@@ -1527,6 +1520,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "DAMPIER",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
     }
   ]
 }

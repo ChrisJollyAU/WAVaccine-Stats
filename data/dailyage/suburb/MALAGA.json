@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "postcode": "MALAGA",
   "data": [
     {
@@ -2214,17 +2214,17 @@
       "date": "2021-10-12",
       "locality": "MALAGA",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-12",
       "locality": "MALAGA",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-13",
@@ -2422,9 +2422,9 @@
       "date": "2021-10-23",
       "locality": "MALAGA",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-23",
@@ -2987,6 +2987,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-11-26",
+      "locality": "MALAGA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-27",
       "locality": "MALAGA",
       "AgeGroup": "50 to 69",
@@ -3046,9 +3054,9 @@
       "date": "2021-12-01",
       "locality": "MALAGA",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-12-01",
@@ -3495,8 +3503,8 @@
       "locality": "MALAGA",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-30",
@@ -3575,8 +3583,32 @@
       "locality": "MALAGA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "MALAGA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "MALAGA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "MALAGA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

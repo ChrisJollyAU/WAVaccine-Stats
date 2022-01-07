@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "KOONGAMIA",
   "data": [
     {
@@ -411,9 +411,9 @@
     {
       "date": "2021-07-06",
       "locality": "KOONGAMIA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-07-07",
@@ -502,9 +502,9 @@
     {
       "date": "2021-07-21",
       "locality": "KOONGAMIA",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-07-22",
@@ -559,8 +559,8 @@
       "date": "2021-07-29",
       "locality": "KOONGAMIA",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-07-30",
@@ -699,8 +699,8 @@
       "date": "2021-08-18",
       "locality": "KOONGAMIA",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-08-19",
@@ -838,9 +838,9 @@
     {
       "date": "2021-09-07",
       "locality": "KOONGAMIA",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-09-08",
@@ -1007,8 +1007,8 @@
       "date": "2021-10-01",
       "locality": "KOONGAMIA",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-10-02",
@@ -1286,9 +1286,9 @@
     {
       "date": "2021-11-10",
       "locality": "KOONGAMIA",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-11-11",
@@ -1657,9 +1657,16 @@
     {
       "date": "2022-01-05",
       "locality": "KOONGAMIA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "KOONGAMIA",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

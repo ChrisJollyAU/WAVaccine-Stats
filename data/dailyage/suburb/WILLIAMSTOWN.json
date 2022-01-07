@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "postcode": "WILLIAMSTOWN",
   "data": [
     {
@@ -555,6 +555,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-29",
+      "locality": "WILLIAMSTOWN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-01",
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "50 to 69",
@@ -718,8 +726,8 @@
       "date": "2021-10-26",
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 2,
       "vaccines": 3
     },
     {
@@ -833,14 +841,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-11-16",
-      "locality": "WILLIAMSTOWN",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-11-18",
@@ -971,14 +971,6 @@
       "vaccines": 4
     },
     {
-      "date": "2021-12-10",
-      "locality": "WILLIAMSTOWN",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
       "date": "2021-12-11",
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "16 to 49",
@@ -1077,14 +1069,6 @@
     {
       "date": "2022-01-04",
       "locality": "WILLIAMSTOWN",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2022-01-04",
-      "locality": "WILLIAMSTOWN",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
@@ -1094,6 +1078,30 @@
       "date": "2022-01-05",
       "locality": "WILLIAMSTOWN",
       "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "WILLIAMSTOWN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "WILLIAMSTOWN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "WILLIAMSTOWN",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

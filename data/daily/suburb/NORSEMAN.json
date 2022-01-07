@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "NORSEMAN",
   "data": [
     {
@@ -213,6 +213,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-16",
+      "locality": "NORSEMAN",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-06-17",
       "locality": "NORSEMAN",
       "dose1": 0,
@@ -271,9 +278,9 @@
     {
       "date": "2021-07-02",
       "locality": "NORSEMAN",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-07-03",
@@ -335,8 +342,8 @@
       "date": "2021-07-16",
       "locality": "NORSEMAN",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 9
     },
     {
       "date": "2021-07-19",
@@ -405,8 +412,8 @@
       "date": "2021-07-30",
       "locality": "NORSEMAN",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-08-02",
@@ -1168,8 +1175,15 @@
       "date": "2022-01-05",
       "locality": "NORSEMAN",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "NORSEMAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

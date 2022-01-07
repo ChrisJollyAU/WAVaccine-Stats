@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "postcode": "LOWER KING",
   "data": [
     {
@@ -349,6 +349,14 @@
     {
       "date": "2021-04-01",
       "locality": "LOWER KING",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-01",
+      "locality": "LOWER KING",
       "AgeGroup": "70 and over",
       "dose1": 5,
       "dose2": 4,
@@ -398,17 +406,17 @@
       "date": "2021-04-07",
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-07",
       "locality": "LOWER KING",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-07",
@@ -1607,8 +1615,8 @@
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-06-25",
@@ -1703,8 +1711,8 @@
       "locality": "LOWER KING",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-06-30",
@@ -1727,8 +1735,8 @@
       "locality": "LOWER KING",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-07-01",
@@ -2750,9 +2758,9 @@
       "date": "2021-08-18",
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-08-18",
@@ -2966,9 +2974,9 @@
       "date": "2021-08-27",
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-08-27",
@@ -3319,8 +3327,8 @@
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 1,
-      "vaccines": 13
+      "dose2": 2,
+      "vaccines": 14
     },
     {
       "date": "2021-09-12",
@@ -3342,9 +3350,9 @@
       "date": "2021-09-13",
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-09-13",
@@ -3631,8 +3639,8 @@
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2021-09-24",
@@ -3654,9 +3662,9 @@
       "date": "2021-09-25",
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 3,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-25",
@@ -3911,8 +3919,8 @@
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-10-06",
@@ -4815,8 +4823,8 @@
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 9
     },
     {
       "date": "2021-11-06",
@@ -5384,6 +5392,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-28",
+      "locality": "LOWER KING",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -6230,17 +6246,17 @@
       "date": "2022-01-05",
       "locality": "LOWER KING",
       "AgeGroup": "12 to 15",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2022-01-05",
       "locality": "LOWER KING",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 5
     },
     {
       "date": "2022-01-05",
@@ -6257,6 +6273,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "LOWER KING",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "LOWER KING",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "LOWER KING",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

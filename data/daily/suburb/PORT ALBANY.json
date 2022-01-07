@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "PORT ALBANY",
   "data": [
     {
@@ -255,6 +255,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-17",
+      "locality": "PORT ALBANY",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-06-23",
       "locality": "PORT ALBANY",
       "dose1": 0,
@@ -489,8 +496,8 @@
       "date": "2021-09-02",
       "locality": "PORT ALBANY",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-09-03",
@@ -851,6 +858,13 @@
     },
     {
       "date": "2022-01-05",
+      "locality": "PORT ALBANY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-06",
       "locality": "PORT ALBANY",
       "dose1": 0,
       "dose2": 0,

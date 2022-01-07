@@ -1,12 +1,19 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "CENTRAL MANGROVE",
   "data": [
     {
-      "date": "2021-10-11",
+      "date": "2021-09-09",
       "locality": "CENTRAL MANGROVE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-11",
+      "locality": "CENTRAL MANGROVE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "BEVERLEY",
   "data": [
     {
@@ -1791,8 +1791,15 @@
       "date": "2022-01-05",
       "locality": "BEVERLEY",
       "dose1": 3,
+      "dose2": 6,
+      "vaccines": 9
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "BEVERLEY",
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
     }
   ]
 }

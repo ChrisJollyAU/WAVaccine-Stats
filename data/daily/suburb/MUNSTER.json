@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-05T00:00:00",
+  "date_updated": "2022-01-06T00:00:00",
   "locality": "MUNSTER",
   "data": [
     {
@@ -1343,8 +1343,15 @@
       "date": "2022-01-05",
       "locality": "MUNSTER",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 6,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "MUNSTER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

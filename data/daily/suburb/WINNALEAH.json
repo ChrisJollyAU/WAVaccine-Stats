@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "locality": "WINNALEAH",
   "data": [
     {
@@ -7,6 +7,13 @@
       "locality": "WINNALEAH",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "WINNALEAH",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

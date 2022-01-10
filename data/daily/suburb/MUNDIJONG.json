@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "locality": "MUNDIJONG",
   "data": [
     {
@@ -1966,8 +1966,29 @@
       "date": "2022-01-06",
       "locality": "MUNDIJONG",
       "dose1": 6,
-      "dose2": 5,
-      "vaccines": 11
+      "dose2": 6,
+      "vaccines": 12
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "MUNDIJONG",
+      "dose1": 3,
+      "dose2": 12,
+      "vaccines": 15
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "MUNDIJONG",
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "MUNDIJONG",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

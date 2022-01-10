@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "locality": "BROOMEHILL WEST",
   "data": [
     {
@@ -88,6 +88,13 @@
     },
     {
       "date": "2021-07-07",
+      "locality": "BROOMEHILL WEST",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-09",
       "locality": "BROOMEHILL WEST",
       "dose1": 1,
       "dose2": 0,
@@ -188,8 +195,8 @@
       "date": "2021-10-05",
       "locality": "BROOMEHILL WEST",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-06",

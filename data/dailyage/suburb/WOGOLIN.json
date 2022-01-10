@@ -1,7 +1,15 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "postcode": "WOGOLIN",
   "data": [
+    {
+      "date": "2021-03-23",
+      "locality": "WOGOLIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-04-23",
       "locality": "WOGOLIN",
@@ -9,6 +17,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-06-01",
+      "locality": "WOGOLIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-16",
@@ -24,6 +40,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "WOGOLIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -83,9 +107,33 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-12",
+      "locality": "WOGOLIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-03",
+      "locality": "WOGOLIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-23",
       "locality": "WOGOLIN",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-30",
+      "locality": "WOGOLIN",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

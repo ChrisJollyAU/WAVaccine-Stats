@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "postcode": "SAMSON",
   "data": [
     {
@@ -942,9 +942,9 @@
       "date": "2021-05-10",
       "locality": "SAMSON",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-05-10",
@@ -1862,9 +1862,9 @@
       "date": "2021-06-30",
       "locality": "SAMSON",
       "AgeGroup": "50 to 69",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-06-30",
@@ -1958,9 +1958,9 @@
       "date": "2021-07-05",
       "locality": "SAMSON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-05",
@@ -2407,8 +2407,8 @@
       "locality": "SAMSON",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-26",
@@ -2559,8 +2559,8 @@
       "locality": "SAMSON",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-08-02",
@@ -3222,9 +3222,9 @@
       "date": "2021-09-01",
       "locality": "SAMSON",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 4,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-09-01",
@@ -3903,8 +3903,8 @@
       "locality": "SAMSON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-09-28",
@@ -4071,8 +4071,8 @@
       "locality": "SAMSON",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-05",
@@ -5855,8 +5855,8 @@
       "locality": "SAMSON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-12-17",
@@ -6054,9 +6054,9 @@
       "date": "2021-12-28",
       "locality": "SAMSON",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-12-28",
@@ -6257,6 +6257,86 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "SAMSON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "SAMSON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "SAMSON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "SAMSON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "SAMSON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "SAMSON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "SAMSON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "SAMSON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "SAMSON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "SAMSON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

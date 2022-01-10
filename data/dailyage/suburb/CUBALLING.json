@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "postcode": "CUBALLING",
   "data": [
     {
@@ -766,9 +766,9 @@
       "date": "2021-07-16",
       "locality": "CUBALLING",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-07-20",
@@ -1142,9 +1142,9 @@
       "date": "2021-08-19",
       "locality": "CUBALLING",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-19",
@@ -1647,8 +1647,8 @@
       "locality": "CUBALLING",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-25",
@@ -1833,14 +1833,6 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
-    },
-    {
-      "date": "2021-10-08",
-      "locality": "CUBALLING",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-10-08",
@@ -2857,6 +2849,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "CUBALLING",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "CUBALLING",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "CUBALLING",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

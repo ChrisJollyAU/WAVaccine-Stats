@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "locality": "SOUTH PERTH ANGELO ST",
   "data": [
     {
@@ -1076,9 +1076,9 @@
     {
       "date": "2021-10-08",
       "locality": "SOUTH PERTH ANGELO ST",
-      "dose1": 1,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 7
     },
     {
       "date": "2021-10-10",
@@ -1259,8 +1259,8 @@
       "date": "2021-11-07",
       "locality": "SOUTH PERTH ANGELO ST",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-11-08",
@@ -1329,8 +1329,8 @@
       "date": "2021-11-19",
       "locality": "SOUTH PERTH ANGELO ST",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-20",
@@ -1522,6 +1522,13 @@
       "vaccines": 0
     },
     {
+      "date": "2021-12-31",
+      "locality": "SOUTH PERTH ANGELO ST",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2022-01-02",
       "locality": "SOUTH PERTH ANGELO ST",
       "dose1": 0,
@@ -1555,6 +1562,20 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "SOUTH PERTH ANGELO ST",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "SOUTH PERTH ANGELO ST",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

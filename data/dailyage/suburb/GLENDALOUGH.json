@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "postcode": "GLENDALOUGH",
   "data": [
     {
@@ -1486,6 +1486,14 @@
       "date": "2021-06-06",
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-06",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -3070,9 +3078,9 @@
       "date": "2021-08-23",
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
-      "dose1": 16,
+      "dose1": 17,
       "dose2": 6,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-08-23",
@@ -3126,8 +3134,8 @@
       "date": "2021-08-25",
       "locality": "GLENDALOUGH",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 6,
+      "dose1": 0,
+      "dose2": 7,
       "vaccines": 7
     },
     {
@@ -3142,9 +3150,9 @@
       "date": "2021-08-26",
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 1,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-08-26",
@@ -3511,8 +3519,8 @@
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 10,
-      "vaccines": 11
+      "dose2": 11,
+      "vaccines": 12
     },
     {
       "date": "2021-09-13",
@@ -3567,8 +3575,8 @@
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 8,
-      "vaccines": 17
+      "dose2": 7,
+      "vaccines": 16
     },
     {
       "date": "2021-09-16",
@@ -3718,9 +3726,9 @@
       "date": "2021-09-22",
       "locality": "GLENDALOUGH",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 3
     },
     {
       "date": "2021-09-22",
@@ -4327,8 +4335,8 @@
       "locality": "GLENDALOUGH",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-19",
@@ -4646,9 +4654,9 @@
       "date": "2021-11-01",
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 4,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-11-01",
@@ -5150,9 +5158,9 @@
       "date": "2021-11-24",
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 9
+      "vaccines": 7
     },
     {
       "date": "2021-11-24",
@@ -5303,8 +5311,8 @@
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-12-01",
@@ -5886,9 +5894,9 @@
       "date": "2021-12-30",
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 4,
-      "vaccines": 10
+      "vaccines": 9
     },
     {
       "date": "2021-12-30",
@@ -5990,9 +5998,9 @@
       "date": "2022-01-06",
       "locality": "GLENDALOUGH",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2022-01-06",
@@ -6009,6 +6017,78 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "GLENDALOUGH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

@@ -1,9 +1,16 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "locality": "FOOTSCRAY",
   "data": [
     {
       "date": "2021-07-26",
+      "locality": "FOOTSCRAY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
       "locality": "FOOTSCRAY",
       "dose1": 1,
       "dose2": 0,
@@ -21,6 +28,13 @@
       "locality": "FOOTSCRAY",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "FOOTSCRAY",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {

@@ -459,6 +459,8 @@ namespace WAVaccine
                 var total = Convert.ToInt32(cols[28]);
                 pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
                 pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                pop.c5_plus = total - pop.c_0_4;
+                pop.pop = total;
                 sa2pop.Add(pop);
             }
 
@@ -504,6 +506,8 @@ namespace WAVaccine
                 sdet.SA2Name = it.SA2;
                 sdet.c16_plus = (int)it.c16_plus;
                 sdet.c12_plus = (int)it.c12_plus;
+                sdet.c5_plus = (int)it.c5_plus;
+                sdet.pop = (int)it.pop;
                 sa2det.Add(sdet);
             }
             var date = DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd");
@@ -551,6 +555,8 @@ namespace WAVaccine
                         sdet.dose3 += s2det.dose3;
                         sdet.c16_plus += s2det.c16_plus;
                         sdet.c12_plus += s2det.c12_plus;
+                        sdet.c5_plus += s2det.c5_plus;
+                        sdet.pop += s2det.pop;
                         used.Add(s2det);
                     }
                 }
@@ -604,6 +610,8 @@ namespace WAVaccine
                         sdet.dose3 += s2det.dose3;
                         sdet.c16_plus += s2det.c16_plus;
                         sdet.c12_plus += s2det.c12_plus;
+                        sdet.c5_plus += s2det.c5_plus;
+                        sdet.pop += s2det.pop;
                     }
                 }
                 if (sdet.c12_plus > 0)
@@ -656,6 +664,8 @@ namespace WAVaccine
                         sdet.dose3 += s2det.dose3;
                         sdet.c16_plus += s2det.c16_plus;
                         sdet.c12_plus += s2det.c12_plus;
+                        sdet.c5_plus += s2det.c5_plus;
+                        sdet.pop += s2det.pop;
                     }
                 }
                 if (sdet.c12_plus > 0)
@@ -708,6 +718,8 @@ namespace WAVaccine
                         sdet.dose3 += s2det.dose3;
                         sdet.c16_plus += s2det.c16_plus;
                         sdet.c12_plus += s2det.c12_plus;
+                        sdet.c5_plus += s2det.c5_plus;
+                        sdet.pop += s2det.pop;
                     }
                 }
                 if (sdet.c12_plus > 0)
@@ -757,6 +769,8 @@ namespace WAVaccine
         public int c12_plus { get; set; }
         public int dose3 { get; internal set; }
         public decimal D3_vaccinated_percent { get; internal set; }
+        public int pop { get; internal set; }
+        public int c5_plus { get; internal set; }
     }
     class SA3Detail
     {
@@ -770,6 +784,8 @@ namespace WAVaccine
         public int c12_plus { get; set; }
         public int dose3 { get; internal set; }
         public decimal D3_vaccinated_percent { get; internal set; }
+        public int pop { get; internal set; }
+        public int c5_plus { get; internal set; }
     }
     class SA4Detail
     {
@@ -783,6 +799,8 @@ namespace WAVaccine
         public int c12_plus { get; set; }
         public int dose3 { get; internal set; }
         public decimal D3_vaccinated_percent { get; internal set; }
+        public int c5_plus { get; internal set; }
+        public int pop { get; internal set; }
     }
     class GCCSADetail
     {
@@ -796,5 +814,7 @@ namespace WAVaccine
         public int c12_plus { get; set; }
         public int dose3 { get; set; }
         public decimal D3_vaccinated_percent { get; internal set; }
+        public int c5_plus { get; internal set; }
+        public int pop { get; internal set; }
     }
 }

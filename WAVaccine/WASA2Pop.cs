@@ -333,5 +333,7 @@ namespace WAVaccine
         public decimal c_75_79 { get; set; }
         public decimal c_80_84 { get; set; }
         public decimal c_85p { get; set; }
+        public decimal c5_plus { get; internal set; }
+        public int pop { get; internal set; }
     }
 }

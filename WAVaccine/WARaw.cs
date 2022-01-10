@@ -718,6 +718,8 @@ namespace WAVaccine
                 var total = Convert.ToInt32(cols[21]);
                 pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
                 pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                pop.c5_plus = total - pop.c_0_4;
+                pop.pop = total;
                 poplist.Add(pop);
             }
 
@@ -754,6 +756,8 @@ namespace WAVaccine
                 {
                     sdet.c16_plus = (int)s2pop.c16_plus;
                     sdet.c12_plus = (int)s2pop.c12_plus;
+                    sdet.c5_plus = (int)s2pop.c5_plus;
+                    sdet.pop = (int)s2pop.pop;
                 }
                 foreach (var it2 in it)
                 {
@@ -809,6 +813,9 @@ namespace WAVaccine
                 var total = Convert.ToInt32(cols[21]);
                 pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
                 pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                pop.c5_plus = total - pop.c_0_4;
+                pop.pop = total;
+
                 poplist.Add(pop);
             }
 
@@ -823,6 +830,8 @@ namespace WAVaccine
                 s2pop.name = it.Key;
                 s2pop.c12_plus = s2popa.Sum(a => a.c12_plus);
                 s2pop.c16_plus = s2popa.Sum(a => a.c16_plus);
+                s2pop.c5_plus = s2popa.Sum(a => a.c5_plus);
+                s2pop.pop = s2popa.Sum(a => a.pop);
                 s2pop.c_0_4 = s2popa.Sum(a => a.c_0_4);
                 s2pop.c_5_11 = s2popa.Sum(a => a.c_5_11);
                 s2pop.c_12_15 = s2popa.Sum(a => a.c_12_15);
@@ -845,21 +854,43 @@ namespace WAVaccine
                 {
                     sdet.c16_plus = (int)s2pop.c16_plus;
                     sdet.c12_plus = (int)s2pop.c12_plus;
+                    sdet.c5_plus = (int)s2pop.c5_plus;
+                    sdet.pop = (int)s2pop.pop;
                     int ct_50_69 = 0;
                     int ct_70p = 0;
                     int ct_16_49 = 0;
-                    ct_50_69 = (int)(s2pop.c_50_54 + s2pop.c_55_59 + s2pop.c_60_64 + s2pop.c_60_64);
+                    int ct_0_4 = 0;
+                    int ct_5_11 = 0;
+                    ct_50_69 = (int)(s2pop.c_50_54 + s2pop.c_55_59 + s2pop.c_60_64 + s2pop.c_65_69);
                     ct_70p = (int)(s2pop.c_70_74 + s2pop.c_75_79 + s2pop.c_80_84 + s2pop.c_85p);
                     ct_16_49 = (int)(s2pop.c_16_19 + s2pop.c_20_24 + s2pop.c_25_29 + s2pop.c_30_34 + s2pop.c_35_39 + s2pop.c_40_44 + s2pop.c_45_49);
+                    ct_0_4 = (int)(s2pop.c_0_4);
+                    ct_5_11 = (int)(s2pop.c_5_11);
                     sdet.c_12_15 = (int)s2pop.c_12_15;
                     sdet.c_16_49 = ct_16_49;
                     sdet.c_50_69 = ct_50_69;
                     sdet.c_70p = ct_70p;
+                    sdet.c_0_4 = ct_0_4;
+                    sdet.c_5_11 = ct_5_11;
                 }
 
                 foreach (var it2 in it)
                 {
-                    if (it2.AgeGroup == "12 to 15")
+                    if (it2.AgeGroup == "0 to 4")
+                    {
+                        sdet.dose1_0_4 += it2.dose1;
+                        sdet.dose2_0_4 += it2.dose2;
+                        sdet.dose3_0_4 += it2.dose3;
+                        sdet.total_doses += it2.vaccines;
+                    }
+                    else if (it2.AgeGroup == "5 to 11")
+                    {
+                        sdet.dose1_5_11 += it2.dose1;
+                        sdet.dose2_5_11 += it2.dose2;
+                        sdet.dose3_5_11 += it2.dose3;
+                        sdet.total_doses += it2.vaccines;
+                    }
+                    else if (it2.AgeGroup == "12 to 15")
                     {
                         sdet.dose1_12_15 += it2.dose1;
                         sdet.dose2_12_15 += it2.dose2;
@@ -892,31 +923,61 @@ namespace WAVaccine
                 {
                     sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
                     sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                    sdet.D3_vaccinated_percent = (sdet.dose3_16_49 + sdet.dose3_50_69 + sdet.dose3_70p) / (decimal)sdet.c16_plus * 100;
                 }
                 if (sdet.c12_plus > 0)
                 {
                     sdet.atleast_1dose_percent12 = (sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c12_plus * 100;
                     sdet.full_vaccinated_percent12 = (sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c12_plus * 100;
+                    sdet.D3_vaccinated_percent12 = (sdet.dose3_12_15 + sdet.dose3_16_49 + sdet.dose3_50_69 + sdet.dose3_70p) / (decimal)sdet.c12_plus * 100;
+                }
+                if (sdet.c5_plus > 0)
+                {
+                    sdet.atleast_1dose_percent5 = (sdet.dose1_5_11 + sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c5_plus * 100;
+                    sdet.full_vaccinated_percent5 = (sdet.dose2_5_11 + sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c5_plus * 100;
+                    sdet.D3_vaccinated_percent5 = (sdet.dose3_5_11 + sdet.dose3_12_15 + sdet.dose3_16_49 + sdet.dose3_50_69 + sdet.dose3_70p) / (decimal)sdet.c5_plus * 100;
+                }
+                if (sdet.pop > 0)
+                {
+                    sdet.atleast_1dose_percent0 = (sdet.dose1_0_4 + sdet.dose1_5_11 + sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.pop * 100;
+                    sdet.full_vaccinated_percent0 = (sdet.dose2_0_4 + sdet.dose2_5_11 + sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.pop * 100;
+                    sdet.D3_vaccinated_percent0 = (sdet.dose3_0_4 + sdet.dose3_5_11 + sdet.dose3_12_15 + sdet.dose3_16_49 + sdet.dose3_50_69 + sdet.dose3_70p) / (decimal)sdet.pop * 100;
+                }
+                if (sdet.c_0_4 > 0)
+                {
+                    sdet.min1d_0_4_pc = (sdet.dose1_0_4) / (decimal)sdet.c_0_4 * 100;
+                    sdet.full_0_4_pc = (sdet.dose2_0_4) / (decimal)sdet.c_0_4 * 100;
+                    sdet.D3_0_4_pc = (sdet.dose3_0_4) / (decimal)sdet.c_0_4 * 100;
+                }
+                if (sdet.c_5_11 > 0)
+                {
+                    sdet.min1d_5_11_pc = (sdet.dose1_5_11) / (decimal)sdet.c_5_11 * 100;
+                    sdet.full_5_11_pc = (sdet.dose2_5_11) / (decimal)sdet.c_5_11 * 100;
+                    sdet.D3_5_11_pc = (sdet.dose3_5_11) / (decimal)sdet.c_5_11 * 100;
                 }
                 if (sdet.c_12_15 > 0)
                 {
                     sdet.min1d_12_15_pc = (sdet.dose1_12_15) / (decimal)sdet.c_12_15 * 100;
                     sdet.full_12_15_pc = (sdet.dose2_12_15) / (decimal)sdet.c_12_15 * 100;
+                    sdet.D3_12_15_pc = (sdet.dose3_12_15) / (decimal)sdet.c_12_15 * 100;
                 }
                 if (sdet.c_16_49 > 0)
                 {
                     sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)sdet.c_16_49 * 100;
                     sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)sdet.c_16_49 * 100;
+                    sdet.D3_16_49_pc = (sdet.dose3_16_49) / (decimal)sdet.c_16_49 * 100;
                 }
                 if (sdet.c_50_69 > 0)
                 {
                     sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)sdet.c_50_69 * 100;
                     sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)sdet.c_50_69 * 100;
+                    sdet.D3_50_69_pc = (sdet.dose3_50_69) / (decimal)sdet.c_50_69 * 100;
                 }
                 if (sdet.c_70p > 0)
                 {
                     sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)sdet.c_70p * 100;
                     sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
+                    sdet.D3_70p_pc = (sdet.dose3_70p) / (decimal)sdet.c_70p * 100;
                 }
                 sa2det.Add(sdet);
             }
@@ -960,6 +1021,8 @@ namespace WAVaccine
                 var total = Convert.ToInt32(cols[22]);
                 pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
                 pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                pop.c5_plus = total - pop.c_0_4;
+                pop.pop = total;
                 poplist.Add(pop);
             }
 
@@ -1059,6 +1122,8 @@ namespace WAVaccine
                 var total = Convert.ToInt32(cols[22]);
                 pop.c12_plus = total - pop.c_0_4 - pop.c_5_11;
                 pop.c16_plus = total - pop.c_0_4 - pop.c_5_11 - pop.c_12_15;
+                pop.c5_plus = total - pop.c_0_4;
+                pop.pop = total;
                 poplist.Add(pop);
             }
 
@@ -1077,16 +1142,24 @@ namespace WAVaccine
                 {
                     sdet.c16_plus = (int)s2pop.c16_plus;
                     sdet.c12_plus = (int)s2pop.c12_plus;
+                    sdet.c5_plus = (int)s2pop.c5_plus;
+                    sdet.pop = (int)s2pop.pop;
                     int ct_50_69 = 0;
                     int ct_70p = 0;
                     int ct_16_49 = 0;
-                    ct_50_69 = (int)(s2pop.c_50_54 + s2pop.c_55_59 + s2pop.c_60_64 + s2pop.c_60_64);
+                    int ct_0_4 = 0;
+                    int ct_5_11 = 0;
+                    ct_50_69 = (int)(s2pop.c_50_54 + s2pop.c_55_59 + s2pop.c_60_64 + s2pop.c_65_69);
                     ct_70p = (int)(s2pop.c_70_74 + s2pop.c_75_79 + s2pop.c_80_84 + s2pop.c_85p);
                     ct_16_49 = (int)(s2pop.c_16_19 + s2pop.c_20_24 + s2pop.c_25_29 + s2pop.c_30_34 + s2pop.c_35_39 + s2pop.c_40_44 + s2pop.c_45_49);
+                    ct_0_4 = (int)(s2pop.c_0_4);
+                    ct_5_11 = (int)(s2pop.c_5_11);
                     sdet.c_12_15 = (int)s2pop.c_12_15;
                     sdet.c_16_49 = ct_16_49;
                     sdet.c_50_69 = ct_50_69;
                     sdet.c_70p = ct_70p;
+                    sdet.c_0_4 = ct_0_4;
+                    sdet.c_5_11 = ct_5_11;
                 }
 
                 foreach (var it2 in it)
@@ -1094,7 +1167,21 @@ namespace WAVaccine
                     var items = to.Where(s => s.postcode == it2.POSTCODE).ToList();
                     foreach (var items1 in items)
                     {
-                        if (items1.AgeGroup == "12 to 15")
+                        if (items1.AgeGroup == "0 to 4")
+                        {
+                            sdet.dose1_0_4 += items1.dose1;
+                            sdet.dose2_0_4 += items1.dose2;
+                            sdet.dose3_0_4 += items1.dose3;
+                            sdet.total_doses += items1.vaccines;
+                        }
+                        else if (items1.AgeGroup == "5 to 11")
+                        {
+                            sdet.dose1_5_11 += items1.dose1;
+                            sdet.dose2_5_11 += items1.dose2;
+                            sdet.dose3_5_11 += items1.dose3;
+                            sdet.total_doses += items1.vaccines;
+                        }
+                        else if (items1.AgeGroup == "12 to 15")
                         {
                             sdet.dose1_12_15 += items1.dose1;
                             sdet.dose2_12_15 += items1.dose2;
@@ -1128,31 +1215,61 @@ namespace WAVaccine
                 {
                     sdet.atleast_1dose_percent = (sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c16_plus * 100;
                     sdet.full_vaccinated_percent = (sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c16_plus * 100;
+                    sdet.D3_vaccinated_percent = (sdet.dose3_16_49 + sdet.dose3_50_69 + sdet.dose3_70p) / (decimal)sdet.c16_plus * 100;
                 }
                 if (sdet.c12_plus > 0)
                 {
                     sdet.atleast_1dose_percent12 = (sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c12_plus * 100;
                     sdet.full_vaccinated_percent12 = (sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c12_plus * 100;
+                    sdet.D3_vaccinated_percent12 = (sdet.dose3_12_15 + sdet.dose3_16_49 + sdet.dose3_50_69 + sdet.dose3_70p) / (decimal)sdet.c12_plus * 100;
+                }
+                if (sdet.c5_plus > 0)
+                {
+                    sdet.atleast_1dose_percent5 = (sdet.dose1_5_11 + sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.c5_plus * 100;
+                    sdet.full_vaccinated_percent5 = (sdet.dose2_5_11 + sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.c5_plus * 100;
+                    sdet.D3_vaccinated_percent5 = (sdet.dose3_5_11 + sdet.dose3_12_15 + sdet.dose3_16_49 + sdet.dose3_50_69 + sdet.dose3_70p) / (decimal)sdet.c5_plus * 100;
+                }
+                if (sdet.pop > 0)
+                {
+                    sdet.atleast_1dose_percent0 = (sdet.dose1_0_4 + sdet.dose1_5_11 + sdet.dose1_12_15 + sdet.dose1_16_49 + sdet.dose1_50_69 + sdet.dose1_70p) / (decimal)sdet.pop * 100;
+                    sdet.full_vaccinated_percent0 = (sdet.dose2_0_4 + sdet.dose2_5_11 + sdet.dose2_12_15 + sdet.dose2_16_49 + sdet.dose2_50_69 + sdet.dose2_70p) / (decimal)sdet.pop * 100;
+                    sdet.D3_vaccinated_percent0 = (sdet.dose3_0_4 + sdet.dose3_5_11 + sdet.dose3_12_15 + sdet.dose3_16_49 + sdet.dose3_50_69 + sdet.dose3_70p) / (decimal)sdet.pop * 100;
+                }
+                if (sdet.c_0_4 > 0)
+                {
+                    sdet.min1d_0_4_pc = (sdet.dose1_0_4) / (decimal)sdet.c_0_4 * 100;
+                    sdet.full_0_4_pc = (sdet.dose2_0_4) / (decimal)sdet.c_0_4 * 100;
+                    sdet.D3_0_4_pc = (sdet.dose3_0_4) / (decimal)sdet.c_0_4 * 100;
+                }
+                if (sdet.c_5_11 > 0)
+                {
+                    sdet.min1d_5_11_pc = (sdet.dose1_5_11) / (decimal)sdet.c_5_11 * 100;
+                    sdet.full_5_11_pc = (sdet.dose2_5_11) / (decimal)sdet.c_5_11 * 100;
+                    sdet.D3_5_11_pc = (sdet.dose3_5_11) / (decimal)sdet.c_5_11 * 100;
                 }
                 if (sdet.c_12_15 > 0)
                 {
                     sdet.min1d_12_15_pc = (sdet.dose1_12_15) / (decimal)sdet.c_12_15 * 100;
                     sdet.full_12_15_pc = (sdet.dose2_12_15) / (decimal)sdet.c_12_15 * 100;
+                    sdet.D3_12_15_pc = (sdet.dose3_12_15) / (decimal)sdet.c_12_15 * 100;
                 }
                 if (sdet.c_16_49 > 0)
                 {
                     sdet.min1d_16_49_pc = (sdet.dose1_16_49) / (decimal)sdet.c_16_49 * 100;
                     sdet.full_16_49_pc = (sdet.dose2_16_49) / (decimal)sdet.c_16_49 * 100;
+                    sdet.D3_16_49_pc = (sdet.dose3_16_49) / (decimal)sdet.c_16_49 * 100;
                 }
                 if (sdet.c_50_69 > 0)
                 {
                     sdet.min1d_50_69_pc = (sdet.dose1_50_69) / (decimal)sdet.c_50_69 * 100;
                     sdet.full_50_69_pc = (sdet.dose2_50_69) / (decimal)sdet.c_50_69 * 100;
+                    sdet.D3_50_69_pc = (sdet.dose3_50_69) / (decimal)sdet.c_50_69 * 100;
                 }
                 if (sdet.c_70p > 0)
                 {
                     sdet.min1d_70p_pc = (sdet.dose1_70p) / (decimal)sdet.c_70p * 100;
                     sdet.full_70p_pc = (sdet.dose2_70p) / (decimal)sdet.c_70p * 100;
+                    sdet.D3_70p_pc = (sdet.dose3_70p) / (decimal)sdet.c_70p * 100;
                 }
                 sa2det.Add(sdet);
             }
@@ -1200,6 +1317,8 @@ namespace WAVaccine
         public decimal c_75_79 { get; set; }
         public decimal c_80_84 { get; set; }
         public decimal c_85p { get; set; }
+        public decimal c5_plus { get; internal set; }
+        public int pop { get; internal set; }
     }
 
     public class LGAPop
@@ -1225,5 +1344,7 @@ namespace WAVaccine
         public decimal c_75_79 { get; set; }
         public decimal c_80_84 { get; set; }
         public decimal c_85p { get; set; }
+        public decimal c5_plus { get; internal set; }
+        public int pop { get; internal set; }
     }
 }

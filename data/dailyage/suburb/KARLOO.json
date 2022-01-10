@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "postcode": "KARLOO",
   "data": [
     {
@@ -451,6 +451,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-05",
+      "locality": "KARLOO",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-06",
       "locality": "KARLOO",
       "AgeGroup": "16 to 49",
@@ -727,8 +735,8 @@
       "locality": "KARLOO",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-05",
@@ -1558,9 +1566,9 @@
       "date": "2021-10-12",
       "locality": "KARLOO",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-13",
@@ -1855,8 +1863,8 @@
       "locality": "KARLOO",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-02",
@@ -2510,9 +2518,9 @@
       "date": "2021-12-23",
       "locality": "KARLOO",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-12-29",
@@ -2599,16 +2607,16 @@
       "locality": "KARLOO",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2022-01-06",
       "locality": "KARLOO",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2022-01-06",
@@ -2617,6 +2625,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "KARLOO",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "KARLOO",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "KARLOO",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

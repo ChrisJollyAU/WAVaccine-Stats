@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "postcode": "WILLYUNG",
   "data": [
     {
@@ -965,6 +965,14 @@
     {
       "date": "2021-07-31",
       "locality": "WILLYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-31",
+      "locality": "WILLYUNG",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -1201,6 +1209,14 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2021-08-21",
+      "locality": "WILLYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-21",
@@ -1464,6 +1480,14 @@
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "WILLYUNG",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1991,8 +2015,8 @@
       "locality": "WILLYUNG",
       "AgeGroup": "12 to 15",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-13",
@@ -3054,6 +3078,38 @@
       "date": "2022-01-06",
       "locality": "WILLYUNG",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "WILLYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "WILLYUNG",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "WILLYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "WILLYUNG",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

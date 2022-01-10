@@ -1,11 +1,19 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "postcode": "CARLISLE NORTH",
   "data": [
     {
       "date": "2021-02-24",
       "locality": "CARLISLE NORTH",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-08",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -48,6 +56,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-29",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1739,6 +1755,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-03",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-04",
       "locality": "CARLISLE NORTH",
       "AgeGroup": "50 to 69",
@@ -1859,6 +1883,14 @@
       "vaccines": 0
     },
     {
+      "date": "2021-12-23",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-24",
       "locality": "CARLISLE NORTH",
       "AgeGroup": "16 to 49",
@@ -1959,11 +1991,43 @@
       "locality": "CARLISLE NORTH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-06",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
       "dose2": 0,
       "vaccines": 0
     },
     {
-      "date": "2022-01-06",
+      "date": "2022-01-07",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-09",
       "locality": "CARLISLE NORTH",
       "AgeGroup": "50 to 69",
       "dose1": 0,

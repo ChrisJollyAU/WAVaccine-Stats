@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "locality": "YOKINE SOUTH",
   "data": [
     {
@@ -1440,12 +1440,33 @@
     {
       "date": "2022-01-05",
       "locality": "YOKINE SOUTH",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2022-01-06",
+      "locality": "YOKINE SOUTH",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "YOKINE SOUTH",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "YOKINE SOUTH",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-09",
       "locality": "YOKINE SOUTH",
       "dose1": 0,
       "dose2": 0,

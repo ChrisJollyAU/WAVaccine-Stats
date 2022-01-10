@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-06T00:00:00",
+  "date_updated": "2022-01-09T00:00:00",
   "locality": "MUNDARING DC",
   "data": [
     {
@@ -684,9 +684,9 @@
     {
       "date": "2021-09-02",
       "locality": "MUNDARING DC",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-03",
@@ -806,13 +806,6 @@
       "dose1": 3,
       "dose2": 3,
       "vaccines": 6
-    },
-    {
-      "date": "2021-09-23",
-      "locality": "MUNDARING DC",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-09-24",
@@ -1443,6 +1436,27 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-07",
+      "locality": "MUNDARING DC",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "MUNDARING DC",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "MUNDARING DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

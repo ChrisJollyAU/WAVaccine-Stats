@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "postcode": "6311",
   "data": [
     {
@@ -510,9 +510,9 @@
       "date": "2021-06-14",
       "postcode": "6311",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-16",
@@ -1295,8 +1295,8 @@
       "postcode": "6311",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-01",
@@ -1478,9 +1478,9 @@
       "date": "2021-09-14",
       "postcode": "6311",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-15",
@@ -1891,22 +1891,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-10-12",
-      "postcode": "6311",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-12",
-      "postcode": "6311",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-13",
       "postcode": "6311",
       "AgeGroup": "12 to 15",
@@ -2247,8 +2231,8 @@
       "postcode": "6311",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-04",
@@ -2499,14 +2483,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-11-28",
-      "postcode": "6311",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-29",
       "postcode": "6311",
       "AgeGroup": "16 to 49",
@@ -2747,14 +2723,6 @@
       "vaccines": 0
     },
     {
-      "date": "2021-12-19",
-      "postcode": "6311",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-12-20",
       "postcode": "6311",
       "AgeGroup": "16 to 49",
@@ -2960,6 +2928,22 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-10",
+      "postcode": "6311",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-10",
+      "postcode": "6311",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

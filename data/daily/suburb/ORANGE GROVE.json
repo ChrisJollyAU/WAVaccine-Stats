@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "locality": "ORANGE GROVE",
   "data": [
     {
@@ -68,9 +68,9 @@
     {
       "date": "2021-04-07",
       "locality": "ORANGE GROVE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-08",
@@ -339,6 +339,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-06-06",
+      "locality": "ORANGE GROVE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-07",
       "locality": "ORANGE GROVE",
       "dose1": 1,
@@ -538,8 +545,8 @@
       "date": "2021-07-07",
       "locality": "ORANGE GROVE",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-07-08",
@@ -603,6 +610,13 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-07-18",
+      "locality": "ORANGE GROVE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-19",
@@ -1692,9 +1706,9 @@
     {
       "date": "2021-12-24",
       "locality": "ORANGE GROVE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-12-27",
@@ -1734,9 +1748,9 @@
     {
       "date": "2022-01-03",
       "locality": "ORANGE GROVE",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2022-01-04",
@@ -1779,6 +1793,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "ORANGE GROVE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

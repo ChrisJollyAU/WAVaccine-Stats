@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "postcode": "KOORDA",
   "data": [
     {
@@ -326,6 +326,14 @@
       "date": "2021-06-12",
       "locality": "KOORDA",
       "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-15",
+      "locality": "KOORDA",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -957,6 +965,14 @@
     {
       "date": "2021-08-24",
       "locality": "KOORDA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-24",
+      "locality": "KOORDA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 1,
@@ -980,6 +996,14 @@
     },
     {
       "date": "2021-08-27",
+      "locality": "KOORDA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-28",
       "locality": "KOORDA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
@@ -1239,8 +1263,8 @@
       "locality": "KOORDA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-21",
@@ -2233,6 +2257,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "KOORDA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "locality": "LAKE GRACE",
   "data": [
     {
@@ -873,9 +873,9 @@
     {
       "date": "2021-10-21",
       "locality": "LAKE GRACE",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 8,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-10-23",
@@ -986,8 +986,8 @@
       "date": "2021-11-11",
       "locality": "LAKE GRACE",
       "dose1": 14,
-      "dose2": 4,
-      "vaccines": 18
+      "dose2": 3,
+      "vaccines": 17
     },
     {
       "date": "2021-11-12",
@@ -1274,6 +1274,13 @@
       "locality": "LAKE GRACE",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "LAKE GRACE",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

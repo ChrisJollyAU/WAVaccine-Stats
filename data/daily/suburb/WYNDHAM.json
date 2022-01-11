@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "locality": "WYNDHAM",
   "data": [
     {
@@ -1006,9 +1006,9 @@
     {
       "date": "2021-11-18",
       "locality": "WYNDHAM",
-      "dose1": 5,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 4
     },
     {
       "date": "2021-11-19",
@@ -1083,9 +1083,9 @@
     {
       "date": "2021-12-01",
       "locality": "WYNDHAM",
-      "dose1": 23,
+      "dose1": 24,
       "dose2": 17,
-      "vaccines": 40
+      "vaccines": 41
     },
     {
       "date": "2021-12-02",
@@ -1161,8 +1161,8 @@
       "date": "2021-12-16",
       "locality": "WYNDHAM",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-12-17",
@@ -1282,6 +1282,20 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-09",
+      "locality": "WYNDHAM",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "WYNDHAM",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

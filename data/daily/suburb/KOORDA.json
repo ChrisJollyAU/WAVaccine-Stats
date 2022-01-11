@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "locality": "KOORDA",
   "data": [
     {
@@ -242,6 +242,13 @@
     },
     {
       "date": "2021-06-12",
+      "locality": "KOORDA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-15",
       "locality": "KOORDA",
       "dose1": 1,
       "dose2": 0,
@@ -579,9 +586,9 @@
     {
       "date": "2021-08-24",
       "locality": "KOORDA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-08-26",
@@ -592,6 +599,13 @@
     },
     {
       "date": "2021-08-27",
+      "locality": "KOORDA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-28",
       "locality": "KOORDA",
       "dose1": 0,
       "dose2": 1,
@@ -720,8 +734,8 @@
       "date": "2021-09-21",
       "locality": "KOORDA",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-22",
@@ -1247,6 +1261,13 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "KOORDA",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

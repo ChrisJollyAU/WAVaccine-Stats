@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "postcode": "BEDFORDALE",
   "data": [
     {
@@ -54,6 +54,14 @@
       "date": "2021-03-05",
       "locality": "BEDFORDALE",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-06",
+      "locality": "BEDFORDALE",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -625,6 +633,14 @@
       "dose1": 3,
       "dose2": 0,
       "vaccines": 3
+    },
+    {
+      "date": "2021-04-24",
+      "locality": "BEDFORDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-04-27",
@@ -2935,8 +2951,8 @@
       "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 3,
-      "vaccines": 18
+      "dose2": 4,
+      "vaccines": 19
     },
     {
       "date": "2021-08-23",
@@ -2999,8 +3015,8 @@
       "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 7,
+      "vaccines": 11
     },
     {
       "date": "2021-08-26",
@@ -3174,9 +3190,9 @@
       "date": "2021-09-03",
       "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
+      "dose1": 13,
       "dose2": 4,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-09-03",
@@ -3254,9 +3270,9 @@
       "date": "2021-09-07",
       "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 10,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-09-07",
@@ -3606,9 +3622,9 @@
       "date": "2021-09-22",
       "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 18,
-      "vaccines": 25
+      "vaccines": 26
     },
     {
       "date": "2021-09-22",
@@ -3823,8 +3839,8 @@
       "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
       "dose1": 16,
-      "dose2": 8,
-      "vaccines": 24
+      "dose2": 7,
+      "vaccines": 23
     },
     {
       "date": "2021-09-30",
@@ -4263,8 +4279,8 @@
       "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 7,
-      "vaccines": 18
+      "dose2": 6,
+      "vaccines": 17
     },
     {
       "date": "2021-10-15",
@@ -4343,8 +4359,8 @@
       "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 4,
-      "vaccines": 16
+      "dose2": 5,
+      "vaccines": 17
     },
     {
       "date": "2021-10-18",
@@ -4382,9 +4398,9 @@
       "date": "2021-10-19",
       "locality": "BEDFORDALE",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-19",
@@ -4951,8 +4967,8 @@
       "locality": "BEDFORDALE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-11-09",
@@ -6453,6 +6469,14 @@
     {
       "date": "2022-01-08",
       "locality": "BEDFORDALE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "BEDFORDALE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 5,
@@ -6462,6 +6486,14 @@
       "date": "2022-01-08",
       "locality": "BEDFORDALE",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "BEDFORDALE",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
@@ -6479,8 +6511,8 @@
       "locality": "BEDFORDALE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2022-01-09",
@@ -6488,6 +6520,30 @@
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "BEDFORDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 2,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "BEDFORDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "BEDFORDALE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

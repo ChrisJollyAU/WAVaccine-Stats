@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "locality": "KARRAGULLEN",
   "data": [
     {
@@ -1595,8 +1595,15 @@
       "date": "2022-01-09",
       "locality": "KARRAGULLEN",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 6,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "KARRAGULLEN",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

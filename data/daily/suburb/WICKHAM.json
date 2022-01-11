@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-09T00:00:00",
+  "date_updated": "2022-01-10T00:00:00",
   "locality": "WICKHAM",
   "data": [
     {
@@ -1602,8 +1602,8 @@
       "date": "2022-01-07",
       "locality": "WICKHAM",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 6,
+      "vaccines": 10
     },
     {
       "date": "2022-01-08",
@@ -1611,6 +1611,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "WICKHAM",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

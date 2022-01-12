@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "locality": "WHITBY",
   "data": [
     {
@@ -1699,12 +1699,19 @@
     {
       "date": "2022-01-09",
       "locality": "WHITBY",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-10",
+      "locality": "WHITBY",
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
     },
     {
-      "date": "2022-01-10",
+      "date": "2022-01-11",
       "locality": "WHITBY",
       "dose1": 1,
       "dose2": 1,

@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "locality": "NORTH LAKE",
   "data": [
+    {
+      "date": "2021-02-23",
+      "locality": "NORTH LAKE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-02-25",
       "locality": "NORTH LAKE",
@@ -292,9 +299,9 @@
     {
       "date": "2021-04-29",
       "locality": "NORTH LAKE",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 2,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-04-30",
@@ -405,8 +412,8 @@
       "date": "2021-05-17",
       "locality": "NORTH LAKE",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-05-18",
@@ -1685,9 +1692,9 @@
     {
       "date": "2021-11-18",
       "locality": "NORTH LAKE",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-11-19",
@@ -1826,15 +1833,15 @@
       "date": "2021-12-09",
       "locality": "NORTH LAKE",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-12-10",
       "locality": "NORTH LAKE",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-12-11",
@@ -2008,8 +2015,8 @@
       "date": "2022-01-07",
       "locality": "NORTH LAKE",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 8
     },
     {
       "date": "2022-01-08",
@@ -2028,9 +2035,16 @@
     {
       "date": "2022-01-10",
       "locality": "NORTH LAKE",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 7
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "NORTH LAKE",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

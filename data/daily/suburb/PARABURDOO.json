@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "locality": "PARABURDOO",
   "data": [
     {
@@ -1231,8 +1231,8 @@
       "date": "2021-12-20",
       "locality": "PARABURDOO",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-12-21",
@@ -1359,6 +1359,13 @@
       "dose1": 1,
       "dose2": 5,
       "vaccines": 6
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "PARABURDOO",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

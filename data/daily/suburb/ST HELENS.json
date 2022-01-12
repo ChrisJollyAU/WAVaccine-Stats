@@ -1,7 +1,21 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "locality": "ST HELENS",
   "data": [
+    {
+      "date": "2021-04-06",
+      "locality": "ST HELENS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-16",
+      "locality": "ST HELENS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
     {
       "date": "2021-08-23",
       "locality": "ST HELENS",
@@ -19,15 +33,22 @@
     {
       "date": "2021-09-13",
       "locality": "ST HELENS",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-28",
       "locality": "ST HELENS",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-06",
+      "locality": "ST HELENS",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -43,6 +64,27 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-11-02",
+      "locality": "ST HELENS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "ST HELENS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-23",
+      "locality": "ST HELENS",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "postcode": "NORTH FREMANTLE",
   "data": [
+    {
+      "date": "2021-02-22",
+      "locality": "NORTH FREMANTLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-02-23",
       "locality": "NORTH FREMANTLE",
@@ -271,8 +279,8 @@
       "locality": "NORTH FREMANTLE",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-03-15",
@@ -1942,9 +1950,9 @@
       "date": "2021-06-04",
       "locality": "NORTH FREMANTLE",
       "AgeGroup": "70 and over",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-06-05",
@@ -2653,10 +2661,18 @@
     {
       "date": "2021-07-07",
       "locality": "NORTH FREMANTLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-07",
+      "locality": "NORTH FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-07-07",
@@ -3285,10 +3301,18 @@
     {
       "date": "2021-08-04",
       "locality": "NORTH FREMANTLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-04",
+      "locality": "NORTH FREMANTLE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 3,
-      "vaccines": 13
+      "dose2": 4,
+      "vaccines": 14
     },
     {
       "date": "2021-08-04",
@@ -3839,8 +3863,8 @@
       "locality": "NORTH FREMANTLE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-08-28",
@@ -4838,9 +4862,9 @@
       "date": "2021-10-06",
       "locality": "NORTH FREMANTLE",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 8,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2021-10-06",
@@ -6191,8 +6215,8 @@
       "locality": "NORTH FREMANTLE",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-11-24",
@@ -7404,6 +7428,38 @@
     },
     {
       "date": "2022-01-10",
+      "locality": "NORTH FREMANTLE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "NORTH FREMANTLE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "NORTH FREMANTLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "NORTH FREMANTLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-11",
       "locality": "NORTH FREMANTLE",
       "AgeGroup": "70 and over",
       "dose1": 1,

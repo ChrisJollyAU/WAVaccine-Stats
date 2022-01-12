@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "locality": "MOUNT MAGNET",
   "data": [
     {
@@ -474,9 +474,9 @@
     {
       "date": "2021-09-21",
       "locality": "MOUNT MAGNET",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 12,
-      "vaccines": 13
+      "vaccines": 15
     },
     {
       "date": "2021-09-22",
@@ -643,8 +643,8 @@
       "date": "2021-10-19",
       "locality": "MOUNT MAGNET",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-10-20",
@@ -971,9 +971,16 @@
     {
       "date": "2022-01-10",
       "locality": "MOUNT MAGNET",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "MOUNT MAGNET",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

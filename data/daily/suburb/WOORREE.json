@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "locality": "WOORREE",
   "data": [
+    {
+      "date": "2021-03-03",
+      "locality": "WOORREE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-10",
       "locality": "WOORREE",
@@ -783,8 +790,8 @@
       "date": "2021-08-04",
       "locality": "WOORREE",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-08-05",
@@ -901,9 +908,9 @@
     {
       "date": "2021-08-23",
       "locality": "WOORREE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-08-24",
@@ -1006,9 +1013,9 @@
     {
       "date": "2021-09-08",
       "locality": "WOORREE",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-09",
@@ -1175,8 +1182,8 @@
       "date": "2021-10-04",
       "locality": "WOORREE",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-10-05",
@@ -1189,8 +1196,8 @@
       "date": "2021-10-06",
       "locality": "WOORREE",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-07",
@@ -1790,9 +1797,9 @@
     {
       "date": "2022-01-05",
       "locality": "WOORREE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 3,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2022-01-06",
@@ -1828,6 +1835,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "WOORREE",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

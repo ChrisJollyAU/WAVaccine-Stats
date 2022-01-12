@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "postcode": "ROCKINGHAM DC",
   "data": [
     {
@@ -318,9 +318,9 @@
       "date": "2021-07-28",
       "locality": "ROCKINGHAM DC",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-30",
@@ -406,6 +406,14 @@
       "date": "2021-08-13",
       "locality": "ROCKINGHAM DC",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "ROCKINGHAM DC",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -947,6 +955,14 @@
       "vaccines": 1
     },
     {
+      "date": "2022-01-04",
+      "locality": "ROCKINGHAM DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-05",
       "locality": "ROCKINGHAM DC",
       "AgeGroup": "16 to 49",
@@ -975,11 +991,19 @@
       "locality": "ROCKINGHAM DC",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-01-10",
+      "locality": "ROCKINGHAM DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-11",
       "locality": "ROCKINGHAM DC",
       "AgeGroup": "50 to 69",
       "dose1": 0,

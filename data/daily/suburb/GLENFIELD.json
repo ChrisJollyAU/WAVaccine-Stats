@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-10T00:00:00",
+  "date_updated": "2022-01-11T00:00:00",
   "locality": "GLENFIELD",
   "data": [
     {
@@ -178,6 +178,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-04-30",
+      "locality": "GLENFIELD",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-03",
       "locality": "GLENFIELD",
       "dose1": 2,
@@ -251,8 +258,8 @@
       "date": "2021-05-20",
       "locality": "GLENFIELD",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-05-21",
@@ -1681,6 +1688,13 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "GLENFIELD",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

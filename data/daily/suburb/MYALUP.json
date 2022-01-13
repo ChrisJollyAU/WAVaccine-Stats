@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "MYALUP",
   "data": [
     {
@@ -334,9 +334,9 @@
     {
       "date": "2021-06-29",
       "locality": "MYALUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-30",
@@ -621,9 +621,9 @@
     {
       "date": "2021-08-24",
       "locality": "MYALUP",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-08-25",
@@ -635,9 +635,9 @@
     {
       "date": "2021-08-26",
       "locality": "MYALUP",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-08-27",
@@ -748,8 +748,8 @@
       "date": "2021-09-14",
       "locality": "MYALUP",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-15",
@@ -762,8 +762,8 @@
       "date": "2021-09-16",
       "locality": "MYALUP",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-17",
@@ -783,8 +783,8 @@
       "date": "2021-09-21",
       "locality": "MYALUP",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-22",
@@ -990,6 +990,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-10-30",
+      "locality": "MYALUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-31",
       "locality": "MYALUP",
       "dose1": 0,
@@ -1147,8 +1154,8 @@
       "date": "2021-12-03",
       "locality": "MYALUP",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-12-04",
@@ -1345,6 +1352,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MYALUP",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

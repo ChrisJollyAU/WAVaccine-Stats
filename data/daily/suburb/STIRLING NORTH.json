@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "STIRLING NORTH",
   "data": [
     {
@@ -7,6 +7,13 @@
       "locality": "STIRLING NORTH",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "STIRLING NORTH",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -36,6 +43,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "STIRLING NORTH",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

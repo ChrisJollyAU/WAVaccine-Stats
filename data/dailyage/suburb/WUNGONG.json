@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "postcode": "WUNGONG",
   "data": [
     {
@@ -2471,8 +2471,8 @@
       "locality": "WUNGONG",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2022-01-11",
@@ -2489,6 +2489,22 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "WUNGONG",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "WUNGONG",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

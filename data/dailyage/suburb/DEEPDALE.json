@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "postcode": "DEEPDALE",
   "data": [
     {
@@ -2254,9 +2254,9 @@
       "date": "2021-10-28",
       "locality": "DEEPDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 9
+      "vaccines": 11
     },
     {
       "date": "2021-10-28",
@@ -2655,8 +2655,8 @@
       "locality": "DEEPDALE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-11-18",
@@ -2694,9 +2694,9 @@
       "date": "2021-11-20",
       "locality": "DEEPDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 8,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-11-20",
@@ -3119,8 +3119,8 @@
       "locality": "DEEPDALE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-19",
@@ -3397,6 +3397,14 @@
     {
       "date": "2022-01-08",
       "locality": "DEEPDALE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-08",
+      "locality": "DEEPDALE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
@@ -3422,9 +3430,9 @@
       "date": "2022-01-10",
       "locality": "DEEPDALE",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2022-01-10",
@@ -3453,10 +3461,18 @@
     {
       "date": "2022-01-11",
       "locality": "DEEPDALE",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "DEEPDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2022-01-11",
@@ -3465,6 +3481,30 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "DEEPDALE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "DEEPDALE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "DEEPDALE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

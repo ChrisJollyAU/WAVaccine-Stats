@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "postcode": "BEELERUP",
   "data": [
     {
@@ -427,6 +427,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-18",
+      "locality": "BEELERUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-19",
       "locality": "BEELERUP",
       "AgeGroup": "16 to 49",
@@ -697,6 +705,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "BEELERUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

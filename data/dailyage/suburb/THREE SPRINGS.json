@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "postcode": "THREE SPRINGS",
   "data": [
     {
@@ -2239,8 +2239,16 @@
       "locality": "THREE SPRINGS",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2021-12-16",
+      "locality": "THREE SPRINGS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-16",
@@ -2436,6 +2444,30 @@
     },
     {
       "date": "2022-01-11",
+      "locality": "THREE SPRINGS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "THREE SPRINGS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "THREE SPRINGS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-12",
       "locality": "THREE SPRINGS",
       "AgeGroup": "70 and over",
       "dose1": 0,

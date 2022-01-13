@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "PELICAN POINT",
   "data": [
     {
@@ -1818,8 +1818,15 @@
     {
       "date": "2022-01-11",
       "locality": "PELICAN POINT",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "PELICAN POINT",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "SAN REMO",
   "data": [
     {
@@ -857,6 +857,13 @@
       "vaccines": 5
     },
     {
+      "date": "2021-08-15",
+      "locality": "SAN REMO",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-16",
       "locality": "SAN REMO",
       "dose1": 4,
@@ -1037,6 +1044,13 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "SAN REMO",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-13",
@@ -1840,8 +1854,15 @@
       "date": "2022-01-11",
       "locality": "SAN REMO",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "SAN REMO",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

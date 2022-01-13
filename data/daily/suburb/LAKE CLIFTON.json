@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "LAKE CLIFTON",
   "data": [
     {
@@ -1559,8 +1559,15 @@
     {
       "date": "2022-01-11",
       "locality": "LAKE CLIFTON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "LAKE CLIFTON",
+      "dose1": 3,
+      "dose2": 3,
       "vaccines": 6
     }
   ]

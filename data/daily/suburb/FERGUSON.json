@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "FERGUSON",
   "data": [
     {
@@ -523,9 +523,9 @@
     {
       "date": "2021-09-01",
       "locality": "FERGUSON",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-09-02",
@@ -533,13 +533,6 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
-    },
-    {
-      "date": "2021-09-04",
-      "locality": "FERGUSON",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-09-06",
@@ -640,6 +633,13 @@
       "vaccines": 6
     },
     {
+      "date": "2021-09-22",
+      "locality": "FERGUSON",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
       "date": "2021-09-23",
       "locality": "FERGUSON",
       "dose1": 2,
@@ -698,9 +698,9 @@
     {
       "date": "2021-10-06",
       "locality": "FERGUSON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-07",
@@ -748,8 +748,8 @@
       "date": "2021-10-15",
       "locality": "FERGUSON",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-18",
@@ -846,8 +846,8 @@
       "date": "2021-11-03",
       "locality": "FERGUSON",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-04",
@@ -922,9 +922,9 @@
     {
       "date": "2021-11-22",
       "locality": "FERGUSON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-11-23",
@@ -994,6 +994,13 @@
       "locality": "FERGUSON",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-17",
+      "locality": "FERGUSON",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1093,6 +1100,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "FERGUSON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

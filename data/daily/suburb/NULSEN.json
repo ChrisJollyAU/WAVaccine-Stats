@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "NULSEN",
   "data": [
     {
@@ -1503,9 +1503,16 @@
     {
       "date": "2022-01-11",
       "locality": "NULSEN",
-      "dose1": 0,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "NULSEN",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

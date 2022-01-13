@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "JURIEN BAY",
   "data": [
     {
@@ -1832,9 +1832,16 @@
     {
       "date": "2022-01-11",
       "locality": "JURIEN BAY",
-      "dose1": 3,
+      "dose1": 5,
       "dose2": 15,
-      "vaccines": 18
+      "vaccines": 20
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "JURIEN BAY",
+      "dose1": 16,
+      "dose2": 5,
+      "vaccines": 21
     }
   ]
 }

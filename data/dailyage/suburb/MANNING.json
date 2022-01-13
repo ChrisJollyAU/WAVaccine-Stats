@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "postcode": "MANNING",
   "data": [
     {
@@ -1614,9 +1614,9 @@
       "date": "2021-05-24",
       "locality": "MANNING",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-05-24",
@@ -2063,8 +2063,8 @@
       "locality": "MANNING",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-06-14",
@@ -3518,9 +3518,9 @@
       "date": "2021-08-17",
       "locality": "MANNING",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 1,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-08-17",
@@ -4055,8 +4055,8 @@
       "locality": "MANNING",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 12,
-      "vaccines": 21
+      "dose2": 11,
+      "vaccines": 20
     },
     {
       "date": "2021-09-08",
@@ -5054,9 +5054,9 @@
       "date": "2021-10-13",
       "locality": "MANNING",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 19,
-      "vaccines": 25
+      "vaccines": 24
     },
     {
       "date": "2021-10-13",
@@ -5727,8 +5727,8 @@
       "locality": "MANNING",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 8,
-      "vaccines": 11
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-11-04",
@@ -7278,9 +7278,9 @@
       "date": "2022-01-07",
       "locality": "MANNING",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2022-01-07",
@@ -7366,9 +7366,9 @@
       "date": "2022-01-10",
       "locality": "MANNING",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 7
     },
     {
       "date": "2022-01-10",
@@ -7406,9 +7406,9 @@
       "date": "2022-01-11",
       "locality": "MANNING",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose1": 6,
+      "dose2": 6,
+      "vaccines": 12
     },
     {
       "date": "2022-01-11",
@@ -7425,6 +7425,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MANNING",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MANNING",
+      "AgeGroup": "16 to 49",
+      "dose1": 4,
+      "dose2": 6,
+      "vaccines": 10
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MANNING",
+      "AgeGroup": "50 to 69",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MANNING",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

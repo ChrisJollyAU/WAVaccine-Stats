@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "postcode": "NORANDA",
   "data": [
     {
@@ -342,9 +342,9 @@
       "date": "2021-03-18",
       "locality": "NORANDA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-18",
@@ -4055,8 +4055,8 @@
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 21,
-      "dose2": 14,
-      "vaccines": 35
+      "dose2": 15,
+      "vaccines": 36
     },
     {
       "date": "2021-08-27",
@@ -4206,9 +4206,9 @@
       "date": "2021-09-02",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
-      "dose1": 27,
+      "dose1": 26,
       "dose2": 9,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-09-02",
@@ -5166,9 +5166,9 @@
       "date": "2021-10-05",
       "locality": "NORANDA",
       "AgeGroup": "70 and over",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-10-06",
@@ -5431,8 +5431,8 @@
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 32,
-      "dose2": 27,
-      "vaccines": 59
+      "dose2": 26,
+      "vaccines": 58
     },
     {
       "date": "2021-10-14",
@@ -5511,8 +5511,8 @@
       "locality": "NORANDA",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-10-17",
@@ -5798,9 +5798,9 @@
       "date": "2021-10-26",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
-      "dose1": 25,
+      "dose1": 27,
       "dose2": 21,
-      "vaccines": 46
+      "vaccines": 48
     },
     {
       "date": "2021-10-26",
@@ -6335,8 +6335,8 @@
       "locality": "NORANDA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 11,
-      "vaccines": 12
+      "dose2": 12,
+      "vaccines": 13
     },
     {
       "date": "2021-11-12",
@@ -6678,9 +6678,9 @@
       "date": "2021-11-24",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 9,
-      "vaccines": 20
+      "vaccines": 19
     },
     {
       "date": "2021-11-24",
@@ -6767,8 +6767,8 @@
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 14,
-      "vaccines": 19
+      "dose2": 15,
+      "vaccines": 20
     },
     {
       "date": "2021-11-27",
@@ -6895,8 +6895,8 @@
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 15,
-      "vaccines": 23
+      "dose2": 16,
+      "vaccines": 24
     },
     {
       "date": "2021-12-01",
@@ -7343,8 +7343,8 @@
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-12-15",
@@ -7798,8 +7798,8 @@
       "date": "2021-12-30",
       "locality": "NORANDA",
       "AgeGroup": "70 and over",
-      "dose1": 2,
-      "dose2": 2,
+      "dose1": 1,
+      "dose2": 3,
       "vaccines": 4
     },
     {
@@ -8142,33 +8142,65 @@
       "date": "2022-01-11",
       "locality": "NORANDA",
       "AgeGroup": "12 to 15",
-      "dose1": 4,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 8
     },
     {
       "date": "2022-01-11",
       "locality": "NORANDA",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 18,
-      "vaccines": 29
+      "dose2": 17,
+      "vaccines": 28
     },
     {
       "date": "2022-01-11",
       "locality": "NORANDA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2022-01-11",
       "locality": "NORANDA",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "NORANDA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "NORANDA",
+      "AgeGroup": "16 to 49",
+      "dose1": 7,
+      "dose2": 14,
+      "vaccines": 21
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "NORANDA",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "NORANDA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

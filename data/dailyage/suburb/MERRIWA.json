@@ -1,7 +1,15 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "postcode": "MERRIWA",
   "data": [
+    {
+      "date": "2021-02-24",
+      "locality": "MERRIWA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-02-25",
       "locality": "MERRIWA",
@@ -119,8 +127,8 @@
       "locality": "MERRIWA",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-03-17",
@@ -3382,9 +3390,9 @@
       "date": "2021-08-24",
       "locality": "MERRIWA",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 20,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-08-24",
@@ -3710,9 +3718,9 @@
       "date": "2021-09-07",
       "locality": "MERRIWA",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 11,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-09-07",
@@ -3879,8 +3887,8 @@
       "locality": "MERRIWA",
       "AgeGroup": "50 to 69",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-09-14",
@@ -3998,9 +4006,9 @@
       "date": "2021-09-18",
       "locality": "MERRIWA",
       "AgeGroup": "50 to 69",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-09-18",
@@ -4807,8 +4815,8 @@
       "locality": "MERRIWA",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-10-16",
@@ -5095,8 +5103,8 @@
       "locality": "MERRIWA",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2021-10-26",
@@ -6670,9 +6678,9 @@
       "date": "2021-12-19",
       "locality": "MERRIWA",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-12-19",
@@ -6958,9 +6966,9 @@
       "date": "2021-12-30",
       "locality": "MERRIWA",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 15,
-      "vaccines": 24
+      "vaccines": 25
     },
     {
       "date": "2021-12-30",
@@ -7278,9 +7286,9 @@
       "date": "2022-01-10",
       "locality": "MERRIWA",
       "AgeGroup": "12 to 15",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2022-01-10",
@@ -7326,9 +7334,9 @@
       "date": "2022-01-11",
       "locality": "MERRIWA",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 0
     },
     {
       "date": "2022-01-11",
@@ -7337,6 +7345,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MERRIWA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MERRIWA",
+      "AgeGroup": "16 to 49",
+      "dose1": 8,
+      "dose2": 4,
+      "vaccines": 12
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MERRIWA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MERRIWA",
+      "AgeGroup": "70 and over",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

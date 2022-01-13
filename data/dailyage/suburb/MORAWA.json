@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "postcode": "MORAWA",
   "data": [
     {
@@ -33,14 +33,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-04-01",
-      "locality": "MORAWA",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-04-13",
@@ -583,8 +575,8 @@
       "locality": "MORAWA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-07-07",
@@ -2423,8 +2415,8 @@
       "locality": "MORAWA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-18",
@@ -3069,6 +3061,14 @@
     {
       "date": "2022-01-11",
       "locality": "MORAWA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-11",
+      "locality": "MORAWA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 2,
@@ -3084,6 +3084,38 @@
     },
     {
       "date": "2022-01-11",
+      "locality": "MORAWA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MORAWA",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MORAWA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MORAWA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-12",
       "locality": "MORAWA",
       "AgeGroup": "70 and over",
       "dose1": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "WEST GLADSTONE",
   "data": [
     {
@@ -140,6 +140,13 @@
       "locality": "WEST GLADSTONE",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "WEST GLADSTONE",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

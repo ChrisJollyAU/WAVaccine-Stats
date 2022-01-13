@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-11T00:00:00",
+  "date_updated": "2022-01-12T00:00:00",
   "locality": "MANDURAH DC",
   "data": [
     {
@@ -178,6 +178,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-18",
+      "locality": "MANDURAH DC",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-22",
       "locality": "MANDURAH DC",
       "dose1": 1,
@@ -187,9 +194,9 @@
     {
       "date": "2021-06-24",
       "locality": "MANDURAH DC",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-29",
@@ -272,8 +279,8 @@
       "date": "2021-07-20",
       "locality": "MANDURAH DC",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-07-21",
@@ -475,8 +482,8 @@
       "date": "2021-08-27",
       "locality": "MANDURAH DC",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-30",
@@ -586,9 +593,9 @@
     {
       "date": "2021-09-16",
       "locality": "MANDURAH DC",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 6,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-09-17",
@@ -741,8 +748,8 @@
       "date": "2021-10-14",
       "locality": "MANDURAH DC",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-10-15",
@@ -1177,6 +1184,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "MANDURAH DC",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "locality": "CARABAN",
   "data": [
+    {
+      "date": "2021-08-26",
+      "locality": "CARABAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-09-07",
       "locality": "CARABAN",
@@ -14,6 +21,13 @@
       "locality": "CARABAN",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-03",
+      "locality": "CARABAN",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {

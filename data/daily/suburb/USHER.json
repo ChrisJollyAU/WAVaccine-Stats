@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "locality": "USHER",
   "data": [
     {
@@ -292,9 +292,9 @@
     {
       "date": "2021-04-29",
       "locality": "USHER",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 0,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2021-04-30",
@@ -433,8 +433,8 @@
       "date": "2021-05-25",
       "locality": "USHER",
       "dose1": 12,
-      "dose2": 0,
-      "vaccines": 12
+      "dose2": 1,
+      "vaccines": 13
     },
     {
       "date": "2021-05-26",
@@ -887,9 +887,9 @@
     {
       "date": "2021-08-06",
       "locality": "USHER",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 6,
-      "vaccines": 15
+      "vaccines": 16
     },
     {
       "date": "2021-08-07",
@@ -1230,9 +1230,9 @@
     {
       "date": "2021-09-29",
       "locality": "USHER",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-09-30",
@@ -1378,8 +1378,8 @@
       "date": "2021-10-22",
       "locality": "USHER",
       "dose1": 13,
-      "dose2": 6,
-      "vaccines": 19
+      "dose2": 7,
+      "vaccines": 20
     },
     {
       "date": "2021-10-23",
@@ -1727,9 +1727,9 @@
     {
       "date": "2021-12-16",
       "locality": "USHER",
-      "dose1": 7,
+      "dose1": 9,
       "dose2": 5,
-      "vaccines": 12
+      "vaccines": 14
     },
     {
       "date": "2021-12-17",
@@ -1769,9 +1769,9 @@
     {
       "date": "2021-12-23",
       "locality": "USHER",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 11,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-12-24",
@@ -1868,8 +1868,8 @@
       "date": "2022-01-10",
       "locality": "USHER",
       "dose1": 7,
-      "dose2": 8,
-      "vaccines": 15
+      "dose2": 10,
+      "vaccines": 17
     },
     {
       "date": "2022-01-11",
@@ -1884,6 +1884,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "USHER",
+      "dose1": 5,
+      "dose2": 6,
+      "vaccines": 11
     }
   ]
 }

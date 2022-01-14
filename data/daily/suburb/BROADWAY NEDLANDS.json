@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "locality": "BROADWAY NEDLANDS",
   "data": [
     {
@@ -46,6 +46,13 @@
     },
     {
       "date": "2021-03-13",
+      "locality": "BROADWAY NEDLANDS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-14",
       "locality": "BROADWAY NEDLANDS",
       "dose1": 1,
       "dose2": 0,
@@ -336,6 +343,13 @@
       "locality": "BROADWAY NEDLANDS",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-07",
+      "locality": "BROADWAY NEDLANDS",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -766,6 +780,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-19",
+      "locality": "BROADWAY NEDLANDS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-21",
       "locality": "BROADWAY NEDLANDS",
       "dose1": 1,
@@ -934,6 +955,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-21",
+      "locality": "BROADWAY NEDLANDS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-22",
       "locality": "BROADWAY NEDLANDS",
       "dose1": 2,
@@ -1046,6 +1074,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-12",
+      "locality": "BROADWAY NEDLANDS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-15",
       "locality": "BROADWAY NEDLANDS",
       "dose1": 1,
@@ -1130,7 +1165,21 @@
       "vaccines": 2
     },
     {
+      "date": "2021-11-11",
+      "locality": "BROADWAY NEDLANDS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-13",
+      "locality": "BROADWAY NEDLANDS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-14",
       "locality": "BROADWAY NEDLANDS",
       "dose1": 0,
       "dose2": 1,
@@ -1329,8 +1378,8 @@
       "date": "2022-01-06",
       "locality": "BROADWAY NEDLANDS",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2022-01-07",
@@ -1373,6 +1422,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "BROADWAY NEDLANDS",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

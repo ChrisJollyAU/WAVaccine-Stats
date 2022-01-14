@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "postcode": "COOKERNUP",
   "data": [
     {
@@ -505,6 +505,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-07-30",
+      "locality": "COOKERNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-02",
@@ -1575,8 +1583,8 @@
       "locality": "COOKERNUP",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-24",
@@ -2469,7 +2477,7 @@
     {
       "date": "2022-01-12",
       "locality": "COOKERNUP",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "12 to 15",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -2477,10 +2485,34 @@
     {
       "date": "2022-01-12",
       "locality": "COOKERNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-12",
+      "locality": "COOKERNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "COOKERNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "COOKERNUP",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

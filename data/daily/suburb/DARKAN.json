@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "locality": "DARKAN",
   "data": [
     {
@@ -712,9 +712,9 @@
     {
       "date": "2021-09-02",
       "locality": "DARKAN",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-03",
@@ -789,9 +789,9 @@
     {
       "date": "2021-09-14",
       "locality": "DARKAN",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-09-15",
@@ -888,8 +888,8 @@
       "date": "2021-10-02",
       "locality": "DARKAN",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-10-03",
@@ -986,8 +986,8 @@
       "date": "2021-10-19",
       "locality": "DARKAN",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-20",
@@ -1415,6 +1415,13 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "DARKAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

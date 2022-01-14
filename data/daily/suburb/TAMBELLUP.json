@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "locality": "TAMBELLUP",
   "data": [
     {
@@ -143,13 +143,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-04-30",
-      "locality": "TAMBELLUP",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-05-04",
       "locality": "TAMBELLUP",
       "dose1": 3,
@@ -237,8 +230,8 @@
       "date": "2021-06-01",
       "locality": "TAMBELLUP",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-06-02",
@@ -985,9 +978,9 @@
     {
       "date": "2021-10-23",
       "locality": "TAMBELLUP",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-26",
@@ -1091,8 +1084,8 @@
       "date": "2021-11-13",
       "locality": "TAMBELLUP",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-11-15",
@@ -1380,6 +1373,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "TAMBELLUP",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

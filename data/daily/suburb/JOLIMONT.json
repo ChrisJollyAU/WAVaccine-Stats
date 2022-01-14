@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "locality": "JOLIMONT",
   "data": [
     {
@@ -2161,9 +2161,16 @@
     {
       "date": "2022-01-12",
       "locality": "JOLIMONT",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 8
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "JOLIMONT",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

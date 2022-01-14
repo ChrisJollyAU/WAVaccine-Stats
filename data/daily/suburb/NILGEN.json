@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "locality": "NILGEN",
   "data": [
     {
@@ -102,6 +102,13 @@
     },
     {
       "date": "2021-05-31",
+      "locality": "NILGEN",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-06-01",
       "locality": "NILGEN",
       "dose1": 2,
       "dose2": 0,
@@ -297,6 +304,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-24",
+      "locality": "NILGEN",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
       "date": "2021-08-26",
       "locality": "NILGEN",
       "dose1": 1,
@@ -311,6 +325,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-28",
+      "locality": "NILGEN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-02",
       "locality": "NILGEN",
       "dose1": 3,
@@ -320,9 +341,9 @@
     {
       "date": "2021-09-03",
       "locality": "NILGEN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-09-08",
@@ -351,6 +372,13 @@
       "dose1": 1,
       "dose2": 4,
       "vaccines": 5
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "NILGEN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-19",
@@ -393,6 +421,13 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2021-09-26",
+      "locality": "NILGEN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-28",
@@ -454,8 +489,8 @@
       "date": "2021-10-09",
       "locality": "NILGEN",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-11",
@@ -713,8 +748,8 @@
       "date": "2021-12-03",
       "locality": "NILGEN",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-12-04",
@@ -841,6 +876,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "NILGEN",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

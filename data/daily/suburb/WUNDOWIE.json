@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "locality": "WUNDOWIE",
   "data": [
     {
@@ -1860,9 +1860,16 @@
     {
       "date": "2022-01-12",
       "locality": "WUNDOWIE",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "WUNDOWIE",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

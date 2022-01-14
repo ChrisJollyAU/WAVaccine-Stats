@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "postcode": "BOYANUP",
   "data": [
     {
@@ -1107,14 +1107,6 @@
       "vaccines": 12
     },
     {
-      "date": "2021-06-04",
-      "locality": "BOYANUP",
-      "AgeGroup": "70 and over",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
       "date": "2021-06-05",
       "locality": "BOYANUP",
       "AgeGroup": "70 and over",
@@ -1166,17 +1158,9 @@
       "date": "2021-06-10",
       "locality": "BOYANUP",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 2,
-      "vaccines": 10
-    },
-    {
-      "date": "2021-06-11",
-      "locality": "BOYANUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "vaccines": 9
     },
     {
       "date": "2021-06-11",
@@ -1525,14 +1509,6 @@
     {
       "date": "2021-07-02",
       "locality": "BOYANUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-02",
-      "locality": "BOYANUP",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -1773,14 +1749,6 @@
     {
       "date": "2021-07-15",
       "locality": "BOYANUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-15",
-      "locality": "BOYANUP",
       "AgeGroup": "50 to 69",
       "dose1": 6,
       "dose2": 3,
@@ -1806,9 +1774,9 @@
       "date": "2021-07-16",
       "locality": "BOYANUP",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-07-16",
@@ -2231,8 +2199,8 @@
       "locality": "BOYANUP",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-08-10",
@@ -2439,8 +2407,8 @@
       "locality": "BOYANUP",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 8,
-      "vaccines": 11
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-08-20",
@@ -2559,8 +2527,8 @@
       "locality": "BOYANUP",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 8,
-      "vaccines": 10
+      "dose2": 7,
+      "vaccines": 9
     },
     {
       "date": "2021-08-27",
@@ -2943,8 +2911,8 @@
       "locality": "BOYANUP",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-17",
@@ -5343,8 +5311,8 @@
       "locality": "BOYANUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-01-12",
@@ -5361,6 +5329,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "BOYANUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 3,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "BOYANUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "BOYANUP",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

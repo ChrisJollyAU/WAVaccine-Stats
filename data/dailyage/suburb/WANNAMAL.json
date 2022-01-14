@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-12T00:00:00",
+  "date_updated": "2022-01-13T00:00:00",
   "postcode": "WANNAMAL",
   "data": [
     {
@@ -344,6 +344,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-14",
+      "locality": "WANNAMAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1003,6 +1011,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-07",
+      "locality": "WANNAMAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-10",
       "locality": "WANNAMAL",
       "AgeGroup": "16 to 49",
@@ -1115,6 +1131,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-29",
+      "locality": "WANNAMAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-30",
       "locality": "WANNAMAL",
       "AgeGroup": "70 and over",
@@ -1180,6 +1204,22 @@
     },
     {
       "date": "2022-01-11",
+      "locality": "WANNAMAL",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "WANNAMAL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-13",
       "locality": "WANNAMAL",
       "AgeGroup": "70 and over",
       "dose1": 0,

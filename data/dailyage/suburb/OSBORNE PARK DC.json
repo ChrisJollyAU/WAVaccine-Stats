@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "postcode": "OSBORNE PARK DC",
   "data": [
     {
@@ -835,6 +835,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-12",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-13",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
@@ -1315,6 +1323,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-07",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-08",
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
@@ -1487,8 +1503,8 @@
       "locality": "OSBORNE PARK DC",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-12-13",
@@ -1769,6 +1785,54 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-13",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "OSBORNE PARK DC",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

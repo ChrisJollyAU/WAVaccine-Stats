@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "postcode": "PARKFIELD",
   "data": [
     {
@@ -65,14 +65,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-05-24",
-      "locality": "PARKFIELD",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-06-04",
@@ -219,14 +211,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-19",
-      "locality": "PARKFIELD",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
-    },
-    {
       "date": "2021-08-30",
       "locality": "PARKFIELD",
       "AgeGroup": "50 to 69",
@@ -360,6 +344,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-18",
+      "locality": "PARKFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -507,6 +499,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-14",
+      "locality": "PARKFIELD",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-15",
       "locality": "PARKFIELD",
       "AgeGroup": "50 to 69",
@@ -547,9 +547,17 @@
       "vaccines": 0
     },
     {
-      "date": "2022-01-07",
+      "date": "2022-01-14",
       "locality": "PARKFIELD",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "PARKFIELD",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

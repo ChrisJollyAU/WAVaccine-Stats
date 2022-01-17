@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "MAHOMETS FLATS",
   "data": [
     {
@@ -831,9 +831,9 @@
     {
       "date": "2021-08-26",
       "locality": "MAHOMETS FLATS",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-08-27",
@@ -1126,8 +1126,8 @@
       "date": "2021-10-11",
       "locality": "MAHOMETS FLATS",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2021-10-12",
@@ -1510,9 +1510,9 @@
     {
       "date": "2021-12-07",
       "locality": "MAHOMETS FLATS",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-12-08",
@@ -1737,6 +1737,27 @@
       "dose1": 2,
       "dose2": 1,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "MAHOMETS FLATS",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "MAHOMETS FLATS",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "MAHOMETS FLATS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "BOVELL",
   "data": [
     {
@@ -357,6 +357,13 @@
       "locality": "BOVELL",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-02",
+      "locality": "BOVELL",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -846,8 +853,8 @@
       "date": "2021-09-24",
       "locality": "BOVELL",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-09-25",
@@ -1436,6 +1443,20 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "BOVELL",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "BOVELL",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

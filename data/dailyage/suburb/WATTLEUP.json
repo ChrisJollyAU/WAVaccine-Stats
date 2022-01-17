@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "postcode": "WATTLEUP",
   "data": [
     {
@@ -315,6 +315,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-30",
+      "locality": "WATTLEUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-31",
       "locality": "WATTLEUP",
       "AgeGroup": "50 to 69",
@@ -503,8 +511,8 @@
       "locality": "WATTLEUP",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-29",
@@ -638,9 +646,9 @@
       "date": "2021-07-11",
       "locality": "WATTLEUP",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-12",
@@ -1695,8 +1703,8 @@
       "locality": "WATTLEUP",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-09-28",
@@ -2198,9 +2206,9 @@
       "date": "2021-10-27",
       "locality": "WATTLEUP",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-10-27",
@@ -2382,9 +2390,9 @@
       "date": "2021-11-05",
       "locality": "WATTLEUP",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-11-05",
@@ -2766,9 +2774,9 @@
       "date": "2021-12-03",
       "locality": "WATTLEUP",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-12-03",
@@ -2975,8 +2983,8 @@
       "locality": "WATTLEUP",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-12-20",
@@ -2998,9 +3006,9 @@
       "date": "2021-12-21",
       "locality": "WATTLEUP",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-12-21",
@@ -3095,8 +3103,8 @@
       "locality": "WATTLEUP",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2022-01-01",
@@ -3311,8 +3319,8 @@
       "locality": "WATTLEUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2022-01-13",
@@ -3324,6 +3332,70 @@
     },
     {
       "date": "2022-01-13",
+      "locality": "WATTLEUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "WATTLEUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "WATTLEUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "WATTLEUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "WATTLEUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "WATTLEUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "WATTLEUP",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "WATTLEUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-16",
       "locality": "WATTLEUP",
       "AgeGroup": "70 and over",
       "dose1": 0,

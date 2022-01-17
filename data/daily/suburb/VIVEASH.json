@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "VIVEASH",
   "data": [
     {
@@ -1989,6 +1989,27 @@
       "dose1": 1,
       "dose2": 5,
       "vaccines": 6
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "VIVEASH",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "VIVEASH",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "VIVEASH",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

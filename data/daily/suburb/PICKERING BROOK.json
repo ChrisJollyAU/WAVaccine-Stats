@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "PICKERING BROOK",
   "data": [
     {
@@ -1720,9 +1720,30 @@
     {
       "date": "2022-01-13",
       "locality": "PICKERING BROOK",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "PICKERING BROOK",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "PICKERING BROOK",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "PICKERING BROOK",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

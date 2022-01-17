@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "MALAGA",
   "data": [
     {
@@ -122,6 +122,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-22",
+      "locality": "MALAGA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-26",
       "locality": "MALAGA",
       "dose1": 1,
@@ -148,6 +155,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-05-01",
+      "locality": "MALAGA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-05-03",
@@ -559,8 +573,8 @@
       "date": "2021-07-15",
       "locality": "MALAGA",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-07-16",
@@ -601,8 +615,8 @@
       "date": "2021-07-22",
       "locality": "MALAGA",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-07-23",
@@ -824,9 +838,9 @@
     {
       "date": "2021-08-25",
       "locality": "MALAGA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-26",
@@ -852,9 +866,9 @@
     {
       "date": "2021-08-29",
       "locality": "MALAGA",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-30",
@@ -1034,9 +1048,9 @@
     {
       "date": "2021-09-25",
       "locality": "MALAGA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-09-26",
@@ -1137,11 +1151,18 @@
       "vaccines": 6
     },
     {
+      "date": "2021-10-10",
+      "locality": "MALAGA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-11",
       "locality": "MALAGA",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 4,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-12",
@@ -1153,9 +1174,9 @@
     {
       "date": "2021-10-13",
       "locality": "MALAGA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-10-14",
@@ -1182,8 +1203,8 @@
       "date": "2021-10-17",
       "locality": "MALAGA",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-18",
@@ -1209,9 +1230,9 @@
     {
       "date": "2021-10-21",
       "locality": "MALAGA",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-22",
@@ -1294,8 +1315,8 @@
       "date": "2021-11-02",
       "locality": "MALAGA",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-11-03",
@@ -1343,8 +1364,8 @@
       "date": "2021-11-09",
       "locality": "MALAGA",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-11-10",
@@ -1399,8 +1420,8 @@
       "date": "2021-11-17",
       "locality": "MALAGA",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2021-11-18",
@@ -1658,8 +1679,8 @@
       "date": "2021-12-28",
       "locality": "MALAGA",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-12-29",
@@ -1761,6 +1782,27 @@
     },
     {
       "date": "2022-01-13",
+      "locality": "MALAGA",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "MALAGA",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "MALAGA",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-16",
       "locality": "MALAGA",
       "dose1": 2,
       "dose2": 1,

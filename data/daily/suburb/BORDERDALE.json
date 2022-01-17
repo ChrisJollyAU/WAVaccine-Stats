@@ -1,27 +1,13 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "BORDERDALE",
   "data": [
-    {
-      "date": "2021-04-16",
-      "locality": "BORDERDALE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
     {
       "date": "2021-06-03",
       "locality": "BORDERDALE",
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-07-09",
-      "locality": "BORDERDALE",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-08-26",
@@ -45,6 +31,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-10-13",
+      "locality": "BORDERDALE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-27",
       "locality": "BORDERDALE",
       "dose1": 0,
@@ -53,6 +46,13 @@
     },
     {
       "date": "2021-11-08",
+      "locality": "BORDERDALE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-16",
       "locality": "BORDERDALE",
       "dose1": 0,
       "dose2": 1,
@@ -78,13 +78,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2022-01-09",
-      "locality": "BORDERDALE",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
     }
   ]
 }

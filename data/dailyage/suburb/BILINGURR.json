@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "postcode": "BILINGURR",
   "data": [
     {
@@ -30,14 +30,6 @@
       "date": "2021-04-21",
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-21",
-      "locality": "BILINGURR",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -83,17 +75,17 @@
       "vaccines": 1
     },
     {
-      "date": "2021-05-18",
+      "date": "2021-05-15",
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
       "date": "2021-05-18",
       "locality": "BILINGURR",
-      "AgeGroup": "50 to 69",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -116,6 +108,14 @@
     },
     {
       "date": "2021-06-04",
+      "locality": "BILINGURR",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-05",
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
       "dose1": 0,
@@ -366,9 +366,9 @@
       "date": "2021-08-25",
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-08-26",
@@ -414,9 +414,9 @@
       "date": "2021-09-02",
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-03",
@@ -531,6 +531,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-09-20",
+      "locality": "BILINGURR",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-21",
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
@@ -583,8 +591,8 @@
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-30",
@@ -623,8 +631,8 @@
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-07",
@@ -747,6 +755,14 @@
       "vaccines": 3
     },
     {
+      "date": "2021-10-29",
+      "locality": "BILINGURR",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-01",
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
@@ -859,14 +875,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-11-22",
-      "locality": "BILINGURR",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
       "date": "2021-11-25",
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
@@ -895,8 +903,8 @@
       "locality": "BILINGURR",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-12-02",
@@ -921,6 +929,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "BILINGURR",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-17",
@@ -1049,6 +1065,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "BILINGURR",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

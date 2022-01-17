@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "QUINNINUP",
   "data": [
     {
@@ -36,13 +36,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-04-27",
-      "locality": "QUINNINUP",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-04-28",
@@ -204,13 +197,6 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
-    },
-    {
-      "date": "2021-07-13",
-      "locality": "QUINNINUP",
-      "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
     },
     {
       "date": "2021-07-14",
@@ -577,13 +563,6 @@
       "vaccines": 0
     },
     {
-      "date": "2021-12-17",
-      "locality": "QUINNINUP",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
       "date": "2021-12-20",
       "locality": "QUINNINUP",
       "dose1": 0,
@@ -636,8 +615,15 @@
       "date": "2022-01-13",
       "locality": "QUINNINUP",
       "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "QUINNINUP",
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 1
     }
   ]
 }

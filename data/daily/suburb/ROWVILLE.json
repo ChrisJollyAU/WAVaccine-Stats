@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "ROWVILLE",
   "data": [
     {
@@ -11,6 +11,13 @@
     },
     {
       "date": "2021-09-04",
+      "locality": "ROWVILLE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-05",
       "locality": "ROWVILLE",
       "dose1": 1,
       "dose2": 0,
@@ -62,8 +69,8 @@
       "date": "2021-10-07",
       "locality": "ROWVILLE",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-10",

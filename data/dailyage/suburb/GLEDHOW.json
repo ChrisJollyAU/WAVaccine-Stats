@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "postcode": "GLEDHOW",
   "data": [
     {
@@ -54,6 +54,14 @@
       "date": "2021-03-17",
       "locality": "GLEDHOW",
       "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-18",
+      "locality": "GLEDHOW",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -657,6 +665,14 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-06-10",
+      "locality": "GLEDHOW",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-06-10",
@@ -1734,9 +1750,9 @@
       "date": "2021-08-18",
       "locality": "GLEDHOW",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-08-18",
@@ -2143,8 +2159,8 @@
       "locality": "GLEDHOW",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-09-08",
@@ -2710,9 +2726,9 @@
       "date": "2021-10-07",
       "locality": "GLEDHOW",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-07",
@@ -2766,9 +2782,9 @@
       "date": "2021-10-09",
       "locality": "GLEDHOW",
       "AgeGroup": "12 to 15",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-09",
@@ -2782,9 +2798,9 @@
       "date": "2021-10-09",
       "locality": "GLEDHOW",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-10-10",
@@ -3062,9 +3078,9 @@
       "date": "2021-10-22",
       "locality": "GLEDHOW",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-22",
@@ -3223,8 +3239,8 @@
       "locality": "GLEDHOW",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 7,
-      "vaccines": 11
+      "dose2": 9,
+      "vaccines": 13
     },
     {
       "date": "2021-10-30",
@@ -3527,8 +3543,8 @@
       "locality": "GLEDHOW",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-11-12",
@@ -4079,15 +4095,15 @@
       "locality": "GLEDHOW",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-12-11",
       "locality": "GLEDHOW",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 4,
+      "dose1": 3,
+      "dose2": 3,
       "vaccines": 6
     },
     {
@@ -4095,8 +4111,8 @@
       "locality": "GLEDHOW",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-12-12",
@@ -4630,8 +4646,8 @@
       "date": "2022-01-13",
       "locality": "GLEDHOW",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 3,
+      "dose1": 1,
+      "dose2": 4,
       "vaccines": 5
     },
     {
@@ -4641,6 +4657,62 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "GLEDHOW",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "GLEDHOW",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "GLEDHOW",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "GLEDHOW",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "GLEDHOW",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "GLEDHOW",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "GLEDHOW",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

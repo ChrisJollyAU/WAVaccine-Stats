@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "postcode": "KARAKIN",
   "data": [
     {
@@ -197,6 +197,14 @@
     {
       "date": "2021-10-01",
       "locality": "KARAKIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-01",
+      "locality": "KARAKIN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -233,6 +241,14 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-22",
+      "locality": "KARAKIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-24",
@@ -315,6 +331,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-25",
+      "locality": "KARAKIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-01",
       "locality": "KARAKIN",
       "AgeGroup": "12 to 15",
@@ -379,6 +403,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-12-14",
+      "locality": "KARAKIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2022-01-06",
       "locality": "KARAKIN",
       "AgeGroup": "16 to 49",
@@ -412,6 +444,22 @@
     },
     {
       "date": "2022-01-13",
+      "locality": "KARAKIN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "KARAKIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-14",
       "locality": "KARAKIN",
       "AgeGroup": "70 and over",
       "dose1": 0,

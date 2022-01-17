@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "locality": "WESTDALE",
   "data": [
     {
@@ -199,6 +199,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-03",
+      "locality": "WESTDALE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-09-07",
       "locality": "WESTDALE",
       "dose1": 1,
@@ -214,6 +221,13 @@
     },
     {
       "date": "2021-09-15",
+      "locality": "WESTDALE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-16",
       "locality": "WESTDALE",
       "dose1": 1,
       "dose2": 0,
@@ -267,6 +281,13 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-10-09",
+      "locality": "WESTDALE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-10-11",
@@ -468,8 +489,8 @@
       "date": "2022-01-07",
       "locality": "WESTDALE",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-01-11",
@@ -484,6 +505,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "WESTDALE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,15 +1,7 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "postcode": "COLLINGWOOD HEIGHTS",
   "data": [
-    {
-      "date": "2021-03-02",
-      "locality": "COLLINGWOOD HEIGHTS",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
     {
       "date": "2021-03-03",
       "locality": "COLLINGWOOD HEIGHTS",
@@ -81,14 +73,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-03-23",
-      "locality": "COLLINGWOOD HEIGHTS",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-03-24",
@@ -254,14 +238,6 @@
       "date": "2021-04-14",
       "locality": "COLLINGWOOD HEIGHTS",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-14",
-      "locality": "COLLINGWOOD HEIGHTS",
-      "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -583,8 +559,8 @@
       "locality": "COLLINGWOOD HEIGHTS",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-04",
@@ -1462,9 +1438,9 @@
       "date": "2021-08-16",
       "locality": "COLLINGWOOD HEIGHTS",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-17",
@@ -2031,8 +2007,8 @@
       "locality": "COLLINGWOOD HEIGHTS",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-09-23",
@@ -2046,9 +2022,9 @@
       "date": "2021-09-24",
       "locality": "COLLINGWOOD HEIGHTS",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-24",
@@ -2399,8 +2375,8 @@
       "locality": "COLLINGWOOD HEIGHTS",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-10-15",
@@ -3299,14 +3275,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-12-08",
-      "locality": "COLLINGWOOD HEIGHTS",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
       "date": "2021-12-09",
       "locality": "COLLINGWOOD HEIGHTS",
       "AgeGroup": "16 to 49",
@@ -3321,14 +3289,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-12-10",
-      "locality": "COLLINGWOOD HEIGHTS",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
     },
     {
       "date": "2021-12-11",
@@ -3825,6 +3785,78 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "COLLINGWOOD HEIGHTS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

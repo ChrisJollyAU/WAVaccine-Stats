@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-13T00:00:00",
+  "date_updated": "2022-01-16T00:00:00",
   "postcode": "CANNING VALE DC",
   "data": [
     {
@@ -51,20 +51,12 @@
       "vaccines": 1
     },
     {
-      "date": "2021-04-12",
+      "date": "2021-04-13",
       "locality": "CANNING VALE DC",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-04-13",
-      "locality": "CANNING VALE DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2021-04-16",
@@ -107,14 +99,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-05-03",
-      "locality": "CANNING VALE DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-05-04",
       "locality": "CANNING VALE DC",
       "AgeGroup": "16 to 49",
@@ -128,14 +112,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-05",
-      "locality": "CANNING VALE DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -2053,14 +2029,6 @@
     {
       "date": "2021-12-19",
       "locality": "CANNING VALE DC",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
-      "date": "2021-12-19",
-      "locality": "CANNING VALE DC",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
@@ -2137,14 +2105,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-12-31",
-      "locality": "CANNING VALE DC",
-      "AgeGroup": "50 to 69",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
     },
     {
       "date": "2022-01-02",
@@ -2345,6 +2305,54 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "CANNING VALE DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "CANNING VALE DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "CANNING VALE DC",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-15",
+      "locality": "CANNING VALE DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "CANNING VALE DC",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "CANNING VALE DC",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

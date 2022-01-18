@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "postcode": "KUKERIN",
   "data": [
     {
@@ -294,9 +294,9 @@
       "date": "2021-07-15",
       "locality": "KUKERIN",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-07-15",
@@ -382,6 +382,14 @@
       "date": "2021-08-04",
       "locality": "KUKERIN",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "KUKERIN",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1165,6 +1173,14 @@
     {
       "date": "2021-11-30",
       "locality": "KUKERIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-30",
+      "locality": "KUKERIN",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
@@ -1255,8 +1271,8 @@
       "locality": "KUKERIN",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-12-21",
@@ -1313,14 +1329,6 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
-    },
-    {
-      "date": "2022-01-07",
-      "locality": "KUKERIN",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2022-01-07",
@@ -1398,6 +1406,22 @@
       "date": "2022-01-16",
       "locality": "KUKERIN",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "KUKERIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "KUKERIN",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "postcode": "NULSEN",
   "data": [
     {
@@ -1774,9 +1774,9 @@
       "date": "2021-10-06",
       "locality": "NULSEN",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
+      "dose1": 10,
       "dose2": 1,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-10-06",
@@ -2279,8 +2279,8 @@
       "locality": "NULSEN",
       "AgeGroup": "16 to 49",
       "dose1": 7,
-      "dose2": 2,
-      "vaccines": 9
+      "dose2": 3,
+      "vaccines": 10
     },
     {
       "date": "2021-11-02",
@@ -3387,6 +3387,14 @@
       "vaccines": 1
     },
     {
+      "date": "2022-01-13",
+      "locality": "NULSEN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-14",
       "locality": "NULSEN",
       "AgeGroup": "16 to 49",
@@ -3457,6 +3465,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "NULSEN",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

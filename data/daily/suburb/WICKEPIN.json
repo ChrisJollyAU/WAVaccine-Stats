@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "locality": "WICKEPIN",
   "data": [
     {
@@ -552,8 +552,8 @@
       "date": "2021-08-10",
       "locality": "WICKEPIN",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2021-08-11",
@@ -1394,6 +1394,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "WICKEPIN",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

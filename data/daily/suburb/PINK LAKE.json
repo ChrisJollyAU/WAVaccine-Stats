@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "locality": "PINK LAKE",
   "data": [
     {
@@ -328,8 +328,8 @@
       "date": "2021-09-16",
       "locality": "PINK LAKE",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-09-17",
@@ -739,6 +739,13 @@
     },
     {
       "date": "2022-01-15",
+      "locality": "PINK LAKE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
       "locality": "PINK LAKE",
       "dose1": 0,
       "dose2": 0,

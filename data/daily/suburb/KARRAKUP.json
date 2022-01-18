@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "locality": "KARRAKUP",
   "data": [
     {
@@ -31,6 +31,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-05",
+      "locality": "KARRAKUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-14",
       "locality": "KARRAKUP",
       "dose1": 2,
@@ -52,7 +59,21 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-16",
+      "locality": "KARRAKUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-22",
+      "locality": "KARRAKUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-28",
       "locality": "KARRAKUP",
       "dose1": 1,
       "dose2": 0,
@@ -76,8 +97,8 @@
       "date": "2021-08-10",
       "locality": "KARRAKUP",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-08-16",
@@ -87,10 +108,24 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-18",
+      "locality": "KARRAKUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-19",
       "locality": "KARRAKUP",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-20",
+      "locality": "KARRAKUP",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -143,6 +178,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-09-24",
+      "locality": "KARRAKUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-04",
       "locality": "KARRAKUP",
       "dose1": 2,
@@ -157,6 +199,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-07",
+      "locality": "KARRAKUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-23",
       "locality": "KARRAKUP",
       "dose1": 1,
@@ -166,15 +215,22 @@
     {
       "date": "2021-10-25",
       "locality": "KARRAKUP",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-11-02",
       "locality": "KARRAKUP",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-05",
+      "locality": "KARRAKUP",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -193,6 +249,13 @@
     },
     {
       "date": "2021-11-13",
+      "locality": "KARRAKUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-15",
       "locality": "KARRAKUP",
       "dose1": 0,
       "dose2": 1,
@@ -307,8 +370,8 @@
       "date": "2022-01-14",
       "locality": "KARRAKUP",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

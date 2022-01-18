@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "postcode": "SALTER POINT",
   "data": [
     {
@@ -150,9 +150,9 @@
       "date": "2021-03-11",
       "locality": "SALTER POINT",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-11",
@@ -495,8 +495,8 @@
       "locality": "SALTER POINT",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-04-01",
@@ -1494,9 +1494,9 @@
       "date": "2021-05-25",
       "locality": "SALTER POINT",
       "AgeGroup": "50 to 69",
-      "dose1": 9,
+      "dose1": 11,
       "dose2": 0,
-      "vaccines": 9
+      "vaccines": 11
     },
     {
       "date": "2021-05-25",
@@ -3391,8 +3391,8 @@
       "locality": "SALTER POINT",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 8,
-      "vaccines": 15
+      "dose2": 10,
+      "vaccines": 17
     },
     {
       "date": "2021-08-17",
@@ -5774,9 +5774,9 @@
       "date": "2021-11-18",
       "locality": "SALTER POINT",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-11-19",
@@ -7133,6 +7133,14 @@
     {
       "date": "2022-01-14",
       "locality": "SALTER POINT",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-14",
+      "locality": "SALTER POINT",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
@@ -7198,6 +7206,38 @@
       "date": "2022-01-16",
       "locality": "SALTER POINT",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "SALTER POINT",
+      "AgeGroup": "12 to 15",
+      "dose1": 6,
+      "dose2": 0,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "SALTER POINT",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "SALTER POINT",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "SALTER POINT",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

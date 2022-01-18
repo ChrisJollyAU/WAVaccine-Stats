@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "locality": "NARRIKUP",
   "data": [
     {
@@ -1111,9 +1111,9 @@
     {
       "date": "2021-10-16",
       "locality": "NARRIKUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-17",
@@ -1125,9 +1125,9 @@
     {
       "date": "2021-10-19",
       "locality": "NARRIKUP",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-10-20",
@@ -1266,8 +1266,8 @@
       "date": "2021-11-10",
       "locality": "NARRIKUP",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-11-11",
@@ -1289,6 +1289,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2021-11-14",
+      "locality": "NARRIKUP",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     },
     {
       "date": "2021-11-15",
@@ -1350,8 +1357,8 @@
       "date": "2021-11-24",
       "locality": "NARRIKUP",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-11-25",
@@ -1445,6 +1452,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-12",
+      "locality": "NARRIKUP",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
       "date": "2021-12-13",
       "locality": "NARRIKUP",
       "dose1": 1,
@@ -1467,6 +1481,13 @@
     },
     {
       "date": "2021-12-17",
+      "locality": "NARRIKUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-18",
       "locality": "NARRIKUP",
       "dose1": 1,
       "dose2": 0,
@@ -1594,9 +1615,9 @@
     {
       "date": "2022-01-13",
       "locality": "NARRIKUP",
-      "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     },
     {
       "date": "2022-01-14",
@@ -1618,6 +1639,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "NARRIKUP",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

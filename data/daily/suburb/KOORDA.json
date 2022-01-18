@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "locality": "KOORDA",
   "data": [
     {
@@ -1074,6 +1074,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-27",
+      "locality": "KOORDA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-29",
       "locality": "KOORDA",
       "dose1": 0,
@@ -1296,6 +1303,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "KOORDA",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

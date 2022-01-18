@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "locality": "DAGLISH",
   "data": [
     {
@@ -2231,9 +2231,16 @@
     {
       "date": "2022-01-16",
       "locality": "DAGLISH",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "DAGLISH",
+      "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
     }
   ]
 }

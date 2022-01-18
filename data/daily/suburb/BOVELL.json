@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "locality": "BOVELL",
   "data": [
     {
@@ -96,9 +96,9 @@
     {
       "date": "2021-04-24",
       "locality": "BOVELL",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-04-27",
@@ -433,8 +433,8 @@
       "date": "2021-07-17",
       "locality": "BOVELL",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-19",
@@ -1055,9 +1055,9 @@
     {
       "date": "2021-10-29",
       "locality": "BOVELL",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-10-30",
@@ -1294,8 +1294,8 @@
       "date": "2021-12-15",
       "locality": "BOVELL",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2021-12-16",
@@ -1457,6 +1457,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "BOVELL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

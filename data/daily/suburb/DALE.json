@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-16T00:00:00",
+  "date_updated": "2022-01-17T00:00:00",
   "locality": "DALE",
   "data": [
     {
@@ -425,9 +425,9 @@
     {
       "date": "2021-10-19",
       "locality": "DALE",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-23",
@@ -489,8 +489,8 @@
       "date": "2021-11-09",
       "locality": "DALE",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-11-10",
@@ -676,6 +676,13 @@
     },
     {
       "date": "2022-01-12",
+      "locality": "DALE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-14",
       "locality": "DALE",
       "dose1": 0,
       "dose2": 0,

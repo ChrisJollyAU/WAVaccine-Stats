@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "MOUNT BULLER",
   "data": [
+    {
+      "date": "2021-08-25",
+      "locality": "MOUNT BULLER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-09-03",
       "locality": "MOUNT BULLER",
@@ -10,11 +17,25 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-16",
+      "locality": "MOUNT BULLER",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-26",
       "locality": "MOUNT BULLER",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "MOUNT BULLER",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

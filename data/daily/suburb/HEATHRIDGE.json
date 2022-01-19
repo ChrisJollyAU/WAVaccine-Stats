@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "HEATHRIDGE",
   "data": [
     {
@@ -187,9 +187,9 @@
     {
       "date": "2021-03-23",
       "locality": "HEATHRIDGE",
-      "dose1": 15,
+      "dose1": 13,
       "dose2": 0,
-      "vaccines": 15
+      "vaccines": 13
     },
     {
       "date": "2021-03-24",
@@ -755,8 +755,8 @@
       "date": "2021-06-17",
       "locality": "HEATHRIDGE",
       "dose1": 18,
-      "dose2": 2,
-      "vaccines": 20
+      "dose2": 0,
+      "vaccines": 18
     },
     {
       "date": "2021-06-18",
@@ -845,9 +845,9 @@
     {
       "date": "2021-06-30",
       "locality": "HEATHRIDGE",
-      "dose1": 26,
+      "dose1": 27,
       "dose2": 5,
-      "vaccines": 31
+      "vaccines": 32
     },
     {
       "date": "2021-07-01",
@@ -1181,9 +1181,9 @@
     {
       "date": "2021-08-17",
       "locality": "HEATHRIDGE",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 35,
-      "vaccines": 52
+      "vaccines": 51
     },
     {
       "date": "2021-08-18",
@@ -1202,9 +1202,9 @@
     {
       "date": "2021-08-20",
       "locality": "HEATHRIDGE",
-      "dose1": 26,
+      "dose1": 25,
       "dose2": 40,
-      "vaccines": 66
+      "vaccines": 65
     },
     {
       "date": "2021-08-21",
@@ -1350,8 +1350,8 @@
       "date": "2021-09-10",
       "locality": "HEATHRIDGE",
       "dose1": 33,
-      "dose2": 26,
-      "vaccines": 59
+      "dose2": 25,
+      "vaccines": 58
     },
     {
       "date": "2021-09-11",
@@ -1413,8 +1413,8 @@
       "date": "2021-09-19",
       "locality": "HEATHRIDGE",
       "dose1": 23,
-      "dose2": 17,
-      "vaccines": 40
+      "dose2": 16,
+      "vaccines": 39
     },
     {
       "date": "2021-09-20",
@@ -1433,8 +1433,8 @@
     {
       "date": "2021-09-22",
       "locality": "HEATHRIDGE",
-      "dose1": 31,
-      "dose2": 20,
+      "dose1": 30,
+      "dose2": 21,
       "vaccines": 51
     },
     {
@@ -1510,9 +1510,9 @@
     {
       "date": "2021-10-03",
       "locality": "HEATHRIDGE",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 17,
-      "vaccines": 36
+      "vaccines": 35
     },
     {
       "date": "2021-10-04",
@@ -1658,8 +1658,8 @@
       "date": "2021-10-24",
       "locality": "HEATHRIDGE",
       "dose1": 13,
-      "dose2": 32,
-      "vaccines": 45
+      "dose2": 31,
+      "vaccines": 44
     },
     {
       "date": "2021-10-25",
@@ -1727,9 +1727,9 @@
     {
       "date": "2021-11-03",
       "locality": "HEATHRIDGE",
-      "dose1": 26,
+      "dose1": 27,
       "dose2": 33,
-      "vaccines": 59
+      "vaccines": 60
     },
     {
       "date": "2021-11-04",
@@ -1741,9 +1741,9 @@
     {
       "date": "2021-11-05",
       "locality": "HEATHRIDGE",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 25,
-      "vaccines": 38
+      "vaccines": 37
     },
     {
       "date": "2021-11-06",
@@ -1867,16 +1867,16 @@
     {
       "date": "2021-11-23",
       "locality": "HEATHRIDGE",
-      "dose1": 17,
+      "dose1": 18,
       "dose2": 29,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-11-24",
       "locality": "HEATHRIDGE",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 11,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-11-25",
@@ -1917,8 +1917,8 @@
       "date": "2021-11-30",
       "locality": "HEATHRIDGE",
       "dose1": 15,
-      "dose2": 34,
-      "vaccines": 49
+      "dose2": 35,
+      "vaccines": 50
     },
     {
       "date": "2021-12-01",
@@ -1944,9 +1944,9 @@
     {
       "date": "2021-12-04",
       "locality": "HEATHRIDGE",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 12,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-12-05",
@@ -2197,15 +2197,15 @@
       "date": "2022-01-10",
       "locality": "HEATHRIDGE",
       "dose1": 8,
-      "dose2": 24,
-      "vaccines": 32
+      "dose2": 25,
+      "vaccines": 33
     },
     {
       "date": "2022-01-11",
       "locality": "HEATHRIDGE",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 10,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2022-01-12",
@@ -2248,6 +2248,13 @@
       "dose1": 18,
       "dose2": 13,
       "vaccines": 31
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "HEATHRIDGE",
+      "dose1": 5,
+      "dose2": 14,
+      "vaccines": 19
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "MOONYOONOOKA",
   "data": [
     {
@@ -1077,8 +1077,8 @@
       "date": "2021-11-22",
       "locality": "MOONYOONOOKA",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-11-23",
@@ -1394,6 +1394,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "MOONYOONOOKA",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

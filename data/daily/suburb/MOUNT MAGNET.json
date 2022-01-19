@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "MOUNT MAGNET",
   "data": [
     {
@@ -167,8 +167,8 @@
       "date": "2021-07-06",
       "locality": "MOUNT MAGNET",
       "dose1": 1,
-      "dose2": 11,
-      "vaccines": 12
+      "dose2": 12,
+      "vaccines": 13
     },
     {
       "date": "2021-07-20",
@@ -1016,6 +1016,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "MOUNT MAGNET",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

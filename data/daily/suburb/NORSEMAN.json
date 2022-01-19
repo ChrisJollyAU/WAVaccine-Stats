@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "NORSEMAN",
   "data": [
     {
@@ -1244,9 +1244,16 @@
     {
       "date": "2022-01-17",
       "locality": "NORSEMAN",
-      "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "NORSEMAN",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

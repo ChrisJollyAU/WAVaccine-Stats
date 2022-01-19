@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "SOUTHERN CROSS",
   "data": [
     {
@@ -276,13 +276,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-08",
-      "locality": "SOUTHERN CROSS",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-12",
       "locality": "SOUTHERN CROSS",
       "dose1": 1,
@@ -454,8 +447,8 @@
       "date": "2021-08-19",
       "locality": "SOUTHERN CROSS",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-08-20",
@@ -1303,6 +1296,13 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "SOUTHERN CROSS",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

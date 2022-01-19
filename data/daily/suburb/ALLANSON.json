@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "ALLANSON",
   "data": [
     {
@@ -481,9 +481,9 @@
     {
       "date": "2021-08-17",
       "locality": "ALLANSON",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-08-18",
@@ -922,9 +922,9 @@
     {
       "date": "2021-11-12",
       "locality": "ALLANSON",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-11-13",
@@ -1035,8 +1035,8 @@
       "date": "2021-12-03",
       "locality": "ALLANSON",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-12-05",
@@ -1258,9 +1258,16 @@
     {
       "date": "2022-01-17",
       "locality": "ALLANSON",
-      "dose1": 2,
+      "dose1": 0,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "ALLANSON",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

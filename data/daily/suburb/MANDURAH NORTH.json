@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "MANDURAH NORTH",
   "data": [
     {
@@ -1328,15 +1328,22 @@
     {
       "date": "2022-01-16",
       "locality": "MANDURAH NORTH",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2022-01-17",
       "locality": "MANDURAH NORTH",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "MANDURAH NORTH",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

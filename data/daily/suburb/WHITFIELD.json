@@ -1,12 +1,19 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "WHITFIELD",
   "data": [
     {
-      "date": "2021-10-09",
+      "date": "2021-08-14",
       "locality": "WHITFIELD",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-04",
+      "locality": "WHITFIELD",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -24,13 +31,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-11-28",
-      "locality": "WHITFIELD",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-12-10",
       "locality": "WHITFIELD",
       "dose1": 0,
@@ -43,6 +43,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "WHITFIELD",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

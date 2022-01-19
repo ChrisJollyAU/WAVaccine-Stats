@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "HERRON",
   "data": [
     {
@@ -978,9 +978,9 @@
     {
       "date": "2021-10-11",
       "locality": "HERRON",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-10-12",
@@ -1182,8 +1182,8 @@
       "date": "2021-11-11",
       "locality": "HERRON",
       "dose1": 2,
-      "dose2": 5,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-11-12",
@@ -1526,6 +1526,13 @@
       "locality": "HERRON",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "HERRON",
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "AUGUSTA",
   "data": [
     {
@@ -502,9 +502,9 @@
     {
       "date": "2021-06-22",
       "locality": "AUGUSTA",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-06-23",
@@ -629,8 +629,8 @@
       "date": "2021-07-14",
       "locality": "AUGUSTA",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-07-15",
@@ -1791,8 +1791,15 @@
       "date": "2022-01-17",
       "locality": "AUGUSTA",
       "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "AUGUSTA",
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     }
   ]
 }

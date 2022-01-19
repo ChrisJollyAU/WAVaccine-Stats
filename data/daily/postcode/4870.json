@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "postcode": "4870",
   "data": [
     {
@@ -136,7 +136,21 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-11",
+      "postcode": "4870",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-13",
+      "postcode": "4870",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-14",
       "postcode": "4870",
       "dose1": 1,
       "dose2": 0,
@@ -199,7 +213,21 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-01",
+      "postcode": "4870",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-03",
+      "postcode": "4870",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-04",
       "postcode": "4870",
       "dose1": 0,
       "dose2": 1,
@@ -320,9 +348,9 @@
     {
       "date": "2021-10-09",
       "postcode": "4870",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-10-10",
@@ -542,13 +570,6 @@
       "vaccines": 3
     },
     {
-      "date": "2021-11-28",
-      "postcode": "4870",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-30",
       "postcode": "4870",
       "dose1": 1,
@@ -738,11 +759,25 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-16",
+      "postcode": "4870",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-17",
       "postcode": "4870",
       "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-18",
+      "postcode": "4870",
+      "dose1": 0,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 0
     }
   ]
 }

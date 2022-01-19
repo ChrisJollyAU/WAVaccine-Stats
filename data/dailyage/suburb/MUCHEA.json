@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "postcode": "MUCHEA",
   "data": [
     {
@@ -837,6 +837,14 @@
     {
       "date": "2021-06-11",
       "locality": "MUCHEA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-06-11",
+      "locality": "MUCHEA",
       "AgeGroup": "50 to 69",
       "dose1": 4,
       "dose2": 0,
@@ -937,6 +945,22 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-06-18",
+      "locality": "MUCHEA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-18",
+      "locality": "MUCHEA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-18",
@@ -1046,9 +1070,9 @@
       "date": "2021-06-29",
       "locality": "MUCHEA",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-06-29",
@@ -1383,8 +1407,8 @@
       "locality": "MUCHEA",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 0,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 6
     },
     {
       "date": "2021-07-20",
@@ -1421,10 +1445,18 @@
     {
       "date": "2021-07-22",
       "locality": "MUCHEA",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-22",
+      "locality": "MUCHEA",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-07-22",
@@ -1502,6 +1534,14 @@
       "date": "2021-07-27",
       "locality": "MUCHEA",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-28",
+      "locality": "MUCHEA",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -4838,9 +4878,9 @@
       "date": "2022-01-14",
       "locality": "MUCHEA",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2022-01-14",
@@ -4885,10 +4925,18 @@
     {
       "date": "2022-01-16",
       "locality": "MUCHEA",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-16",
+      "locality": "MUCHEA",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2022-01-16",
@@ -4909,10 +4957,18 @@
     {
       "date": "2022-01-17",
       "locality": "MUCHEA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "MUCHEA",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2022-01-17",
@@ -4929,6 +4985,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "MUCHEA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "MUCHEA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "MUCHEA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

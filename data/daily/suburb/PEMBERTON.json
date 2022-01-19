@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "PEMBERTON",
   "data": [
     {
@@ -25,13 +25,6 @@
     },
     {
       "date": "2021-03-16",
-      "locality": "PEMBERTON",
-      "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-03-20",
       "locality": "PEMBERTON",
       "dose1": 2,
       "dose2": 0,
@@ -75,9 +68,9 @@
     {
       "date": "2021-04-07",
       "locality": "PEMBERTON",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-04-08",
@@ -398,8 +391,8 @@
       "date": "2021-06-14",
       "locality": "PEMBERTON",
       "dose1": 6,
-      "dose2": 3,
-      "vaccines": 9
+      "dose2": 1,
+      "vaccines": 7
     },
     {
       "date": "2021-06-15",
@@ -468,8 +461,8 @@
       "date": "2021-06-29",
       "locality": "PEMBERTON",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2021-06-30",
@@ -782,9 +775,9 @@
     {
       "date": "2021-08-18",
       "locality": "PEMBERTON",
-      "dose1": 12,
+      "dose1": 9,
       "dose2": 17,
-      "vaccines": 29
+      "vaccines": 26
     },
     {
       "date": "2021-08-19",
@@ -902,8 +895,8 @@
       "date": "2021-09-08",
       "locality": "PEMBERTON",
       "dose1": 8,
-      "dose2": 17,
-      "vaccines": 25
+      "dose2": 16,
+      "vaccines": 24
     },
     {
       "date": "2021-09-09",
@@ -1294,8 +1287,8 @@
       "date": "2021-11-09",
       "locality": "PEMBERTON",
       "dose1": 0,
-      "dose2": 7,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-11-10",
@@ -1728,8 +1721,15 @@
       "date": "2022-01-17",
       "locality": "PEMBERTON",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "PEMBERTON",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

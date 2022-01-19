@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "JARRAHDALE",
   "data": [
     {
@@ -1994,8 +1994,15 @@
       "date": "2022-01-17",
       "locality": "JARRAHDALE",
       "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "JARRAHDALE",
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 6
     }
   ]
 }

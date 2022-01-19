@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "OSBORNE PARK DC",
   "data": [
     {
@@ -339,6 +339,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-08-01",
+      "locality": "OSBORNE PARK DC",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-03",
       "locality": "OSBORNE PARK DC",
       "dose1": 0,
@@ -531,8 +538,8 @@
       "date": "2021-09-04",
       "locality": "OSBORNE PARK DC",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-06",
@@ -1163,6 +1170,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "OSBORNE PARK DC",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

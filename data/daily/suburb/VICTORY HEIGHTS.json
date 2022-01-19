@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-17T00:00:00",
+  "date_updated": "2022-01-18T00:00:00",
   "locality": "VICTORY HEIGHTS",
   "data": [
     {
@@ -1504,15 +1504,15 @@
       "date": "2022-01-14",
       "locality": "VICTORY HEIGHTS",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2022-01-15",
       "locality": "VICTORY HEIGHTS",
-      "dose1": 2,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2022-01-16",
@@ -1527,6 +1527,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "VICTORY HEIGHTS",
+      "dose1": 4,
+      "dose2": 3,
+      "vaccines": 7
     }
   ]
 }

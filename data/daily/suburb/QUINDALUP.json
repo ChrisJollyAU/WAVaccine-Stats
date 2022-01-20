@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "QUINDALUP",
   "data": [
     {
@@ -1602,8 +1602,8 @@
       "date": "2021-12-29",
       "locality": "QUINDALUP",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-12-30",
@@ -1721,8 +1721,15 @@
       "date": "2022-01-18",
       "locality": "QUINDALUP",
       "dose1": 2,
-      "dose2": 7,
-      "vaccines": 9
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "QUINDALUP",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
     }
   ]
 }

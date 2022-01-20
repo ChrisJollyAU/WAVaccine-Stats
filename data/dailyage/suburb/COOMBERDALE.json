@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "postcode": "COOMBERDALE",
   "data": [
     {
@@ -566,14 +566,22 @@
       "date": "2022-01-18",
       "locality": "COOMBERDALE",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 1
     },
     {
       "date": "2022-01-18",
       "locality": "COOMBERDALE",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "COOMBERDALE",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

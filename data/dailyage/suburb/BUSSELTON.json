@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "postcode": "BUSSELTON",
   "data": [
     {
@@ -414,9 +414,9 @@
       "date": "2021-04-03",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-03",
@@ -753,6 +753,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-04-24",
+      "locality": "BUSSELTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-04-24",
@@ -1126,9 +1134,9 @@
       "date": "2021-05-18",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 3,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-05-18",
@@ -1534,9 +1542,9 @@
       "date": "2021-06-09",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-06-09",
@@ -1950,9 +1958,9 @@
       "date": "2021-06-27",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 4,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-06-27",
@@ -2414,9 +2422,9 @@
       "date": "2021-07-17",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-07-17",
@@ -2670,9 +2678,9 @@
       "date": "2021-07-29",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 17,
-      "vaccines": 25
+      "vaccines": 24
     },
     {
       "date": "2021-07-29",
@@ -2983,8 +2991,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
       "dose1": 21,
-      "dose2": 7,
-      "vaccines": 28
+      "dose2": 6,
+      "vaccines": 27
     },
     {
       "date": "2021-08-13",
@@ -3215,8 +3223,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
       "dose1": 9,
-      "dose2": 26,
-      "vaccines": 35
+      "dose2": 25,
+      "vaccines": 34
     },
     {
       "date": "2021-08-24",
@@ -3799,8 +3807,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
       "dose1": 8,
-      "dose2": 3,
-      "vaccines": 11
+      "dose2": 4,
+      "vaccines": 12
     },
     {
       "date": "2021-09-18",
@@ -3974,17 +3982,17 @@
       "date": "2021-09-25",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 10,
       "dose2": 3,
-      "vaccines": 15
+      "vaccines": 13
     },
     {
       "date": "2021-09-25",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 9,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-09-25",
@@ -4310,9 +4318,9 @@
       "date": "2021-10-07",
       "locality": "BUSSELTON",
       "AgeGroup": "70 and over",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-10-08",
@@ -4358,9 +4366,9 @@
       "date": "2021-10-09",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 24,
+      "dose1": 21,
       "dose2": 14,
-      "vaccines": 38
+      "vaccines": 35
     },
     {
       "date": "2021-10-09",
@@ -4422,9 +4430,9 @@
       "date": "2021-10-12",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 35,
+      "dose1": 33,
       "dose2": 22,
-      "vaccines": 57
+      "vaccines": 55
     },
     {
       "date": "2021-10-12",
@@ -4462,9 +4470,9 @@
       "date": "2021-10-13",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 6,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-13",
@@ -4550,8 +4558,8 @@
       "date": "2021-10-16",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 14,
-      "dose2": 18,
+      "dose1": 16,
+      "dose2": 16,
       "vaccines": 32
     },
     {
@@ -4559,8 +4567,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2021-10-16",
@@ -4975,8 +4983,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 13,
-      "vaccines": 19
+      "dose2": 11,
+      "vaccines": 17
     },
     {
       "date": "2021-11-01",
@@ -5038,17 +5046,17 @@
       "date": "2021-11-03",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 11,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-11-03",
       "locality": "BUSSELTON",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 8,
-      "vaccines": 9
+      "dose2": 9,
+      "vaccines": 10
     },
     {
       "date": "2021-11-03",
@@ -5087,8 +5095,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "70 and over",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-05",
@@ -5135,8 +5143,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
       "dose1": 13,
-      "dose2": 15,
-      "vaccines": 28
+      "dose2": 17,
+      "vaccines": 30
     },
     {
       "date": "2021-11-06",
@@ -5191,8 +5199,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 9,
-      "vaccines": 19
+      "dose2": 7,
+      "vaccines": 17
     },
     {
       "date": "2021-11-08",
@@ -5286,9 +5294,9 @@
       "date": "2021-11-11",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 14,
-      "vaccines": 33
+      "vaccines": 32
     },
     {
       "date": "2021-11-11",
@@ -5319,8 +5327,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
       "dose1": 12,
-      "dose2": 25,
-      "vaccines": 37
+      "dose2": 24,
+      "vaccines": 36
     },
     {
       "date": "2021-11-12",
@@ -5710,9 +5718,9 @@
       "date": "2021-11-27",
       "locality": "BUSSELTON",
       "AgeGroup": "12 to 15",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 6,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-11-27",
@@ -6023,8 +6031,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 8,
-      "vaccines": 11
+      "dose2": 7,
+      "vaccines": 10
     },
     {
       "date": "2021-12-09",
@@ -6231,8 +6239,8 @@
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 16,
-      "vaccines": 19
+      "dose2": 15,
+      "vaccines": 18
     },
     {
       "date": "2021-12-17",
@@ -6249,6 +6257,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2021-12-18",
+      "locality": "BUSSELTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-18",
@@ -6958,9 +6974,9 @@
       "date": "2022-01-16",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2022-01-16",
@@ -7014,17 +7030,17 @@
       "date": "2022-01-18",
       "locality": "BUSSELTON",
       "AgeGroup": "12 to 15",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2022-01-18",
       "locality": "BUSSELTON",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
-      "dose2": 6,
-      "vaccines": 14
+      "dose1": 11,
+      "dose2": 9,
+      "vaccines": 20
     },
     {
       "date": "2022-01-18",
@@ -7041,6 +7057,30 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "BUSSELTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 8,
+      "vaccines": 13
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "BUSSELTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "BUSSELTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

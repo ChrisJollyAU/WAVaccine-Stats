@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "TAMBELLUP",
   "data": [
     {
@@ -1412,9 +1412,16 @@
     {
       "date": "2022-01-18",
       "locality": "TAMBELLUP",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 8
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "TAMBELLUP",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

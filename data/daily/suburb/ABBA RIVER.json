@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "ABBA RIVER",
   "data": [
     {
@@ -73,6 +73,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-29",
+      "locality": "ABBA RIVER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-07",
       "locality": "ABBA RIVER",
       "dose1": 1,
@@ -132,8 +139,8 @@
       "date": "2021-09-02",
       "locality": "ABBA RIVER",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-03",

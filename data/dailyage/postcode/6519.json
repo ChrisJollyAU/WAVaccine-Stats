@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "postcode": "6519",
   "data": [
     {
@@ -873,14 +873,6 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
-    },
-    {
-      "date": "2021-08-18",
-      "postcode": "6519",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-08-19",
@@ -1907,14 +1899,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-11-10",
-      "postcode": "6519",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-11",
       "postcode": "6519",
       "AgeGroup": "12 to 15",
@@ -2245,6 +2229,14 @@
     {
       "date": "2021-12-16",
       "postcode": "6519",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-16",
+      "postcode": "6519",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -2316,6 +2308,38 @@
     },
     {
       "date": "2021-12-24",
+      "postcode": "6519",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-29",
+      "postcode": "6519",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-29",
+      "postcode": "6519",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-30",
+      "postcode": "6519",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-30",
       "postcode": "6519",
       "AgeGroup": "70 and over",
       "dose1": 0,
@@ -2486,8 +2510,8 @@
       "date": "2022-01-13",
       "postcode": "6519",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
-      "dose2": 0,
+      "dose1": 1,
+      "dose2": 1,
       "vaccines": 2
     },
     {
@@ -2536,6 +2560,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-19",
+      "postcode": "6519",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

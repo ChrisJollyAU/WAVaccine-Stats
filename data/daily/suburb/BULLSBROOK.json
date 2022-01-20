@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "BULLSBROOK",
   "data": [
     {
@@ -314,8 +314,8 @@
       "date": "2021-04-21",
       "locality": "BULLSBROOK",
       "dose1": 7,
-      "dose2": 0,
-      "vaccines": 7
+      "dose2": 1,
+      "vaccines": 8
     },
     {
       "date": "2021-04-22",
@@ -1328,9 +1328,9 @@
     {
       "date": "2021-09-17",
       "locality": "BULLSBROOK",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 11,
-      "vaccines": 22
+      "vaccines": 21
     },
     {
       "date": "2021-09-18",
@@ -1412,9 +1412,9 @@
     {
       "date": "2021-09-29",
       "locality": "BULLSBROOK",
-      "dose1": 33,
+      "dose1": 32,
       "dose2": 30,
-      "vaccines": 63
+      "vaccines": 62
     },
     {
       "date": "2021-09-30",
@@ -1426,9 +1426,9 @@
     {
       "date": "2021-10-01",
       "locality": "BULLSBROOK",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 37,
-      "vaccines": 59
+      "vaccines": 60
     },
     {
       "date": "2021-10-02",
@@ -1503,9 +1503,9 @@
     {
       "date": "2021-10-12",
       "locality": "BULLSBROOK",
-      "dose1": 48,
+      "dose1": 47,
       "dose2": 30,
-      "vaccines": 78
+      "vaccines": 77
     },
     {
       "date": "2021-10-13",
@@ -1532,8 +1532,8 @@
       "date": "2021-10-16",
       "locality": "BULLSBROOK",
       "dose1": 40,
-      "dose2": 32,
-      "vaccines": 72
+      "dose2": 31,
+      "vaccines": 71
     },
     {
       "date": "2021-10-17",
@@ -1581,8 +1581,8 @@
       "date": "2021-10-23",
       "locality": "BULLSBROOK",
       "dose1": 54,
-      "dose2": 32,
-      "vaccines": 86
+      "dose2": 33,
+      "vaccines": 87
     },
     {
       "date": "2021-10-24",
@@ -1595,8 +1595,8 @@
       "date": "2021-10-25",
       "locality": "BULLSBROOK",
       "dose1": 33,
-      "dose2": 31,
-      "vaccines": 64
+      "dose2": 30,
+      "vaccines": 63
     },
     {
       "date": "2021-10-26",
@@ -1651,8 +1651,8 @@
       "date": "2021-11-02",
       "locality": "BULLSBROOK",
       "dose1": 21,
-      "dose2": 39,
-      "vaccines": 60
+      "dose2": 38,
+      "vaccines": 59
     },
     {
       "date": "2021-11-03",
@@ -1699,9 +1699,9 @@
     {
       "date": "2021-11-09",
       "locality": "BULLSBROOK",
-      "dose1": 23,
+      "dose1": 22,
       "dose2": 36,
-      "vaccines": 59
+      "vaccines": 58
     },
     {
       "date": "2021-11-10",
@@ -1839,9 +1839,9 @@
     {
       "date": "2021-11-29",
       "locality": "BULLSBROOK",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 19,
-      "vaccines": 40
+      "vaccines": 39
     },
     {
       "date": "2021-11-30",
@@ -1986,9 +1986,9 @@
     {
       "date": "2021-12-20",
       "locality": "BULLSBROOK",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 13,
-      "vaccines": 25
+      "vaccines": 24
     },
     {
       "date": "2021-12-21",
@@ -2043,8 +2043,8 @@
       "date": "2021-12-29",
       "locality": "BULLSBROOK",
       "dose1": 21,
-      "dose2": 28,
-      "vaccines": 49
+      "dose2": 27,
+      "vaccines": 48
     },
     {
       "date": "2021-12-30",
@@ -2091,16 +2091,16 @@
     {
       "date": "2022-01-05",
       "locality": "BULLSBROOK",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 17,
-      "vaccines": 29
+      "vaccines": 28
     },
     {
       "date": "2022-01-06",
       "locality": "BULLSBROOK",
-      "dose1": 15,
-      "dose2": 16,
-      "vaccines": 31
+      "dose1": 14,
+      "dose2": 15,
+      "vaccines": 29
     },
     {
       "date": "2022-01-07",
@@ -2161,9 +2161,9 @@
     {
       "date": "2022-01-15",
       "locality": "BULLSBROOK",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 5,
-      "vaccines": 11
+      "vaccines": 10
     },
     {
       "date": "2022-01-16",
@@ -2182,9 +2182,16 @@
     {
       "date": "2022-01-18",
       "locality": "BULLSBROOK",
+      "dose1": 10,
+      "dose2": 20,
+      "vaccines": 30
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "BULLSBROOK",
       "dose1": 7,
-      "dose2": 19,
-      "vaccines": 26
+      "dose2": 2,
+      "vaccines": 9
     }
   ]
 }

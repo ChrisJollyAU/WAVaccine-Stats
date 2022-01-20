@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "KALGAN",
   "data": [
     {
@@ -1041,9 +1041,9 @@
     {
       "date": "2021-09-26",
       "locality": "KALGAN",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-09-27",
@@ -1196,8 +1196,8 @@
       "date": "2021-10-18",
       "locality": "KALGAN",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-19",
@@ -1772,6 +1772,13 @@
       "dose1": 4,
       "dose2": 2,
       "vaccines": 6
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "KALGAN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

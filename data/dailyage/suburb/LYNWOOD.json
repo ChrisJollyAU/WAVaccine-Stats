@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "postcode": "LYNWOOD",
   "data": [
     {
@@ -6807,8 +6807,8 @@
       "locality": "LYNWOOD",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 10
     },
     {
       "date": "2022-01-05",
@@ -7217,6 +7217,30 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "LYNWOOD",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 9,
+      "vaccines": 14
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "LYNWOOD",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "LYNWOOD",
+      "AgeGroup": "70 and over",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "DENHAM",
   "data": [
     {
@@ -1174,9 +1174,16 @@
     {
       "date": "2022-01-18",
       "locality": "DENHAM",
-      "dose1": 10,
+      "dose1": 12,
       "dose2": 5,
-      "vaccines": 15
+      "vaccines": 17
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "DENHAM",
+      "dose1": 7,
+      "dose2": 11,
+      "vaccines": 18
     }
   ]
 }

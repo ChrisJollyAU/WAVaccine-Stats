@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "USHER",
   "data": [
     {
@@ -1391,9 +1391,9 @@
     {
       "date": "2021-10-25",
       "locality": "USHER",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 10,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2021-10-26",
@@ -1552,9 +1552,9 @@
     {
       "date": "2021-11-18",
       "locality": "USHER",
-      "dose1": 8,
-      "dose2": 12,
-      "vaccines": 20
+      "dose1": 9,
+      "dose2": 13,
+      "vaccines": 22
     },
     {
       "date": "2021-11-19",
@@ -1728,8 +1728,8 @@
       "date": "2021-12-16",
       "locality": "USHER",
       "dose1": 9,
-      "dose2": 5,
-      "vaccines": 14
+      "dose2": 6,
+      "vaccines": 15
     },
     {
       "date": "2021-12-17",
@@ -1916,9 +1916,16 @@
     {
       "date": "2022-01-18",
       "locality": "USHER",
-      "dose1": 6,
+      "dose1": 9,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 15
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "USHER",
+      "dose1": 3,
+      "dose2": 3,
+      "vaccines": 6
     }
   ]
 }

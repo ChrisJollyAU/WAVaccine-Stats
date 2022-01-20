@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "postcode": "MOUNT MELVILLE",
   "data": [
     {
@@ -875,14 +875,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-05-31",
-      "locality": "MOUNT MELVILLE",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-01",
       "locality": "MOUNT MELVILLE",
       "AgeGroup": "50 to 69",
@@ -1294,9 +1286,9 @@
       "date": "2021-06-28",
       "locality": "MOUNT MELVILLE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-28",
@@ -1631,8 +1623,8 @@
       "locality": "MOUNT MELVILLE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-17",
@@ -2289,14 +2281,6 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
-    },
-    {
-      "date": "2021-08-23",
-      "locality": "MOUNT MELVILLE",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-08-24",
@@ -4086,9 +4070,9 @@
       "date": "2021-11-29",
       "locality": "MOUNT MELVILLE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-11-30",
@@ -4983,8 +4967,8 @@
       "locality": "MOUNT MELVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2022-01-17",
@@ -5007,8 +4991,8 @@
       "locality": "MOUNT MELVILLE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2022-01-18",
@@ -5025,6 +5009,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "MOUNT MELVILLE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "MOUNT MELVILLE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

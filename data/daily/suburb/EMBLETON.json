@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "EMBLETON",
   "data": [
     {
@@ -159,9 +159,9 @@
     {
       "date": "2021-03-22",
       "locality": "EMBLETON",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-03-23",
@@ -257,9 +257,9 @@
     {
       "date": "2021-04-06",
       "locality": "EMBLETON",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-04-07",
@@ -495,9 +495,9 @@
     {
       "date": "2021-05-10",
       "locality": "EMBLETON",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-05-11",
@@ -671,8 +671,8 @@
       "date": "2021-06-05",
       "locality": "EMBLETON",
       "dose1": 11,
-      "dose2": 1,
-      "vaccines": 12
+      "dose2": 0,
+      "vaccines": 11
     },
     {
       "date": "2021-06-06",
@@ -684,8 +684,8 @@
     {
       "date": "2021-06-07",
       "locality": "EMBLETON",
-      "dose1": 3,
-      "dose2": 0,
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     },
     {
@@ -838,9 +838,9 @@
     {
       "date": "2021-06-29",
       "locality": "EMBLETON",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 2,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-06-30",
@@ -909,8 +909,8 @@
       "date": "2021-07-09",
       "locality": "EMBLETON",
       "dose1": 5,
-      "dose2": 8,
-      "vaccines": 13
+      "dose2": 7,
+      "vaccines": 12
     },
     {
       "date": "2021-07-10",
@@ -993,8 +993,8 @@
       "date": "2021-07-21",
       "locality": "EMBLETON",
       "dose1": 14,
-      "dose2": 10,
-      "vaccines": 24
+      "dose2": 11,
+      "vaccines": 25
     },
     {
       "date": "2021-07-22",
@@ -2245,16 +2245,23 @@
     {
       "date": "2022-01-17",
       "locality": "EMBLETON",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 11,
-      "vaccines": 21
+      "vaccines": 22
     },
     {
       "date": "2022-01-18",
       "locality": "EMBLETON",
       "dose1": 7,
-      "dose2": 8,
-      "vaccines": 15
+      "dose2": 7,
+      "vaccines": 14
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "EMBLETON",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "ALBANY DC",
   "data": [
     {
@@ -36,13 +36,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-03-07",
-      "locality": "ALBANY DC",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-03-08",
@@ -202,8 +195,8 @@
       "date": "2021-04-03",
       "locality": "ALBANY DC",
       "dose1": 10,
-      "dose2": 1,
-      "vaccines": 11
+      "dose2": 0,
+      "vaccines": 10
     },
     {
       "date": "2021-04-05",
@@ -502,9 +495,9 @@
     {
       "date": "2021-05-19",
       "locality": "ALBANY DC",
-      "dose1": 19,
+      "dose1": 18,
       "dose2": 0,
-      "vaccines": 19
+      "vaccines": 18
     },
     {
       "date": "2021-05-20",
@@ -985,9 +978,9 @@
     {
       "date": "2021-07-29",
       "locality": "ALBANY DC",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 7,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-07-30",
@@ -1084,8 +1077,8 @@
       "date": "2021-08-12",
       "locality": "ALBANY DC",
       "dose1": 3,
-      "dose2": 33,
-      "vaccines": 36
+      "dose2": 32,
+      "vaccines": 35
     },
     {
       "date": "2021-08-13",
@@ -1125,9 +1118,9 @@
     {
       "date": "2021-08-18",
       "locality": "ALBANY DC",
-      "dose1": 22,
+      "dose1": 21,
       "dose2": 15,
-      "vaccines": 37
+      "vaccines": 36
     },
     {
       "date": "2021-08-19",
@@ -1301,8 +1294,8 @@
       "date": "2021-09-12",
       "locality": "ALBANY DC",
       "dose1": 28,
-      "dose2": 8,
-      "vaccines": 36
+      "dose2": 7,
+      "vaccines": 35
     },
     {
       "date": "2021-09-13",
@@ -1462,22 +1455,22 @@
       "date": "2021-10-05",
       "locality": "ALBANY DC",
       "dose1": 18,
-      "dose2": 17,
-      "vaccines": 35
+      "dose2": 16,
+      "vaccines": 34
     },
     {
       "date": "2021-10-06",
       "locality": "ALBANY DC",
-      "dose1": 16,
+      "dose1": 15,
       "dose2": 18,
-      "vaccines": 34
+      "vaccines": 33
     },
     {
       "date": "2021-10-07",
       "locality": "ALBANY DC",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 19,
-      "vaccines": 30
+      "vaccines": 31
     },
     {
       "date": "2021-10-08",
@@ -1524,9 +1517,9 @@
     {
       "date": "2021-10-14",
       "locality": "ALBANY DC",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 8,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-10-15",
@@ -1580,9 +1573,9 @@
     {
       "date": "2021-10-22",
       "locality": "ALBANY DC",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 17,
-      "vaccines": 34
+      "vaccines": 33
     },
     {
       "date": "2021-10-23",
@@ -1616,14 +1609,14 @@
       "date": "2021-10-27",
       "locality": "ALBANY DC",
       "dose1": 10,
-      "dose2": 16,
-      "vaccines": 26
+      "dose2": 15,
+      "vaccines": 25
     },
     {
       "date": "2021-10-28",
       "locality": "ALBANY DC",
-      "dose1": 6,
-      "dose2": 7,
+      "dose1": 5,
+      "dose2": 8,
       "vaccines": 13
     },
     {
@@ -1672,8 +1665,8 @@
       "date": "2021-11-04",
       "locality": "ALBANY DC",
       "dose1": 2,
-      "dose2": 14,
-      "vaccines": 16
+      "dose2": 13,
+      "vaccines": 15
     },
     {
       "date": "2021-11-05",
@@ -1728,8 +1721,8 @@
       "date": "2021-11-12",
       "locality": "ALBANY DC",
       "dose1": 6,
-      "dose2": 13,
-      "vaccines": 19
+      "dose2": 12,
+      "vaccines": 18
     },
     {
       "date": "2021-11-13",
@@ -1811,9 +1804,9 @@
     {
       "date": "2021-11-24",
       "locality": "ALBANY DC",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 9,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-11-25",
@@ -2043,8 +2036,8 @@
       "date": "2021-12-29",
       "locality": "ALBANY DC",
       "dose1": 2,
-      "dose2": 15,
-      "vaccines": 17
+      "dose2": 13,
+      "vaccines": 15
     },
     {
       "date": "2021-12-30",
@@ -2183,8 +2176,15 @@
       "date": "2022-01-18",
       "locality": "ALBANY DC",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "ALBANY DC",
+      "dose1": 5,
+      "dose2": 9,
+      "vaccines": 14
     }
   ]
 }

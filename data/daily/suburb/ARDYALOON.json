@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-18T00:00:00",
+  "date_updated": "2022-01-19T00:00:00",
   "locality": "ARDYALOON",
   "data": [
     {
@@ -584,10 +584,24 @@
       "vaccines": 0
     },
     {
-      "date": "2022-01-18",
+      "date": "2022-01-17",
       "locality": "ARDYALOON",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-18",
+      "locality": "ARDYALOON",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "ARDYALOON",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

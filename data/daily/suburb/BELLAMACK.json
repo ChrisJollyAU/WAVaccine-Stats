@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "BELLAMACK",
   "data": [
     {
@@ -11,6 +11,20 @@
     },
     {
       "date": "2021-03-19",
+      "locality": "BELLAMACK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-12",
+      "locality": "BELLAMACK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-07",
       "locality": "BELLAMACK",
       "dose1": 0,
       "dose2": 1,
@@ -52,11 +66,25 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-13",
+      "locality": "BELLAMACK",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2021-12-20",
       "locality": "BELLAMACK",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "BELLAMACK",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

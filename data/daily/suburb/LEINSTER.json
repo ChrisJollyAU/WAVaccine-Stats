@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "LEINSTER",
   "data": [
     {
@@ -78,13 +78,6 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
-    },
-    {
-      "date": "2021-07-07",
-      "locality": "LEINSTER",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-07-08",
@@ -174,8 +167,8 @@
       "date": "2021-08-20",
       "locality": "LEINSTER",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-21",
@@ -187,9 +180,9 @@
     {
       "date": "2021-08-24",
       "locality": "LEINSTER",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-08-25",
@@ -252,13 +245,6 @@
       "locality": "LEINSTER",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-08",
-      "locality": "LEINSTER",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -377,8 +363,8 @@
       "date": "2021-10-06",
       "locality": "LEINSTER",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-10-07",
@@ -390,9 +376,9 @@
     {
       "date": "2021-10-08",
       "locality": "LEINSTER",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-10-11",
@@ -405,8 +391,8 @@
       "date": "2021-10-12",
       "locality": "LEINSTER",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-10-13",
@@ -531,8 +517,8 @@
       "date": "2021-11-08",
       "locality": "LEINSTER",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-11-09",
@@ -822,13 +808,6 @@
       "vaccines": 6
     },
     {
-      "date": "2022-01-10",
-      "locality": "LEINSTER",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
       "date": "2022-01-11",
       "locality": "LEINSTER",
       "dose1": 0,
@@ -869,6 +848,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "LEINSTER",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

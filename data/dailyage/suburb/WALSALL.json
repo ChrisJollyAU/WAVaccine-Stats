@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "postcode": "WALSALL",
   "data": [
     {
@@ -731,6 +731,14 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-12",
+      "locality": "WALSALL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-13",
       "locality": "WALSALL",
       "AgeGroup": "50 to 69",
@@ -761,6 +769,14 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "WALSALL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

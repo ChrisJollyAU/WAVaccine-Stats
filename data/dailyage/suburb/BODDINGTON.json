@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "postcode": "BODDINGTON",
   "data": [
     {
@@ -966,9 +966,9 @@
       "date": "2021-07-08",
       "locality": "BODDINGTON",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-07-09",
@@ -1918,9 +1918,9 @@
       "date": "2021-09-14",
       "locality": "BODDINGTON",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 11,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-09-14",
@@ -2219,14 +2219,6 @@
       "vaccines": 6
     },
     {
-      "date": "2021-10-01",
-      "locality": "BODDINGTON",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-02",
       "locality": "BODDINGTON",
       "AgeGroup": "16 to 49",
@@ -2271,8 +2263,8 @@
       "locality": "BODDINGTON",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 3,
-      "vaccines": 8
+      "dose2": 2,
+      "vaccines": 7
     },
     {
       "date": "2021-10-05",
@@ -3214,9 +3206,9 @@
       "date": "2021-11-26",
       "locality": "BODDINGTON",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-11-27",
@@ -3679,8 +3671,8 @@
       "locality": "BODDINGTON",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-20",
@@ -4238,9 +4230,17 @@
       "date": "2022-01-18",
       "locality": "BODDINGTON",
       "AgeGroup": "70 and over",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-19",
+      "locality": "BODDINGTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2022-01-19",
@@ -4265,6 +4265,22 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "BODDINGTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "BODDINGTON",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

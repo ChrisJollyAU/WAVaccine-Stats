@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "MILLBROOK",
   "data": [
     {
@@ -1277,6 +1277,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-29",
+      "locality": "MILLBROOK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-30",
       "locality": "MILLBROOK",
       "dose1": 1,
@@ -1392,8 +1399,15 @@
       "date": "2022-01-19",
       "locality": "MILLBROOK",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "MILLBROOK",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "DJUGUN",
   "data": [
     {
@@ -108,6 +108,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-04-27",
+      "locality": "DJUGUN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-03",
       "locality": "DJUGUN",
       "dose1": 2,
@@ -132,8 +139,8 @@
       "date": "2021-05-18",
       "locality": "DJUGUN",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-05-19",
@@ -285,9 +292,9 @@
     {
       "date": "2021-07-06",
       "locality": "DJUGUN",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-07-07",
@@ -405,8 +412,8 @@
       "date": "2021-08-11",
       "locality": "DJUGUN",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-08-13",
@@ -712,9 +719,9 @@
     {
       "date": "2021-10-13",
       "locality": "DJUGUN",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 2,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-14",
@@ -810,9 +817,9 @@
     {
       "date": "2021-11-03",
       "locality": "DJUGUN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-11-04",
@@ -825,8 +832,8 @@
       "date": "2021-11-05",
       "locality": "DJUGUN",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2021-11-08",
@@ -1161,15 +1168,15 @@
       "date": "2022-01-17",
       "locality": "DJUGUN",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2022-01-18",
       "locality": "DJUGUN",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2022-01-19",
@@ -1177,6 +1184,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "DJUGUN",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

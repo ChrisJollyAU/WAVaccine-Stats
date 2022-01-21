@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "DARLING DOWNS",
   "data": [
     {
@@ -2071,7 +2071,14 @@
       "date": "2022-01-19",
       "locality": "DARLING DOWNS",
       "dose1": 3,
-      "dose2": 3,
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "DARLING DOWNS",
+      "dose1": 2,
+      "dose2": 4,
       "vaccines": 6
     }
   ]

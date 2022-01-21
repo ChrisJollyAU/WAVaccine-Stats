@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "MOORA",
   "data": [
     {
@@ -68,9 +68,9 @@
     {
       "date": "2021-03-24",
       "locality": "MOORA",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 0,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-03-25",
@@ -248,6 +248,13 @@
       "vaccines": 4
     },
     {
+      "date": "2021-05-11",
+      "locality": "MOORA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-12",
       "locality": "MOORA",
       "dose1": 40,
@@ -405,8 +412,8 @@
       "date": "2021-06-15",
       "locality": "MOORA",
       "dose1": 25,
-      "dose2": 17,
-      "vaccines": 42
+      "dose2": 16,
+      "vaccines": 41
     },
     {
       "date": "2021-06-16",
@@ -685,8 +692,8 @@
       "date": "2021-08-06",
       "locality": "MOORA",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-08-08",
@@ -705,9 +712,9 @@
     {
       "date": "2021-08-10",
       "locality": "MOORA",
-      "dose1": 34,
+      "dose1": 35,
       "dose2": 12,
-      "vaccines": 46
+      "vaccines": 47
     },
     {
       "date": "2021-08-11",
@@ -874,8 +881,8 @@
       "date": "2021-09-06",
       "locality": "MOORA",
       "dose1": 3,
-      "dose2": 34,
-      "vaccines": 37
+      "dose2": 35,
+      "vaccines": 38
     },
     {
       "date": "2021-09-07",
@@ -1167,9 +1174,9 @@
     {
       "date": "2021-10-21",
       "locality": "MOORA",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-10-22",
@@ -1343,8 +1350,8 @@
       "date": "2021-11-18",
       "locality": "MOORA",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 9
     },
     {
       "date": "2021-11-19",
@@ -1426,9 +1433,9 @@
     {
       "date": "2021-12-04",
       "locality": "MOORA",
-      "dose1": 24,
+      "dose1": 25,
       "dose2": 5,
-      "vaccines": 29
+      "vaccines": 30
     },
     {
       "date": "2021-12-05",
@@ -1686,15 +1693,22 @@
       "date": "2022-01-18",
       "locality": "MOORA",
       "dose1": 12,
-      "dose2": 6,
-      "vaccines": 18
+      "dose2": 7,
+      "vaccines": 19
     },
     {
       "date": "2022-01-19",
       "locality": "MOORA",
-      "dose1": 6,
+      "dose1": 7,
+      "dose2": 6,
+      "vaccines": 13
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "MOORA",
+      "dose1": 10,
       "dose2": 5,
-      "vaccines": 11
+      "vaccines": 15
     }
   ]
 }

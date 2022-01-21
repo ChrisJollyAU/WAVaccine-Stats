@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "MEEKATHARRA",
   "data": [
     {
@@ -1307,9 +1307,16 @@
     {
       "date": "2022-01-19",
       "locality": "MEEKATHARRA",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "MEEKATHARRA",
+      "dose1": 8,
+      "dose2": 3,
+      "vaccines": 11
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "postcode": "SEPPINGS",
   "data": [
     {
@@ -83,6 +83,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-05-12",
+      "locality": "SEPPINGS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-05-15",
       "locality": "SEPPINGS",
       "AgeGroup": "70 and over",
@@ -136,6 +144,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-03",
+      "locality": "SEPPINGS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -755,6 +771,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-23",
+      "locality": "SEPPINGS",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-25",
       "locality": "SEPPINGS",
       "AgeGroup": "50 to 69",
@@ -903,8 +927,8 @@
       "locality": "SEPPINGS",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-10-14",
@@ -1612,6 +1636,22 @@
     },
     {
       "date": "2022-01-19",
+      "locality": "SEPPINGS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "SEPPINGS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-20",
       "locality": "SEPPINGS",
       "AgeGroup": "50 to 69",
       "dose1": 0,

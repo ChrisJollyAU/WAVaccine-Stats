@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "BOYUP BROOK",
   "data": [
     {
@@ -1678,9 +1678,16 @@
     {
       "date": "2022-01-19",
       "locality": "BOYUP BROOK",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 5,
-      "vaccines": 7
+      "vaccines": 8
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "BOYUP BROOK",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

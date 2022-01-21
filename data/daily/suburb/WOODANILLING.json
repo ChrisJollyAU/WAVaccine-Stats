@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "WOODANILLING",
   "data": [
     {
@@ -290,13 +290,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-07-17",
-      "locality": "WOODANILLING",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-19",
       "locality": "WOODANILLING",
       "dose1": 1,
@@ -426,8 +419,8 @@
       "date": "2021-08-15",
       "locality": "WOODANILLING",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-16",
@@ -1098,8 +1091,15 @@
       "date": "2022-01-19",
       "locality": "WOODANILLING",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "WOODANILLING",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

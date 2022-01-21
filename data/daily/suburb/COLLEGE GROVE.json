@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "locality": "COLLEGE GROVE",
   "data": [
     {
@@ -1902,9 +1902,16 @@
     {
       "date": "2022-01-19",
       "locality": "COLLEGE GROVE",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 5,
-      "vaccines": 6
+      "vaccines": 7
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "COLLEGE GROVE",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     }
   ]
 }

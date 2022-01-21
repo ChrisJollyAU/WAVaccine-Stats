@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-19T00:00:00",
+  "date_updated": "2022-01-20T00:00:00",
   "postcode": "CARLISLE SOUTH",
   "data": [
     {
@@ -161,6 +161,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-05-27",
+      "locality": "CARLISLE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-03",
@@ -694,6 +702,14 @@
       "date": "2021-09-07",
       "locality": "CARLISLE SOUTH",
       "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-07",
+      "locality": "CARLISLE SOUTH",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1331,6 +1347,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-12-22",
+      "locality": "CARLISLE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-23",
       "locality": "CARLISLE SOUTH",
       "AgeGroup": "16 to 49",
@@ -1515,6 +1539,14 @@
       "vaccines": 1
     },
     {
+      "date": "2022-01-17",
+      "locality": "CARLISLE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2022-01-18",
       "locality": "CARLISLE SOUTH",
       "AgeGroup": "50 to 69",
@@ -1540,6 +1572,30 @@
     },
     {
       "date": "2022-01-19",
+      "locality": "CARLISLE SOUTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "CARLISLE SOUTH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "CARLISLE SOUTH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-20",
       "locality": "CARLISLE SOUTH",
       "AgeGroup": "70 and over",
       "dose1": 0,

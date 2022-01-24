@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "HAY",
   "data": [
+    {
+      "date": "2021-03-16",
+      "locality": "HAY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-18",
       "locality": "HAY",
@@ -167,8 +174,8 @@
       "date": "2021-07-08",
       "locality": "HAY",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-07-10",
@@ -675,6 +682,13 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-03",
+      "locality": "HAY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-04",
       "locality": "HAY",
       "dose1": 1,
@@ -732,6 +746,20 @@
     },
     {
       "date": "2022-01-20",
+      "locality": "HAY",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "HAY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-22",
       "locality": "HAY",
       "dose1": 0,
       "dose2": 1,

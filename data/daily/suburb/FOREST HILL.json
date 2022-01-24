@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "FOREST HILL",
   "data": [
     {
@@ -462,6 +462,13 @@
       "locality": "FOREST HILL",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "FOREST HILL",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

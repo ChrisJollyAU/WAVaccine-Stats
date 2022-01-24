@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "WHITBY",
   "data": [
     {
@@ -957,9 +957,9 @@
     {
       "date": "2021-09-21",
       "locality": "WHITBY",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-09-22",
@@ -1154,8 +1154,8 @@
       "date": "2021-10-19",
       "locality": "WHITBY",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-10-20",
@@ -1503,9 +1503,9 @@
     {
       "date": "2021-12-08",
       "locality": "WHITBY",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-12-09",
@@ -1636,9 +1636,9 @@
     {
       "date": "2021-12-30",
       "locality": "WHITBY",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 4,
-      "vaccines": 12
+      "vaccines": 11
     },
     {
       "date": "2021-12-31",
@@ -1665,8 +1665,8 @@
       "date": "2022-01-04",
       "locality": "WHITBY",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2022-01-05",
@@ -1776,9 +1776,30 @@
     {
       "date": "2022-01-20",
       "locality": "WHITBY",
+      "dose1": 2,
+      "dose2": 8,
+      "vaccines": 10
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "WHITBY",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-22",
+      "locality": "WHITBY",
       "dose1": 0,
-      "dose2": 4,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-23",
+      "locality": "WHITBY",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

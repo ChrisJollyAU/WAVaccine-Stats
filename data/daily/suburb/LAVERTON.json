@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "LAVERTON",
   "data": [
     {
@@ -257,16 +257,16 @@
     {
       "date": "2021-09-01",
       "locality": "LAVERTON",
-      "dose1": 11,
+      "dose1": 12,
       "dose2": 1,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-09-02",
       "locality": "LAVERTON",
-      "dose1": 33,
+      "dose1": 32,
       "dose2": 11,
-      "vaccines": 44
+      "vaccines": 43
     },
     {
       "date": "2021-09-03",
@@ -356,8 +356,8 @@
       "date": "2021-09-30",
       "locality": "LAVERTON",
       "dose1": 11,
-      "dose2": 12,
-      "vaccines": 23
+      "dose2": 13,
+      "vaccines": 24
     },
     {
       "date": "2021-10-01",
@@ -509,9 +509,9 @@
     {
       "date": "2021-11-03",
       "locality": "LAVERTON",
-      "dose1": 21,
-      "dose2": 6,
-      "vaccines": 27
+      "dose1": 20,
+      "dose2": 5,
+      "vaccines": 25
     },
     {
       "date": "2021-11-04",
@@ -804,8 +804,8 @@
       "date": "2022-01-05",
       "locality": "LAVERTON",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2022-01-06",
@@ -890,6 +890,20 @@
       "dose1": 1,
       "dose2": 3,
       "vaccines": 4
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "LAVERTON",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-22",
+      "locality": "LAVERTON",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "MACQUARIE PARK",
   "data": [
+    {
+      "date": "2021-07-28",
+      "locality": "MACQUARIE PARK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-07-30",
       "locality": "MACQUARIE PARK",
@@ -11,6 +18,13 @@
     },
     {
       "date": "2021-08-20",
+      "locality": "MACQUARIE PARK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-01",
       "locality": "MACQUARIE PARK",
       "dose1": 0,
       "dose2": 1,

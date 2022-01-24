@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "PERENJORI",
   "data": [
     {
@@ -292,9 +292,9 @@
     {
       "date": "2021-08-05",
       "locality": "PERENJORI",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 5,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-08-06",
@@ -426,8 +426,8 @@
       "date": "2021-09-02",
       "locality": "PERENJORI",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-04",
@@ -983,6 +983,13 @@
       "vaccines": 6
     },
     {
+      "date": "2021-12-17",
+      "locality": "PERENJORI",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2021-12-20",
       "locality": "PERENJORI",
       "dose1": 1,
@@ -1062,9 +1069,9 @@
     {
       "date": "2022-01-11",
       "locality": "PERENJORI",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2022-01-12",
@@ -1104,23 +1111,23 @@
     {
       "date": "2022-01-18",
       "locality": "PERENJORI",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2022-01-19",
       "locality": "PERENJORI",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 4
     },
     {
       "date": "2022-01-20",
       "locality": "PERENJORI",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 7,
+      "vaccines": 8
     }
   ]
 }

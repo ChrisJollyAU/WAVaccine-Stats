@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "YANDANOOKA",
   "data": [
+    {
+      "date": "2021-08-11",
+      "locality": "YANDANOOKA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-08-27",
       "locality": "YANDANOOKA",
@@ -10,11 +17,39 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-07",
+      "locality": "YANDANOOKA",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
+      "locality": "YANDANOOKA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-25",
       "locality": "YANDANOOKA",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-10-15",
+      "locality": "YANDANOOKA",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-20",
+      "locality": "YANDANOOKA",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

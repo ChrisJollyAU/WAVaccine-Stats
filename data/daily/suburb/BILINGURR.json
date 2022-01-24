@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "BILINGURR",
   "data": [
     {
@@ -376,9 +376,9 @@
     {
       "date": "2021-09-14",
       "locality": "BILINGURR",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-15",
@@ -482,8 +482,8 @@
       "date": "2021-10-07",
       "locality": "BILINGURR",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-08",
@@ -610,13 +610,6 @@
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
-    },
-    {
-      "date": "2021-11-13",
-      "locality": "BILINGURR",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-11-15",
@@ -801,6 +794,13 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-17",
+      "locality": "BILINGURR",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2022-01-18",
       "locality": "BILINGURR",
       "dose1": 0,
@@ -819,6 +819,13 @@
       "locality": "BILINGURR",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "BILINGURR",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

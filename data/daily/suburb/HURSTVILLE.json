@@ -1,12 +1,26 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "HURSTVILLE",
   "data": [
+    {
+      "date": "2021-06-18",
+      "locality": "HURSTVILLE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-07-17",
       "locality": "HURSTVILLE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-18",
+      "locality": "HURSTVILLE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -18,6 +32,13 @@
     },
     {
       "date": "2022-01-15",
+      "locality": "HURSTVILLE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-22",
       "locality": "HURSTVILLE",
       "dose1": 0,
       "dose2": 0,

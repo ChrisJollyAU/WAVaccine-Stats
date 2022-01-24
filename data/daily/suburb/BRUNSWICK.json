@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "locality": "BRUNSWICK",
   "data": [
     {
@@ -1118,9 +1118,9 @@
     {
       "date": "2021-09-14",
       "locality": "BRUNSWICK",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 5,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-09-15",
@@ -1259,8 +1259,8 @@
       "date": "2021-10-07",
       "locality": "BRUNSWICK",
       "dose1": 12,
-      "dose2": 5,
-      "vaccines": 17
+      "dose2": 6,
+      "vaccines": 18
     },
     {
       "date": "2021-10-08",
@@ -1926,6 +1926,20 @@
       "dose1": 2,
       "dose2": 4,
       "vaccines": 6
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "BRUNSWICK",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-22",
+      "locality": "BRUNSWICK",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

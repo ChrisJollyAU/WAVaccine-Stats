@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "postcode": "0832",
   "data": [
     {
@@ -31,13 +31,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-06-12",
-      "postcode": "0832",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-15",
       "postcode": "0832",
       "dose1": 0,
@@ -55,11 +48,18 @@
       "date": "2021-07-07",
       "postcode": "0832",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-19",
+      "postcode": "0832",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-30",
       "postcode": "0832",
       "dose1": 1,
       "dose2": 0,
@@ -105,6 +105,13 @@
       "postcode": "0832",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-20",
+      "postcode": "0832",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -311,13 +318,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-12-15",
-      "postcode": "0832",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-12-20",
       "postcode": "0832",
       "dose1": 0,
@@ -379,6 +379,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-22",
+      "postcode": "0832",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

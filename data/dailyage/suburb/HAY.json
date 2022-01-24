@@ -1,7 +1,15 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "postcode": "HAY",
   "data": [
+    {
+      "date": "2021-03-16",
+      "locality": "HAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-18",
       "locality": "HAY",
@@ -239,8 +247,8 @@
       "locality": "HAY",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-08",
@@ -1003,6 +1011,14 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-03",
+      "locality": "HAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-04",
       "locality": "HAY",
       "AgeGroup": "16 to 49",
@@ -1124,6 +1140,22 @@
     },
     {
       "date": "2022-01-20",
+      "locality": "HAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "HAY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-22",
       "locality": "HAY",
       "AgeGroup": "16 to 49",
       "dose1": 0,

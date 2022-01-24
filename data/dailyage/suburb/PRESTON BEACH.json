@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-20T00:00:00",
+  "date_updated": "2022-01-23T00:00:00",
   "postcode": "PRESTON BEACH",
   "data": [
     {
@@ -1875,6 +1875,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-23",
+      "locality": "PRESTON BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-29",
       "locality": "PRESTON BEACH",
       "AgeGroup": "16 to 49",
@@ -2023,8 +2031,8 @@
       "locality": "PRESTON BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2022-01-13",
@@ -2134,6 +2142,22 @@
       "date": "2022-01-20",
       "locality": "PRESTON BEACH",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "PRESTON BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-21",
+      "locality": "PRESTON BEACH",
+      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

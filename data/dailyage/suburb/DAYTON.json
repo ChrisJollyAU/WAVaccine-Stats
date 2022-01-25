@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "postcode": "DAYTON",
   "data": [
     {
@@ -4155,6 +4155,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-17",
+      "locality": "DAYTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-18",
       "locality": "DAYTON",
       "AgeGroup": "16 to 49",
@@ -4846,8 +4854,8 @@
       "date": "2021-11-14",
       "locality": "DAYTON",
       "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -5150,9 +5158,9 @@
       "date": "2021-11-26",
       "locality": "DAYTON",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 17,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-11-26",
@@ -5638,9 +5646,9 @@
       "date": "2021-12-16",
       "locality": "DAYTON",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 12,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-12-16",
@@ -5990,9 +5998,9 @@
       "date": "2021-12-31",
       "locality": "DAYTON",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 10,
-      "vaccines": 22
+      "vaccines": 23
     },
     {
       "date": "2021-12-31",
@@ -6166,8 +6174,8 @@
       "date": "2022-01-07",
       "locality": "DAYTON",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
-      "dose2": 14,
+      "dose1": 2,
+      "dose2": 15,
       "vaccines": 17
     },
     {
@@ -6654,6 +6662,38 @@
       "date": "2022-01-23",
       "locality": "DAYTON",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "DAYTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "DAYTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 5,
+      "dose2": 11,
+      "vaccines": 16
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "DAYTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "DAYTON",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

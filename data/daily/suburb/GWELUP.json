@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "locality": "GWELUP",
   "data": [
     {
@@ -376,16 +376,16 @@
     {
       "date": "2021-04-21",
       "locality": "GWELUP",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 3,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-04-22",
       "locality": "GWELUP",
-      "dose1": 21,
+      "dose1": 20,
       "dose2": 1,
-      "vaccines": 22
+      "vaccines": 21
     },
     {
       "date": "2021-04-23",
@@ -965,15 +965,15 @@
       "date": "2021-07-14",
       "locality": "GWELUP",
       "dose1": 16,
-      "dose2": 24,
-      "vaccines": 40
+      "dose2": 23,
+      "vaccines": 39
     },
     {
       "date": "2021-07-15",
       "locality": "GWELUP",
       "dose1": 22,
-      "dose2": 19,
-      "vaccines": 41
+      "dose2": 18,
+      "vaccines": 40
     },
     {
       "date": "2021-07-16",
@@ -1461,9 +1461,9 @@
     {
       "date": "2021-09-23",
       "locality": "GWELUP",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 24,
-      "vaccines": 52
+      "vaccines": 51
     },
     {
       "date": "2021-09-24",
@@ -1609,8 +1609,8 @@
       "date": "2021-10-14",
       "locality": "GWELUP",
       "dose1": 13,
-      "dose2": 32,
-      "vaccines": 45
+      "dose2": 31,
+      "vaccines": 44
     },
     {
       "date": "2021-10-15",
@@ -1734,9 +1734,9 @@
     {
       "date": "2021-11-01",
       "locality": "GWELUP",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 20,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-11-02",
@@ -2311,6 +2311,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "GWELUP",
+      "dose1": 4,
+      "dose2": 7,
+      "vaccines": 11
     }
   ]
 }

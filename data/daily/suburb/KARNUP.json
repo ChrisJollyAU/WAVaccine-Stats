@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "locality": "KARNUP",
   "data": [
     {
@@ -1041,9 +1041,9 @@
     {
       "date": "2021-08-27",
       "locality": "KARNUP",
-      "dose1": 10,
+      "dose1": 11,
       "dose2": 7,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-08-28",
@@ -1553,8 +1553,8 @@
       "date": "2021-11-08",
       "locality": "KARNUP",
       "dose1": 12,
-      "dose2": 10,
-      "vaccines": 22
+      "dose2": 11,
+      "vaccines": 23
     },
     {
       "date": "2021-11-09",
@@ -2063,9 +2063,16 @@
     {
       "date": "2022-01-23",
       "locality": "KARNUP",
-      "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "KARNUP",
+      "dose1": 3,
+      "dose2": 8,
+      "vaccines": 11
     }
   ]
 }

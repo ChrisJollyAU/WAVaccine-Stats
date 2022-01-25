@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "postcode": "CARLISLE NORTH",
   "data": [
     {
@@ -2139,6 +2139,14 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-20",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-21",
       "locality": "CARLISLE NORTH",
       "AgeGroup": "12 to 15",
@@ -2169,6 +2177,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "CARLISLE NORTH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

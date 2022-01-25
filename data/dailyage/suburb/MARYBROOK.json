@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "postcode": "MARYBROOK",
   "data": [
     {
@@ -651,19 +651,11 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-22",
-      "locality": "MARYBROOK",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-24",
       "locality": "MARYBROOK",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 2,
+      "dose1": 2,
+      "dose2": 1,
       "vaccines": 3
     },
     {
@@ -695,8 +687,8 @@
       "locality": "MARYBROOK",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-01",
@@ -801,6 +793,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-18",
+      "locality": "MARYBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2021-09-21",
@@ -1429,10 +1429,26 @@
     {
       "date": "2022-01-22",
       "locality": "MARYBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-22",
+      "locality": "MARYBROOK",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "MARYBROOK",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

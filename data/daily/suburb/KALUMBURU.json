@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "locality": "KALUMBURU",
   "data": [
     {
@@ -629,8 +629,8 @@
       "date": "2022-01-20",
       "locality": "KALUMBURU",
       "dose1": 9,
-      "dose2": 0,
-      "vaccines": 9
+      "dose2": 1,
+      "vaccines": 10
     },
     {
       "date": "2022-01-21",
@@ -638,6 +638,13 @@
       "dose1": 1,
       "dose2": 4,
       "vaccines": 5
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "KALUMBURU",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

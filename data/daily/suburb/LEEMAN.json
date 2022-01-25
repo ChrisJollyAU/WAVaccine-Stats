@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "locality": "LEEMAN",
   "data": [
     {
@@ -572,9 +572,9 @@
     {
       "date": "2021-09-02",
       "locality": "LEEMAN",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-09-03",
@@ -706,8 +706,8 @@
       "date": "2021-09-30",
       "locality": "LEEMAN",
       "dose1": 0,
-      "dose2": 6,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 5
     },
     {
       "date": "2021-10-01",
@@ -1299,6 +1299,13 @@
     },
     {
       "date": "2022-01-21",
+      "locality": "LEEMAN",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-24",
       "locality": "LEEMAN",
       "dose1": 0,
       "dose2": 0,

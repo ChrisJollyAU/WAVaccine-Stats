@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "locality": "PINGELLY",
   "data": [
     {
@@ -446,9 +446,9 @@
     {
       "date": "2021-07-06",
       "locality": "PINGELLY",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 10,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-07-07",
@@ -502,9 +502,9 @@
     {
       "date": "2021-07-15",
       "locality": "PINGELLY",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 6,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-07-16",
@@ -622,8 +622,8 @@
       "date": "2021-08-05",
       "locality": "PINGELLY",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-08-06",
@@ -734,8 +734,8 @@
       "date": "2021-08-25",
       "locality": "PINGELLY",
       "dose1": 5,
-      "dose2": 4,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 10
     },
     {
       "date": "2021-08-26",
@@ -1681,6 +1681,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "PINGELLY",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "locality": "GEOGRAPHE",
   "data": [
     {
@@ -2064,8 +2064,8 @@
       "date": "2022-01-22",
       "locality": "GEOGRAPHE",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2022-01-23",
@@ -2073,6 +2073,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "GEOGRAPHE",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
     }
   ]
 }

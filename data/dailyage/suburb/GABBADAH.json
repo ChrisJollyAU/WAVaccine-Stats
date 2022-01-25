@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "postcode": "GABBADAH",
   "data": [
     {
@@ -2149,6 +2149,14 @@
     {
       "date": "2021-09-24",
       "locality": "GABBADAH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "GABBADAH",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
@@ -2527,8 +2535,8 @@
       "locality": "GABBADAH",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 0,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-10-16",
@@ -2808,6 +2816,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-31",
+      "locality": "GABBADAH",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -3176,6 +3192,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-21",
+      "locality": "GABBADAH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -3686,9 +3710,9 @@
       "date": "2021-12-22",
       "locality": "GABBADAH",
       "AgeGroup": "12 to 15",
-      "dose1": 3,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 1
     },
     {
       "date": "2021-12-22",
@@ -4300,6 +4324,22 @@
     },
     {
       "date": "2022-01-22",
+      "locality": "GABBADAH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "GABBADAH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-24",
       "locality": "GABBADAH",
       "AgeGroup": "50 to 69",
       "dose1": 0,

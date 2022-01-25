@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "locality": "GOOMALLING",
   "data": [
     {
@@ -39,6 +39,13 @@
     },
     {
       "date": "2021-03-29",
+      "locality": "GOOMALLING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-30",
       "locality": "GOOMALLING",
       "dose1": 1,
       "dose2": 0,
@@ -321,8 +328,8 @@
       "date": "2021-06-29",
       "locality": "GOOMALLING",
       "dose1": 9,
-      "dose2": 0,
-      "vaccines": 9
+      "dose2": 1,
+      "vaccines": 10
     },
     {
       "date": "2021-06-30",
@@ -1506,6 +1513,13 @@
       "dose1": 0,
       "dose2": 4,
       "vaccines": 4
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "GOOMALLING",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

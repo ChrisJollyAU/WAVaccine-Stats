@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-23T00:00:00",
+  "date_updated": "2022-01-24T00:00:00",
   "locality": "LANGE",
   "data": [
     {
@@ -789,9 +789,9 @@
     {
       "date": "2021-08-29",
       "locality": "LANGE",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 7
     },
     {
       "date": "2021-08-30",
@@ -894,8 +894,8 @@
     {
       "date": "2021-09-19",
       "locality": "LANGE",
-      "dose1": 3,
-      "dose2": 4,
+      "dose1": 2,
+      "dose2": 5,
       "vaccines": 7
     },
     {
@@ -1516,6 +1516,13 @@
     },
     {
       "date": "2022-01-23",
+      "locality": "LANGE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-24",
       "locality": "LANGE",
       "dose1": 0,
       "dose2": 0,

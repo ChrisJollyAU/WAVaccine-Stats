@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "postcode": "MOUNT CLARENCE",
   "data": [
     {
@@ -125,6 +125,14 @@
     {
       "date": "2021-03-30",
       "locality": "MOUNT CLARENCE",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-30",
+      "locality": "MOUNT CLARENCE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
@@ -198,9 +206,9 @@
       "date": "2021-04-07",
       "locality": "MOUNT CLARENCE",
       "AgeGroup": "70 and over",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 3
     },
     {
       "date": "2021-04-08",
@@ -1075,6 +1083,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-07-07",
+      "locality": "MOUNT CLARENCE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
       "date": "2021-07-08",
       "locality": "MOUNT CLARENCE",
       "AgeGroup": "50 to 69",
@@ -1191,8 +1207,8 @@
       "locality": "MOUNT CLARENCE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-07-19",
@@ -3693,6 +3709,14 @@
     {
       "date": "2021-12-31",
       "locality": "MOUNT CLARENCE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2021-12-31",
+      "locality": "MOUNT CLARENCE",
       "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 1,
@@ -4153,6 +4177,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-24",
+      "locality": "MOUNT CLARENCE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "MOUNT CLARENCE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "MOUNT CLARENCE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

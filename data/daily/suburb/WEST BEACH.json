@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "WEST BEACH",
   "data": [
     {
@@ -1146,9 +1146,9 @@
     {
       "date": "2021-10-19",
       "locality": "WEST BEACH",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-10-20",
@@ -1301,8 +1301,8 @@
       "date": "2021-11-11",
       "locality": "WEST BEACH",
       "dose1": 2,
-      "dose2": 12,
-      "vaccines": 14
+      "dose2": 13,
+      "vaccines": 15
     },
     {
       "date": "2021-11-12",
@@ -1750,6 +1750,20 @@
       "locality": "WEST BEACH",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "WEST BEACH",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "WEST BEACH",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

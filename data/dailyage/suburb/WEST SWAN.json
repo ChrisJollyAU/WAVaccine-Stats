@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "postcode": "WEST SWAN",
   "data": [
     {
@@ -1027,14 +1027,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-07-16",
-      "locality": "WEST SWAN",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-18",
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
@@ -1495,8 +1487,8 @@
       "locality": "WEST SWAN",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-08-19",
@@ -2254,9 +2246,9 @@
       "date": "2021-10-02",
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-02",
@@ -2643,6 +2635,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-23",
+      "locality": "WEST SWAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-24",
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
@@ -2774,9 +2774,9 @@
       "date": "2021-11-01",
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-11-01",
@@ -2918,9 +2918,9 @@
       "date": "2021-11-09",
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-11-09",
@@ -2998,9 +2998,9 @@
       "date": "2021-11-15",
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-11-15",
@@ -3119,8 +3119,8 @@
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 2,
-      "vaccines": 6
+      "dose2": 3,
+      "vaccines": 7
     },
     {
       "date": "2021-11-22",
@@ -3166,9 +3166,9 @@
       "date": "2021-11-24",
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-11-24",
@@ -3343,8 +3343,8 @@
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-12-14",
@@ -3375,8 +3375,8 @@
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-12-15",
@@ -3391,8 +3391,8 @@
       "locality": "WEST SWAN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-12-16",
@@ -4068,6 +4068,38 @@
     },
     {
       "date": "2022-01-24",
+      "locality": "WEST SWAN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "WEST SWAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "WEST SWAN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "WEST SWAN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-26",
       "locality": "WEST SWAN",
       "AgeGroup": "70 and over",
       "dose1": 0,

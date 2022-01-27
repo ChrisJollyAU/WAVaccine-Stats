@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "MUCHEA",
   "data": [
     {
@@ -88,13 +88,6 @@
     },
     {
       "date": "2021-03-21",
-      "locality": "MUCHEA",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-03-22",
       "locality": "MUCHEA",
       "dose1": 1,
       "dose2": 0,
@@ -369,9 +362,9 @@
     {
       "date": "2021-05-24",
       "locality": "MUCHEA",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 0,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-05-26",
@@ -503,8 +496,8 @@
       "date": "2021-06-15",
       "locality": "MUCHEA",
       "dose1": 5,
-      "dose2": 1,
-      "vaccines": 6
+      "dose2": 0,
+      "vaccines": 5
     },
     {
       "date": "2021-06-16",
@@ -1098,8 +1091,8 @@
       "date": "2021-09-13",
       "locality": "MUCHEA",
       "dose1": 7,
-      "dose2": 3,
-      "vaccines": 10
+      "dose2": 2,
+      "vaccines": 9
     },
     {
       "date": "2021-09-14",
@@ -1972,9 +1965,23 @@
     {
       "date": "2022-01-24",
       "locality": "MUCHEA",
-      "dose1": 0,
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "MUCHEA",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "MUCHEA",
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "TAMMIN",
   "data": [
     {
@@ -782,9 +782,9 @@
     {
       "date": "2021-10-08",
       "locality": "TAMMIN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-10-11",
@@ -888,8 +888,8 @@
       "date": "2021-10-29",
       "locality": "TAMMIN",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-10-30",
@@ -1324,6 +1324,20 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "TAMMIN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "TAMMIN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

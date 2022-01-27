@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "GLEN FORREST",
   "data": [
     {
@@ -2206,6 +2206,20 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "GLEN FORREST",
+      "dose1": 5,
+      "dose2": 9,
+      "vaccines": 14
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "GLEN FORREST",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

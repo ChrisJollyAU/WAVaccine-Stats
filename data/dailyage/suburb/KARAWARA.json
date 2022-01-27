@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "postcode": "KARAWARA",
   "data": [
     {
@@ -499,6 +499,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-16",
+      "locality": "KARAWARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-17",
       "locality": "KARAWARA",
       "AgeGroup": "16 to 49",
@@ -871,8 +879,8 @@
       "locality": "KARAWARA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-05-14",
@@ -6223,8 +6231,8 @@
       "locality": "KARAWARA",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 7,
+      "vaccines": 11
     },
     {
       "date": "2022-01-14",
@@ -6486,17 +6494,17 @@
       "date": "2022-01-24",
       "locality": "KARAWARA",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 4
     },
     {
       "date": "2022-01-24",
       "locality": "KARAWARA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-01-24",
@@ -6508,6 +6516,62 @@
     },
     {
       "date": "2022-01-24",
+      "locality": "KARAWARA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "KARAWARA",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "KARAWARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "KARAWARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "KARAWARA",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "KARAWARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "KARAWARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-26",
       "locality": "KARAWARA",
       "AgeGroup": "70 and over",
       "dose1": 0,

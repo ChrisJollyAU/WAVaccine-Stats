@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "postcode": "METRICUP",
   "data": [
     {
@@ -142,9 +142,9 @@
       "date": "2021-07-20",
       "locality": "METRICUP",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-07-21",
@@ -208,14 +208,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-18",
-      "locality": "METRICUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -523,14 +515,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-10-13",
-      "locality": "METRICUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-10-14",
       "locality": "METRICUP",
       "AgeGroup": "16 to 49",
@@ -775,8 +759,8 @@
       "locality": "METRICUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-20",
@@ -785,14 +769,6 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
-    },
-    {
-      "date": "2021-11-24",
-      "locality": "METRICUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-11-26",
@@ -927,8 +903,8 @@
       "locality": "METRICUP",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2022-01-05",
@@ -1019,14 +995,6 @@
       "vaccines": 0
     },
     {
-      "date": "2022-01-19",
-      "locality": "METRICUP",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
       "date": "2022-01-20",
       "locality": "METRICUP",
       "AgeGroup": "16 to 49",
@@ -1057,6 +1025,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "METRICUP",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "LAVERTON",
   "data": [
     {
@@ -164,6 +164,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-30",
+      "locality": "LAVERTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-03",
       "locality": "LAVERTON",
       "dose1": 1,
@@ -183,6 +190,13 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-07",
+      "locality": "LAVERTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-08-10",
@@ -272,8 +286,8 @@
       "date": "2021-09-03",
       "locality": "LAVERTON",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-06",
@@ -288,6 +302,13 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-09-12",
+      "locality": "LAVERTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-14",
@@ -635,9 +656,9 @@
     {
       "date": "2021-11-26",
       "locality": "LAVERTON",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 11,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-11-27",
@@ -894,9 +915,9 @@
     {
       "date": "2022-01-21",
       "locality": "LAVERTON",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 3,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2022-01-22",
@@ -909,8 +930,22 @@
       "date": "2022-01-24",
       "locality": "LAVERTON",
       "dose1": 2,
+      "dose2": 2,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "LAVERTON",
+      "dose1": 0,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "LAVERTON",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

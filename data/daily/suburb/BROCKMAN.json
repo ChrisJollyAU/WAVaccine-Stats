@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "BROCKMAN",
   "data": [
     {
@@ -1321,8 +1321,22 @@
     {
       "date": "2022-01-24",
       "locality": "BROCKMAN",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "BROCKMAN",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "BROCKMAN",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     }
   ]

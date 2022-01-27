@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "WEST END",
   "data": [
     {
@@ -1573,9 +1573,9 @@
     {
       "date": "2022-01-06",
       "locality": "WEST END",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2022-01-07",
@@ -1684,6 +1684,20 @@
     },
     {
       "date": "2022-01-24",
+      "locality": "WEST END",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "WEST END",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-26",
       "locality": "WEST END",
       "dose1": 0,
       "dose2": 0,

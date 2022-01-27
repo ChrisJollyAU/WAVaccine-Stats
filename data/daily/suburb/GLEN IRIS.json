@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "GLEN IRIS",
   "data": [
     {
@@ -474,9 +474,9 @@
     {
       "date": "2021-05-29",
       "locality": "GLEN IRIS",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2021-05-30",
@@ -747,9 +747,9 @@
     {
       "date": "2021-07-09",
       "locality": "GLEN IRIS",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 8,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-07-10",
@@ -958,8 +958,8 @@
       "date": "2021-08-11",
       "locality": "GLEN IRIS",
       "dose1": 13,
-      "dose2": 16,
-      "vaccines": 29
+      "dose2": 17,
+      "vaccines": 30
     },
     {
       "date": "2021-08-12",
@@ -1035,8 +1035,8 @@
       "date": "2021-08-23",
       "locality": "GLEN IRIS",
       "dose1": 18,
-      "dose2": 9,
-      "vaccines": 27
+      "dose2": 10,
+      "vaccines": 28
     },
     {
       "date": "2021-08-24",
@@ -1125,9 +1125,9 @@
     {
       "date": "2021-09-05",
       "locality": "GLEN IRIS",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-09-06",
@@ -1174,9 +1174,9 @@
     {
       "date": "2021-09-13",
       "locality": "GLEN IRIS",
-      "dose1": 10,
+      "dose1": 8,
       "dose2": 10,
-      "vaccines": 20
+      "vaccines": 18
     },
     {
       "date": "2021-09-14",
@@ -1266,8 +1266,8 @@
       "date": "2021-09-26",
       "locality": "GLEN IRIS",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-09-27",
@@ -1392,8 +1392,8 @@
       "date": "2021-10-14",
       "locality": "GLEN IRIS",
       "dose1": 20,
-      "dose2": 19,
-      "vaccines": 39
+      "dose2": 17,
+      "vaccines": 37
     },
     {
       "date": "2021-10-15",
@@ -2070,9 +2070,23 @@
     {
       "date": "2022-01-24",
       "locality": "GLEN IRIS",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 5,
-      "vaccines": 10
+      "vaccines": 11
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "GLEN IRIS",
+      "dose1": 6,
+      "dose2": 11,
+      "vaccines": 17
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "GLEN IRIS",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "FRANKSTON",
   "data": [
     {
@@ -24,13 +24,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-08-11",
-      "locality": "FRANKSTON",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-19",
       "locality": "FRANKSTON",
       "dose1": 1,
@@ -41,11 +34,18 @@
       "date": "2021-09-01",
       "locality": "FRANKSTON",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-07",
+      "locality": "FRANKSTON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-09",
       "locality": "FRANKSTON",
       "dose1": 1,
       "dose2": 0,
@@ -102,6 +102,13 @@
     },
     {
       "date": "2021-10-05",
+      "locality": "FRANKSTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-07",
       "locality": "FRANKSTON",
       "dose1": 0,
       "dose2": 1,
@@ -281,6 +288,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "FRANKSTON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

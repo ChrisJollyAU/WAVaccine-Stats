@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "postcode": "HERNE HILL",
   "data": [
     {
@@ -315,6 +315,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-04-16",
+      "locality": "HERNE HILL",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-04-17",
       "locality": "HERNE HILL",
       "AgeGroup": "50 to 69",
@@ -488,6 +496,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-08",
+      "locality": "HERNE HILL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -1427,6 +1443,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-09",
+      "locality": "HERNE HILL",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-07-10",
       "locality": "HERNE HILL",
       "AgeGroup": "16 to 49",
@@ -1855,8 +1879,8 @@
       "locality": "HERNE HILL",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-08-01",
@@ -5921,6 +5945,62 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "HERNE HILL",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "HERNE HILL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "HERNE HILL",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "HERNE HILL",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "HERNE HILL",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "HERNE HILL",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "HERNE HILL",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-24T00:00:00",
+  "date_updated": "2022-01-26T00:00:00",
   "locality": "EAST CARNARVON",
   "data": [
     {
@@ -80,13 +80,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-05-05",
-      "locality": "EAST CARNARVON",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-05-07",
       "locality": "EAST CARNARVON",
       "dose1": 4,
@@ -127,13 +120,6 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
-    },
-    {
-      "date": "2021-05-26",
-      "locality": "EAST CARNARVON",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-05-27",
@@ -1070,8 +1056,22 @@
       "date": "2022-01-24",
       "locality": "EAST CARNARVON",
       "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "EAST CARNARVON",
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-26",
+      "locality": "EAST CARNARVON",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

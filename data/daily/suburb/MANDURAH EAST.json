@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "locality": "MANDURAH EAST",
   "data": [
     {
@@ -425,9 +425,9 @@
     {
       "date": "2021-06-25",
       "locality": "MANDURAH EAST",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-06-27",
@@ -538,8 +538,8 @@
       "date": "2021-07-16",
       "locality": "MANDURAH EAST",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-07-17",
@@ -705,9 +705,9 @@
     {
       "date": "2021-08-11",
       "locality": "MANDURAH EAST",
-      "dose1": 2,
+      "dose1": 0,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 4
     },
     {
       "date": "2021-08-12",
@@ -832,8 +832,8 @@
       "date": "2021-09-01",
       "locality": "MANDURAH EAST",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-09-02",
@@ -997,13 +997,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-09-27",
-      "locality": "MANDURAH EAST",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-28",
       "locality": "MANDURAH EAST",
       "dose1": 5,
@@ -1154,8 +1147,8 @@
       "date": "2021-10-19",
       "locality": "MANDURAH EAST",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-10-20",
@@ -1800,6 +1793,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "MANDURAH EAST",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

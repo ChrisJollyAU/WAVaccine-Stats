@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "postcode": "WARRENUP",
   "data": [
     {
@@ -4415,8 +4415,8 @@
       "locality": "WARRENUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2022-01-25",
@@ -4441,6 +4441,22 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "WARRENUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "WARRENUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "postcode": "NILGEN",
   "data": [
     {
@@ -1403,6 +1403,14 @@
       "vaccines": 0
     },
     {
+      "date": "2021-12-31",
+      "locality": "NILGEN",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2022-01-03",
       "locality": "NILGEN",
       "AgeGroup": "16 to 49",
@@ -1560,6 +1568,46 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "NILGEN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "NILGEN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "NILGEN",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "NILGEN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "NILGEN",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

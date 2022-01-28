@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "postcode": "WAGIN",
   "data": [
     {
@@ -2883,6 +2883,14 @@
       "vaccines": 4
     },
     {
+      "date": "2021-10-28",
+      "locality": "WAGIN",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-29",
       "locality": "WAGIN",
       "AgeGroup": "16 to 49",
@@ -3273,6 +3281,14 @@
       "dose1": 2,
       "dose2": 2,
       "vaccines": 4
+    },
+    {
+      "date": "2021-11-18",
+      "locality": "WAGIN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-11-19",
@@ -4557,10 +4573,18 @@
     {
       "date": "2022-01-25",
       "locality": "WAGIN",
-      "AgeGroup": "16 to 49",
+      "AgeGroup": "12 to 15",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-25",
+      "locality": "WAGIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 6,
+      "dose2": 2,
+      "vaccines": 8
     },
     {
       "date": "2022-01-25",
@@ -4572,6 +4596,38 @@
     },
     {
       "date": "2022-01-25",
+      "locality": "WAGIN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "WAGIN",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 0,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "WAGIN",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 6,
+      "vaccines": 8
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "WAGIN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
       "locality": "WAGIN",
       "AgeGroup": "70 and over",
       "dose1": 0,

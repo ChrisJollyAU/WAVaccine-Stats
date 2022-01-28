@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "postcode": "BURNSIDE",
   "data": [
     {
@@ -390,9 +390,9 @@
       "date": "2021-10-12",
       "locality": "BURNSIDE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-13",
@@ -603,6 +603,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-19",
+      "locality": "BURNSIDE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-23",
       "locality": "BURNSIDE",
       "AgeGroup": "16 to 49",
@@ -694,6 +702,14 @@
       "date": "2021-12-18",
       "locality": "BURNSIDE",
       "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "BURNSIDE",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -839,8 +855,8 @@
       "locality": "BURNSIDE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2022-01-19",

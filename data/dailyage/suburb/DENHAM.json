@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "postcode": "DENHAM",
   "data": [
     {
@@ -1542,9 +1542,9 @@
       "date": "2021-11-12",
       "locality": "DENHAM",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-11-12",
@@ -1846,6 +1846,14 @@
       "date": "2021-12-08",
       "locality": "DENHAM",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-13",
+      "locality": "DENHAM",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -2259,6 +2267,14 @@
       "vaccines": 2
     },
     {
+      "date": "2022-01-20",
+      "locality": "DENHAM",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-21",
       "locality": "DENHAM",
       "AgeGroup": "16 to 49",
@@ -2337,6 +2353,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "DENHAM",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "locality": "DALWALLINU",
   "data": [
     {
@@ -26,9 +26,9 @@
     {
       "date": "2021-03-30",
       "locality": "DALWALLINU",
-      "dose1": 23,
+      "dose1": 22,
       "dose2": 0,
-      "vaccines": 23
+      "vaccines": 22
     },
     {
       "date": "2021-04-08",
@@ -106,13 +106,6 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
-    },
-    {
-      "date": "2021-05-10",
-      "locality": "DALWALLINU",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-05-11",
@@ -985,9 +978,9 @@
     {
       "date": "2021-11-01",
       "locality": "DALWALLINU",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 11,
-      "vaccines": 17
+      "vaccines": 18
     },
     {
       "date": "2021-11-02",
@@ -1196,8 +1189,8 @@
       "date": "2021-12-13",
       "locality": "DALWALLINU",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 11
     },
     {
       "date": "2021-12-16",
@@ -1279,9 +1272,9 @@
     {
       "date": "2021-12-31",
       "locality": "DALWALLINU",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2022-01-02",
@@ -1420,8 +1413,8 @@
       "date": "2022-01-24",
       "locality": "DALWALLINU",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2022-01-25",
@@ -1436,6 +1429,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "DALWALLINU",
+      "dose1": 5,
+      "dose2": 1,
+      "vaccines": 6
     }
   ]
 }

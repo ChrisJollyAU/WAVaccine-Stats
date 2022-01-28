@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "locality": "MELVILLE",
   "data": [
     {
@@ -705,9 +705,9 @@
     {
       "date": "2021-06-11",
       "locality": "MELVILLE",
-      "dose1": 43,
+      "dose1": 42,
       "dose2": 11,
-      "vaccines": 54
+      "vaccines": 53
     },
     {
       "date": "2021-06-12",
@@ -1237,9 +1237,9 @@
     {
       "date": "2021-08-26",
       "locality": "MELVILLE",
-      "dose1": 52,
+      "dose1": 51,
       "dose2": 63,
-      "vaccines": 115
+      "vaccines": 114
     },
     {
       "date": "2021-08-27",
@@ -1294,8 +1294,8 @@
       "date": "2021-09-03",
       "locality": "MELVILLE",
       "dose1": 52,
-      "dose2": 45,
-      "vaccines": 97
+      "dose2": 44,
+      "vaccines": 96
     },
     {
       "date": "2021-09-04",
@@ -1385,8 +1385,8 @@
       "date": "2021-09-16",
       "locality": "MELVILLE",
       "dose1": 31,
-      "dose2": 62,
-      "vaccines": 93
+      "dose2": 61,
+      "vaccines": 92
     },
     {
       "date": "2021-09-17",
@@ -2290,6 +2290,13 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "MELVILLE",
+      "dose1": 6,
+      "dose2": 10,
+      "vaccines": 16
     }
   ]
 }

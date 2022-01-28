@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-26T00:00:00",
+  "date_updated": "2022-01-27T00:00:00",
   "postcode": "HILTON",
   "data": [
     {
@@ -102,9 +102,9 @@
       "date": "2021-03-09",
       "locality": "HILTON",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-03-09",
@@ -2006,9 +2006,9 @@
       "date": "2021-06-23",
       "locality": "HILTON",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-06-23",
@@ -2591,8 +2591,8 @@
       "locality": "HILTON",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-07-19",
@@ -3102,9 +3102,9 @@
       "date": "2021-08-11",
       "locality": "HILTON",
       "AgeGroup": "16 to 49",
-      "dose1": 15,
+      "dose1": 16,
       "dose2": 12,
-      "vaccines": 27
+      "vaccines": 28
     },
     {
       "date": "2021-08-11",
@@ -3719,8 +3719,8 @@
       "locality": "HILTON",
       "AgeGroup": "16 to 49",
       "dose1": 15,
-      "dose2": 18,
-      "vaccines": 33
+      "dose2": 19,
+      "vaccines": 34
     },
     {
       "date": "2021-09-08",
@@ -6606,9 +6606,9 @@
       "date": "2021-12-22",
       "locality": "HILTON",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 7,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-12-22",
@@ -7511,8 +7511,8 @@
       "locality": "HILTON",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 8,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 7
     },
     {
       "date": "2022-01-25",
@@ -7553,6 +7553,38 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "HILTON",
+      "AgeGroup": "12 to 15",
+      "dose1": 5,
+      "dose2": 0,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "HILTON",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "HILTON",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "HILTON",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

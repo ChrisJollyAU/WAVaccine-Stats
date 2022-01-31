@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "locality": "CHURCHLANDS",
   "data": [
     {
@@ -173,9 +173,9 @@
     {
       "date": "2021-03-23",
       "locality": "CHURCHLANDS",
-      "dose1": 15,
+      "dose1": 14,
       "dose2": 0,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-03-24",
@@ -524,8 +524,8 @@
       "date": "2021-05-13",
       "locality": "CHURCHLANDS",
       "dose1": 10,
-      "dose2": 2,
-      "vaccines": 12
+      "dose2": 1,
+      "vaccines": 11
     },
     {
       "date": "2021-05-14",
@@ -880,9 +880,9 @@
     {
       "date": "2021-07-03",
       "locality": "CHURCHLANDS",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 7,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-07-04",
@@ -1049,8 +1049,8 @@
       "date": "2021-07-27",
       "locality": "CHURCHLANDS",
       "dose1": 8,
-      "dose2": 22,
-      "vaccines": 30
+      "dose2": 21,
+      "vaccines": 29
     },
     {
       "date": "2021-07-28",
@@ -1195,9 +1195,9 @@
     {
       "date": "2021-08-17",
       "locality": "CHURCHLANDS",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 32,
-      "vaccines": 50
+      "vaccines": 51
     },
     {
       "date": "2021-08-18",
@@ -1406,8 +1406,8 @@
       "date": "2021-09-16",
       "locality": "CHURCHLANDS",
       "dose1": 15,
-      "dose2": 20,
-      "vaccines": 35
+      "dose2": 21,
+      "vaccines": 36
     },
     {
       "date": "2021-09-17",
@@ -2322,9 +2322,30 @@
     {
       "date": "2022-01-27",
       "locality": "CHURCHLANDS",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "CHURCHLANDS",
       "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "CHURCHLANDS",
+      "dose1": 5,
+      "dose2": 5,
+      "vaccines": 10
+    },
+    {
+      "date": "2022-01-30",
+      "locality": "CHURCHLANDS",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

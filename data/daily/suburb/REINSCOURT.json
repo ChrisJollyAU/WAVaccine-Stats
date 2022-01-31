@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "locality": "REINSCOURT",
   "data": [
     {
@@ -1328,9 +1328,23 @@
     {
       "date": "2022-01-27",
       "locality": "REINSCOURT",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "REINSCOURT",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "REINSCOURT",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

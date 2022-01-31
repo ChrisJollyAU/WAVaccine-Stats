@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "locality": "GREENBUSHES",
   "data": [
     {
@@ -1399,8 +1399,15 @@
       "date": "2022-01-27",
       "locality": "GREENBUSHES",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "GREENBUSHES",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

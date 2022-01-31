@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "postcode": "CARNAMAH",
   "data": [
     {
@@ -2163,14 +2163,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-11-19",
-      "locality": "CARNAMAH",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-11-21",
       "locality": "CARNAMAH",
       "AgeGroup": "12 to 15",
@@ -2264,14 +2256,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-11-27",
-      "locality": "CARNAMAH",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -2475,22 +2459,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-12-18",
-      "locality": "CARNAMAH",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-12-18",
-      "locality": "CARNAMAH",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-12-20",
       "locality": "CARNAMAH",
       "AgeGroup": "12 to 15",
@@ -2638,9 +2606,9 @@
       "date": "2022-01-04",
       "locality": "CARNAMAH",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2022-01-04",
@@ -2967,8 +2935,8 @@
       "locality": "CARNAMAH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2022-01-25",
@@ -2989,6 +2957,14 @@
     {
       "date": "2022-01-27",
       "locality": "CARNAMAH",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "CARNAMAH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 2,
@@ -3001,6 +2977,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "CARNAMAH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "CARNAMAH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "CARNAMAH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

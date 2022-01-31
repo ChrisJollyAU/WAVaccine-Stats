@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "locality": "BROADWOOD",
   "data": [
     {
@@ -381,13 +381,6 @@
       "vaccines": 5
     },
     {
-      "date": "2021-07-10",
-      "locality": "BROADWOOD",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-07-13",
       "locality": "BROADWOOD",
       "dose1": 3,
@@ -484,13 +477,6 @@
       "dose1": 2,
       "dose2": 5,
       "vaccines": 7
-    },
-    {
-      "date": "2021-07-31",
-      "locality": "BROADWOOD",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-08-02",
@@ -1581,8 +1567,29 @@
       "date": "2022-01-27",
       "locality": "BROADWOOD",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "BROADWOOD",
+      "dose1": 3,
+      "dose2": 4,
+      "vaccines": 7
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "BROADWOOD",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-30",
+      "locality": "BROADWOOD",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

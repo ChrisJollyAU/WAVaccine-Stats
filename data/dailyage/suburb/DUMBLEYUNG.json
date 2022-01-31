@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "postcode": "DUMBLEYUNG",
   "data": [
     {
@@ -2493,14 +2493,6 @@
     {
       "date": "2022-01-05",
       "locality": "DUMBLEYUNG",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2022-01-05",
-      "locality": "DUMBLEYUNG",
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
@@ -2849,6 +2841,46 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "DUMBLEYUNG",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

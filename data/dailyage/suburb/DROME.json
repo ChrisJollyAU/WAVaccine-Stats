@@ -1,7 +1,15 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "postcode": "DROME",
   "data": [
+    {
+      "date": "2021-04-06",
+      "locality": "DROME",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-05-04",
       "locality": "DROME",
@@ -32,6 +40,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-06",
+      "locality": "DROME",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -244,6 +260,14 @@
     },
     {
       "date": "2022-01-04",
+      "locality": "DROME",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-07",
       "locality": "DROME",
       "AgeGroup": "70 and over",
       "dose1": 0,

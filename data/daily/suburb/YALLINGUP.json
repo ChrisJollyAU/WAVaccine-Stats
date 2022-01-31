@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "locality": "YALLINGUP",
   "data": [
     {
@@ -1853,9 +1853,23 @@
     {
       "date": "2022-01-27",
       "locality": "YALLINGUP",
+      "dose1": 2,
+      "dose2": 9,
+      "vaccines": 11
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "YALLINGUP",
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "YALLINGUP",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

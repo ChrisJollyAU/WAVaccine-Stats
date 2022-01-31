@@ -1,7 +1,14 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "locality": "GRIFFITH",
   "data": [
+    {
+      "date": "2021-03-26",
+      "locality": "GRIFFITH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-03-30",
       "locality": "GRIFFITH",
@@ -14,6 +21,13 @@
       "locality": "GRIFFITH",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-20",
+      "locality": "GRIFFITH",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {

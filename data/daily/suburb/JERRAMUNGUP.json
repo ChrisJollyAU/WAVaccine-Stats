@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "locality": "JERRAMUNGUP",
   "data": [
     {
@@ -628,9 +628,16 @@
     {
       "date": "2021-09-28",
       "locality": "JERRAMUNGUP",
-      "dose1": 40,
+      "dose1": 41,
       "dose2": 3,
-      "vaccines": 43
+      "vaccines": 44
+    },
+    {
+      "date": "2021-09-29",
+      "locality": "JERRAMUNGUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-09-30",
@@ -769,8 +776,8 @@
       "date": "2021-10-26",
       "locality": "JERRAMUNGUP",
       "dose1": 8,
-      "dose2": 38,
-      "vaccines": 46
+      "dose2": 39,
+      "vaccines": 47
     },
     {
       "date": "2021-10-27",
@@ -831,8 +838,8 @@
     {
       "date": "2021-11-04",
       "locality": "JERRAMUNGUP",
-      "dose1": 12,
-      "dose2": 20,
+      "dose1": 11,
+      "dose2": 21,
       "vaccines": 32
     },
     {
@@ -1245,8 +1252,22 @@
       "date": "2022-01-27",
       "locality": "JERRAMUNGUP",
       "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "JERRAMUNGUP",
+      "dose1": 0,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "JERRAMUNGUP",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

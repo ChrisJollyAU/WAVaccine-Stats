@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "postcode": "6383",
   "data": [
     {
@@ -1475,9 +1475,9 @@
     {
       "date": "2021-12-18",
       "postcode": "6383",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-12-20",
@@ -1709,6 +1709,20 @@
       "dose1": 5,
       "dose2": 4,
       "vaccines": 9
+    },
+    {
+      "date": "2022-01-28",
+      "postcode": "6383",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-29",
+      "postcode": "6383",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-27T00:00:00",
+  "date_updated": "2022-01-30T00:00:00",
   "locality": "KOONGAMIA",
   "data": [
     {
@@ -747,9 +747,9 @@
     {
       "date": "2021-08-25",
       "locality": "KOONGAMIA",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 11,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-08-26",
@@ -1434,8 +1434,8 @@
       "date": "2021-12-01",
       "locality": "KOONGAMIA",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-12-02",
@@ -1468,9 +1468,9 @@
     {
       "date": "2021-12-06",
       "locality": "KOONGAMIA",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 5,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-12-07",
@@ -1616,8 +1616,8 @@
       "date": "2021-12-29",
       "locality": "KOONGAMIA",
       "dose1": 3,
-      "dose2": 2,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 4
     },
     {
       "date": "2021-12-30",
@@ -1814,6 +1814,27 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "KOONGAMIA",
+      "dose1": 3,
+      "dose2": 5,
+      "vaccines": 8
+    },
+    {
+      "date": "2022-01-29",
+      "locality": "KOONGAMIA",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-30",
+      "locality": "KOONGAMIA",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     }
   ]
 }

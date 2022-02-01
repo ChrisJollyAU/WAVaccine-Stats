@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "TORBAY",
   "data": [
     {
@@ -1280,8 +1280,8 @@
       "date": "2022-01-04",
       "locality": "TORBAY",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-01-05",
@@ -1382,6 +1382,13 @@
       "vaccines": 1
     },
     {
+      "date": "2022-01-22",
+      "locality": "TORBAY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-24",
       "locality": "TORBAY",
       "dose1": 1,
@@ -1406,7 +1413,14 @@
       "date": "2022-01-28",
       "locality": "TORBAY",
       "dose1": 1,
-      "dose2": 0,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "TORBAY",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     }
   ]

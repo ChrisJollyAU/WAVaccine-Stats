@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "RAVENSWOOD",
   "data": [
     {
@@ -1622,9 +1622,9 @@
     {
       "date": "2021-11-27",
       "locality": "RAVENSWOOD",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 11,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-11-28",
@@ -1685,9 +1685,9 @@
     {
       "date": "2021-12-06",
       "locality": "RAVENSWOOD",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 11,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-12-07",
@@ -1699,9 +1699,9 @@
     {
       "date": "2021-12-08",
       "locality": "RAVENSWOOD",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 13,
-      "vaccines": 16
+      "vaccines": 17
     },
     {
       "date": "2021-12-09",
@@ -1769,8 +1769,8 @@
     {
       "date": "2021-12-18",
       "locality": "RAVENSWOOD",
-      "dose1": 1,
-      "dose2": 6,
+      "dose1": 2,
+      "dose2": 5,
       "vaccines": 7
     },
     {
@@ -1938,8 +1938,8 @@
       "date": "2022-01-14",
       "locality": "RAVENSWOOD",
       "dose1": 5,
-      "dose2": 2,
-      "vaccines": 7
+      "dose2": 3,
+      "vaccines": 8
     },
     {
       "date": "2022-01-15",
@@ -1973,8 +1973,8 @@
       "date": "2022-01-19",
       "locality": "RAVENSWOOD",
       "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2022-01-20",
@@ -1987,8 +1987,8 @@
       "date": "2022-01-21",
       "locality": "RAVENSWOOD",
       "dose1": 4,
-      "dose2": 3,
-      "vaccines": 7
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2022-01-22",
@@ -2052,6 +2052,13 @@
       "dose1": 1,
       "dose2": 10,
       "vaccines": 11
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "RAVENSWOOD",
+      "dose1": 0,
+      "dose2": 6,
+      "vaccines": 6
     }
   ]
 }

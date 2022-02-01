@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "MALAGA",
   "data": [
     {
@@ -1898,6 +1898,20 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2022-01-30",
+      "locality": "MALAGA",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "MALAGA",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
     }
   ]
 }

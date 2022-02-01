@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "MIRA MAR",
   "data": [
     {
@@ -33,9 +33,9 @@
     {
       "date": "2021-03-08",
       "locality": "MIRA MAR",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-10",
@@ -146,8 +146,8 @@
       "date": "2021-03-29",
       "locality": "MIRA MAR",
       "dose1": 9,
-      "dose2": 0,
-      "vaccines": 9
+      "dose2": 1,
+      "vaccines": 10
     },
     {
       "date": "2021-03-30",
@@ -726,9 +726,16 @@
     {
       "date": "2021-06-26",
       "locality": "MIRA MAR",
-      "dose1": 8,
+      "dose1": 7,
       "dose2": 6,
-      "vaccines": 14
+      "vaccines": 13
+    },
+    {
+      "date": "2021-06-27",
+      "locality": "MIRA MAR",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-28",
@@ -972,8 +979,8 @@
       "date": "2021-08-01",
       "locality": "MIRA MAR",
       "dose1": 3,
-      "dose2": 10,
-      "vaccines": 13
+      "dose2": 11,
+      "vaccines": 14
     },
     {
       "date": "2021-08-02",
@@ -1119,8 +1126,8 @@
       "date": "2021-08-22",
       "locality": "MIRA MAR",
       "dose1": 1,
-      "dose2": 16,
-      "vaccines": 17
+      "dose2": 15,
+      "vaccines": 16
     },
     {
       "date": "2021-08-23",
@@ -1210,8 +1217,8 @@
       "date": "2021-09-04",
       "locality": "MIRA MAR",
       "dose1": 9,
-      "dose2": 7,
-      "vaccines": 16
+      "dose2": 8,
+      "vaccines": 17
     },
     {
       "date": "2021-09-05",
@@ -1552,9 +1559,9 @@
     {
       "date": "2021-10-23",
       "locality": "MIRA MAR",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 6,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-10-24",
@@ -1749,8 +1756,8 @@
       "date": "2021-11-20",
       "locality": "MIRA MAR",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2021-11-21",
@@ -2007,9 +2014,9 @@
     {
       "date": "2021-12-30",
       "locality": "MIRA MAR",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-12-31",
@@ -2017,6 +2024,13 @@
       "dose1": 6,
       "dose2": 0,
       "vaccines": 6
+    },
+    {
+      "date": "2022-01-02",
+      "locality": "MIRA MAR",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2022-01-03",
@@ -2106,8 +2120,8 @@
       "date": "2022-01-15",
       "locality": "MIRA MAR",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2022-01-16",
@@ -2126,9 +2140,9 @@
     {
       "date": "2022-01-18",
       "locality": "MIRA MAR",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2022-01-19",
@@ -2141,8 +2155,8 @@
       "date": "2022-01-20",
       "locality": "MIRA MAR",
       "dose1": 3,
-      "dose2": 3,
-      "vaccines": 6
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2022-01-21",
@@ -2211,8 +2225,15 @@
       "date": "2022-01-30",
       "locality": "MIRA MAR",
       "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "MIRA MAR",
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     }
   ]
 }

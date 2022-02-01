@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "TRAYNING",
   "data": [
     {
@@ -52,6 +52,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-06-08",
+      "locality": "TRAYNING",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-06-09",
       "locality": "TRAYNING",
       "dose1": 0,
@@ -91,6 +98,13 @@
       "locality": "TRAYNING",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-30",
+      "locality": "TRAYNING",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -766,6 +780,13 @@
       "vaccines": 1
     },
     {
+      "date": "2022-01-21",
+      "locality": "TRAYNING",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-24",
       "locality": "TRAYNING",
       "dose1": 4,
@@ -799,6 +820,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "TRAYNING",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

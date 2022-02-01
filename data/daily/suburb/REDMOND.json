@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "REDMOND",
   "data": [
     {
@@ -444,6 +444,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-25",
+      "locality": "REDMOND",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-26",
       "locality": "REDMOND",
       "dose1": 0,
@@ -516,9 +523,9 @@
     {
       "date": "2021-12-30",
       "locality": "REDMOND",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 0
+      "vaccines": 1
     },
     {
       "date": "2022-01-01",
@@ -538,8 +545,8 @@
       "date": "2022-01-05",
       "locality": "REDMOND",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2022-01-06",
@@ -572,9 +579,9 @@
     {
       "date": "2022-01-18",
       "locality": "REDMOND",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2022-01-19",
@@ -587,8 +594,8 @@
       "date": "2022-01-20",
       "locality": "REDMOND",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-01-23",
@@ -606,6 +613,13 @@
     },
     {
       "date": "2022-01-29",
+      "locality": "REDMOND",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-30",
       "locality": "REDMOND",
       "dose1": 0,
       "dose2": 0,

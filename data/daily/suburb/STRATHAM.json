@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "STRATHAM",
   "data": [
     {
@@ -1867,9 +1867,9 @@
     {
       "date": "2022-01-25",
       "locality": "STRATHAM",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2022-01-26",
@@ -1896,8 +1896,15 @@
       "date": "2022-01-29",
       "locality": "STRATHAM",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "STRATHAM",
+      "dose1": 1,
+      "dose2": 4,
+      "vaccines": 5
     }
   ]
 }

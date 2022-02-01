@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "MOUNT ELPHINSTONE",
   "data": [
     {
@@ -25,13 +25,6 @@
     },
     {
       "date": "2021-04-09",
-      "locality": "MOUNT ELPHINSTONE",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-11",
       "locality": "MOUNT ELPHINSTONE",
       "dose1": 1,
       "dose2": 0,
@@ -133,13 +126,6 @@
       "locality": "MOUNT ELPHINSTONE",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-04",
-      "locality": "MOUNT ELPHINSTONE",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -708,6 +694,20 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-28",
+      "locality": "MOUNT ELPHINSTONE",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "MOUNT ELPHINSTONE",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

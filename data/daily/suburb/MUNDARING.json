@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "MUNDARING",
   "data": [
     {
@@ -124,9 +124,9 @@
     {
       "date": "2021-03-18",
       "locality": "MUNDARING",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-03-19",
@@ -229,9 +229,9 @@
     {
       "date": "2021-04-07",
       "locality": "MUNDARING",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 16,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-04-08",
@@ -538,8 +538,8 @@
       "date": "2021-05-28",
       "locality": "MUNDARING",
       "dose1": 10,
-      "dose2": 4,
-      "vaccines": 14
+      "dose2": 3,
+      "vaccines": 13
     },
     {
       "date": "2021-05-29",
@@ -565,9 +565,9 @@
     {
       "date": "2021-06-01",
       "locality": "MUNDARING",
-      "dose1": 13,
+      "dose1": 12,
       "dose2": 5,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-06-02",
@@ -663,9 +663,9 @@
     {
       "date": "2021-06-16",
       "locality": "MUNDARING",
-      "dose1": 18,
+      "dose1": 19,
       "dose2": 10,
-      "vaccines": 28
+      "vaccines": 29
     },
     {
       "date": "2021-06-17",
@@ -755,8 +755,8 @@
       "date": "2021-06-30",
       "locality": "MUNDARING",
       "dose1": 6,
-      "dose2": 10,
-      "vaccines": 16
+      "dose2": 11,
+      "vaccines": 17
     },
     {
       "date": "2021-07-01",
@@ -1189,8 +1189,8 @@
       "date": "2021-08-31",
       "locality": "MUNDARING",
       "dose1": 17,
-      "dose2": 26,
-      "vaccines": 43
+      "dose2": 25,
+      "vaccines": 42
     },
     {
       "date": "2021-09-01",
@@ -1293,16 +1293,16 @@
     {
       "date": "2021-09-15",
       "locality": "MUNDARING",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 18,
-      "vaccines": 46
+      "vaccines": 45
     },
     {
       "date": "2021-09-16",
       "locality": "MUNDARING",
       "dose1": 15,
-      "dose2": 13,
-      "vaccines": 28
+      "dose2": 14,
+      "vaccines": 29
     },
     {
       "date": "2021-09-17",
@@ -1398,9 +1398,9 @@
     {
       "date": "2021-09-30",
       "locality": "MUNDARING",
-      "dose1": 27,
+      "dose1": 28,
       "dose2": 16,
-      "vaccines": 43
+      "vaccines": 44
     },
     {
       "date": "2021-10-01",
@@ -1454,9 +1454,9 @@
     {
       "date": "2021-10-08",
       "locality": "MUNDARING",
-      "dose1": 13,
-      "dose2": 26,
-      "vaccines": 39
+      "dose1": 12,
+      "dose2": 25,
+      "vaccines": 37
     },
     {
       "date": "2021-10-09",
@@ -1560,8 +1560,8 @@
       "date": "2021-10-23",
       "locality": "MUNDARING",
       "dose1": 17,
-      "dose2": 14,
-      "vaccines": 31
+      "dose2": 15,
+      "vaccines": 32
     },
     {
       "date": "2021-10-24",
@@ -1693,8 +1693,8 @@
       "date": "2021-11-11",
       "locality": "MUNDARING",
       "dose1": 13,
-      "dose2": 13,
-      "vaccines": 26
+      "dose2": 12,
+      "vaccines": 25
     },
     {
       "date": "2021-11-12",
@@ -1895,9 +1895,9 @@
     {
       "date": "2021-12-10",
       "locality": "MUNDARING",
-      "dose1": 9,
+      "dose1": 8,
       "dose2": 8,
-      "vaccines": 17
+      "vaccines": 16
     },
     {
       "date": "2021-12-11",
@@ -1979,9 +1979,9 @@
     {
       "date": "2021-12-22",
       "locality": "MUNDARING",
-      "dose1": 13,
+      "dose1": 10,
       "dose2": 10,
-      "vaccines": 23
+      "vaccines": 20
     },
     {
       "date": "2021-12-23",
@@ -2162,15 +2162,15 @@
       "date": "2022-01-20",
       "locality": "MUNDARING",
       "dose1": 4,
-      "dose2": 12,
-      "vaccines": 16
+      "dose2": 11,
+      "vaccines": 15
     },
     {
       "date": "2022-01-21",
       "locality": "MUNDARING",
-      "dose1": 3,
-      "dose2": 4,
-      "vaccines": 7
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
     },
     {
       "date": "2022-01-22",
@@ -2218,8 +2218,8 @@
       "date": "2022-01-28",
       "locality": "MUNDARING",
       "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose2": 6,
+      "vaccines": 13
     },
     {
       "date": "2022-01-29",
@@ -2234,6 +2234,13 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "MUNDARING",
+      "dose1": 4,
+      "dose2": 10,
+      "vaccines": 14
     }
   ]
 }

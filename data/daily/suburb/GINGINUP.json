@@ -1,12 +1,26 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "GINGINUP",
   "data": [
+    {
+      "date": "2021-05-24",
+      "locality": "GINGINUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-08-03",
       "locality": "GINGINUP",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "GINGINUP",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -29,6 +43,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-17",
+      "locality": "GINGINUP",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2022-01-25",

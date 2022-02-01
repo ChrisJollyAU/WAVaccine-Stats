@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "ONGERUP",
   "data": [
     {
@@ -217,13 +217,6 @@
       "locality": "ONGERUP",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-28",
-      "locality": "ONGERUP",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -706,15 +699,15 @@
       "date": "2021-11-05",
       "locality": "ONGERUP",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 3,
+      "vaccines": 4
     },
     {
       "date": "2021-11-06",
       "locality": "ONGERUP",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2021-11-07",
@@ -1058,6 +1051,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "ONGERUP",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

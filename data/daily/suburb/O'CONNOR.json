@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "O'CONNOR",
   "data": [
     {
@@ -1006,9 +1006,9 @@
     {
       "date": "2021-09-17",
       "locality": "O'CONNOR",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-18",
@@ -1357,8 +1357,8 @@
       "date": "2021-11-06",
       "locality": "O'CONNOR",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-11-07",
@@ -1870,6 +1870,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "O'CONNOR",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

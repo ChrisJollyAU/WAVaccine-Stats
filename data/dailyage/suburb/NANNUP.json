@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "postcode": "NANNUP",
   "data": [
     {
@@ -1011,14 +1011,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-06-28",
-      "locality": "NANNUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-06-29",
       "locality": "NANNUP",
       "AgeGroup": "50 to 69",
@@ -1344,14 +1336,6 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-19",
-      "locality": "NANNUP",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -1758,9 +1742,9 @@
       "date": "2021-08-12",
       "locality": "NANNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 8,
       "dose2": 3,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-08-12",
@@ -2486,9 +2470,9 @@
       "date": "2021-09-20",
       "locality": "NANNUP",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-20",
@@ -2695,8 +2679,8 @@
       "locality": "NANNUP",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 1,
-      "vaccines": 7
+      "dose2": 2,
+      "vaccines": 8
     },
     {
       "date": "2021-10-01",
@@ -2903,8 +2887,8 @@
       "locality": "NANNUP",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-11",
@@ -5097,6 +5081,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "NANNUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 3,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "NANNUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "NANNUP",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

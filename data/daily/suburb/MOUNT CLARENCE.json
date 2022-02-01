@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "MOUNT CLARENCE",
   "data": [
     {
@@ -1968,6 +1968,20 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-30",
+      "locality": "MOUNT CLARENCE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "MOUNT CLARENCE",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
     }
   ]
 }

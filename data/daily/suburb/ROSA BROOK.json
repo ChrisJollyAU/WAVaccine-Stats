@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-30T00:00:00",
+  "date_updated": "2022-01-31T00:00:00",
   "locality": "ROSA BROOK",
   "data": [
     {
@@ -881,8 +881,8 @@
       "date": "2021-12-21",
       "locality": "ROSA BROOK",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-12-23",
@@ -1058,6 +1058,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "ROSA BROOK",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

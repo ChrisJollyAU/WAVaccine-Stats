@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "postcode": "RANGEWAY",
   "data": [
     {
@@ -341,6 +341,14 @@
     {
       "date": "2021-04-28",
       "locality": "RANGEWAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-28",
+      "locality": "RANGEWAY",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 0,
@@ -535,8 +543,8 @@
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-05-19",
@@ -718,9 +726,9 @@
       "date": "2021-06-03",
       "locality": "RANGEWAY",
       "AgeGroup": "50 to 69",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-06-04",
@@ -2135,8 +2143,8 @@
       "locality": "RANGEWAY",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 0,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-08-27",
@@ -3038,9 +3046,9 @@
       "date": "2021-10-11",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 6,
-      "vaccines": 14
+      "vaccines": 15
     },
     {
       "date": "2021-10-11",
@@ -3086,9 +3094,9 @@
       "date": "2021-10-13",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 1,
-      "vaccines": 9
+      "vaccines": 10
     },
     {
       "date": "2021-10-13",
@@ -3198,9 +3206,9 @@
       "date": "2021-10-18",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 6
     },
     {
       "date": "2021-10-18",
@@ -3302,9 +3310,9 @@
       "date": "2021-10-22",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 9
     },
     {
       "date": "2021-10-22",
@@ -3551,8 +3559,8 @@
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 7,
-      "vaccines": 13
+      "dose2": 8,
+      "vaccines": 14
     },
     {
       "date": "2021-11-03",
@@ -3758,8 +3766,8 @@
       "date": "2021-11-10",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 9,
-      "dose2": 10,
+      "dose1": 8,
+      "dose2": 11,
       "vaccines": 19
     },
     {
@@ -3895,8 +3903,8 @@
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 4,
-      "vaccines": 13
+      "dose2": 5,
+      "vaccines": 14
     },
     {
       "date": "2021-11-16",
@@ -3959,8 +3967,8 @@
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
       "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose2": 7,
+      "vaccines": 12
     },
     {
       "date": "2021-11-18",
@@ -4046,9 +4054,9 @@
       "date": "2021-11-22",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 4,
-      "vaccines": 14
+      "vaccines": 13
     },
     {
       "date": "2021-11-22",
@@ -4358,9 +4366,9 @@
       "date": "2021-12-05",
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-12-06",
@@ -4535,8 +4543,8 @@
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 12,
-      "vaccines": 16
+      "dose2": 11,
+      "vaccines": 15
     },
     {
       "date": "2021-12-15",
@@ -5127,8 +5135,8 @@
       "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 5,
-      "vaccines": 9
+      "dose2": 4,
+      "vaccines": 8
     },
     {
       "date": "2022-01-15",
@@ -5541,18 +5549,26 @@
     {
       "date": "2022-01-31",
       "locality": "RANGEWAY",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "RANGEWAY",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
-      "dose2": 4,
-      "vaccines": 8
+      "dose1": 10,
+      "dose2": 8,
+      "vaccines": 18
     },
     {
       "date": "2022-01-31",
       "locality": "RANGEWAY",
       "AgeGroup": "50 to 69",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2022-01-31",
@@ -5561,6 +5577,38 @@
       "dose1": 1,
       "dose2": 1,
       "vaccines": 2
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "RANGEWAY",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "RANGEWAY",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 13,
+      "vaccines": 16
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "RANGEWAY",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "RANGEWAY",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

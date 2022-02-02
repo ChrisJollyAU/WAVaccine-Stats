@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "locality": "COOLUM BEACH",
   "data": [
     {
@@ -38,11 +38,18 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-08",
+      "date": "2021-08-18",
       "locality": "COOLUM BEACH",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-08",
+      "locality": "COOLUM BEACH",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-09-09",
@@ -122,6 +129,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-09",
+      "locality": "COOLUM BEACH",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
       "date": "2021-11-18",
       "locality": "COOLUM BEACH",
       "dose1": 1,
@@ -134,6 +148,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-12-01",
+      "locality": "COOLUM BEACH",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-12-03",

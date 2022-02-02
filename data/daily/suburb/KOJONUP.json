@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "locality": "KOJONUP",
   "data": [
     {
@@ -334,9 +334,9 @@
     {
       "date": "2021-06-01",
       "locality": "KOJONUP",
-      "dose1": 19,
+      "dose1": 20,
       "dose2": 1,
-      "vaccines": 20
+      "vaccines": 21
     },
     {
       "date": "2021-06-03",
@@ -887,8 +887,8 @@
     {
       "date": "2021-08-25",
       "locality": "KOJONUP",
-      "dose1": 21,
-      "dose2": 41,
+      "dose1": 20,
+      "dose2": 42,
       "vaccines": 62
     },
     {
@@ -972,15 +972,15 @@
       "date": "2021-09-07",
       "locality": "KOJONUP",
       "dose1": 8,
-      "dose2": 10,
-      "vaccines": 18
+      "dose2": 8,
+      "vaccines": 16
     },
     {
       "date": "2021-09-08",
       "locality": "KOJONUP",
       "dose1": 14,
-      "dose2": 28,
-      "vaccines": 42
+      "dose2": 30,
+      "vaccines": 44
     },
     {
       "date": "2021-09-09",
@@ -1027,9 +1027,9 @@
     {
       "date": "2021-09-15",
       "locality": "KOJONUP",
-      "dose1": 25,
+      "dose1": 24,
       "dose2": 16,
-      "vaccines": 41
+      "vaccines": 40
     },
     {
       "date": "2021-09-16",
@@ -1147,8 +1147,8 @@
       "date": "2021-10-06",
       "locality": "KOJONUP",
       "dose1": 15,
-      "dose2": 19,
-      "vaccines": 34
+      "dose2": 20,
+      "vaccines": 35
     },
     {
       "date": "2021-10-07",
@@ -1196,8 +1196,8 @@
       "date": "2021-10-13",
       "locality": "KOJONUP",
       "dose1": 6,
-      "dose2": 27,
-      "vaccines": 33
+      "dose2": 26,
+      "vaccines": 32
     },
     {
       "date": "2021-10-14",
@@ -1636,9 +1636,9 @@
     {
       "date": "2021-12-22",
       "locality": "KOJONUP",
-      "dose1": 11,
+      "dose1": 10,
       "dose2": 2,
-      "vaccines": 13
+      "vaccines": 12
     },
     {
       "date": "2021-12-23",
@@ -1819,8 +1819,8 @@
       "date": "2022-01-20",
       "locality": "KOJONUP",
       "dose1": 5,
-      "dose2": 15,
-      "vaccines": 20
+      "dose2": 14,
+      "vaccines": 19
     },
     {
       "date": "2022-01-21",
@@ -1879,11 +1879,25 @@
       "vaccines": 7
     },
     {
+      "date": "2022-01-30",
+      "locality": "KOJONUP",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-31",
       "locality": "KOJONUP",
       "dose1": 0,
       "dose2": 5,
       "vaccines": 5
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "KOJONUP",
+      "dose1": 5,
+      "dose2": 2,
+      "vaccines": 7
     }
   ]
 }

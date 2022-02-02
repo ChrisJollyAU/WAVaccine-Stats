@@ -1,13 +1,29 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "postcode": "PERTH AIRPORT",
   "data": [
+    {
+      "date": "2021-03-15",
+      "locality": "PERTH AIRPORT",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-04-29",
       "locality": "PERTH AIRPORT",
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-28",
+      "locality": "PERTH AIRPORT",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -28,6 +44,14 @@
     },
     {
       "date": "2021-06-12",
+      "locality": "PERTH AIRPORT",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-18",
       "locality": "PERTH AIRPORT",
       "AgeGroup": "16 to 49",
       "dose1": 1,
@@ -65,6 +89,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-08-18",
+      "locality": "PERTH AIRPORT",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-08-20",
@@ -174,6 +206,14 @@
       "date": "2022-01-19",
       "locality": "PERTH AIRPORT",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-22",
+      "locality": "PERTH AIRPORT",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

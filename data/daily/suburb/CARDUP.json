@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "locality": "CARDUP",
   "data": [
     {
@@ -1468,9 +1468,9 @@
     {
       "date": "2021-11-12",
       "locality": "CARDUP",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 8,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2021-11-13",
@@ -1510,9 +1510,9 @@
     {
       "date": "2021-11-18",
       "locality": "CARDUP",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 6,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-11-19",
@@ -1658,15 +1658,15 @@
       "date": "2021-12-09",
       "locality": "CARDUP",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-12-10",
       "locality": "CARDUP",
       "dose1": 1,
-      "dose2": 4,
-      "vaccines": 5
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-12-11",
@@ -2007,9 +2007,16 @@
     {
       "date": "2022-01-31",
       "locality": "CARDUP",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "CARDUP",
+      "dose1": 1,
+      "dose2": 5,
+      "vaccines": 6
     }
   ]
 }

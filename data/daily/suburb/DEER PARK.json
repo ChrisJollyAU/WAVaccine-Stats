@@ -1,9 +1,16 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "locality": "DEER PARK",
   "data": [
     {
       "date": "2021-08-27",
+      "locality": "DEER PARK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-01",
       "locality": "DEER PARK",
       "dose1": 1,
       "dose2": 0,
@@ -21,6 +28,13 @@
       "locality": "DEER PARK",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "DEER PARK",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -67,6 +81,13 @@
     },
     {
       "date": "2022-01-24",
+      "locality": "DEER PARK",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-01-31",
       "locality": "DEER PARK",
       "dose1": 0,
       "dose2": 0,

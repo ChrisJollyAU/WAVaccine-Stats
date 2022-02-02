@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "postcode": "KIARA",
   "data": [
     {
@@ -272,14 +272,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-01",
-      "locality": "KIARA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -596,14 +588,6 @@
     },
     {
       "date": "2021-04-26",
-      "locality": "KIARA",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-04-27",
       "locality": "KIARA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
@@ -1353,6 +1337,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-06-13",
+      "locality": "KIARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-06-15",
@@ -2453,14 +2445,6 @@
     {
       "date": "2021-08-10",
       "locality": "KIARA",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-08-10",
-      "locality": "KIARA",
       "AgeGroup": "50 to 69",
       "dose1": 3,
       "dose2": 6,
@@ -3142,9 +3126,9 @@
       "date": "2021-09-12",
       "locality": "KIARA",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 5
     },
     {
       "date": "2021-09-13",
@@ -3407,8 +3391,8 @@
       "locality": "KIARA",
       "AgeGroup": "16 to 49",
       "dose1": 3,
-      "dose2": 5,
-      "vaccines": 8
+      "dose2": 4,
+      "vaccines": 7
     },
     {
       "date": "2021-09-24",
@@ -3863,8 +3847,8 @@
       "locality": "KIARA",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 8,
-      "vaccines": 9
+      "dose2": 6,
+      "vaccines": 7
     },
     {
       "date": "2021-10-14",
@@ -5511,8 +5495,8 @@
       "locality": "KIARA",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-12-23",
@@ -5558,9 +5542,9 @@
       "date": "2021-12-27",
       "locality": "KIARA",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-12-27",
@@ -6412,6 +6396,30 @@
     },
     {
       "date": "2022-01-31",
+      "locality": "KIARA",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "KIARA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "KIARA",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-02-01",
       "locality": "KIARA",
       "AgeGroup": "70 and over",
       "dose1": 0,

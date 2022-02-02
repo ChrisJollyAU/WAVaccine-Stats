@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "postcode": "PINGRUP",
   "data": [
     {
@@ -310,9 +310,9 @@
       "date": "2021-08-16",
       "locality": "PINGRUP",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-08-17",
@@ -601,6 +601,14 @@
       "dose1": 2,
       "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2021-09-27",
+      "locality": "PINGRUP",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-09-28",
@@ -1531,6 +1539,14 @@
       "vaccines": 1
     },
     {
+      "date": "2022-01-30",
+      "locality": "PINGRUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-31",
       "locality": "PINGRUP",
       "AgeGroup": "16 to 49",
@@ -1544,6 +1560,14 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "PINGRUP",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

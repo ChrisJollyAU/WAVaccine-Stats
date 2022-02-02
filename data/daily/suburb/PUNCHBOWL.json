@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "locality": "PUNCHBOWL",
   "data": [
     {
@@ -11,6 +11,20 @@
     },
     {
       "date": "2021-03-23",
+      "locality": "PUNCHBOWL",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-24",
+      "locality": "PUNCHBOWL",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-28",
       "locality": "PUNCHBOWL",
       "dose1": 0,
       "dose2": 1,
@@ -29,6 +43,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2021-09-01",
+      "locality": "PUNCHBOWL",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2021-09-11",

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "locality": "LOWDEN",
   "data": [
     {
@@ -682,6 +682,13 @@
       "vaccines": 0
     },
     {
+      "date": "2021-12-21",
+      "locality": "LOWDEN",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2021-12-22",
       "locality": "LOWDEN",
       "dose1": 0,
@@ -785,6 +792,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "LOWDEN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

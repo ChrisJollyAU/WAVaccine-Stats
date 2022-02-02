@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "locality": "DINNINUP",
   "data": [
     {
@@ -67,13 +67,6 @@
     },
     {
       "date": "2021-07-15",
-      "locality": "DINNINUP",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-20",
       "locality": "DINNINUP",
       "dose1": 1,
       "dose2": 0,
@@ -164,24 +157,10 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-05",
-      "locality": "DINNINUP",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-06",
       "locality": "DINNINUP",
       "dose1": 2,
       "dose2": 0,
-      "vaccines": 2
-    },
-    {
-      "date": "2021-09-09",
-      "locality": "DINNINUP",
-      "dose1": 1,
-      "dose2": 1,
       "vaccines": 2
     },
     {
@@ -203,13 +182,6 @@
       "locality": "DINNINUP",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-04",
-      "locality": "DINNINUP",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -244,8 +216,8 @@
       "date": "2021-10-16",
       "locality": "DINNINUP",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-18",
@@ -518,6 +490,13 @@
       "locality": "DINNINUP",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-31",
+      "locality": "DINNINUP",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

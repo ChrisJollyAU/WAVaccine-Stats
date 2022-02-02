@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-01-31T00:00:00",
+  "date_updated": "2022-02-01T00:00:00",
   "postcode": "LANGE",
   "data": [
     {
@@ -54,9 +54,9 @@
       "date": "2021-03-24",
       "locality": "LANGE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-03-24",
@@ -567,8 +567,8 @@
       "locality": "LANGE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-16",
@@ -870,9 +870,9 @@
       "date": "2021-07-18",
       "locality": "LANGE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-18",
@@ -1741,14 +1741,6 @@
     {
       "date": "2021-10-10",
       "locality": "LANGE",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-10-10",
-      "locality": "LANGE",
       "AgeGroup": "70 and over",
       "dose1": 1,
       "dose2": 0,
@@ -2435,14 +2427,6 @@
       "vaccines": 0
     },
     {
-      "date": "2022-01-03",
-      "locality": "LANGE",
-      "AgeGroup": "50 to 69",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
       "date": "2022-01-04",
       "locality": "LANGE",
       "AgeGroup": "16 to 49",
@@ -2918,6 +2902,14 @@
       "date": "2022-01-31",
       "locality": "LANGE",
       "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "LANGE",
+      "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

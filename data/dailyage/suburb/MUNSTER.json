@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "postcode": "MUNSTER",
   "data": [
     {
@@ -2019,6 +2019,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-24",
+      "locality": "MUNSTER",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-25",
       "locality": "MUNSTER",
       "AgeGroup": "16 to 49",
@@ -2655,8 +2663,8 @@
       "locality": "MUNSTER",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2022-01-21",
@@ -2787,6 +2795,14 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-28",
+      "locality": "MUNSTER",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2022-01-29",
       "locality": "MUNSTER",
       "AgeGroup": "16 to 49",
@@ -2841,6 +2857,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "MUNSTER",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "locality": "WEDGEFIELD",
   "data": [
     {
@@ -255,6 +255,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-09",
+      "locality": "WEDGEFIELD",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-10",
       "locality": "WEDGEFIELD",
       "dose1": 0,
@@ -299,9 +306,9 @@
     {
       "date": "2021-11-30",
       "locality": "WEDGEFIELD",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-12-02",
@@ -382,6 +389,13 @@
     },
     {
       "date": "2022-01-14",
+      "locality": "WEDGEFIELD",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-17",
       "locality": "WEDGEFIELD",
       "dose1": 0,
       "dose2": 1,

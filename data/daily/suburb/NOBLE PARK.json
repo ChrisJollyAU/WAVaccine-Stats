@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "locality": "NOBLE PARK",
   "data": [
     {
@@ -31,6 +31,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-12",
+      "locality": "NOBLE PARK",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-13",
       "locality": "NOBLE PARK",
       "dose1": 0,
@@ -42,6 +49,13 @@
       "locality": "NOBLE PARK",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-10",
+      "locality": "NOBLE PARK",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -148,6 +162,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "NOBLE PARK",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

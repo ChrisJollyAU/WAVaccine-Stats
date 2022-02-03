@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "postcode": "LOCKRIDGE",
   "data": [
     {
@@ -334,9 +334,9 @@
       "date": "2021-03-31",
       "locality": "LOCKRIDGE",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-03-31",
@@ -639,8 +639,8 @@
       "locality": "LOCKRIDGE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-04-21",
@@ -2478,9 +2478,9 @@
       "date": "2021-08-03",
       "locality": "LOCKRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-08-03",
@@ -2935,8 +2935,8 @@
       "locality": "LOCKRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 11,
-      "vaccines": 19
+      "dose2": 10,
+      "vaccines": 18
     },
     {
       "date": "2021-08-24",
@@ -3831,8 +3831,8 @@
       "locality": "LOCKRIDGE",
       "AgeGroup": "50 to 69",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 7,
+      "vaccines": 11
     },
     {
       "date": "2021-10-02",
@@ -4294,9 +4294,9 @@
       "date": "2021-10-20",
       "locality": "LOCKRIDGE",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 3,
-      "vaccines": 7
+      "vaccines": 6
     },
     {
       "date": "2021-10-21",
@@ -4830,17 +4830,17 @@
       "date": "2021-11-10",
       "locality": "LOCKRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 10,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-11-10",
       "locality": "LOCKRIDGE",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 7,
-      "vaccines": 10
+      "dose2": 6,
+      "vaccines": 9
     },
     {
       "date": "2021-11-10",
@@ -5487,8 +5487,8 @@
       "locality": "LOCKRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 15,
-      "vaccines": 16
+      "dose2": 14,
+      "vaccines": 15
     },
     {
       "date": "2021-12-04",
@@ -6254,9 +6254,9 @@
       "date": "2022-01-05",
       "locality": "LOCKRIDGE",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 7,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2022-01-05",
@@ -6599,8 +6599,8 @@
       "locality": "LOCKRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 5,
-      "vaccines": 15
+      "dose2": 6,
+      "vaccines": 16
     },
     {
       "date": "2022-01-17",
@@ -6895,8 +6895,8 @@
       "locality": "LOCKRIDGE",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 12,
-      "vaccines": 21
+      "dose2": 13,
+      "vaccines": 22
     },
     {
       "date": "2022-01-27",
@@ -6998,9 +6998,9 @@
       "date": "2022-01-31",
       "locality": "LOCKRIDGE",
       "AgeGroup": "12 to 15",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 2,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2022-01-31",
@@ -7052,6 +7052,38 @@
     },
     {
       "date": "2022-02-01",
+      "locality": "LOCKRIDGE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "LOCKRIDGE",
+      "AgeGroup": "12 to 15",
+      "dose1": 4,
+      "dose2": 1,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "LOCKRIDGE",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 7,
+      "vaccines": 10
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "LOCKRIDGE",
+      "AgeGroup": "50 to 69",
+      "dose1": 2,
+      "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-02-02",
       "locality": "LOCKRIDGE",
       "AgeGroup": "70 and over",
       "dose1": 0,

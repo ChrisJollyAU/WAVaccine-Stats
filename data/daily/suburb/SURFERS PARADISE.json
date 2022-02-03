@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "locality": "SURFERS PARADISE",
   "data": [
     {
@@ -7,6 +7,20 @@
       "locality": "SURFERS PARADISE",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-06-09",
+      "locality": "SURFERS PARADISE",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-07-02",
+      "locality": "SURFERS PARADISE",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -144,6 +158,13 @@
     },
     {
       "date": "2022-01-14",
+      "locality": "SURFERS PARADISE",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-02",
       "locality": "SURFERS PARADISE",
       "dose1": 0,
       "dose2": 0,

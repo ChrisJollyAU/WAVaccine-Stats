@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "locality": "BENCUBBIN",
   "data": [
     {
@@ -948,6 +948,13 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-28",
+      "locality": "BENCUBBIN",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-29",
       "locality": "BENCUBBIN",
       "dose1": 1,
@@ -958,8 +965,15 @@
       "date": "2022-01-31",
       "locality": "BENCUBBIN",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "BENCUBBIN",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

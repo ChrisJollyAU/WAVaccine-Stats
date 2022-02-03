@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "locality": "KARLOO",
   "data": [
     {
@@ -649,9 +649,9 @@
     {
       "date": "2021-09-07",
       "locality": "KARLOO",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 1,
-      "vaccines": 5
+      "vaccines": 4
     },
     {
       "date": "2021-09-08",
@@ -1027,9 +1027,9 @@
     {
       "date": "2021-11-06",
       "locality": "KARLOO",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-11-07",
@@ -1153,9 +1153,9 @@
     {
       "date": "2021-11-25",
       "locality": "KARLOO",
-      "dose1": 10,
+      "dose1": 8,
       "dose2": 2,
-      "vaccines": 12
+      "vaccines": 10
     },
     {
       "date": "2021-11-26",
@@ -1238,8 +1238,8 @@
       "date": "2021-12-11",
       "locality": "KARLOO",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-12-13",
@@ -1279,9 +1279,9 @@
     {
       "date": "2021-12-18",
       "locality": "KARLOO",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 3
     },
     {
       "date": "2021-12-20",
@@ -1356,16 +1356,16 @@
     {
       "date": "2022-01-06",
       "locality": "KARLOO",
-      "dose1": 5,
-      "dose2": 7,
-      "vaccines": 12
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2022-01-07",
       "locality": "KARLOO",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2022-01-10",
@@ -1448,8 +1448,8 @@
       "date": "2022-01-22",
       "locality": "KARLOO",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-01-23",
@@ -1511,11 +1511,18 @@
       "date": "2022-01-31",
       "locality": "KARLOO",
       "dose1": 3,
-      "dose2": 6,
-      "vaccines": 9
+      "dose2": 5,
+      "vaccines": 8
     },
     {
       "date": "2022-02-01",
+      "locality": "KARLOO",
+      "dose1": 3,
+      "dose2": 2,
+      "vaccines": 5
+    },
+    {
+      "date": "2022-02-02",
       "locality": "KARLOO",
       "dose1": 1,
       "dose2": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "locality": "BREMER BAY",
   "data": [
     {
@@ -453,8 +453,8 @@
     {
       "date": "2021-08-03",
       "locality": "BREMER BAY",
-      "dose1": 4,
-      "dose2": 2,
+      "dose1": 3,
+      "dose2": 3,
       "vaccines": 6
     },
     {
@@ -740,9 +740,9 @@
     {
       "date": "2021-09-20",
       "locality": "BREMER BAY",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-09-21",
@@ -957,9 +957,9 @@
     {
       "date": "2021-10-25",
       "locality": "BREMER BAY",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 9,
-      "vaccines": 23
+      "vaccines": 24
     },
     {
       "date": "2021-10-26",
@@ -1154,8 +1154,8 @@
       "date": "2021-11-26",
       "locality": "BREMER BAY",
       "dose1": 0,
-      "dose2": 12,
-      "vaccines": 12
+      "dose2": 13,
+      "vaccines": 13
     },
     {
       "date": "2021-11-27",
@@ -1184,13 +1184,6 @@
       "dose1": 0,
       "dose2": 3,
       "vaccines": 3
-    },
-    {
-      "date": "2021-12-04",
-      "locality": "BREMER BAY",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
     },
     {
       "date": "2021-12-06",
@@ -1455,8 +1448,8 @@
       "date": "2022-01-30",
       "locality": "BREMER BAY",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 0,
+      "vaccines": 0
     },
     {
       "date": "2022-01-31",
@@ -1471,6 +1464,13 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "BREMER BAY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "locality": "MOUNT BARKER",
   "data": [
     {
@@ -2168,9 +2168,16 @@
     {
       "date": "2022-02-01",
       "locality": "MOUNT BARKER",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 8,
-      "vaccines": 12
+      "vaccines": 13
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "MOUNT BARKER",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
     }
   ]
 }

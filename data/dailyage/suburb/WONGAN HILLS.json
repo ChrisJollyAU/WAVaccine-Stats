@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-01T00:00:00",
+  "date_updated": "2022-02-02T00:00:00",
   "postcode": "WONGAN HILLS",
   "data": [
     {
@@ -1174,9 +1174,9 @@
       "date": "2021-08-19",
       "locality": "WONGAN HILLS",
       "AgeGroup": "16 to 49",
-      "dose1": 8,
+      "dose1": 10,
       "dose2": 12,
-      "vaccines": 20
+      "vaccines": 22
     },
     {
       "date": "2021-08-19",
@@ -1759,8 +1759,8 @@
       "locality": "WONGAN HILLS",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 12,
-      "vaccines": 14
+      "dose2": 14,
+      "vaccines": 16
     },
     {
       "date": "2021-09-30",
@@ -3629,6 +3629,14 @@
     {
       "date": "2022-02-01",
       "locality": "WONGAN HILLS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "WONGAN HILLS",
       "AgeGroup": "16 to 49",
       "dose1": 2,
       "dose2": 0,
@@ -3649,6 +3657,30 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "WONGAN HILLS",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "WONGAN HILLS",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "WONGAN HILLS",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
     }
   ]
 }

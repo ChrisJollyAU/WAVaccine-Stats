@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "locality": "MUKINBUDIN",
   "data": [
     {
@@ -1406,8 +1406,8 @@
       "date": "2022-01-31",
       "locality": "MUKINBUDIN",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 4,
+      "vaccines": 6
     },
     {
       "date": "2022-02-01",
@@ -1415,6 +1415,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "MUKINBUDIN",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
     }
   ]
 }

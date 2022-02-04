@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "postcode": "WUBIN",
   "data": [
     {
@@ -1235,14 +1235,6 @@
       "vaccines": 1
     },
     {
-      "date": "2022-01-06",
-      "locality": "WUBIN",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2022-01-07",
       "locality": "WUBIN",
       "AgeGroup": "16 to 49",
@@ -1519,8 +1511,8 @@
       "locality": "WUBIN",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2022-02-02",
@@ -1545,6 +1537,14 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "WUBIN",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

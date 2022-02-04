@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "locality": "KARNUP",
   "data": [
     {
@@ -929,9 +929,9 @@
     {
       "date": "2021-08-11",
       "locality": "KARNUP",
-      "dose1": 6,
+      "dose1": 7,
       "dose2": 6,
-      "vaccines": 12
+      "vaccines": 13
     },
     {
       "date": "2021-08-12",
@@ -1077,8 +1077,8 @@
       "date": "2021-09-01",
       "locality": "KARNUP",
       "dose1": 7,
-      "dose2": 7,
-      "vaccines": 14
+      "dose2": 8,
+      "vaccines": 15
     },
     {
       "date": "2021-09-02",
@@ -1902,9 +1902,9 @@
     {
       "date": "2021-12-30",
       "locality": "KARNUP",
-      "dose1": 8,
+      "dose1": 9,
       "dose2": 5,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2021-12-31",
@@ -1937,9 +1937,9 @@
     {
       "date": "2022-01-05",
       "locality": "KARNUP",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 6,
-      "vaccines": 11
+      "vaccines": 12
     },
     {
       "date": "2022-01-06",
@@ -1951,9 +1951,9 @@
     {
       "date": "2022-01-07",
       "locality": "KARNUP",
-      "dose1": 4,
+      "dose1": 5,
       "dose2": 6,
-      "vaccines": 10
+      "vaccines": 11
     },
     {
       "date": "2022-01-08",
@@ -2000,9 +2000,9 @@
     {
       "date": "2022-01-14",
       "locality": "KARNUP",
-      "dose1": 12,
+      "dose1": 13,
       "dose2": 6,
-      "vaccines": 18
+      "vaccines": 19
     },
     {
       "date": "2022-01-15",
@@ -2091,16 +2091,16 @@
     {
       "date": "2022-01-27",
       "locality": "KARNUP",
-      "dose1": 4,
-      "dose2": 11,
+      "dose1": 2,
+      "dose2": 13,
       "vaccines": 15
     },
     {
       "date": "2022-01-28",
       "locality": "KARNUP",
       "dose1": 2,
-      "dose2": 4,
-      "vaccines": 6
+      "dose2": 5,
+      "vaccines": 7
     },
     {
       "date": "2022-01-29",
@@ -2136,6 +2136,13 @@
       "dose1": 0,
       "dose2": 7,
       "vaccines": 7
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "KARNUP",
+      "dose1": 0,
+      "dose2": 4,
+      "vaccines": 4
     }
   ]
 }

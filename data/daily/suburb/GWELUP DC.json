@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "locality": "GWELUP DC",
   "data": [
     {
@@ -822,13 +822,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-12-27",
-      "locality": "GWELUP DC",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
       "date": "2021-12-28",
       "locality": "GWELUP DC",
       "dose1": 0,
@@ -1009,6 +1002,20 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "GWELUP DC",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "GWELUP DC",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
     }
   ]
 }

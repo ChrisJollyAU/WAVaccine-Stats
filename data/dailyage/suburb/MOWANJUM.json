@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "postcode": "MOWANJUM",
   "data": [
     {
@@ -54,9 +54,9 @@
       "date": "2021-06-30",
       "locality": "MOWANJUM",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-07-05",
@@ -88,14 +88,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-22",
-      "locality": "MOWANJUM",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -163,14 +155,6 @@
       "vaccines": 2
     },
     {
-      "date": "2021-08-19",
-      "locality": "MOWANJUM",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
       "date": "2021-08-26",
       "locality": "MOWANJUM",
       "AgeGroup": "50 to 69",
@@ -184,14 +168,6 @@
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-09-07",
-      "locality": "MOWANJUM",
-      "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -219,14 +195,6 @@
       "vaccines": 1
     },
     {
-      "date": "2021-09-28",
-      "locality": "MOWANJUM",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2021-09-30",
       "locality": "MOWANJUM",
       "AgeGroup": "50 to 69",
@@ -239,8 +207,8 @@
       "locality": "MOWANJUM",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-10-07",
@@ -318,9 +286,9 @@
       "date": "2021-11-02",
       "locality": "MOWANJUM",
       "AgeGroup": "16 to 49",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 0,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-11-03",
@@ -627,14 +595,6 @@
       "vaccines": 2
     },
     {
-      "date": "2022-01-05",
-      "locality": "MOWANJUM",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
       "date": "2022-01-10",
       "locality": "MOWANJUM",
       "AgeGroup": "16 to 49",
@@ -665,14 +625,6 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
-    },
-    {
-      "date": "2022-01-13",
-      "locality": "MOWANJUM",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
     },
     {
       "date": "2022-01-18",
@@ -777,6 +729,14 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "MOWANJUM",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 1,
+      "vaccines": 2
     }
   ]
 }

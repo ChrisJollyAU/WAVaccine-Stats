@@ -1,7 +1,21 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "postcode": "3458",
   "data": [
+    {
+      "date": "2021-06-11",
+      "postcode": "3458",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-06",
+      "postcode": "3458",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
     {
       "date": "2021-10-04",
       "postcode": "3458",
@@ -28,6 +42,13 @@
       "postcode": "3458",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-01-11",
+      "postcode": "3458",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     }
   ]

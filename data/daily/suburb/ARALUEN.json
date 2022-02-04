@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "locality": "ARALUEN",
   "data": [
     {
@@ -10,7 +10,21 @@
       "vaccines": 1
     },
     {
+      "date": "2021-07-28",
+      "locality": "ARALUEN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-06",
+      "locality": "ARALUEN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-20",
       "locality": "ARALUEN",
       "dose1": 0,
       "dose2": 1,
@@ -43,6 +57,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "ARALUEN",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

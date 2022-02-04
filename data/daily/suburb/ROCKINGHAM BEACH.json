@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "locality": "ROCKINGHAM BEACH",
   "data": [
     {
@@ -131,9 +131,9 @@
     {
       "date": "2021-04-20",
       "locality": "ROCKINGHAM BEACH",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-04-21",
@@ -292,9 +292,9 @@
     {
       "date": "2021-05-24",
       "locality": "ROCKINGHAM BEACH",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-05-25",
@@ -559,8 +559,8 @@
       "date": "2021-07-15",
       "locality": "ROCKINGHAM BEACH",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-07-16",
@@ -755,8 +755,8 @@
       "date": "2021-08-13",
       "locality": "ROCKINGHAM BEACH",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-08-14",
@@ -1877,6 +1877,13 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "ROCKINGHAM BEACH",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     }
   ]
 }

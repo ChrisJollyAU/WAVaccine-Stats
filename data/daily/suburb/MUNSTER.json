@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "locality": "MUNSTER",
   "data": [
     {
@@ -25,6 +25,13 @@
     },
     {
       "date": "2021-04-06",
+      "locality": "MUNSTER",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-04-07",
       "locality": "MUNSTER",
       "dose1": 1,
       "dose2": 0,
@@ -239,6 +246,13 @@
       "dose1": 6,
       "dose2": 1,
       "vaccines": 7
+    },
+    {
+      "date": "2021-06-30",
+      "locality": "MUNSTER",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-07-01",
@@ -1527,6 +1541,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "MUNSTER",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

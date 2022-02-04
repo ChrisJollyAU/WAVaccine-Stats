@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-02T00:00:00",
+  "date_updated": "2022-02-03T00:00:00",
   "locality": "LEDGE POINT",
   "data": [
     {
@@ -33,9 +33,9 @@
     {
       "date": "2021-03-31",
       "locality": "LEDGE POINT",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-04-01",
@@ -230,8 +230,8 @@
       "date": "2021-06-23",
       "locality": "LEDGE POINT",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-06-30",
@@ -1324,6 +1324,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "LEDGE POINT",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

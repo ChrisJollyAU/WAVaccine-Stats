@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "locality": "SHADFORTH",
   "data": [
     {
@@ -871,6 +871,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-12-07",
+      "locality": "SHADFORTH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-08",
       "locality": "SHADFORTH",
       "dose1": 0,
@@ -1105,8 +1112,22 @@
       "date": "2022-02-01",
       "locality": "SHADFORTH",
       "dose1": 0,
-      "dose2": 2,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "SHADFORTH",
+      "dose1": 2,
+      "dose2": 0,
       "vaccines": 2
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "SHADFORTH",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

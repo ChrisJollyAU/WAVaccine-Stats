@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "postcode": "ROSSMOYNE",
   "data": [
     {
@@ -94,9 +94,9 @@
       "date": "2021-03-08",
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 4,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 4
     },
     {
       "date": "2021-03-08",
@@ -1470,9 +1470,9 @@
       "date": "2021-05-17",
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 4,
-      "vaccines": 8
+      "vaccines": 7
     },
     {
       "date": "2021-05-17",
@@ -1943,8 +1943,8 @@
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-06-08",
@@ -2638,9 +2638,9 @@
       "date": "2021-07-09",
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 6,
       "dose2": 2,
-      "vaccines": 7
+      "vaccines": 8
     },
     {
       "date": "2021-07-09",
@@ -3327,8 +3327,8 @@
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
       "dose1": 8,
-      "dose2": 1,
-      "vaccines": 9
+      "dose2": 2,
+      "vaccines": 10
     },
     {
       "date": "2021-08-07",
@@ -4006,9 +4006,9 @@
       "date": "2021-09-04",
       "locality": "ROSSMOYNE",
       "AgeGroup": "50 to 69",
-      "dose1": 2,
+      "dose1": 1,
       "dose2": 4,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-04",
@@ -4062,9 +4062,9 @@
       "date": "2021-09-07",
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 11,
-      "vaccines": 16
+      "vaccines": 15
     },
     {
       "date": "2021-09-07",
@@ -4687,8 +4687,8 @@
       "locality": "ROSSMOYNE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 5,
-      "vaccines": 6
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2021-09-28",
@@ -4711,8 +4711,8 @@
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
       "dose1": 6,
-      "dose2": 12,
-      "vaccines": 18
+      "dose2": 11,
+      "vaccines": 17
     },
     {
       "date": "2021-09-29",
@@ -5534,17 +5534,17 @@
       "date": "2021-10-27",
       "locality": "ROSSMOYNE",
       "AgeGroup": "12 to 15",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-10-27",
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
-      "dose1": 7,
+      "dose1": 6,
       "dose2": 8,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-10-27",
@@ -6303,16 +6303,24 @@
       "locality": "ROSSMOYNE",
       "AgeGroup": "12 to 15",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 0,
+      "vaccines": 1
     },
     {
       "date": "2021-11-22",
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
-      "dose1": 5,
-      "dose2": 6,
-      "vaccines": 11
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
+    },
+    {
+      "date": "2021-11-22",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "70 and over",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-11-23",
@@ -6326,9 +6334,9 @@
       "date": "2021-11-23",
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 2,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-11-23",
@@ -6879,8 +6887,8 @@
       "locality": "ROSSMOYNE",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 3,
-      "vaccines": 5
+      "dose2": 1,
+      "vaccines": 3
     },
     {
       "date": "2021-12-14",
@@ -7033,14 +7041,6 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
-    },
-    {
-      "date": "2021-12-19",
-      "locality": "ROSSMOYNE",
-      "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
     },
     {
       "date": "2021-12-20",
@@ -8348,6 +8348,94 @@
     },
     {
       "date": "2022-02-03",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "ROSSMOYNE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-06",
       "locality": "ROSSMOYNE",
       "AgeGroup": "70 and over",
       "dose1": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "postcode": "DARLING DOWNS",
   "data": [
     {
@@ -190,9 +190,9 @@
       "date": "2021-03-31",
       "locality": "DARLING DOWNS",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-03-31",
@@ -1094,9 +1094,9 @@
       "date": "2021-06-12",
       "locality": "DARLING DOWNS",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-06-12",
@@ -1695,8 +1695,8 @@
       "locality": "DARLING DOWNS",
       "AgeGroup": "50 to 69",
       "dose1": 3,
-      "dose2": 1,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 5
     },
     {
       "date": "2021-07-17",
@@ -2759,8 +2759,8 @@
       "locality": "DARLING DOWNS",
       "AgeGroup": "50 to 69",
       "dose1": 2,
-      "dose2": 6,
-      "vaccines": 8
+      "dose2": 7,
+      "vaccines": 9
     },
     {
       "date": "2021-09-04",
@@ -4549,14 +4549,6 @@
     {
       "date": "2021-11-20",
       "locality": "DARLING DOWNS",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-11-20",
-      "locality": "DARLING DOWNS",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 3,
@@ -4614,9 +4606,9 @@
       "date": "2021-11-22",
       "locality": "DARLING DOWNS",
       "AgeGroup": "16 to 49",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-11-22",
@@ -5029,14 +5021,6 @@
     {
       "date": "2021-12-13",
       "locality": "DARLING DOWNS",
-      "AgeGroup": "12 to 15",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-12-13",
-      "locality": "DARLING DOWNS",
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 6,
@@ -5063,8 +5047,8 @@
       "locality": "DARLING DOWNS",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 7,
-      "vaccines": 11
+      "dose2": 6,
+      "vaccines": 10
     },
     {
       "date": "2021-12-15",
@@ -6253,15 +6237,111 @@
     {
       "date": "2022-02-03",
       "locality": "DARLING DOWNS",
+      "AgeGroup": "12 to 15",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "DARLING DOWNS",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 4,
+      "vaccines": 5
     },
     {
       "date": "2022-02-03",
       "locality": "DARLING DOWNS",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 7,
+      "vaccines": 8
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "12 to 15",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 3,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "DARLING DOWNS",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

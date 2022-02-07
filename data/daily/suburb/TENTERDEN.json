@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "locality": "TENTERDEN",
   "data": [
     {
@@ -334,9 +334,9 @@
     {
       "date": "2021-08-30",
       "locality": "TENTERDEN",
-      "dose1": 5,
+      "dose1": 4,
       "dose2": 1,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-09-02",
@@ -447,8 +447,8 @@
       "date": "2021-10-01",
       "locality": "TENTERDEN",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-10-02",
@@ -925,6 +925,20 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "TENTERDEN",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "TENTERDEN",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

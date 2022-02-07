@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "locality": "HIGHBURY",
   "data": [
     {
@@ -647,6 +647,13 @@
       "vaccines": 3
     },
     {
+      "date": "2021-12-05",
+      "locality": "HIGHBURY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-08",
       "locality": "HIGHBURY",
       "dose1": 1,
@@ -727,8 +734,8 @@
       "date": "2021-12-30",
       "locality": "HIGHBURY",
       "dose1": 1,
-      "dose2": 1,
-      "vaccines": 2
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2022-01-04",
@@ -865,6 +872,20 @@
     },
     {
       "date": "2022-02-03",
+      "locality": "HIGHBURY",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "HIGHBURY",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-05",
       "locality": "HIGHBURY",
       "dose1": 0,
       "dose2": 0,

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "locality": "BALWYN NORTH",
   "data": [
     {
@@ -11,6 +11,34 @@
     },
     {
       "date": "2021-04-13",
+      "locality": "BALWYN NORTH",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-12",
+      "locality": "BALWYN NORTH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-01",
+      "locality": "BALWYN NORTH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-11",
+      "locality": "BALWYN NORTH",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-16",
       "locality": "BALWYN NORTH",
       "dose1": 0,
       "dose2": 1,
@@ -31,6 +59,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-08",
+      "locality": "BALWYN NORTH",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-01",
       "locality": "BALWYN NORTH",
       "dose1": 0,
@@ -38,11 +73,25 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-03",
+      "locality": "BALWYN NORTH",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2022-01-20",
       "locality": "BALWYN NORTH",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-01-27",
+      "locality": "BALWYN NORTH",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

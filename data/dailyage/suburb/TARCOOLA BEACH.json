@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "postcode": "TARCOOLA BEACH",
   "data": [
     {
@@ -198,6 +198,14 @@
       "date": "2021-03-30",
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-03-31",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -1367,8 +1375,8 @@
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 3,
+      "vaccines": 3
     },
     {
       "date": "2021-07-05",
@@ -2142,9 +2150,9 @@
       "date": "2021-08-14",
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "50 to 69",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 2,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2021-08-14",
@@ -2527,8 +2535,8 @@
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 6,
-      "vaccines": 7
+      "dose2": 5,
+      "vaccines": 6
     },
     {
       "date": "2021-09-04",
@@ -3837,14 +3845,6 @@
     {
       "date": "2021-11-12",
       "locality": "TARCOOLA BEACH",
-      "AgeGroup": "12 to 15",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-11-12",
-      "locality": "TARCOOLA BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 4,
       "dose2": 3,
@@ -4607,8 +4607,8 @@
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "12 to 15",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2021-12-20",
@@ -5639,8 +5639,8 @@
       "locality": "TARCOOLA BEACH",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-02-03",
@@ -5649,6 +5649,70 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-03",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "12 to 15",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 2,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-06",
+      "locality": "TARCOOLA BEACH",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

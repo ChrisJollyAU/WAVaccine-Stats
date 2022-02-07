@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "postcode": "4301",
   "data": [
     {
@@ -73,6 +73,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-10-05",
+      "postcode": "4301",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-10-07",
       "postcode": "4301",
       "dose1": 1,
@@ -98,6 +105,13 @@
       "postcode": "4301",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-10-26",
+      "postcode": "4301",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -183,6 +197,20 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-04",
+      "postcode": "4301",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-06",
+      "postcode": "4301",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

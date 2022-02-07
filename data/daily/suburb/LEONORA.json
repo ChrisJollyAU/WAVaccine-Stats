@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-03T00:00:00",
+  "date_updated": "2022-02-06T00:00:00",
   "locality": "LEONORA",
   "data": [
     {
@@ -705,9 +705,9 @@
     {
       "date": "2021-11-10",
       "locality": "LEONORA",
-      "dose1": 31,
+      "dose1": 32,
       "dose2": 1,
-      "vaccines": 32
+      "vaccines": 33
     },
     {
       "date": "2021-11-11",
@@ -853,8 +853,8 @@
       "date": "2021-12-03",
       "locality": "LEONORA",
       "dose1": 12,
-      "dose2": 33,
-      "vaccines": 45
+      "dose2": 34,
+      "vaccines": 46
     },
     {
       "date": "2021-12-04",
@@ -1146,9 +1146,9 @@
     {
       "date": "2022-01-29",
       "locality": "LEONORA",
-      "dose1": 0,
+      "dose1": 1,
       "dose2": 1,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2022-01-31",
@@ -1177,6 +1177,20 @@
       "dose1": 1,
       "dose2": 2,
       "vaccines": 3
+    },
+    {
+      "date": "2022-02-04",
+      "locality": "LEONORA",
+      "dose1": 3,
+      "dose2": 0,
+      "vaccines": 3
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "LEONORA",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

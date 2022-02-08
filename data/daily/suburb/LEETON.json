@@ -1,9 +1,16 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "locality": "LEETON",
   "data": [
     {
       "date": "2021-09-01",
+      "locality": "LEETON",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-05",
       "locality": "LEETON",
       "dose1": 1,
       "dose2": 0,
@@ -115,6 +122,13 @@
       "vaccines": 1
     },
     {
+      "date": "2021-11-14",
+      "locality": "LEETON",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-11-15",
       "locality": "LEETON",
       "dose1": 1,
@@ -141,6 +155,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "LEETON",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

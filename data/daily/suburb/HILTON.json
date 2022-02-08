@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "locality": "HILTON",
   "data": [
     {
@@ -75,9 +75,9 @@
     {
       "date": "2021-03-09",
       "locality": "HILTON",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-03-10",
@@ -202,8 +202,8 @@
       "date": "2021-03-30",
       "locality": "HILTON",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-03-31",
@@ -649,9 +649,9 @@
     {
       "date": "2021-06-09",
       "locality": "HILTON",
-      "dose1": 14,
+      "dose1": 15,
       "dose2": 5,
-      "vaccines": 19
+      "vaccines": 20
     },
     {
       "date": "2021-06-10",
@@ -1273,8 +1273,8 @@
       "date": "2021-09-06",
       "locality": "HILTON",
       "dose1": 8,
-      "dose2": 18,
-      "vaccines": 26
+      "dose2": 19,
+      "vaccines": 27
     },
     {
       "date": "2021-09-07",
@@ -1342,9 +1342,9 @@
     {
       "date": "2021-09-16",
       "locality": "HILTON",
-      "dose1": 17,
+      "dose1": 16,
       "dose2": 26,
-      "vaccines": 43
+      "vaccines": 42
     },
     {
       "date": "2021-09-17",
@@ -1574,8 +1574,8 @@
       "date": "2021-10-19",
       "locality": "HILTON",
       "dose1": 15,
-      "dose2": 23,
-      "vaccines": 38
+      "dose2": 22,
+      "vaccines": 37
     },
     {
       "date": "2021-10-20",
@@ -1881,9 +1881,9 @@
     {
       "date": "2021-12-02",
       "locality": "HILTON",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 15,
-      "vaccines": 21
+      "vaccines": 20
     },
     {
       "date": "2021-12-03",
@@ -2029,8 +2029,8 @@
       "date": "2021-12-23",
       "locality": "HILTON",
       "dose1": 5,
-      "dose2": 5,
-      "vaccines": 10
+      "dose2": 4,
+      "vaccines": 9
     },
     {
       "date": "2021-12-24",
@@ -2315,16 +2315,16 @@
     {
       "date": "2022-02-04",
       "locality": "HILTON",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 12,
-      "vaccines": 13
+      "vaccines": 14
     },
     {
       "date": "2022-02-05",
       "locality": "HILTON",
       "dose1": 0,
-      "dose2": 3,
-      "vaccines": 3
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2022-02-06",
@@ -2332,6 +2332,13 @@
       "dose1": 0,
       "dose2": 2,
       "vaccines": 2
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "HILTON",
+      "dose1": 4,
+      "dose2": 5,
+      "vaccines": 9
     }
   ]
 }

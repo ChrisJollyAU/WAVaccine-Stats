@@ -1,7 +1,23 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "postcode": "CRAIGIE",
   "data": [
+    {
+      "date": "2021-02-21",
+      "locality": "CRAIGIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-02-21",
+      "locality": "CRAIGIE",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
     {
       "date": "2021-02-22",
       "locality": "CRAIGIE",
@@ -1167,16 +1183,16 @@
       "locality": "CRAIGIE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-05-10",
       "locality": "CRAIGIE",
       "AgeGroup": "70 and over",
       "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2021-05-11",
@@ -3838,9 +3854,9 @@
       "date": "2021-09-02",
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 7,
-      "vaccines": 35
+      "vaccines": 34
     },
     {
       "date": "2021-09-02",
@@ -3934,9 +3950,9 @@
       "date": "2021-09-06",
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
-      "dose1": 22,
+      "dose1": 23,
       "dose2": 12,
-      "vaccines": 34
+      "vaccines": 35
     },
     {
       "date": "2021-09-06",
@@ -3966,9 +3982,9 @@
       "date": "2021-09-07",
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
-      "dose1": 28,
+      "dose1": 27,
       "dose2": 20,
-      "vaccines": 48
+      "vaccines": 47
     },
     {
       "date": "2021-09-07",
@@ -4383,8 +4399,8 @@
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
       "dose1": 20,
-      "dose2": 16,
-      "vaccines": 36
+      "dose2": 15,
+      "vaccines": 35
     },
     {
       "date": "2021-09-23",
@@ -4614,8 +4630,8 @@
       "date": "2021-10-01",
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
-      "dose1": 17,
-      "dose2": 22,
+      "dose1": 16,
+      "dose2": 23,
       "vaccines": 39
     },
     {
@@ -5799,8 +5815,8 @@
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
       "dose1": 9,
-      "dose2": 28,
-      "vaccines": 37
+      "dose2": 27,
+      "vaccines": 36
     },
     {
       "date": "2021-11-09",
@@ -6163,6 +6179,14 @@
       "vaccines": 4
     },
     {
+      "date": "2021-11-21",
+      "locality": "CRAIGIE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2021-11-22",
       "locality": "CRAIGIE",
       "AgeGroup": "12 to 15",
@@ -6478,9 +6502,9 @@
       "date": "2021-12-02",
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
-      "dose1": 11,
+      "dose1": 9,
       "dose2": 20,
-      "vaccines": 31
+      "vaccines": 29
     },
     {
       "date": "2021-12-02",
@@ -6862,9 +6886,9 @@
       "date": "2021-12-15",
       "locality": "CRAIGIE",
       "AgeGroup": "50 to 69",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 1,
-      "vaccines": 2
+      "vaccines": 1
     },
     {
       "date": "2021-12-15",
@@ -7063,8 +7087,8 @@
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
       "dose1": 11,
-      "dose2": 13,
-      "vaccines": 24
+      "dose2": 12,
+      "vaccines": 23
     },
     {
       "date": "2021-12-22",
@@ -7455,8 +7479,8 @@
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
       "dose1": 10,
-      "dose2": 19,
-      "vaccines": 29
+      "dose2": 18,
+      "vaccines": 28
     },
     {
       "date": "2022-01-06",
@@ -7639,8 +7663,8 @@
       "locality": "CRAIGIE",
       "AgeGroup": "50 to 69",
       "dose1": 1,
-      "dose2": 2,
-      "vaccines": 3
+      "dose2": 1,
+      "vaccines": 2
     },
     {
       "date": "2022-01-12",
@@ -7878,9 +7902,9 @@
       "date": "2022-01-20",
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
-      "dose1": 12,
+      "dose1": 11,
       "dose2": 12,
-      "vaccines": 24
+      "vaccines": 23
     },
     {
       "date": "2022-01-20",
@@ -8015,8 +8039,8 @@
       "locality": "CRAIGIE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2022-01-24",
@@ -8367,16 +8391,16 @@
       "locality": "CRAIGIE",
       "AgeGroup": "16 to 49",
       "dose1": 1,
-      "dose2": 8,
-      "vaccines": 9
+      "dose2": 7,
+      "vaccines": 8
     },
     {
       "date": "2022-02-05",
       "locality": "CRAIGIE",
       "AgeGroup": "50 to 69",
       "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2022-02-05",
@@ -8417,6 +8441,30 @@
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "CRAIGIE",
+      "AgeGroup": "16 to 49",
+      "dose1": 2,
+      "dose2": 5,
+      "vaccines": 7
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "CRAIGIE",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "CRAIGIE",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

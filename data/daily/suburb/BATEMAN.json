@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "locality": "BATEMAN",
   "data": [
     {
@@ -26,9 +26,9 @@
     {
       "date": "2021-02-27",
       "locality": "BATEMAN",
-      "dose1": 3,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 3
+      "vaccines": 2
     },
     {
       "date": "2021-02-28",
@@ -174,8 +174,8 @@
       "date": "2021-03-22",
       "locality": "BATEMAN",
       "dose1": 7,
-      "dose2": 4,
-      "vaccines": 11
+      "dose2": 3,
+      "vaccines": 10
     },
     {
       "date": "2021-03-23",
@@ -285,9 +285,9 @@
     {
       "date": "2021-04-09",
       "locality": "BATEMAN",
-      "dose1": 10,
+      "dose1": 9,
       "dose2": 5,
-      "vaccines": 15
+      "vaccines": 14
     },
     {
       "date": "2021-04-10",
@@ -461,8 +461,8 @@
       "date": "2021-05-05",
       "locality": "BATEMAN",
       "dose1": 23,
-      "dose2": 3,
-      "vaccines": 26
+      "dose2": 2,
+      "vaccines": 25
     },
     {
       "date": "2021-05-06",
@@ -2126,9 +2126,9 @@
     {
       "date": "2021-12-30",
       "locality": "BATEMAN",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 12,
-      "vaccines": 18
+      "vaccines": 17
     },
     {
       "date": "2021-12-31",
@@ -2196,9 +2196,9 @@
     {
       "date": "2022-01-09",
       "locality": "BATEMAN",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 3,
-      "vaccines": 4
+      "vaccines": 5
     },
     {
       "date": "2022-01-10",
@@ -2395,6 +2395,13 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "BATEMAN",
+      "dose1": 0,
+      "dose2": 5,
+      "vaccines": 5
     }
   ]
 }

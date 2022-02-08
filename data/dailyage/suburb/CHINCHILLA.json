@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "postcode": "CHINCHILLA",
   "data": [
     {
@@ -16,6 +16,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-16",
+      "locality": "CHINCHILLA",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -43,6 +51,14 @@
       "vaccines": 1
     },
     {
+      "date": "2021-09-20",
+      "locality": "CHINCHILLA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-28",
       "locality": "CHINCHILLA",
       "AgeGroup": "16 to 49",
@@ -62,17 +78,17 @@
       "date": "2021-10-10",
       "locality": "CHINCHILLA",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 2,
       "dose2": 0,
-      "vaccines": 1
+      "vaccines": 2
     },
     {
       "date": "2021-10-31",
       "locality": "CHINCHILLA",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-04",
@@ -116,6 +132,14 @@
     },
     {
       "date": "2022-02-01",
+      "locality": "CHINCHILLA",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-07",
       "locality": "CHINCHILLA",
       "AgeGroup": "16 to 49",
       "dose1": 0,

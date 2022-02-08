@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "locality": "GNOWELLEN",
   "data": [
     {
@@ -45,6 +45,13 @@
       "vaccines": 2
     },
     {
+      "date": "2021-08-20",
+      "locality": "GNOWELLEN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-08-23",
       "locality": "GNOWELLEN",
       "dose1": 1,
@@ -56,6 +63,13 @@
       "locality": "GNOWELLEN",
       "dose1": 0,
       "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-09-03",
+      "locality": "GNOWELLEN",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -77,6 +91,13 @@
       "locality": "GNOWELLEN",
       "dose1": 2,
       "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-09-24",
+      "locality": "GNOWELLEN",
+      "dose1": 0,
+      "dose2": 2,
       "vaccines": 2
     },
     {
@@ -103,8 +124,15 @@
     {
       "date": "2021-10-14",
       "locality": "GNOWELLEN",
-      "dose1": 0,
+      "dose1": 2,
       "dose2": 1,
+      "vaccines": 3
+    },
+    {
+      "date": "2021-10-16",
+      "locality": "GNOWELLEN",
+      "dose1": 1,
+      "dose2": 0,
       "vaccines": 1
     },
     {
@@ -139,15 +167,15 @@
       "date": "2021-11-04",
       "locality": "GNOWELLEN",
       "dose1": 0,
-      "dose2": 2,
-      "vaccines": 2
+      "dose2": 4,
+      "vaccines": 4
     },
     {
       "date": "2021-11-06",
       "locality": "GNOWELLEN",
       "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
+      "dose2": 2,
+      "vaccines": 2
     },
     {
       "date": "2021-11-09",
@@ -173,8 +201,29 @@
     {
       "date": "2021-11-24",
       "locality": "GNOWELLEN",
+      "dose1": 2,
+      "dose2": 0,
+      "vaccines": 2
+    },
+    {
+      "date": "2021-12-04",
+      "locality": "GNOWELLEN",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-09",
+      "locality": "GNOWELLEN",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-12-20",
+      "locality": "GNOWELLEN",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -192,11 +241,25 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-15",
+      "locality": "GNOWELLEN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2022-01-19",
       "locality": "GNOWELLEN",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-02",
+      "locality": "GNOWELLEN",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     },
     {
       "date": "2022-02-03",

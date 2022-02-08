@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "postcode": "NAREMBEEN",
   "data": [
     {
@@ -1267,6 +1267,14 @@
       "vaccines": 5
     },
     {
+      "date": "2021-09-03",
+      "locality": "NAREMBEEN",
+      "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-09-04",
       "locality": "NAREMBEEN",
       "AgeGroup": "16 to 49",
@@ -2302,9 +2310,9 @@
       "date": "2021-11-24",
       "locality": "NAREMBEEN",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
+      "dose1": 0,
       "dose2": 8,
-      "vaccines": 9
+      "vaccines": 8
     },
     {
       "date": "2021-11-24",
@@ -2328,6 +2336,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-11-25",
+      "locality": "NAREMBEEN",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -2535,8 +2551,8 @@
       "locality": "NAREMBEEN",
       "AgeGroup": "16 to 49",
       "dose1": 4,
-      "dose2": 6,
-      "vaccines": 10
+      "dose2": 5,
+      "vaccines": 9
     },
     {
       "date": "2021-12-21",
@@ -2910,9 +2926,9 @@
       "date": "2022-01-17",
       "locality": "NAREMBEEN",
       "AgeGroup": "16 to 49",
-      "dose1": 6,
+      "dose1": 5,
       "dose2": 0,
-      "vaccines": 6
+      "vaccines": 5
     },
     {
       "date": "2022-01-17",
@@ -3297,6 +3313,22 @@
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "NAREMBEEN",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "NAREMBEEN",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
     }
   ]
 }

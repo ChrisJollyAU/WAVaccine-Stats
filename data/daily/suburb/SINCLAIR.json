@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "locality": "SINCLAIR",
   "data": [
     {
@@ -47,9 +47,9 @@
     {
       "date": "2021-04-17",
       "locality": "SINCLAIR",
-      "dose1": 4,
+      "dose1": 3,
       "dose2": 0,
-      "vaccines": 4
+      "vaccines": 3
     },
     {
       "date": "2021-04-19",
@@ -307,8 +307,8 @@
       "date": "2021-06-17",
       "locality": "SINCLAIR",
       "dose1": 1,
-      "dose2": 3,
-      "vaccines": 4
+      "dose2": 2,
+      "vaccines": 3
     },
     {
       "date": "2021-06-18",
@@ -1600,6 +1600,13 @@
     },
     {
       "date": "2022-02-06",
+      "locality": "SINCLAIR",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-07",
       "locality": "SINCLAIR",
       "dose1": 0,
       "dose2": 0,

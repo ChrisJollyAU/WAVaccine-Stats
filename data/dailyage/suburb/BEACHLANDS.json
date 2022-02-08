@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "postcode": "BEACHLANDS",
   "data": [
     {
@@ -297,14 +297,6 @@
       "dose1": 4,
       "dose2": 0,
       "vaccines": 4
-    },
-    {
-      "date": "2021-04-13",
-      "locality": "BEACHLANDS",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
     },
     {
       "date": "2021-04-16",
@@ -1335,8 +1327,8 @@
       "locality": "BEACHLANDS",
       "AgeGroup": "70 and over",
       "dose1": 2,
-      "dose2": 1,
-      "vaccines": 3
+      "dose2": 0,
+      "vaccines": 2
     },
     {
       "date": "2021-07-07",
@@ -2199,8 +2191,8 @@
       "locality": "BEACHLANDS",
       "AgeGroup": "16 to 49",
       "dose1": 0,
-      "dose2": 5,
-      "vaccines": 5
+      "dose2": 6,
+      "vaccines": 6
     },
     {
       "date": "2021-08-24",
@@ -5479,8 +5471,8 @@
       "locality": "BEACHLANDS",
       "AgeGroup": "16 to 49",
       "dose1": 2,
-      "dose2": 2,
-      "vaccines": 4
+      "dose2": 3,
+      "vaccines": 5
     },
     {
       "date": "2022-02-04",
@@ -5515,6 +5507,22 @@
       "vaccines": 4
     },
     {
+      "date": "2022-02-05",
+      "locality": "BEACHLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-05",
+      "locality": "BEACHLANDS",
+      "AgeGroup": "70 and over",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-02-06",
       "locality": "BEACHLANDS",
       "AgeGroup": "16 to 49",
@@ -5526,6 +5534,30 @@
       "date": "2022-02-06",
       "locality": "BEACHLANDS",
       "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 2,
+      "vaccines": 2
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "BEACHLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 3,
+      "dose2": 1,
+      "vaccines": 4
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "BEACHLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "BEACHLANDS",
+      "AgeGroup": "70 and over",
       "dose1": 0,
       "dose2": 0,
       "vaccines": 0

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "postcode": "NORTHLANDS",
   "data": [
     {
@@ -52,14 +52,6 @@
     },
     {
       "date": "2021-05-01",
-      "locality": "NORTHLANDS",
-      "AgeGroup": "70 and over",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-05-03",
       "locality": "NORTHLANDS",
       "AgeGroup": "70 and over",
       "dose1": 1,
@@ -236,14 +228,6 @@
     },
     {
       "date": "2021-07-14",
-      "locality": "NORTHLANDS",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-07-15",
       "locality": "NORTHLANDS",
       "AgeGroup": "70 and over",
       "dose1": 0,
@@ -995,14 +979,6 @@
       "vaccines": 0
     },
     {
-      "date": "2021-12-16",
-      "locality": "NORTHLANDS",
-      "AgeGroup": "70 and over",
-      "dose1": 0,
-      "dose2": 0,
-      "vaccines": 0
-    },
-    {
       "date": "2021-12-17",
       "locality": "NORTHLANDS",
       "AgeGroup": "16 to 49",
@@ -1301,6 +1277,14 @@
     {
       "date": "2022-02-01",
       "locality": "NORTHLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-01",
+      "locality": "NORTHLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 0,
@@ -1345,6 +1329,22 @@
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "NORTHLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
+      "date": "2022-02-07",
+      "locality": "NORTHLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date_updated": "2022-02-06T00:00:00",
+  "date_updated": "2022-02-07T00:00:00",
   "postcode": "LOWLANDS",
   "data": [
     {
@@ -46,6 +46,14 @@
       "date": "2021-05-08",
       "locality": "LOWLANDS",
       "AgeGroup": "70 and over",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-05-13",
+      "locality": "LOWLANDS",
+      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -304,6 +312,14 @@
       "AgeGroup": "16 to 49",
       "dose1": 1,
       "dose2": 0,
+      "vaccines": 1
+    },
+    {
+      "date": "2021-08-05",
+      "locality": "LOWLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 1,
       "vaccines": 1
     },
     {
@@ -931,6 +947,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-11-29",
+      "locality": "LOWLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 1,
+      "dose2": 0,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-01",
       "locality": "LOWLANDS",
       "AgeGroup": "16 to 49",
@@ -942,14 +966,6 @@
       "date": "2021-12-03",
       "locality": "LOWLANDS",
       "AgeGroup": "16 to 49",
-      "dose1": 1,
-      "dose2": 0,
-      "vaccines": 1
-    },
-    {
-      "date": "2021-12-03",
-      "locality": "LOWLANDS",
-      "AgeGroup": "50 to 69",
       "dose1": 1,
       "dose2": 0,
       "vaccines": 1
@@ -995,6 +1011,14 @@
       "vaccines": 2
     },
     {
+      "date": "2021-12-20",
+      "locality": "LOWLANDS",
+      "AgeGroup": "16 to 49",
+      "dose1": 0,
+      "dose2": 1,
+      "vaccines": 1
+    },
+    {
       "date": "2021-12-22",
       "locality": "LOWLANDS",
       "AgeGroup": "16 to 49",
@@ -1030,14 +1054,6 @@
       "date": "2021-12-31",
       "locality": "LOWLANDS",
       "AgeGroup": "16 to 49",
-      "dose1": 0,
-      "dose2": 1,
-      "vaccines": 1
-    },
-    {
-      "date": "2022-01-04",
-      "locality": "LOWLANDS",
-      "AgeGroup": "50 to 69",
       "dose1": 0,
       "dose2": 1,
       "vaccines": 1
@@ -1187,6 +1203,14 @@
       "vaccines": 0
     },
     {
+      "date": "2022-01-25",
+      "locality": "LOWLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
       "date": "2022-01-27",
       "locality": "LOWLANDS",
       "AgeGroup": "50 to 69",
@@ -1236,6 +1260,14 @@
     },
     {
       "date": "2022-02-04",
+      "locality": "LOWLANDS",
+      "AgeGroup": "50 to 69",
+      "dose1": 0,
+      "dose2": 0,
+      "vaccines": 0
+    },
+    {
+      "date": "2022-02-06",
       "locality": "LOWLANDS",
       "AgeGroup": "50 to 69",
       "dose1": 0,

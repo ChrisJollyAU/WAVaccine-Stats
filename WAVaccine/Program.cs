@@ -12,7 +12,7 @@ namespace WAVaccine
     {
         static void Main(string[] args)
         {
-            WASA2Pop.Execute();
+            /*WASA2Pop.Execute();
             WAPostLGA.Execute();
             WASA2Suburb.Execute();
             WAPostcode.DoPostcode();
@@ -29,7 +29,8 @@ namespace WAVaccine
             WASuburbTimeline.Execute();
             WASuburbTimelineAge.Execute();
             WARollAvg.Execute();
-            WARollAvgAge.Execute();
+            WARollAvgAge.Execute();*/
+            WARaw2.DWARaw2();
         }
     }
 }
